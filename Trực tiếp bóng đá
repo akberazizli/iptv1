@@ -13,3 +13,5 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/X7qcqsB/IMG-20210830-055343.png",ĐÚNG GIỜ MỚI MỞI 7
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI MỞ  8
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740|Referer=http://sctvonline.vn/
