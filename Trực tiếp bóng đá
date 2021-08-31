@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1
-#EXTM3U-TVR(TT-TV)
-#EXTM3U_List phục vụ ae Zalo gruop 
+#EXTM3U 
 #EXTINF:-1 group-title="TH Bình Dương" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI MỞ 1
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logohttps://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI MỞ  2
