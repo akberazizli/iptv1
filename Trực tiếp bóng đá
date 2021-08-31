@@ -1,4 +1,3 @@
 
-#EXTM3U
 #EXTINF: -1 tvg-id = "vinhlong1hd" group-title = "TH Vĩnh Long" tvg-logo = "http://fboximages.fptplay.net.vn/Channel/iconChannel/vinhlong1_vdsl.png", Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
