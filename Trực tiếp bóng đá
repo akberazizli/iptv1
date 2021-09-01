@@ -1,5 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ KHI TỚI GIỜ SD1
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/SBx80Ks/IMG-20210819-055256.png",BÓNG ĐÁ TV thử nghiệm
+http://103.81.84.80:46803/vtvcab16
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=https://cakhiatv.live/truc-tiep/
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ KHI TỚI GIỜ SD2
 2https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=https://cakhiatv.live/truc-tiep/
@@ -15,4 +16,13 @@ https://ndcagev-swv-47b850307.thapcam.link/ad37200403a3d913df085159c8077a4faf3a2
 http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/X7qcqsB/IMG-20210830-055343.png",MỞ KHI TỚI GIỜ 90PHUT 3
 http://103.81.84.80:46803/vtvcab16
-  
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS VIỆT NAM
+ http://livecdn.fptplay.net/tvc/world-cup01_2000.stream/chunklist.m3u8 
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/Wfbn5PX/Screenshot-20210902-054524.jpg", NHẬT BẢN VS OMAN
+ http://livecdn.fptplay.net/tvc/world-cup02_2000.stream/chunklist.m3u8 
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/ZVL19Cc/Screenshot-20210902-054502.jpg",HÀN QUỐC VS LRAq
+http://livecdn.fptplay.net/tvc/world-cup03_2000.stream/chunklist.m3u8  
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/xXxQG72/Screenshot-20210902-054440.jpg",UAE VS LEBANON
+http://livecdn.fptplay.net/tvc/world-cup05_2000.stream/chunklist.m3u8  
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/gryqq1j/Screenshot-20210902-054415.jpg",Lran vs syria
+http://livecdn.fptplay.net/tvc/world-cup04_2000.stream/chunklist.m3u8
