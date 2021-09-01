@@ -1,11 +1,11 @@
 #EXTM3U 
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI MỞ 1
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",kazakhstan vs ukrane
 https://179307646.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI MỞ 2
-
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",centralafrican vs cape verde
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/chunks.m3u8|Referer=https://cakhiatv.live/truc-tiep/
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI M
 
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI MỞ 4
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI MỞ 
 http://channels227070.clientportal.link:80/Damir256/pZWeRm508/15247
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",ĐÚNG GIỜ MỚI MỞ 5
 http://channels227070.clientportal.link:80/Damir256/pZWeRm508/15246  
