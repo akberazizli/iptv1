@@ -1,7 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/SBx80Ks/IMG-20210819-055256.png",BÓNG ĐÁ TV thử nghiệm
 http://103.81.84.80:46803/vtvcab16
-https://7038446ef.vws.vegacdn.vn/livehls/lusd1/chunks.m3u8|Referer=https://cakhiatv.live/truc-tiep/
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ KHI TỚI GIỜ SD1
+http://103.81.84.80:46803/vtvcab3
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ KHI TỚI GIỜ SD2
 2https://7038446ef.vws.vegacdn.vn/livehls/lusd2/chunks.m3u8|Referer=https://cakhiatv.live/truc-tiep/
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ  KHI TỚI GIỜ  HD2
