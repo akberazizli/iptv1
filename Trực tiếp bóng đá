@@ -17,9 +17,9 @@ http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/X7qcqsB/IMG-20210830-055343.png",MỞ KHI TỚI GIỜ 90PHUT 3
 http://103.81.84.80:46803/vtvcab16
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS VIỆT NAM
- http://livecdn.fptplay.net/tvc/world-cup01_2000.stream/chunklist.m3u8 
+https://web-livecdn.fptplay.net/tvc/world-cup01_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/Wfbn5PX/Screenshot-20210902-054524.jpg", NHẬT BẢN VS OMAN
- http://livecdn.fptplay.net/tvc/world-cup02_2000.stream/chunklist.m3u8 
+https://livecdn.fptplay.net/tvc/world-cup02_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/ZVL19Cc/Screenshot-20210902-054502.jpg",HÀN QUỐC VS LRAq
 http://livecdn.fptplay.net/tvc/world-cup03_2000.stream/chunklist.m3u8  
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/xXxQG72/Screenshot-20210902-054440.jpg",UAE VS LEBANON
