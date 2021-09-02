@@ -18,7 +18,7 @@ http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS VIỆT  1
 https://web-livecdn.fptplay.net/tvc/world-cup01_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS VIỆT NAM 2
-http://103.137.184.219:9981/stream/channelid/720114317?ticket=8D8CCCE08C5EBBF682DF63B61663A02A04B7EAE7&profile=pass
+http://103.137.184.219:9981/stream/channelid/720114317?ticket=8D8CCCE08C5EBBF682DF63B61663A02A04B7EAE7&profile
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/Wfbn5PX/Screenshot-20210902-054524.jpg", NHẬT BẢN VS OMAN
 https://livecdn.fptplay.net/tvc/world-cup02_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/ZVL19Cc/Screenshot-20210902-054502.jpg",HÀN QUỐC VS LRAq
