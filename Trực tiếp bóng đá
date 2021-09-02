@@ -4,7 +4,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://cak
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ KHI TỚI GIỜ  HD 2
 https://7038446ef.vws.vegacdn.vn/livehls/taihd2/playlist.m3u8|Referer=https://cakhia3.live/truc-tiep
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ  KHI TỚI GIỜ  SD 1
-https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://cakhia3.live/truc-tiep
+https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ  KHI TỚI GIỜ  SD 2
+https://livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ KHI TỚI GIỜ NHÀ ĐÀI
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://cakhia3.live/truc-tiep
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/X7qcqsB/IMG-20210830-055343.png",MỞ KHI TỚI 90PHUT 1
@@ -16,9 +18,9 @@ https://web-livecdn.fptplay.net/tvc/world-cup01_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS VIỆT NAM 2
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/Wfbn5PX/Screenshot-20210902-054524.jpg", NHẬT BẢN VS OMAN
-https://livecdn.fptplay.net/tvc/world-cup02_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/ZVL19Cc/Screenshot-20210902-054502.jpg",HÀN QUỐC VS LRAq
-https://livecdn.fptplay.net/tvc/world-cup03_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/ZVL19Cc/Screenshot-20210902-054502.jpg",HÀN QUỐC VS LRAP
+https://livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/xXxQG72/Screenshot-20210902-054440.jpg",UAE VS LEBANON
 https://livecdn.fptplay.net/tvc/world-cup05_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/gryqq1j/Screenshot-20210902-054415.jpg",Lran vs syria
