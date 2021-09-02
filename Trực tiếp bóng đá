@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/SBx80Ks/IMG-20210819-055256.png",BÓNG ĐÁ TV thử nghiệm
-http://112.197.12.62/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ KHI TỚI GIỜ SD1
 http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/TRm2TKY/IMG-20210830-055404.png",MỞ KHI TỚI GIỜ SD2
@@ -18,7 +16,7 @@ http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS VIỆT  1
 https://web-livecdn.fptplay.net/tvc/world-cup01_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS VIỆT NAM 2
-http://103.137.184.219:9981/stream/channelid/720114317?ticket=8D8CCCE08C5EBBF682DF63B61663A02A04B7EAE7&profile
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/Wfbn5PX/Screenshot-20210902-054524.jpg", NHẬT BẢN VS OMAN
 https://livecdn.fptplay.net/tvc/world-cup02_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/ZVL19Cc/Screenshot-20210902-054502.jpg",HÀN QUỐC VS LRAq
@@ -27,18 +25,5 @@ https://livecdn.fptplay.net/tvc/world-cup04_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/tvc/world-cup05_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="  https://i.ibb.co/gryqq1j/Screenshot-20210902-054415.jpg",Lran vs syria
 https://livecdn.fptplay.net/tvc/world-cup04_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://i.ibb.co/V362y70/IMG-20210902-120146.png", K+1 HD XEM TẠM THỜI
-http://103.81.84.80:46803/k1
-#EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://i.ibb.co/wLzP7cm/IMG-20210902-120132.png", K+NS HD XEM TẠM THỜI
-http://103.81.84.80:46803/kns
-#EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://i.ibb.co/zPMgtj7/IMG-20210902-120120.png", K+PM HD XEM TẠM THỜI
-http://103.81.84.80:46803/kpm
-#EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://i.ibb.co/BqNK7xx/IMG-20210902-120105.png", K+PC HD XEM TẠM THỜI
-http://103.81.84.80:46803/kpc
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/18.png", OnSports+
-http://103.81.84.80:46803/vtvcab6
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/26.png", Bóng Đá TV HD
-http://103.81.84.80:46803/vtvcab16
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức HD
-http://103.81.84.80:46803/vtvcab18
+
 
