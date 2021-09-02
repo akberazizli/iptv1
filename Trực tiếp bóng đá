@@ -3,6 +3,10 @@
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://cakhia3.live/truc-tiep
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/gMz8FsY/IMG-20210902-194351.png",cakhia TV 2
 https://7038446ef.vws.vegacdn.vn/livehls/taihd2/playlist.m3u8|Referer=https://cakhia3.live/truc-tiep
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/NCPkV9b/IMG-20210902-202413.png",Cakhia TV 3
+https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/sVpB0Ny/IMG-20210902-202426.png",Cakhia TV 4
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/KqH96cb/IMG-20210902-193630.png", FPT VÕ PHÚ 1
 https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/gSCbSfn/IMG-20210902-193613.png",FPT VÕ PHÚ 2
