@@ -1,18 +1,15 @@
 #EXTM3U 
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/RN0mVKn/IMG-20210902-194337.png",Cakhia TV 1
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/JnZSjsT/IMG-20210903-091935.png",VÕ PHÚ TV 1
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://cakhia3.live/truc-tiep
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/gMz8FsY/IMG-20210902-194351.png",cakhia TV 
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/86b2P2D/IMG-20210903-091951.png", VÕ PHÚ TV 2
 https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/NCPkV9b/IMG-20210902-202413.png",Cakhia TV 3
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/JtTPWmk/IMG-20210903-092533.png", VÕ PHÚ TV 3
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/sVpB0Ny/IMG-20210902-202426.png",Cakhia TV 4
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/KFBqL9t/IMG-20210903-092548.png", VÕ PHÚ TV 4
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/KqH96cb/IMG-20210902-193630.png", FPT VÕ PHÚ 1
-https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/gSCbSfn/IMG-20210902-193613.png",FPT VÕ PHÚ 2
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/hY26MZT/IMG-20210903-092602.png", VÕ PHÚ TV 5
 https://livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/DpT6nn2/IMG-20210902-200947.png",VTV5 VÕ PHÚ 1
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/qyzbsN9/IMG-20210903-092616.png", VÕ PHÚ TV 6
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo=https://i.ibb.co/brPyFhs/IMG-20210902-201036.png",VTV6 VO PHÚ 2
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
 
