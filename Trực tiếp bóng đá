@@ -14,15 +14,16 @@ https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://ca
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/GHXyLQ2/IMG-20210904-054120.png",THỂ THAO VÕ PHÚ 1
 http://channels227070.clientportal.link:80/Damir256/pZWeRm508/28896
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/g6mBqLr/IMG-20210904-054107.png",THỂ THAO VÕ PHÚ 2
-http://89.187.185.100/WWE/index.m3u8
-#EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/95.png", K+1 HD
-http://103.81.84.80:46803/k1
-#EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/96.png", K+NS HD
-http://103.81.84.80:46803/kns
-#EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/97.png", K+PM HD
-http://103.81.84.80:46803/kpm
-#EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/98.png", K+PC HD
-http://103.81.84.80:46803/kpc
+#EXTINF:-1 tvg-id="kpluspmhd" tvg-name="k+pm hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/160799807854/7d4269726fc1_180_180.png" group-title="Kênh K+",K+PM HD
+http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
+#EXTINF:-1 tvg-id="kpluspchd" tvg-name="k+pc hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/1607998033482/dbce326ab655_180_180.png" group-title="Kênh K+",K+PC HD 
+http://103.109.36.12:9981/stream/channelid/738163265?ticket=F6D3A37D7CB16114DD014725C69BADF3DB3F3E96&profile=pass
+#EXTINF:-1 tvg-id="kplus1hd" tvg-name="k+1 hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/1607998210482/4e157e4cd2f9_180_180.png" group-title="Kênh K+",K+1 HD
+http://103.109.36.12:9981/stream/channelid/58268408?ticket=C42C72EF534DEF2169754AED020888DD0AC534A2&profile=pass
+#EXTINF:-1 tvg-id="kplusnshd" tvg-name="k+ns hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/160799836049/a21d3df86e5b_180_180.png" group-title="Kênh K+",K+NS HD
+http://103.109.36.12:9981/stream/channelid/567642593?ticket=CB0C127EA6C7A7648F960C12755263BA70F233C1&profile=pass
+#EXTINF:-1 tvg-id="kpluspmhd" tvg-name="k+pm hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/160799807854/7d4269726fc1_180_180.png" group-title="Kênh K+",K+PM 2HD
+https://is.gd/live_sreamskpm
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức HD
 http://103.81.84.80:46803/vtvcab18
 
