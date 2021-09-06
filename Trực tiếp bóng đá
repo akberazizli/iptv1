@@ -37,6 +37,8 @@ http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/19146
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",THỂ THAO VÕ PHÚ 6
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/rsyzy46/IMG-20210906-193845.png",THỂ THAO VÕ PHÚ 7
+https://is.gd/streniss_wee24h
 
 #EXTINF:-1 tvg-id="kpluspmhd" tvg-name="k+pm hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/160799807854/7d4269726fc1_180_180.png" group-title="Kênh K+",K+PM HD
 http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
