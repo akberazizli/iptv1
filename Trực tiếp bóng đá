@@ -28,7 +28,7 @@ https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://ca
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/fNNJv0S/Th-4-8-09-2021-07-25-15.png",THỂ THAO VÕ PHÚ 1
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/bFCvd7S/Th-4-8-09-2021-07-23-22.png",THỂ THAO VÕ PHÚ 2
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/92
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/64
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/L6YN08x/Th-4-8-09-2021-07-24-06.png",THỂ THAO VÕ PHÚ 3
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/19152
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/xM7XNdc/Th-4-8-09-2021-07-24-37.png",THỂ THAO VÕ PHÚ 4
@@ -39,6 +39,15 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/rsyzy46/IMG-20210906-193845.png",THỂ THAO VÕ PHÚ 7
 https://is.gd/streniss_wee24h
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logohttps://i.ibb.co/GHXyLQ2/IMG-20210904-054120.png",THỂ THAO VÕ PHÚ 8
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/78
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/g6mBqLr/IMG-20210904-054107.png",THỂ THAO VÕ PHÚ 9
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/81
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/chxt8fY/IMG-20210904-054053.png",THỂ THAO VÕ PHÚ 10
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/84
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/M9XV2Gx/IMG-20210905-101843.png",THỂ THAO VÕ PHÚ
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/43519
+
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/R0GjsZW/IMG-20210907-135627.png",1 TUẦN MỞ 4 NGÀY
 http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wh1qbk9/IMG-20210907-135658.png",1 TUẦN MỞ 4 NGÀY
