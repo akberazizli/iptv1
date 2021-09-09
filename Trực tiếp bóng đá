@@ -73,4 +73,5 @@ http://103.109.36.12:9981/stream/channelid/738163265?ticket=F6D3A37D7CB16114DD01
 http://103.109.36.12:9981/stream/channelid/58268408?ticket=C42C72EF534DEF2169754AED020888DD0AC534A2&profile=pass
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = https://i.ibb.co/hDz1rfS/IMG-20210907-135906.png",1 TUẦN MỞ 4 NGÀY
 http://103.109.36.12:9981/stream/channelid/567642593?ticket=CB0C127EA6C7A7648F960C12755263BA70F233C1&profile=pass
-
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/803c7pw/IMG-20210905-075604.png",TRỰC TIẾP BÓNG ĐÁ VÕ PHÚ 12
+http://112.197.12.62/221_2.m3u8?AdaptiveType=HLS&SessionID=307841c2-87c4-43b9-a789-cda0f73fdf9d&MinBw=0&MaxBw=2000000
