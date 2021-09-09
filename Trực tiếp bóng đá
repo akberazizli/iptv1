@@ -39,9 +39,9 @@ http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/72
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/xM7XNdc/Th-4-8-09-2021-07-24-37.png",KÊNH BÓNG ĐÁ VÕ PHÚ 4
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/335
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logohttps://i.ibb.co/P6PVzg3/Th-5-9-09-2021-16-02-56.png",KÊNH BÓNG ĐÁ VÕ PHÚ 5
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/P6PVzg3/Th-5-9-09-2021-16-02-56.png",KÊNH BÓNG ĐÁ VÕ PHÚ 5
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/337
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logohttps://i.ibb.co/W3sMcYc/Th-5-9-09-2021-16-06-28.png",KÊNH BÓNG ĐÁ VÕ PHÚ 6
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/W3sMcYc/Th-5-9-09-2021-16-06-28.png",KÊNH BÓNG ĐÁ VÕ PHÚ 6
 http://stream.tvtap.net:8081/live/tr-bein1.stream/playlist.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/NSf7Rfx/Th-5-9-09-2021-16-07-37.png",KÊNH BÓNG ĐÁ VÕ PHÚ 7
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/88
@@ -63,7 +63,7 @@ http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/93
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/99
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/BNV6wBW/IMG-20210905-101811.png",KÊNH THỂ THAO TỔNG HỢP 6
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/342
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logohttps://i.ibb.co/JCsS6SM/IMG-20210909-165923.png",KÊNH THỂ THAO TỔNG HỢP 7
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/JCsS6SM/IMG-20210909-165923.png",KÊNH THỂ THAO TỔNG HỢP 7
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/339
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/R0GjsZW/IMG-20210907-135627.png",1 TUẦN MỞ 4 NGÀY
 http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
