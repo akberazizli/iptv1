@@ -1,8 +1,10 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/r7Yg7z2/IMG-20210912-185221.png",BÌNH LUẬN CA2KHIA TV
+https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/     
+
+
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",suwon-vs-gangwon-luc-1700-ngay-12-09/
 https://360funnysport.000webhostapp.com/360sport/mitom_get.php?url=https://thuckhuyalive.com/lives/suwon-vs-gangwon-luc-1700-ngay-12-09/&.m3u8|Referer= https://playtk.p2pcdn.xyz/
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",tokyo-vs-kashiwa-reysol-luc-1700-ngay-12-09/
-https://360funnysport.000webhostapp.com/360sport/mitom_get.php?url=https://thuckhuyalive.com/lives/vilafranquense-vs-chaves-luc-1700-ngay-12-09/&.m3u8|Referer= https://playtk.p2pcdn.xyz/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 17h30-12 / 09: Sampdoria - Inter
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6137bf324d92252d0683e911-Y9U7HY&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 19h00-12 / 09: Espanyol - Atletico Madrid
