@@ -19,9 +19,8 @@ https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Refererhttps://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/Rb7C1sz/IMG-20210905-075630.png",TRỰC TIẾP BÓNG ĐÁ VÕ PHÚ 10
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",Santos FC VS BAHIA
-https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613ca4254d92252d0683f250-Zj9VZg&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",Real Monarchs SLC VS SAN ANTOMIO FC
+
+#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 08h00-12 / 09: Real Monarchs SLC - San Antonio FC
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613ca45b4d92252d0683f257-7YIEtM&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 09h00-12 / 09: Orange County SC - Las Vegas Lights FC
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613ca4584d92252d0683f256-dVK88T&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
@@ -173,9 +172,6 @@ https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613a3d9da6651b
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 03h00-13 / 09: Chung kết US Open (Liu đàn ông)
 #EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
 https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613aeba2e5fdc4006e65f029&.m3u8|Referer=https://mitom.1tiengruoi.link/
-#EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",CRB vs GOIAS
-https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613ca4234d92252d0683f24f-HpUUpq&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-
 
 #EXTINF: -1 tvg-id = "vtvcab16hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/BDTV_Logo_150x904.jpg", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://sctvonline.vn/
