@@ -77,8 +77,6 @@ https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb2ac4
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 02h00-14 / 09: Everton - Burnley
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb28e4d92252d0683f0ab-LoOxsw&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-
-
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 23h50-13 / 09: Việt Nam - Brazil
 #EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
 https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613d4a2de5fdc4007876018a&.m3u8|Referer=|Referer=https://mitom.1tiengruoi.link/
@@ -86,20 +84,11 @@ https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613d4a2de5fdc4
 #EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
 https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613d4a56e5fdc400653b2bda&.m3u8|Referer=|Referer=https://mitom.1tiengruoi.link/
 
-
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/R0GjsZW/IMG-20210907-135627.png",1 TUẦN MỞ 4 NGÀY
-http: // iptv: iptv123@103.109.36.12: 9981 / stream / channelid / 340308666? ticket = DFE77D69284FB666F172E19C87CB12AE31396956 & profile = pass
+http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wh1qbk9/IMG-20210907-135658.png",1 TUẦN MỞ 4 NGÀY
-http: // iptv: iptv123@103.109.36.12: 9981 / stream / channelid / 738163265? ticket = F6D3A37D7CB16114DD014725C69BADF3DB3F3E96 & profile = pass
+http://103.109.36.12:9981/stream/channelid/58268408?ticket=C42C72EF534DEF2169754AED020888DD0AC534A2&profile=pass
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = https://i.ibb.co/4srvdrq/IMG-20210907-135643.png",1 TUẦN MỞ 4 NGÀY
-http: // iptv: iptv123@103.109.36.12: 9981 / stream / channelid / 58268408? ticket = C42C72EF534DEF2169754AED020888DD0AC534A2 & profile = pass
+http://103.109.36.12:9981/stream/channelid/567642593?ticket=CB0C127EA6C7A7648F960C12755263BA70F233C1&profile=pass
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = https://i.ibb.co/hDz1rfS/IMG-20210907-135906.png",1 TUẦN MỞ 4 NGÀY
-http: // iptv: iptv123@103.109.36.12: 9981 / stream / channelid / 567642593? ticket = CB0C127EA6C7A7648F960C12755263BA70F233C1 & profile = pass
-#EXTINF: -1 tvg-id = "kpluspmhd" tvg-name = "k + pm hd" tvg-logo = "http://imageakm1.tv360.vn/image1/2020/12/15/09/160799807854/7d4269726fc1_180_180 .png "group-title =" Kênh K + ", K + PM HD
-http: // iptv: iptv123@103.109.36.12: 9981 / stream / channelid / 340308666? ticket = DFE77D69284FB666F172E19C87CB12AE31396956 & profile = pass
-#EXTINF: -1 tvg-id = "kpluspchd" tvg-name = "k + pc hd" tvg-logo = "http://imageakm1.tv360.vn/image1/2020/12/15/09/1607998033482/dbce326ab655_180_180 .png "group-title =" Kênh K + ", K + PC HD 
-http: // iptv: iptv123@103.109.36.12: 9981 / stream / channelid / 738163265? ticket = F6D3A37D7CB16114DD014725C69BADF3DB3F3E96 & profile = pass
-#EXTINF: -1 tvg-id = "kplus1hd" tvg-name = "k + 1 hd" tvg-logo = "http://imageakm1.tv360.vn/image1/2020/12/15/09/1607998210482/4e157e4cd2f9_180_180 .png "group-title =" Kênh K + ", K + 1 HD
-http: // iptv: iptv123@103.109.36.12: 9981 / stream / channelid / 58268408? ticket = C42C72EF534DEF2169754AED020888DD0AC534A2 & profile = pass
-#EXTINF: -1 tvg-id = "kplusnshd" tvg-name = "k + ns hd" tvg-logo = "http://imageakm1.tv360.vn/image1/2020/12/15/09/160799836049/a21d3df86e5b_180_180 .png "group-title =" Kênh K + ", K + NS HD
-http: // iptv: iptv123@103.109.36.12: 9981 / stream / channelid / 567642593? ticket = CB0C127EA6C7A7648F960C12755263BA70F233C1 & profile = pass
+http://103.109.36.12:9981/stream/channelid/738163265?ticket=F6D3A37D7CB16114DD014725C69BADF3DB3F3E96&profile=pass
