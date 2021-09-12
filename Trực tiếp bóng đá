@@ -84,7 +84,7 @@ https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613d4a2de5fdc4
 #EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
 https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613d4a56e5fdc400653b2bda&.m3u8|Referer=|Referer=https://mitom.1tiengruoi.link/
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/R0GjsZW/IMG-20210907-135627.png",1 TUẦN MỞ 4 NGÀY
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/R0GjsZW/IMG-20210907-135627.png",1 TUẦN MỞ 4 NGÀY K+PM
 http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wh1qbk9/IMG-20210907-135658.png",1 TUẦN MỞ 4 NGÀY
 http://103.109.36.12:9981/stream/channelid/58268408?ticket=C42C72EF534DEF2169754AED020888DD0AC534A2&profile=pass
