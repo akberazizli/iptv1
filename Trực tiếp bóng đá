@@ -59,24 +59,7 @@ https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6137befe4
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",21h50-12 / 09: Kazakhstan - Costa Rica
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb0394d92252d0683f076-daSYaR-daSYaR&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo =" https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",06h00-12/ 09: Charlotte Independence - Hartford Athletic
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=6138ec2ea6651b0a6c767008&.m3u8|Referer=https://mitom.1tiengruoi.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo =" https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 06h00-12/ 09: Indy Eleven - Sporting Kansas City II
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=6138ec2ea6651b0a6c767009&.m3u8|Referer=https://mitom.1tiengruoi.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo =" https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 06h00-12/ 09: Pittsburgh Riverhounds - Loudoun United
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=6138ec2ea6651b0a6c76700a&.m3u8|Referer=https://mitom.1tiengruoi.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 06h05-12/ 09: Deportivo Cali - América de Cali
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613c346ae5fdc400791b3458&.m3u8|Referer=https://mitom.1tiengruoi.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 07h00-12/ 09: Santos - Bahia
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613c3362e5fdc400710a8a9a&.m3u8|Referer=https://mitom.1tiengruoi.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 07h00-12/ 09: CRB - ​​Goiás
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613c33dce5fdc400772635d7&.m3u8|Referer=https://mitom.1tiengruoi.link/
+
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 08h00-12/ 09: Colorado Springs Switchbacks FC - Rio
 #EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
 https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=6138ec2fa6651b0a6c76700e&.m3u8|Referer=https://mitom.1tiengruoi.link/
