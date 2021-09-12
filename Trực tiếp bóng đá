@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/r7Yg7z2/IMG-20210912-185221.png",BÌNH LUẬN CA2KHIA TV 1
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/r7Yg7z2/IMG-20210912-185221.png",BÌNH LUẬN CÀ KHỊA TV 1
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/     
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/r7Yg7z2/IMG-20210912-185221.png",BÌNH LUẬN CÀ KHỊA TV 2
 https://1630578830.vnns.net/luhd3/playlist.m3u8    
@@ -185,6 +185,13 @@ https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613a3d9da6651b
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 03h00-13 / 09: Chung kết US Open (Liu đàn ông)
 #EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
 https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613aeba2e5fdc4006e65f029&.m3u8|Referer=https://mitom.1tiengruoi.link/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 23h50-13 / 09: Việt Nam - Brazil
+#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
+https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613d4a2de5fdc4007876018a&.m3u8|Referer=|Referer=https://mitom.1tiengruoi.link/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h50-13 / 09: Thái Lan - Bồ Đào Nha
+#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
+https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613d4a56e5fdc400653b2bda&.m3u8|Referer=|Referer=https://mitom.1tiengruoi.link/
+
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/R0GjsZW/IMG-20210907-135627.png",1 TUẦN MỞ 4 NGÀY
 http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
