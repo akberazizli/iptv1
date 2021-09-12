@@ -5,10 +5,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bon
 https://1630578830.vnns.net/luhd3/playlist.m3u8    
 
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",suwon-vs-gangwon-luc-1700-ngay-12-09/
-https://360funnysport.000webhostapp.com/360sport/mitom_get.php?url=https://thuckhuyalive.com/lives/suwon-vs-gangwon-luc-1700-ngay-12-09/&.m3u8|Referer= https://playtk.p2pcdn.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 17h30-12 / 09: Sampdoria - Inter
-https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6137bf324d92252d0683e911-Y9U7HY&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 19h00-12 / 09: Espanyol - Atletico Madrid
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6137befd4d92252d0683e907-WUJ6HG&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 21h15-12 / 09: Osasuna - Valencia
@@ -19,6 +15,22 @@ https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb0534
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=6137bec34d92252d0683e8fe-y88auY-y88auY&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 02h00-13 / 09: Real Madrid - Celta Vigo
 https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb1d04d92252d0683f09e-LRLKMp-LRLKMp&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 02h00-14 / 09: Everton - Burnley
+https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb28e4d92252d0683f0ab-LoOxsw&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",23h45-14 / 09: Young Boys - Man United
+https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb26b4d92252d0683f0a5-TfOmX0&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 23h45-14 / 09: Sevilla - Salzburg
+https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb26f4d92252d0683f0a6-rnmR3H&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 02h00-15 / 09: Barcelona - Bayern München
+https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb3f74d92252d0683f0e6-Jx8iEE&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 02h00-15 / 09: Chelsea - Zenit
+https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb4044d92252d0683f0f0-bGs1Vf&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",  02h00-15 / 09: Malmö FF - Juventus
+https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb4074d92252d0683f0f3-poKNr8&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",23h45-15 / 09: Besiktas - Dortmund
+https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb40a4d92252d0683f0f6-OJh89d&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",  23h45-15 / 09: FC Sheriff - Shakhtar Donetsk
+https://360funnysport.000webhostapp.com/360sport/cakhia360_play.php?id=613bb40f4d92252d0683f0fb-4tQCoK&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF: -1 tvg-id = "vtvcab16hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/BDTV_Logo_150x904.jpg", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://sctvonline.vn/
