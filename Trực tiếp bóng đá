@@ -209,3 +209,5 @@ http://103.109.36.12:9981/stream/channelid/738163265?ticket=F6D3A37D7CB16114DD01
 #EXTINF: 0 tvg-id = "vtv3hd" group-title = "VTV Fpt" tvg-logo = "http://imageakm1.tv360.vn/image1/2020_09_23/1600822369992/5ee35d56c132_180_180.png", VTV3 HD
 http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
 
+#EXTINF: 0 tvg-id = "vtv3hd" group-title = "VTV Fpt" tvg-logo = "http://imageakm1.tv360.vn/image1/2020_09_23/1600822369992/5ee35d56c132_180_180.png", VTV3 HD
+http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
