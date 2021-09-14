@@ -23,16 +23,16 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/r7Yg7z2/IMG-20210912-185221.png",BÌNH LUẬN CÀ KHỊA TV 2
 https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", nhà Đài m201nd
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", nhà Đài m202nd
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", NHÀ ĐÀI M201ND
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", NHÀ ĐÀI M202ND
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", nhà Đài m301nd
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", NHÀ ĐÀI M301ND
 https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", nhà Đài m501nd
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", NHÀ ĐÀI M501ND
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", nhà Đài m502nd
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", NHÀ ĐÀI M502ND
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
