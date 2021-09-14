@@ -41,20 +41,7 @@ https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",23h45-14 / 09: Young Boys - Man United
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a7977a0&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 23h45-14 / 09: Sevilla - Salzburg
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a7977a2&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 02h00-15/09: Chelsea - Zenit
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db962a6651b449a7977a4&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 02h00-15/09: Malmö FF - Juventus
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db962a6651b449a7977a5&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png", 02h00-15/09: Barcelona - Bayern München
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
+
 https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a79779e&.m3u8|Referer=https://mitom.1g30p.link/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyXGNpq/IMG-20210912-145033.png",23h45-15/09: Besiktas - Dortmund
 #EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
@@ -98,22 +85,7 @@ https://vophutv.000webhostapp.com/playcakhia.php?id=613fa40d8f771d768ed39160-Oo0
 https://vophutv.000webhostapp.com/playcakhia.php?id=613fa40f8f771d768ed39163-l1r1nI-l1r1nI&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 23h45 14/09: Young Boys - Man United
-https://vophutv.000webhostapp.com/playcakhia.php?id=613bb26b4d92252d0683f0a5-TfOmX0-TfOmX0&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 23h45 14/09: Sevilla - Salzburg
-https://vophutv.000webhostapp.com/playcakhia.php?id=613bb26f4d92252d0683f0a6-rnmR3H-rnmR3H&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 02h00 15/09: Barcelona - Bayern München
-https://vophutv.000webhostapp.com/playcakhia.php?id=613bb3f74d92252d0683f0e6-Jx8iEE-Jx8iEE&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 02h00 15/09: Dynamo Kyiv - Benfica
-https://vophutv.000webhostapp.com/playcakhia.php?id=613bb3fa4d92252d0683f0e7-ynM2JX-ynM2JX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 02h00 15/09: Villarreal - Atalanta
-https://vophutv.000webhostapp.com/playcakhia.php?id=613bb3fd4d92252d0683f0ea-86mAF4-86mAF4&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 02h00 15/09: Lille - Wolfsburg
-https://vophutv.000webhostapp.com/playcakhia.php?id=613bb4014d92252d0683f0ed-mGIoG1-mGIoG1&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 02h00 15/09: Chelsea - Zenit
-https://vophutv.000webhostapp.com/playcakhia.php?id=613bb4044d92252d0683f0f0-bGs1Vf-bGs1Vf&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 02h00 15/09: Malmö FF - Juventus
-https://vophutv.000webhostapp.com/playcakhia.php?id=613bb4074d92252d0683f0f3-poKNr8-poKNr8&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+
 #EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 23h45 15/09: Besiktas - Dortmund
 https://vophutv.000webhostapp.com/playcakhia.php?id=613bb40a4d92252d0683f0f6-OJh89d-OJh89d&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF: -1 group-title = "CakhiaTV by VoPhu - CUP C1" tvg-logo = "https://i.ibb.co/SKYW1nt/IMG-20210914-123242.png", 23h45 15/09: FC Sheriff - Shakhtar Donetsk
@@ -203,44 +175,7 @@ https://sportstvapp.000webhostapp.com/playcakhia.php?id=613fa4de8f771d768ed39191
 https://sportstvapp.000webhostapp.com/playcakhia.php?id=613fa4df8f771d768ed39192-1K97na-1K97na&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 16h00 14/09: Nagoya Grampus - Daegu FC
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb33c4d92252d0683f0c7-5Bi3tu-5Bi3tu&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 17h00 14/09: V- Varen Nagasaki - Montedio Yamagata
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613e9e098f771d768ed38f8b-UV36qz-UV36qz&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 17h00 14/09: Renofa Yamaguchi - Zweigen Kanazawa
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613f4de98f771d768ed39007-xHgvZD-xHgvZD&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 18h00 14/09: Ulsan Hyundai - Kawasaki Frontale
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb33d4d92252d0683f0c8-9sXjaX-9sXjaX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 21h30 14/09: Maccabi Tel Aviv - Alashkert FC
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb3144d92252d0683f0b9-Rsaixw-Rsaixw&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 21h30 14/09: Maccabi Haifa - Feyenoord
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb3184d92252d0683f0ba-8TYxHf-8TYxHf&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 22h00 14/09: FC Istiklol - Persepolis
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb33f4d92252d0683f0cb-yFXSNB-yFXSNB&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 22h00 14/09: Serbia - Iran
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb3704d92252d0683f0d5-021Ha3-021Ha3&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 22h00 14/09: Paraguay - Tây Ban Nha
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb38f4d92252d0683f0d8-aFC1tO-aFC1tO&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 23h00 14/09: Al Nassr FC - Máy kéo
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb3404d92252d0683f0ce-xPL98x-xPL98x&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 00h00 15/09: Angola - Nhật Bản
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb3a54d92252d0683f0db-Rq3Y9d-Rq3Y9d&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 00h00 ngày 15/09: Argentina - Hoa Kỳ
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb3be4d92252d0683f0de-YmgYag-YmgYag&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 00h00 15/09: Sharjah Cultural Câu lạc bộ - Al-Wahda
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb44d4d92252d0683f103-bJvaIc-bJvaIc&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 01h45 15/09: Bournemouth - QPR
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb6a24d92252d0683f11b-g3FQUe-g3FQUe&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 01h45 15/09: Blackburn - Thân tàu
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb6a34d92252d0683f11c-sTT4ZE-sTT4ZE&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 01h45 15/09: Blackpool - Huddersfield
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb6a44d92252d0683f11d-TyLDnw-TyLDnw&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 01h45 15/09: Sheff Utd - Preston
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb6a54d92252d0683f11e-4IpTpx-4IpTpx&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 02h00 15/09: Đọc - Peterborough
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb6a74d92252d0683f121-PUJRjK-PUJRjK&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 02h00 15/09: West Brom - Derby
-https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb6a84d92252d0683f126-o5KBZk-o5KBZk&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+
 #EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 15h30 15/09: Jeonbuk FC - BG Pathum United
 https://sportstvapp.000webhostapp.com/playcakhia.php?id=613bb44e4d92252d0683f104-gHFvrq-gHFvrq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF: -1 group-title = "CakhiaTV by VoPhu - Giải khác" tvg-logo = "https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png", 16h00 ngày 15/09: Cerezo Osaka - Pohang Steelers
@@ -323,48 +258,7 @@ https://sportstvapp.000webhostapp.com/playcakhia.php?id=613fa67d8f771d768ed391b5
 https://sportstvapp.000webhostapp.com/playcakhia.php?id=613fa69b8f771d768ed391b8-85fzFB-85fzFB&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 21h30-14 / 09: Maccabi Tel Aviv - Alashkert F
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db960a6651b449a797780&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 21h30-14 / 09: Maccabi Haifa - Feyenoord
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db960a6651b449a797781&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 21h50-14 / 09: Serbia - Iran
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613e599ce5fdc4007313bd18&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",21h50-14 / 09: Paraguay - Tây Ban Nha
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613e59d0e5fdc40086162648&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 23h45-14 / 09: Young Boys - Man United
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a7977a0&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 23h45-14 / 09: Sevilla - Salzburg
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a7977a2&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 23h50-14 / 09: Angola - Nhật Bản
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613e59f2e5fdc4006e65f02a&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 23h50-14 / 09: Argentina - Mỹ
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613e5a14e5fdc4006102406a&.m3u8|Referer=https://mitom.1g30.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 02h00-15 / 09: Barcelona - Bayern München
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a79779e&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 02h00-15 / 09: Dynamo Kyiv - Benfica
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a79779f&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 02h00-15 / 09: Villarreal - Atalanta
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a7977a1&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 02h00-15 / 09: Lille - Wolfsburg
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db961a6651b449a7977a3&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 02h00-15 / 09: Chelsea - Zenit
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db962a6651b449a7977a4&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 02h00-15 / 09: Malmö FF - Juventus
-#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db962a6651b449a7977a5&.m3u8|Referer=https://mitom.1g30p.link/
+
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png", 21h30-15 / 09: Spartak - Legia Warszawa
 #EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
 https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613db962a6651b449a7977a6&.m3u8|Referer=https://mitom.1g30p.link/
