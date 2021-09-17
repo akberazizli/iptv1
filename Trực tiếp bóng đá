@@ -41,27 +41,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bo
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hX2z049/IMG-20210913-204840.png", NHÀ ĐÀI M502ND
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/YLkFxvY/IMG-20210915-190104.png",22h00 16/09: Panama - Việt Nam
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa1628f771d768ed39114-X9c0GL-X9c0GL&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/YLkFxvY/IMG-20210915-190104.png",22h00 16/09: Faroe Islands - Portugal
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa1948f771d768ed39117-im2xPA-im2xPA&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/YLkFxvY/IMG-20210915-190104.png",00h00 17/09: Brazil - Czech Republic
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa1c28f771d768ed3911a-WfQaVq-WfQaVq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/YLkFxvY/IMG-20210915-190104.png",00h00 17/09: Thailand - Morocco
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa1e28f771d768ed3911d-yPWee4-yPWee4&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/YLkFxvY/IMG-20210915-190104.png",22h00 17/09: Iran - USA
 https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2148f771d768ed39120-611hqQ-611hqQ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/wBnbWHf/IMG-20210916-132436.png",22h00 16/09: Panama - Việt Nam
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa1628f771d768ed39114-X9c0GL-X9c0GL&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/wBnbWHf/IMG-20210916-132436.png",22h00 16/09: Faroe Islands - Portugal
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa1948f771d768ed39117-im2xPA-im2xPA&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/wBnbWHf/IMG-20210916-132436.png",00h00 17/09: Brazil - Czech Republic
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa1c28f771d768ed3911a-WfQaVq-WfQaVq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/wBnbWHf/IMG-20210916-132436.png",00h00 17/09: Thailand - Morocco
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa1e28f771d768ed3911d-yPWee4-yPWee4&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/wBnbWHf/IMG-20210916-132436.png",22h00 17/09: Iran - USA
 https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2148f771d768ed39120-611hqQ-611hqQ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/wBnbWHf/IMG-20210916-132436.png",22h00 17/09: Spain - Japan
@@ -94,69 +76,6 @@ https://vophutv.000webhostapp.com/playcakhia.php?id=613fa40b8f771d768ed3915b-pXH
 https://vophutv.000webhostapp.com/playcakhia.php?id=613fa40d8f771d768ed39160-Oo0mJq-Oo0mJq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/T1Wbbh4/IMG-20210914-123317.png",23h30 18/09: Aston Villa - Everton
 https://vophutv.000webhostapp.com/playcakhia.php?id=613fa40f8f771d768ed39163-l1r1nI-l1r1nI&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-
-
-
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",23h45 16/09: Galatasaray - Lazio
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9f488f771d768ed390c2-MDeoSh-MDeoSh&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",23h45 16/09: Lokomotiv - Marseille
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9f4d8f771d768ed390c5-KNJLyH-KNJLyH&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",23h45 16/09: Midtjylland - Ludogorets Razgrad
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9f518f771d768ed390c8-KiCpJV-KiCpJV&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",23h45 16/09: FK Crvena Zvezda - Braga
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9f558f771d768ed390c9-uwc1PY-uwc1PY&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",23h45 16/09: Leverkusen - Ferencvaros
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9f5b8f771d768ed390ce-gsOj2z-gsOj2z&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",23h45 16/09: Real Betis - Celtic
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9f608f771d768ed390d1-uyKaiI-uyKaiI&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",23h45 16/09: Dinamo Zagreb - West Ham
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9f658f771d768ed390d4-9eZfUZ-9eZfUZ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",23h45 16/09: Rapid Wien - Genk
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9f6a8f771d768ed390d7-DPwl7h-DPwl7h&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",02h00 17/09: Brøndby IF - Sparta Prague
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2de8f771d768ed3912f-2d5KfH-2d5KfH&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",02h00 17/09: Rangers - Lyon
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2e58f771d768ed39132-HBJK1S-HBJK1S&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",02h00 17/09: Monaco - Sturm Graz
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2eb8f771d768ed39135-IjC7h5-IjC7h5&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",02h00 17/09: PSV Eindhoven - Real Sociedad
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2f18f771d768ed39138-hhbG1L-hhbG1L&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",02h00 17/09: Leicester - Napoli
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2f68f771d768ed3913b-FZZPKZ-FZZPKZ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",02h00 17/09: Frankfurt - Fenerbahce
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2fb8f771d768ed3913e-eCITGo-eCITGo&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/ZJfdXLV/IMG-20210914-123223.png",02h00 17/09: Olympiacos - Royal Antwerp
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa2ff8f771d768ed39141-FjX0qc-FjX0qc&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-
-
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",21h30 16/09: Kairat Almaty - Omonia Nicosia
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9faf8f771d768ed390e1-53xa7t-53xa7t&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",23h45 16/09: HJK - LASK
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9fb38f771d768ed390e4-hoWZpE-hoWZpE&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",23h45 16/09: Flora Tallinn - Gent
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9fbb8f771d768ed390e7-BSSy4g-BSSy4g&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",23h45 16/09: Slavia Prague - Union Berlin
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9fc18f771d768ed390ea-oA7ePH-oA7ePH&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",23h45 16/09: Lincoln Red Imps FC - PAOK Thessaloniki FC
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9fc78f771d768ed390ed-6DwsjD-6DwsjD&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",23h45 16/09: Slovan Bratislava - FC København
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9fcb8f771d768ed390f0-1Q8LRE-1Q8LRE&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",23h45 16/09: Mura - Vitesse
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9fd08f771d768ed390f3-I2pcRV-I2pcRV&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",23h45 16/09: Rennes - Tottenham
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9fd58f771d768ed390f6-QMXUv8-QMXUv8&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",23h45 16/09: Qarabag FK - Basel
-https://vophutv.000webhostapp.com/playcakhia.php?id=613f9fda8f771d768ed390f9-HOzlHw-HOzlHw&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",02h00 17/09: Anorthosis - Partizan Beograd
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa3518f771d768ed39146-gg4r2N-gg4r2N&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",02h00 17/09: Bodø/Glimt - Zorya
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa3578f771d768ed39149-zQcP54-zQcP54&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",02h00 17/09: Roma - PFC CSKA-Sofia
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa35e8f771d768ed3914c-9J4CQC-9J4CQC&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",02h00 17/09: Jablonec - CFR Cluj
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa3638f771d768ed3914f-yYBkz7-yYBkz7&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/YRRv10Q/IMG-20210916-152615.png",02h00 17/09: Randers FC - AZ Alkmaar
-https://vophutv.000webhostapp.com/playcakhia.php?id=613fa3688f771d768ed39152-k2pb1r-k2pb1r&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/bgwFJ4G/IMG-20210914-135708.png",01h30 18/09: Hertha BSC - Greuther Fürth
@@ -197,116 +116,31 @@ https://vophutv.000webhostapp.com/playcakhia.php?id=613fa4de8f771d768ed39191-WTr
 https://vophutv.000webhostapp.com/playcakhia.php?id=613fa4df8f771d768ed39192-1K97na-1K97na&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",15h30 16/09: Shenyang - J. Liansheng
-https://vophutv.000webhostapp.com/playcakhia.php?id=6141e5ab8f771d768ed394de-lGpReZ-lGpReZ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",17h00 16/09: Gelephu - Paro Rinpung
-https://vophutv.000webhostapp.com/playcakhia.php?id=6141e3678f771d768ed394d3-LZt786-LZt786&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",18h35 16/09: Meizhou Hakka - Suzhou Dongwu
-https://vophutv.000webhostapp.com/playcakhia.php?id=6141e3e38f771d768ed394d8-r95r7Z-r95r7Z&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",07h00 17/09: San Luis - Tijuana
+https://vophutv.000webhostapp.com/playcakhia.php?id=61436e888f771d768ed396ff-WvBJgA-WvBJgA&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",07h30 17/09: Remo - Avai FC
+https://vophutv.000webhostapp.com/playcakhia.php?id=61436d2d8f771d768ed396c3-ZJRGk5-ZJRGk5&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",08h00 17/09: Dep. Pereira - Dep. Pasto
+https://vophutv.000webhostapp.com/playcakhia.php?id=61436f1a8f771d768ed39742-rV2n39-rV2n39&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",09h00 17/09: Cruz Azul - Monterrey
+https://vophutv.000webhostapp.com/playcakhia.php?id=61436d438f771d768ed396c9-CbohQO-CbohQO&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",09h00 17/09: Dep. Saprissa - Guanacasteca
+https://vophutv.000webhostapp.com/playcakhia.php?id=614371738f771d768ed3975f-jhUCZy-jhUCZy&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",14h30 17/09: Shaanxi FC - Beijing IT
+https://vophutv.000webhostapp.com/playcakhia.php?id=614372088f771d768ed39762-x4CGp0-x4CGp0&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",15h00 17/09: BCH Lions - SP Falcons
+https://vophutv.000webhostapp.com/playcakhia.php?id=6143768b8f771d768ed3976f-zhPBNB-zhPBNB&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",17h00 17/09: Sagan Tosu - Oita Trinita
+https://vophutv.000webhostapp.com/playcakhia.php?id=61436d478f771d768ed396ca-gnyBnp-gnyBnp&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",18h00 17/09: Samut Prakan City - Bangkok United
+https://vophutv.000webhostapp.com/playcakhia.php?id=61436d4b8f771d768ed396cf-KABfVp-KABfVp&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",18h35 17/09: Hangzhou - Nanjing City
+https://vophutv.000webhostapp.com/playcakhia.php?id=614376d58f771d768ed39772-EXW4t4-EXW4t4&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",18h35 17/09: Guizhou FC - Beijing BSU
+https://vophutv.000webhostapp.com/playcakhia.php?id=614377818f771d768ed39776-di9Fd0-di9Fd0&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",18h30 18/09: Hull - Sheff Utd
 https://vophutv.000webhostapp.com/playcakhia.php?id=613fa5ee8f771d768ed391a9-RxVXXq-RxVXXq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/PhRYzbR/IMG-20210912-053630.png",21h00 18/09: Preston - West Brom
 https://vophutv.000webhostapp.com/playcakhia.php?id=613fa5ef8f771d768ed391aa-u9x2Sj-u9x2Sj&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",09h30-16/09: Phoenix Rising FC - Las Vegas Lights FC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613e321ca6651b62d43e47c5&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",21h30-16/09: Kairat Almaty - Omonia Nicosia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613e3217a6651b62d43e47aa&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",21h50-16/09: Solomon Islands - Portugal
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=614113f4e5fdc4006871ca06&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Galatasaray - Lazio
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8396a6651b1be22fa1e9&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Lokomotiv - Marseille
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8396a6651b1be22fa1ea&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Midtjylland - Ludogorets Razgrad
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8396a6651b1be22fa1eb&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: FK Crvena Zvezda - Braga
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8397a6651b1be22fa1ec&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Leverkusen - Ferencvaros
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8397a6651b1be22fa1ed&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Real Betis - Celtic
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8397a6651b1be22fa1ee&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Dinamo Zagreb - West Ham
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8397a6651b1be22fa1ef&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Rapid Wien - Genk
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8397a6651b1be22fa1f0&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: HJK - LASK
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8397a6651b1be22fa1f1&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Flora Tallinn - Gent
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8397a6651b1be22fa1f2&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Slavia Prague - Union Berlin
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8398a6651b1be22fa1f8&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Lincoln Red Imps FC - PAOK
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8399a6651b1be22fa1f9&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Slovan Bratislava - FC København
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8399a6651b1be22fa1fa&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Mura - Vitesse
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8399a6651b1be22fa1fb&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Rennes - Tottenham
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8399a6651b1be22fa1fc&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h45-16/09: Qarabag FK - Basel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8399a6651b1be22fa1fd&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h50-16/09: Panama - Việt Nam
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=614113d4e5fdc4007c6382c9&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",23h50-16/09: Thái Lan - Morocco
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=61411422e5fdc40083516a22&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Brøndby IF - Sparta Prague
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8395a6651b1be22fa1e2&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Rangers - Lyon
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8395a6651b1be22fa1e3&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Monaco - Sturm Graz
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8395a6651b1be22fa1e4&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: PSV Eindhoven - Real Sociedad
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8396a6651b1be22fa1e5&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Leicester - Napoli
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8396a6651b1be22fa1e6&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Frankfurt - Fenerbahce
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8396a6651b1be22fa1e7&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Olympiacos - Royal Antwerp
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8396a6651b1be22fa1e8&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Anorthosis - Partizan Beograd
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8398a6651b1be22fa1f3&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Bodø/Glimt - Zorya
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8398a6651b1be22fa1f4&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Roma - PFC CSKA-Sofia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8398a6651b1be22fa1f5&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Jablonec - CFR Cluj
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8398a6651b1be22fa1f6&.m3u8|Referer=https://mitom.1g30p.link/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GkQb9rD/IMG-20210912-052844.png",02h00-17/09: Randers FC - AZ Alkmaar
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=613f8398a6651b1be22fa1f7&.m3u8|Referer=https://mitom.1g30p.link/
 
 
