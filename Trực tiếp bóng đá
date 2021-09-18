@@ -48,6 +48,16 @@ https://vophutv.000webhostapp.com/playcakhia.php?id=6144a5dc8f771d768ed3993e-5Ym
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/hcGkcdT/IMG-20210918-054825.png",22h30 19/09: Tottenham - Chelsea
 https://vophutv.000webhostapp.com/playcakhia.php?id=6144a5de8f771d768ed3993f-d3CjHc-d3CjHc&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k4HtZ72/IMG-20210918-093637.png",20h00 19/09: Brighton - Leicester
+#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
+https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=61422698a6651b0f31244a63&.m3u8|Referer=https://mitom.90phutt.xyz/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k4HtZ72/IMG-20210918-093637.png",20h00 19/09: West Ham - Man United
+#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
+https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=61422698a6651b0f31244a64&.m3u8|Referer=https://mitom.90phutt.xyz/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k4HtZ72/IMG-20210918-093637.png",22h30 19/09: Tottenham - Chelsea
+#EXTVLCOPT: http-user-agent = "Mozilla / 5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit / 537.36 (KHTML, như Gecko) Chrome / 88.0.4324.150 Safari / 537.36"
+https://360funnysport.000webhostapp.com/360sport/play1h30p.php?id=61422698a6651b0f31244a65&.m3u8|Referer=https://mitom.90phutt.xyz/
+
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",18h00 19/09: Nice - Monaco
 https://vophutv.000webhostapp.com/playcakhia.php?id=6144a6778f771d768ed39968-UxzHDc-UxzHDc&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
