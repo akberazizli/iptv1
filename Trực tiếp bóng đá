@@ -19,12 +19,11 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/QmyZDDS/IMG-20210919-082820.png",BÌNH LUẬN 1 TRONG 3 KÊNH 1
-https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep
+https://1630578830.vnns.net/luhd3/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xxh6hXR/IMG-20210919-082808.png",BÌNH LUẬN 1 TRONG 3 KÊNH 2
-https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep
+https://1630578830.vnns.net/cakhiahd2/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/25LBsfV/IMG-20210919-082754.png",BÌNH LUẬN 1 TRONG 3 KÊNHV 3
-https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep
-
+https://1630578830.vnns.net/taihd3/playlist.m3u8
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ykz8gTT/IMG-20210919-062145.png",CHỌN TỪ ĐÀI ĐỂ XEM 1
 https://7038446ef.vws.vegacdn.vn/livehls/ducsd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
