@@ -18,6 +18,12 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/PCSFncj/IMG-20210920-201040.png
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/6692
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pPDHJt6/IMG-20210920-201026.png
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/6699
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/XjJKmJf/IMG-20210920-201013.png
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/6694
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/QmyZDDS/IMG-20210919-082820.png",BÌNH LUẬN 1 TRONG 3 KÊNH 1
 https://1630578830.vnns.net/luhd3/playlist.m3u8
