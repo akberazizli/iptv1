@@ -19,16 +19,6 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/pspstation.org/wp-content/uploads/2017/11/acestream.png?fit=298%2C159&ssl=1" group-title="ACESTREAM_TIENGRUOI",TIENGRUOI.LINK1
-acestream://4875a901a224a950421c9cb2d60456bd820d6199
-#EXTINF:-1 tvg-logo="https://i1.wp.com/pspstation.org/wp-content/uploads/2017/11/acestream.png?fit=298%2C159&ssl=1" group-title="ACESTREAM_TIENGRUOI",TIENGRUOI.LINK2
-acestream://4bc1bfdcc400164b7c8afd2644108dd3311e85eb
-#EXTINF:-1 tvg-logo="https://i1.wp.com/pspstation.org/wp-content/uploads/2017/11/acestream.png?fit=298%2C159&ssl=1" group-title="ACESTREAM_TIENGRUOI",TIENGRUOI.LINK3
-acestream://e9ed9d82db929115c74f295e6c9503f47987635a
-#EXTINF:-1 tvg-logo="https://i1.wp.com/pspstation.org/wp-content/uploads/2017/11/acestream.png?fit=298%2C159&ssl=1" group-title="ACESTREAM_TIENGRUOI",TIENGRUOI.LINK4
-acestream://9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
-#EXTINF:-1 tvg-logo="https://i1.wp.com/pspstation.org/wp-content/uploads/2017/11/acestream.png?fit=298%2C159&ssl=1" group-title="ACESTREAM_TIENGRUOI",TIENGRUOI.LINK5
-acestream://fbda842baf2646ce181a6560cfa3fe453c11991f
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/QmyZDDS/IMG-20210919-082820.png",BÌNH LUẬN 1 TRONG 3 KÊNH 1
 https://1630578830.vnns.net/luhd3/playlist.m3u8
