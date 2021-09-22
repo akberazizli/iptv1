@@ -19,29 +19,4 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/QmyZDDS/IMG-20210919-082820.png",BÌNH LUẬN 1 TRONG 4 KÊNH 1
-https://1630578830.vnns.net/luhd3/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xxh6hXR/IMG-20210919-082808.png",BÌNH LUẬN 1 TRONG 4 KÊNH 2
-https://1630578830.vnns.net/cakhiahd2/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/25LBsfV/IMG-20210919-082754.png",BÌNH LUẬN 1 TRONG 4 KÊNHV 3
-https://1630578830.vnns.net/taihd3/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/Vg0vncK/IMG-20210921-144413.png",BÌNH LUẬN 1 TRONG 4 KÊNH 4
-https://7038446ef.vws.vegacdn.vn/livehls/lhd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ykz8gTT/IMG-20210919-062145.png",CHỌN TỪ ĐÀI ĐỂ XEM 1
-https://7038446ef.vws.vegacdn.vn/livehls/ducsd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/N7GVZQm/IMG-20210919-062131.png", CHỌN TỪ ĐÀI ĐỂ XEM 2
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/7VwJXTH/IMG-20210917-200808.png",CHỌN TỪ ĐÀI ĐỂ XEM 3
-https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hyS6RNx/IMG-20210917-200604.png", CHỌN TỪ ĐÀI ĐỂ XEM 4
-https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://cakhiatv.live/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wsjD0tY/IMG-20210917-200551.png",CHỌN TỪ ĐÀI ĐỂ XEM 5
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/SXw5p9V/IMG-20210917-203341.png",CHỌN TỪ ĐÀI ĐỂ XEM 6
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jMDk5yn/IMG-20210917-203328.png", CHỌN TỪ ĐÀI ĐỂ XEM 7
-https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/9HpDFnH/IMG-20210919-082123.png", CHỌN TỪ ĐÀI ĐỂ XEM 8
-https://7038446ef.vws.vegacdn.vn/livehls/ducsd2/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
