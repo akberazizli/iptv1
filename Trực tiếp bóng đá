@@ -23,16 +23,16 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FC Kuban-Holding - FC Rotor Volgograd II
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",SD1 Nga - Việt Nam (Cáp + Liu)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Nga - Việt Nam (Cáp + Liu)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",SD2 Nga - Việt Nam (Cáp + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/3af3ed959430b21320e021305b98fa7f083653d5/203ab89ceb190c6bc6e01fd590a213ca/1632320448217/livehls/mtc_may12457674SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",HD1 Nga - Việt Nam (Cáp + Liu)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Nga - Việt Nam (Cáp + Liu)
+https://ndcagev-swv-47b850307.thapcam.link/bcb1b89d63f5b634ff2c3d900675577b8cd75813/00269676ef5b0fcf70e97c675afc5e79/1632320589881/livehls/mtc_may12457674SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Nga - Việt Nam (Cáp + Liu)
 https://livestream-2.fortuneholding.tk/live/614b34f1564c05001cdcb7ea/614b34f1564c05001cdcb7ea.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",HD2 Nga - Việt Nam (Cáp + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/71b2b20cdbdf4a98797332f3f0fe39ddeff3cbef/203ab89ceb190c6bc6e01fd590a213ca/1632320448217/livehls/mtc_may12457674HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Nga - Việt Nam (Cáp + Liu)
+https://ndcagev-swv-47b850307.thapcam.link/32857825c1782bda70961b9c64d50105d7b49518/00269676ef5b0fcf70e97c675afc5e79/1632320589882/livehls/mtc_may12457674HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Nga - Việt Nam (Cáp + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/4f09e936eed81509b5481521c05a035222baa559/203ab89ceb190c6bc6e01fd590a213ca/1632320448217/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4b5b157c9e6bc32eec0bbc17270c93b5b899507d/00269676ef5b0fcf70e97c675afc5e79/1632320589882/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 22/09: Nga - Việt Nam (Cáp + Liu)
 http://vophutv.000webhostapp.com/play90p.php?id=614aaedfe0d4672fc68e6d3b&.m3u8|Referer=https://xoilac.90phutt.xyz/
