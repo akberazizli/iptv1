@@ -28,10 +28,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",03h00 23/09: Villarreal - Elche
-http://vophutv.000webhostapp.com/play90p.php?id=614ab08d28d9a539bbd2aa76&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",03h00 23/09: Real Madrid - Mallorca
-http://vophutv.000webhostapp.com/play90p.php?id=614ab0aabaf5f939c69df860&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 23/09: Charlotte Independence - Miami FC
 http://vophutv.000webhostapp.com/play90p.php?id=614afa5a74dd7b31c399b1cb&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 23/09: Charleston Battery - New York RB II
