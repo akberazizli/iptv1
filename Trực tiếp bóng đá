@@ -20,23 +20,23 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Real Madrid - Mallorca
-https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Villarreal - Elche
-https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vitoria - Coritiba
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Rangers - Magallanes
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Villarreal - Elche
 https://1630578888.vnns.net/may9/playlist.m3u8	|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Real Madrid - Mallorca
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Real Madrid - Mallorca
-https://ndcagev-swv-47b850307.thapcam.link/dd79314a8df4d9e7ae6b6c3c0e98213d7b281841/203ab89ceb190c6bc6e01fd590a213ca/1632347450041/livehls/mtc_may12457677SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b117a114e46327f4dc38c576f2701e0a19e0fcbb/203ab89ceb190c6bc6e01fd590a213ca/1632347747917/livehls/mtc_may12457677SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Real Madrid - Mallorca
 https://livestream-2.fortuneholding.tk/live/614b6d353c9a1b001cd0e451/614b6d353c9a1b001cd0e451.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Real Madrid - Mallorca
-https://ndcagev-swv-47b850307.thapcam.link/bba88dee6e2a35ad2f531bdcae449fdfcd99d85b/203ab89ceb190c6bc6e01fd590a213ca/1632347450042/livehls/mtc_may12457677HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1000f11325927aebf3266d38c12402f49bc9890c/203ab89ceb190c6bc6e01fd590a213ca/1632347747918/livehls/mtc_may12457677HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Real Madrid - Mallorca
-https://ndcagev-swv-47b850307.thapcam.link/026e752bc6b67fc44c328a0718ed46bb4a1bf151/203ab89ceb190c6bc6e01fd590a213ca/1632347450042/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/defed105fc4c173bdb6b1034cc763be43e62026e/203ab89ceb190c6bc6e01fd590a213ca/1632347747918/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",03h00 23/09: Villarreal - Elche
 http://vophutv.000webhostapp.com/play90p.php?id=614ab08d28d9a539bbd2aa76&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -73,10 +73,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614ab1238bb98639dd59c6d1&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",23h30 23/09: Torino - Lazio
 http://vophutv.000webhostapp.com/play90p.php?id=614ab107bba0f5222981822b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",03h00 23/09: Real Madrid - Mallorca
-http://vophutv.000webhostapp.com/playcakhia.php?id=61477dce7b85ce619991d759-XjOeuv-XjOeuv&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",03h00 23/09: Villarreal - Elche
-http://vophutv.000webhostapp.com/playcakhia.php?id=61477dcf7b85ce619991d75a-FBnwFV-FBnwFV&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 23/09: Vitoria - Coritiba
 http://vophutv.000webhostapp.com/playcakhia.php?id=614ba0dc47c3390ce4d1b55b-N4jZ2h-N4jZ2h&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 23/09: Rangers - Magallanes
