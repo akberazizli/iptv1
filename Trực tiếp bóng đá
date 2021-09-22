@@ -26,15 +26,13 @@ https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FC Seoul - Incheon United
 https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Busan I'Park - Seoul E-Land FC
-https://7038446ef.vws.vegacdn.vn/livehls/ducsd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Shaanxi FC - Kunshan FC
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Wuhan Three -  Xinjiang
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h30 22/09: Nga - Việt Nam
+#EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 22/09: Nga - Việt Nam
 http://vophutv.000webhostapp.com/play90p.php?id=614aaedfe0d4672fc68e6d3b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",23h30 22/09: Spezia - Juventus
 http://vophutv.000webhostapp.com/play90p.php?id=61490aa48bb98639dd59c6cc&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -71,8 +69,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6149aef347c3390ce4d1af79-GcCR
 http://vophutv.000webhostapp.com/playcakhia.php?id=6149aef947c3390ce4d1af7f-iE59V7-iE59V7&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 22/09: FC Seoul - Incheon United
 http://vophutv.000webhostapp.com/playcakhia.php?id=6149aefd47c3390ce4d1af82-OILH3s-OILH3s&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 22/09: Busan I'Park - Seoul E-Land FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=6149af0047c3390ce4d1af85-fBRjri-fBRjri&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 22/09: Shaanxi FC - Kunshan FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=6149c7f547c3390ce4d1afbe-8sWT7W-8sWT7W&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 22/09: Wuhan Three -  Xinjiang
@@ -173,6 +169,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614b0da247c3390ce4d1b34a-eF4F
 http://vophutv.000webhostapp.com/playcakhia.php?id=614b110247c3390ce4d1b366-rcNF2d-rcNF2d&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h15 23/09: Barito Putera - PS Tira
 http://vophutv.000webhostapp.com/playcakhia.php?id=614b11fe47c3390ce4d1b36b-hdXxLr-hdXxLr&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 23/09: Hirnyk-Sport - PFC Lviv
+http://vophutv.000webhostapp.com/playcakhia.php?id=614b199d47c3390ce4d1b385-UTroqN-UTroqN&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 23/09: Argentina - Paraguay
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a35e947c3390ce4d1b17c-peFDqC-peFDqC&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 23/09: Kazakhstan - Thailand
