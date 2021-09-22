@@ -22,7 +22,7 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vitoria - Coritiba
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Rangers - Magallanes
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tlaxcala F.C. - CD Tepatitlan de Morelos
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Red Bull Bragantino - Libertad
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
@@ -65,7 +65,7 @@ http://vophutv.000webhostapp.com/play90p.php?id=614ab107bba0f5222981822b&.m3u8|R
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 23/09: Vitoria - Coritiba
 http://vophutv.000webhostapp.com/playcakhia.php?id=614ba0dc47c3390ce4d1b55b-N4jZ2h-N4jZ2h&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 23/09: Rangers - Magallanes
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 23/09: Tlaxcala F.C. - CD Tepatitlan de Morelos
 http://vophutv.000webhostapp.com/playcakhia.php?id=614ba38347c3390ce4d1b56c-WMGZI0-WMGZI0&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h15 23/09: Red Bull Bragantino - Libertad
 http://vophutv.000webhostapp.com/playcakhia.php?id=614b9fe547c3390ce4d1b556-qaqGSl-qaqGSl&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
