@@ -32,27 +32,37 @@ https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bon
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Celtic - Raith
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Cadiz - Barcelona
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Cadiz - Barcelona
+https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Cadiz - Barcelona
+https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Cadiz - Barcelona
+https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Cadiz - Barcelona
+https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Roma -  Udinese (BLV Người Mới)
-https://ndcagev-swv-47b850307.thapcam.link/9d7d5e7b1e85392350e94e87923d56bfce5c5d30/203ab89ceb190c6bc6e01fd590a213ca/1632426647643/livehls/mtc_may1854697SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a123cfd88b2d9ef7a080eeeb3aabeff7f19b15a2/203ab89ceb190c6bc6e01fd590a213ca/1632426945902/livehls/mtc_may1854697SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Roma -  Udinese (BLV Người Mới)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Roma -  Udinese (BLV Người Mới)
 https://livestream-2.fortuneholding.tk/live/614cc22f3c9a1b001cd0e49b/614cc22f3c9a1b001cd0e49b.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Roma -  Udinese (BLV Người Mới)
-https://ndcagev-swv-47b850307.thapcam.link/16e662e6b629204d38921939919d160850baf4a7/203ab89ceb190c6bc6e01fd590a213ca/1632426647643/livehls/mtc_may1854697HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/df575c1455b2ed28f60407560bd1254ccad29d4b/203ab89ceb190c6bc6e01fd590a213ca/1632426945902/livehls/mtc_may1854697HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",Nhà Đài Roma -  Udinese (BLV Người Mới)
 https://1630578888.vnns.net/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài FC Twente - AZ Alkmaar
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Cádiz - Barcelona (BLV Lê Văn Cáp)
-https://ndcagev-swv-47b850307.thapcam.link/097134181585cba4d7763f9e05ccdd95e397f5b3/203ab89ceb190c6bc6e01fd590a213ca/1632426648646/livehls/mtc_may3548762SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/53c0cae27080c6c4f09829bc5e72bcad7448f397/203ab89ceb190c6bc6e01fd590a213ca/1632426947313/livehls/mtc_may3548762SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Cádiz - Barcelona (BLV Lê Văn Cáp)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Cádiz - Barcelona (BLV Lê Văn Cáp)
 https://livestream-2.fortuneholding.tk/live/614ccf98590496001dbe29d6/614ccf98590496001dbe29d6.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Cádiz - Barcelona (BLV Lê Văn Cáp)
-https://ndcagev-swv-47b850307.thapcam.link/b361b3fe63846f069f7218faa0ca4cf43fc0ebd8/203ab89ceb190c6bc6e01fd590a213ca/1632426648646/livehls/mtc_may3548762HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/57a9c7cceb1b64d03de7b393ba1e0a653e6832dd/203ab89ceb190c6bc6e01fd590a213ca/1632426947313/livehls/mtc_may3548762HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",Nhà Đài Cádiz - Barcelona (BLV Lê Văn Cáp)
 https://1630578888.vnns.net/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
