@@ -34,19 +34,17 @@ https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.t
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Roma - Udinese
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Celtic - Raith
+https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Osasuna - Real Betis
-https://1630578888.vnns.net/may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Granada - Real Sociedad
-https://1630578888.vnns.net/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Roma -  Udinese (BLV Người Mới)
-https://ndcagev-swv-47b850307.thapcam.link/21c5684245958de7fb514e86325ea65de1da8049/203ab89ceb190c6bc6e01fd590a213ca/1632424850415/livehls/mtc_may1854697SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f8220c2024e0dd7760275aa087f14aa4b9080969/203ab89ceb190c6bc6e01fd590a213ca/1632425147417/livehls/mtc_may1854697SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Roma -  Udinese (BLV Người Mới)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Roma -  Udinese (BLV Người Mới)
 https://livestream-2.fortuneholding.tk/live/614cc22f3c9a1b001cd0e49b/614cc22f3c9a1b001cd0e49b.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Roma -  Udinese (BLV Người Mới)
-https://ndcagev-swv-47b850307.thapcam.link/7237075da54c06d56ec814b6dddd6836a28f058b/203ab89ceb190c6bc6e01fd590a213ca/1632424850416/livehls/mtc_may1854697HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4dc01226838d9d81021a5f22e708c0e5cbae074d/203ab89ceb190c6bc6e01fd590a213ca/1632425147417/livehls/mtc_may1854697HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",Nhà Đài Roma -  Udinese (BLV Người Mới)
 https://1630578888.vnns.net/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài FC Twente - AZ Alkmaar
@@ -97,6 +95,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61477e5e7b85ce619991d78d-G3GR
 http://vophutv.000webhostapp.com/playcakhia.php?id=61477e637b85ce619991d790-3Jb28C-3Jb28C&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 24/09: Roma - Udinese
 http://vophutv.000webhostapp.com/playcakhia.php?id=61477e6d7b85ce619991d796-OFzhUX-OFzhUX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",01h45 24/09: Celtic - Raith
+http://vophutv.000webhostapp.com/playcakhia.php?id=614cd3f747c3390ce4d1b7d7-Zh8tcg-Zh8tcg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",03h00 24/09: Cadiz - Barcelona
 http://vophutv.000webhostapp.com/playcakhia.php?id=61477e647b85ce619991d791-BHGZYg-BHGZYg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",04h15 24/09: Royal Pari - Nacional Potosi
