@@ -23,6 +23,10 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Spartak Varna - Ludogorets
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Argentina - Paraguay
+https://ndcagev-swv-47b850307.thapcam.link/fcf7fc47567c8da76d0d3769962bf9065572bee9/203ab89ceb190c6bc6e01fd590a213ca/1632406848159/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Kazakhstan - Thái Lan
+https://ndcagev-swv-47b850307.thapcam.link/639890e5456d2213d36301ef3ec3228248ef8f5a/203ab89ceb190c6bc6e01fd590a213ca/1632406848883/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 23/09: Argentina - Paraguay
 http://vophutv.000webhostapp.com/play90p.php?id=614b90e674dd7b31c399b1ce&.m3u8|Referer=https://xoilac.90phutt.xyz/
