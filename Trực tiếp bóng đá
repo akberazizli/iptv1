@@ -20,8 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Austin Bold - El Paso Locomotive
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài CD Marathon - Real Esteli FC
 https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tacoma Defiance - Sacramento Republic FC
@@ -31,12 +29,10 @@ https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Cavalry FC - Pacific FC
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Austin Bold - El Paso Locomotive
-https://ndcagev-swv-47b850307.thapcam.link/5b3df6dd781531e32ba0d50ee72650c9851b4137/203ab89ceb190c6bc6e01fd590a213ca/1632366347897/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Oakland Roots - San Diego Loyal
-https://ndcagev-swv-47b850307.thapcam.link/375e7b9446ae926439a27a62c11367d445e40763/203ab89ceb190c6bc6e01fd590a213ca/1632366348430/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/060bb0db96b5146924610f4f58fcd1080e798a51/203ab89ceb190c6bc6e01fd590a213ca/1632366649800/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Tacoma Defiance - Sacramento Republic
-https://ndcagev-swv-47b850307.thapcam.link/314e93ee5a5db5bd303df48f0796448593bd835a/203ab89ceb190c6bc6e01fd590a213ca/1632366349330/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/156c2362ff749887899d03f31d6d96324d8e1725/203ab89ceb190c6bc6e01fd590a213ca/1632366650329/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 23/09: Austin Bold - El Paso Locomotive
 http://vophutv.000webhostapp.com/play90p.php?id=614afbfd8bb98639dd59c6d4&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -65,8 +61,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614b90b974dd7b31c399b1cd&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",03h00 24/09: Cádiz - Barcelona
 http://vophutv.000webhostapp.com/play90p.php?id=614b909b8bb98639dd59c6d7&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 23/09: Austin Bold - El Paso Locomotive
-http://vophutv.000webhostapp.com/playcakhia.php?id=614aae9747c3390ce4d1b2cd-skygXg-skygXg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 23/09: CD Marathon - Real Esteli FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a9cbe47c3390ce4d1b2b9-dVk2OO-dVk2OO&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 23/09: Tacoma Defiance - Sacramento Republic FC
@@ -111,6 +105,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61477e637b85ce619991d790-3Jb2
 http://vophutv.000webhostapp.com/playcakhia.php?id=61477e6d7b85ce619991d796-OFzhUX-OFzhUX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",03h00 24/09: Cadiz - Barcelona
 http://vophutv.000webhostapp.com/playcakhia.php?id=61477e647b85ce619991d791-BHGZYg-BHGZYg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 24/09: CSA - Botafogo
+http://vophutv.000webhostapp.com/playcakhia.php?id=614bef9747c3390ce4d1b609-LaXQsB-LaXQsB&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 24/09: Santos de Guapiles - CD Plaza Amador
+http://vophutv.000webhostapp.com/playcakhia.php?id=614befa047c3390ce4d1b60e-g8Ubvz-g8Ubvz&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 24/09: Uzbekistan - Iran
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a36a547c3390ce4d1b18e-Rc8uxb-Rc8uxb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 25/09: Portugal - Serbia
