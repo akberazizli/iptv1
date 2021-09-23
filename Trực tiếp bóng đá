@@ -42,6 +42,10 @@ https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhia6.
 https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Brazil - Japan
 https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Granada - Real Sociedad
+https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Osasuna - Real Betis
+https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Torino - Lazio
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -50,7 +54,7 @@ https://1630578888.vnns.net/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xy
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Cambuur -  Heracles
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brazil - Japan
-https://ndcagev-swv-47b850307.thapcam.link/90483c3283615c3df4ec61702b8fbe5f9a57f741/203ab89ceb190c6bc6e01fd590a213ca/1632417650618/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a4dae1d66c24f23aa016070e9ec86909ceabd9c1/203ab89ceb190c6bc6e01fd590a213ca/1632417948561/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Osasuna - Real Betis
 https://1630578888.vnns.net/may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Granada - Real Sociedad
