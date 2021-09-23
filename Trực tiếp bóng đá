@@ -20,16 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Brazil - Japan
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Brazil - Japan
-https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Brazil - Japan
-https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Brazil - Japan
-https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Brazil - Japan
-https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Granada - Real Sociedad
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Osasuna - Real Betis
@@ -46,19 +36,19 @@ https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bon
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brazil - Japan
-https://ndcagev-swv-47b850307.thapcam.link/e4ba5cb1eacbf3097bb42aff48e390b5b5892a68/203ab89ceb190c6bc6e01fd590a213ca/1632423051271/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/3d79884bc54e88c18bf9e1a95d2ca5c34c3eab9e/203ab89ceb190c6bc6e01fd590a213ca/1632423348045/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Osasuna - Real Betis
 https://1630578888.vnns.net/may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Granada - Real Sociedad
 https://1630578888.vnns.net/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Roma -  Udinese (BLV Người Mới)
-https://ndcagev-swv-47b850307.thapcam.link/53f9983ba69a5d26e6484ca50f9cba9ec1c91bd8/203ab89ceb190c6bc6e01fd590a213ca/1632423052999/livehls/mtc_may1854697SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/470d5c2793efcebcea95e314f09a14393a833a1b/203ab89ceb190c6bc6e01fd590a213ca/1632423349763/livehls/mtc_may1854697SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Roma -  Udinese (BLV Người Mới)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Roma -  Udinese (BLV Người Mới)
 https://livestream-2.fortuneholding.tk/live/614cc22f3c9a1b001cd0e49b/614cc22f3c9a1b001cd0e49b.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Roma -  Udinese (BLV Người Mới)
-https://ndcagev-swv-47b850307.thapcam.link/942e3a6dc4ced22beb4d3a33573806a8b8ff0f7e/203ab89ceb190c6bc6e01fd590a213ca/1632423053000/livehls/mtc_may1854697HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/6e7a7b325cb9f705250f202bc9994f73a5335389/203ab89ceb190c6bc6e01fd590a213ca/1632423349763/livehls/mtc_may1854697HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",Nhà Đài Roma -  Udinese (BLV Người Mới)
 https://1630578888.vnns.net/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài FC Twente - AZ Alkmaar
@@ -107,8 +97,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc6b5e0d4672fc68e6d41&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h00 25/09: Watford - Newcastle
 http://vophutv.000webhostapp.com/play90p.php?id=614cc6de8bb98639dd59c6d8&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 24/09: Brazil - Japan
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a363347c3390ce4d1b185-X95wvK-X95wvK&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",00h30 24/09: Granada - Real Sociedad
 http://vophutv.000webhostapp.com/playcakhia.php?id=61477e5e7b85ce619991d78d-G3GRYL-G3GRYL&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",00h30 24/09: Osasuna - Real Betis
