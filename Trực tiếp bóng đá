@@ -30,9 +30,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Oakland Roots - San Diego Loyal
-https://ndcagev-swv-47b850307.thapcam.link/060bb0db96b5146924610f4f58fcd1080e798a51/203ab89ceb190c6bc6e01fd590a213ca/1632366649800/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/136f4808662894ff9ffe817c2b0839931a8699ff/203ab89ceb190c6bc6e01fd590a213ca/1632366950108/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Tacoma Defiance - Sacramento Republic
-https://ndcagev-swv-47b850307.thapcam.link/156c2362ff749887899d03f31d6d96324d8e1725/203ab89ceb190c6bc6e01fd590a213ca/1632366650329/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/5d340147604af9664455b4f8d5bc37cde6105741/203ab89ceb190c6bc6e01fd590a213ca/1632366950820/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 23/09: Austin Bold - El Paso Locomotive
 http://vophutv.000webhostapp.com/play90p.php?id=614afbfd8bb98639dd59c6d4&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -109,6 +109,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61477e647b85ce619991d791-BHGZ
 http://vophutv.000webhostapp.com/playcakhia.php?id=614bef9747c3390ce4d1b609-LaXQsB-LaXQsB&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 24/09: Santos de Guapiles - CD Plaza Amador
 http://vophutv.000webhostapp.com/playcakhia.php?id=614befa047c3390ce4d1b60e-g8Ubvz-g8Ubvz&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 24/09: Santa Lucia Cotzumalguapa - Deportivo Saprissa
+http://vophutv.000webhostapp.com/playcakhia.php?id=614bf0aa47c3390ce4d1b613-dTqhb6-dTqhb6&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 24/09: UD Universitario - CD Motagua
+http://vophutv.000webhostapp.com/playcakhia.php?id=614bf0b647c3390ce4d1b618-PzPoCr-PzPoCr&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 24/09: Uzbekistan - Iran
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a36a547c3390ce4d1b18e-Rc8uxb-Rc8uxb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 25/09: Portugal - Serbia
