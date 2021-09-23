@@ -28,6 +28,10 @@ https://7038446ef.vws.vegacdn.vn/livehls/lsd1/playlist.m3u8|Referer=https://bong
 https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Minyor Pernik - Cherno More
 https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài BCH Lions - Ulaanbaatar City
+https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Zenit Izhevsk - CSKA Moscow
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 23/09: Argentina - Paraguay
@@ -38,6 +42,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=614b9110baf5f939c69df862&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=614ab107bba0f5222981822b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",23h30 23/09: Sampdoria - Napoli
 http://vophutv.000webhostapp.com/play90p.php?id=614ab1238bb98639dd59c6d1&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 23/09: Cambuur -  Heracles
+http://vophutv.000webhostapp.com/play90p.php?id=614c597c28d9a539bbd2aa7b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",00h00 24/09: Brazil - Japan
 http://vophutv.000webhostapp.com/play90p.php?id=614b913174dd7b31c399b1cf&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",00h30 24/09: Osasuna - Real Betis
