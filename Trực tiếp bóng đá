@@ -20,8 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Charleston Battery - New York Red Bulls II
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Charlotte Independence - Miami FC
 https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sao Paulo - America MG
@@ -48,15 +46,15 @@ https://7038446ef.vws.vegacdn.vn/livehls/m303nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài São Paulo - América Mineiro
-https://ndcagev-swv-47b850307.thapcam.link/d939e88a320d610cc62a219e59cd0f0d70c508d0/203ab89ceb190c6bc6e01fd590a213ca/1632359449488/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d6652732158e06f30c3a2c7a6744d63c98313c7e/203ab89ceb190c6bc6e01fd590a213ca/1632359750040/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atlanta United II - Birmingham Legion
-https://ndcagev-swv-47b850307.thapcam.link/5336cf940767caeab255f6c47e902fd173bc9a59/203ab89ceb190c6bc6e01fd590a213ca/1632359450184/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/921d5f07f02ee85f30cfa013f3dc59fdf7b66aca/203ab89ceb190c6bc6e01fd590a213ca/1632359750849/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Toronto FC - York United
-https://ndcagev-swv-47b850307.thapcam.link/a6e5628a1317eecc6113891401c65d3b54fb96c8/203ab89ceb190c6bc6e01fd590a213ca/1632359450988/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/12b0e938f027d60423ecfaba35a4b746789053a1/203ab89ceb190c6bc6e01fd590a213ca/1632359751465/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Memphis 901 - Indy Eleven
-https://ndcagev-swv-47b850307.thapcam.link/de031c45570f6cff9214c7d62fe9ac03e82f5b08/203ab89ceb190c6bc6e01fd590a213ca/1632359451684/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1a06cf9f32fdaf1978853511cade23c9f8674f3a/203ab89ceb190c6bc6e01fd590a213ca/1632359752303/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Austin Bold - El Paso Locomotive
-https://ndcagev-swv-47b850307.thapcam.link/cd8ea6c56182f2b6a8aa02e826b581a6d394306d/203ab89ceb190c6bc6e01fd590a213ca/1632359452954/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/e4ca6eef2218def18e515f8592db40c8a1ae67ca/203ab89ceb190c6bc6e01fd590a213ca/1632359753688/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h30 23/09: São Paulo - América Mineiro
 http://vophutv.000webhostapp.com/play90p.php?id=614af718e0d4672fc68e6d3d&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -95,8 +93,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614b90b974dd7b31c399b1cd&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",03h00 24/09: Cádiz - Barcelona
 http://vophutv.000webhostapp.com/play90p.php?id=614b909b8bb98639dd59c6d7&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 23/09: Charleston Battery - New York Red Bulls II
-http://vophutv.000webhostapp.com/playcakhia.php?id=614ab08847c3390ce4d1b2d7-Z96Z8n-Z96Z8n&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 23/09: Charlotte Independence - Miami FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=614ab09147c3390ce4d1b2da-obEWt9-obEWt9&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",06h30 23/09: Sao Paulo - America MG
