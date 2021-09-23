@@ -22,12 +22,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h00 23/09: Oakland Roots - San Diego Loyal
-http://vophutv.000webhostapp.com/play90p.php?id=614afc138bb98639dd59c6d5&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h00 23/09: Tacoma Defiance - Sacramento Republic
-http://vophutv.000webhostapp.com/play90p.php?id=614afc4c8bb98639dd59c6d6&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h00 23/09: Cavalry - Pacific
-http://vophutv.000webhostapp.com/play90p.php?id=614afef4e0d4672fc68e6d3e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 23/09: Argentina - Paraguay
 http://vophutv.000webhostapp.com/play90p.php?id=614b90e674dd7b31c399b1ce&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 23/09: Kazakhstan - Thái Lan
