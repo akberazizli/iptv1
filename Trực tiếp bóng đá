@@ -20,18 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Roma - Udinese
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Roma - Udinese
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Roma - Udinese
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Roma - Udinese
-https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Roma - Udinese
-https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Celtic - Raith
-https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Cadiz - Barcelona
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Cadiz - Barcelona
@@ -44,25 +32,25 @@ https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Roma -  Udinese (BLV Người Mới)
-https://ndcagev-swv-47b850307.thapcam.link/74ac0f98f03ce49516c938b26c307e2eea2a703c/203ab89ceb190c6bc6e01fd590a213ca/1632429347315/livehls/mtc_may1854697SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/055b0b4c60fabbd151da4d1053da2e2e294570fb/203ab89ceb190c6bc6e01fd590a213ca/1632429650006/livehls/mtc_may1854697SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Roma -  Udinese (BLV Người Mới)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Roma -  Udinese (BLV Người Mới)
 https://livestream-2.fortuneholding.tk/live/614cc22f3c9a1b001cd0e49b/614cc22f3c9a1b001cd0e49b.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Roma -  Udinese (BLV Người Mới)
-https://ndcagev-swv-47b850307.thapcam.link/26abc5d39c3f37ebe8e242d5e4ef9f9447851408/203ab89ceb190c6bc6e01fd590a213ca/1632429347315/livehls/mtc_may1854697HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4ac6703298f8ad4d59a616c6d7f166ada9a7095d/203ab89ceb190c6bc6e01fd590a213ca/1632429650006/livehls/mtc_may1854697HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",Nhà Đài Roma -  Udinese (BLV Người Mới)
 https://1630578888.vnns.net/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài FC Twente - AZ Alkmaar
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Cádiz - Barcelona (BLV Lê Văn Cáp)
-https://ndcagev-swv-47b850307.thapcam.link/83341d41858054e481b2620fa748957d085f7d00/203ab89ceb190c6bc6e01fd590a213ca/1632429346455/livehls/mtc_may3548762SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/e2df8187bb9d57d4ec18d6e1af9fad3a30cdea11/203ab89ceb190c6bc6e01fd590a213ca/1632429651362/livehls/mtc_may3548762SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Cádiz - Barcelona (BLV Lê Văn Cáp)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Cádiz - Barcelona (BLV Lê Văn Cáp)
 https://livestream-2.fortuneholding.tk/live/614ccf98590496001dbe29d6/614ccf98590496001dbe29d6.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Cádiz - Barcelona (BLV Lê Văn Cáp)
-https://ndcagev-swv-47b850307.thapcam.link/93119eb3be503c27ea2322872241985874dc1c28/203ab89ceb190c6bc6e01fd590a213ca/1632429346455/livehls/mtc_may3548762HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/73c99eb18503ba33c3839e463074aba50908856a/203ab89ceb190c6bc6e01fd590a213ca/1632429651363/livehls/mtc_may3548762HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",Nhà Đài Cádiz - Barcelona (BLV Lê Văn Cáp)
 https://1630578888.vnns.net/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
@@ -101,10 +89,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc853baf5f939c69df867&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 25/09: Leverkusen - Mainz
 http://vophutv.000webhostapp.com/play90p.php?id=614cc951baf5f939c69df869&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 24/09: Roma - Udinese
-http://vophutv.000webhostapp.com/playcakhia.php?id=61477e6d7b85ce619991d796-OFzhUX-OFzhUX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 24/09: Celtic - Raith
-http://vophutv.000webhostapp.com/playcakhia.php?id=614cd3f747c3390ce4d1b7d7-Zh8tcg-Zh8tcg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",03h00 24/09: Cadiz - Barcelona
 http://vophutv.000webhostapp.com/playcakhia.php?id=61477e647b85ce619991d791-BHGZYg-BHGZYg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",04h15 24/09: Royal Pari - Nacional Potosi
