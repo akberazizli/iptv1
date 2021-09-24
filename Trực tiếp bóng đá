@@ -33,8 +33,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Plaza Colonia - Villa Espanola
 https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Gil Vicente - FC Porto
-https://ndcagev-swv-47b850307.thapcam.link/f9fed92d184c2525cd5bc4a9e219b1a454485201/203ab89ceb190c6bc6e01fd590a213ca/1632522048829/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",03h15 25/09: Gil Vicente - FC Porto
 http://vophutv.000webhostapp.com/play90p.php?id=614cca4928d9a539bbd2aa7c&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -95,8 +93,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614d465847c3390ce4d1b884-3QGO
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d468a47c3390ce4d1b889-9OntOK-9OntOK&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 25/09: Puebla - Cruz Azul
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d47fa47c3390ce4d1b88c-457WRV-457WRV&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 25/09: Once Caldas - Alianza Petrolera
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e445947c3390ce4d1b9fa-PrYBHX-PrYBHX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 25/09: Juárez - Queretaro
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d49d047c3390ce4d1b896-D8iDQb-D8iDQb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 25/09: El Salvador - Guatemala
