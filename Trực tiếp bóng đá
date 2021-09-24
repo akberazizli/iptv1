@@ -28,11 +28,15 @@ https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Peñarol - Athletico Paranaense
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QjGpQzg/IMG-20210923-172737.png",HD UD Universitario - CD Motagua
+https://7038446ef.vws.vegacdn.vn/livehls/lhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/k4zYnkN/IMG-20210923-172749.png",SD UD Universitario - CD Motagua
+https://7038446ef.vws.vegacdn.vn/livehls/lsd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Coquimbo Unido - Deportes Santa Cruz
-https://ndcagev-swv-47b850307.thapcam.link/2bea3056db2d6bf435182ee8c9a2dc8040bd0ce1/203ab89ceb190c6bc6e01fd590a213ca/1632448248902/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/5b368fcfa15407b807ec0d8ad27f73fd1f36daf4/203ab89ceb190c6bc6e01fd590a213ca/1632448547525/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atlético Morelia - Alebrijes de Oaxaca
-https://ndcagev-swv-47b850307.thapcam.link/4c8f642b5f45e25ab8130dd8fc20e01b87ed948e/203ab89ceb190c6bc6e01fd590a213ca/1632448249569/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/e8cfe6c13d239e677ad2ff0937ded89b9a176edb/203ab89ceb190c6bc6e01fd590a213ca/1632448548213/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 24/09: Coquimbo Unido - Deportes Santa Cruz
 http://vophutv.000webhostapp.com/play90p.php?id=614c31d474dd7b31c399b1d0&.m3u8|Referer=https://xoilac.90phutt.xyz/
