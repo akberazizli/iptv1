@@ -30,7 +30,7 @@ https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Pachuca - Necaxa
-https://ndcagev-swv-47b850307.thapcam.link/13061560c6ab0e3e530e3a486a56b29c36d4ff39/203ab89ceb190c6bc6e01fd590a213ca/1632454253369/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/69222702bbabedd0390ec6452c8adc6c8578344b/203ab89ceb190c6bc6e01fd590a213ca/1632454547149/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h00 24/09: Pachuca - Necaxa
 http://vophutv.000webhostapp.com/play90p.php?id=614c334874dd7b31c399b1d1&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -109,6 +109,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614d3a2c47c3390ce4d1b873-MbN6
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d3d7c47c3390ce4d1b87a-ocE8l9-ocE8l9&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Union La Calera - O'Higgins
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d42c747c3390ce4d1b87f-DpSZ3y-DpSZ3y&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h15 25/09: Estudiantes - Club Atletico Platense
+http://vophutv.000webhostapp.com/playcakhia.php?id=614d465847c3390ce4d1b884-3QGOgB-3QGOgB&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 25/09: Brusque - Vasco da Gama
+http://vophutv.000webhostapp.com/playcakhia.php?id=614d468a47c3390ce4d1b889-9OntOK-9OntOK&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",18h30 25/09: Chelsea - Man City
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a392247c3390ce4d1b1c4-Y79lHW-Y79lHW&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",18h30 25/09: Man United - Aston Villa
