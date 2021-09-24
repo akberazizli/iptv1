@@ -34,7 +34,7 @@ https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Gil Vicente - FC Porto
-https://ndcagev-swv-47b850307.thapcam.link/8f2646f27c03238fcbea6a0bc51692e5107b8401/203ab89ceb190c6bc6e01fd590a213ca/1632520854540/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1eff655956a3a35c9243ad530bdba0ff2426aab0/203ab89ceb190c6bc6e01fd590a213ca/1632521147965/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",03h15 25/09: Gil Vicente - FC Porto
 http://vophutv.000webhostapp.com/play90p.php?id=614cca4928d9a539bbd2aa7c&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -225,3 +225,13 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614a3a9f47c3390ce4d1b21e-oDWu
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3a4c47c3390ce4d1b209-9gZvXW-9gZvXW&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",23h30 26/09: Real Sociedad - Elche
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3a4d47c3390ce4d1b20c-Xz9rte-Xz9rte&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",00h00 27/09: Santa Clara - Braga
+http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b8847c3390ce4d1ba47-lGZkGd-lGZkGd&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 27/09: Napoli - Cagliari
+http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b6b47c3390ce4d1ba3f-PkpmVT-PkpmVT&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",01h45 27/09: Marseille - Lens
+http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b7647c3390ce4d1ba42-GvEJQQ-GvEJQQ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",02h00 27/09: Real Betis - Getafe
+http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b6047c3390ce4d1ba3c-T6UeM2-T6UeM2&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h30 27/09: Portimonense - Vizela
+http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b8a47c3390ce4d1ba48-MxWjdc-MxWjdc&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
