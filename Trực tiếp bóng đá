@@ -20,6 +20,8 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài UB Mazaalaynuud - Khoromkhon
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 24/09: Uzbekistan - Iran
@@ -89,6 +91,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614d357047c3390ce4d1b86b-aeM5
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d357d47c3390ce4d1b86e-MYVKG2-MYVKG2&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 25/09: Sarmiento - Velez Sarsfield
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d3a2c47c3390ce4d1b873-MbN6q0-MbN6q0&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 25/09: Plaza Colonia - Villa Espanola
+http://vophutv.000webhostapp.com/playcakhia.php?id=614d5aaf47c3390ce4d1b8bb-SvwboC-SvwboC&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Independiente del Valle - Tecnico Universitario
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d3d7c47c3390ce4d1b87a-ocE8l9-ocE8l9&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Union La Calera - O'Higgins
