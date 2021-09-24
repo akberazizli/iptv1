@@ -20,8 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Albirex Niigata - Tampines Rovers FC
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 24/09: Uzbekistan - Iran
@@ -55,8 +53,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc65d92893b39d170498c&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",19h00 25/09: Deportivo Alaves - Atletico Madrid
 http://vophutv.000webhostapp.com/play90p.php?id=614cc79692893b39d170498d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h45 24/09: Albirex Niigata - Tampines Rovers FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=614d82a747c3390ce4d1b8db-Pzbmu2-Pzbmu2&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 24/09: Uzbekistan - Iran
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a36a547c3390ce4d1b18e-Rc8uxb-Rc8uxb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 25/09: Portugal - Serbia
