@@ -40,14 +40,10 @@ https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sporting CP - Maritimo
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Greuther Fürth - Bayern München
-https://ndcagev-swv-47b850307.thapcam.link/44e451dd585255e7bac941e173044d9a25472625/203ab89ceb190c6bc6e01fd590a213ca/1632510056261/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ead274e7b5671d56db0749151beb775328cf53ee/203ab89ceb190c6bc6e01fd590a213ca/1632510348771/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài West Brom - QPR
 https://1630578888.vnns.net/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",23h50 24/09: Portugal - Serbia
-http://vophutv.000webhostapp.com/play90p.php?id=614cc502c6aff63667deb156&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",23h50 24/09: Spain - Czech Republic
-http://vophutv.000webhostapp.com/play90p.php?id=614cc58ce0d4672fc68e6d40&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",01h00 25/09: Sporting CP - Maritimo
 http://vophutv.000webhostapp.com/play90p.php?id=614cca04c6aff63667deb158&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",01h30 25/09: Greuther Fürth - Bayern München
@@ -58,10 +54,10 @@ http://vophutv.000webhostapp.com/play90p.php?id=614ddac428d9a539bbd2aa7f&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=614cca4928d9a539bbd2aa7c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 25/09: Deportivo Cali - Deportivo Pereira
 http://vophutv.000webhostapp.com/play90p.php?id=614d67e492893b39d1704991&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 25/09: Sporting Kansas City II - FC Tulsa
-http://vophutv.000webhostapp.com/play90p.php?id=614dad62bba0f52229818235&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 25/09: Unión La Calera - O'Higgins
 http://vophutv.000webhostapp.com/play90p.php?id=614d6734baf5f939c69df86b&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 25/09: Sporting Kansas City II - FC Tulsa
+http://vophutv.000webhostapp.com/play90p.php?id=614dad62bba0f52229818235&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h15 25/09: Estudiantes - Platense
 http://vophutv.000webhostapp.com/play90p.php?id=614d65c292893b39d1704990&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 25/09: Brusque - Vasco da Gama
@@ -76,10 +72,12 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc625baf5f939c69df865&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=614cc79692893b39d170498d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",20h00 25/09: Spezia - Milan
 http://vophutv.000webhostapp.com/play90p.php?id=614cc853baf5f939c69df867&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 25/09: RB Leipzig - Hertha BSC
-http://vophutv.000webhostapp.com/play90p.php?id=614cc92ebaf5f939c69df868&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 25/09: Frankfurt - Köln
-http://vophutv.000webhostapp.com/play90p.php?id=614cc98274dd7b31c399b1d2&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 25/09: Leverkusen - Mainz
+http://vophutv.000webhostapp.com/play90p.php?id=614cc951baf5f939c69df869&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 25/09: Union Berlin - Arminia Bielefeld
+http://vophutv.000webhostapp.com/play90p.php?id=614cc9aebba0f52229818231&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 25/09: Hoffenheim - Wolfsburg
+http://vophutv.000webhostapp.com/play90p.php?id=614cc905e0d4672fc68e6d43&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 25/09: Portugal - Serbia
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a366047c3390ce4d1b188-f2n0rc-f2n0rc&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
