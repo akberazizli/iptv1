@@ -20,10 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Persiraja Banda - Persipura Jayapura
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Persita - Bali United Pusam
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QjGpQzg/IMG-20210923-172737.png",HD Shimizu S-Pulse - Vissel Kobe
 https://7038446ef.vws.vegacdn.vn/livehls/lhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/k4zYnkN/IMG-20210923-172749.png",SD Shimizu S-Pulse - Vissel Kobe
@@ -61,10 +57,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc79692893b39d170498d&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",20h00 25/09: Spezia - Milan
 http://vophutv.000webhostapp.com/play90p.php?id=614cc853baf5f939c69df867&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h15 24/09: Persiraja Banda - Persipura Jayapura
-http://vophutv.000webhostapp.com/playcakhia.php?id=614c2ef747c3390ce4d1b68a-TfbYKg-TfbYKg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h15 24/09: Persita - Bali United Pusam
-http://vophutv.000webhostapp.com/playcakhia.php?id=614c2f3d47c3390ce4d1b68e-ZdxQyr-ZdxQyr&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 24/09: Shimizu S-Pulse - Vissel Kobe
 http://vophutv.000webhostapp.com/playcakhia.php?id=614c2e0147c3390ce4d1b679-SMkkQU-SMkkQU&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 24/09: Muang Thong United - Ratchaburi FC
