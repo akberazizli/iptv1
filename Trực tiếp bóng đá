@@ -20,10 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QjGpQzg/IMG-20210923-172737.png",HD UD Universitario - CD Motagua
-https://7038446ef.vws.vegacdn.vn/livehls/lhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/k4zYnkN/IMG-20210923-172749.png",SD UD Universitario - CD Motagua
-https://7038446ef.vws.vegacdn.vn/livehls/lsd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 24/09: Uzbekistan - Iran
@@ -57,8 +53,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc951baf5f939c69df869&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 25/09: Hoffenheim - Wolfsburg
 http://vophutv.000webhostapp.com/play90p.php?id=614cc905e0d4672fc68e6d43&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 24/09: UD Universitario - CD Motagua
-http://vophutv.000webhostapp.com/playcakhia.php?id=614bf0b647c3390ce4d1b618-PzPoCr-PzPoCr&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",12h00 24/09: UB Mazaalaynuud - Khoromkhon
 http://vophutv.000webhostapp.com/playcakhia.php?id=614c2e4a47c3390ce4d1b67f-iMXG4l-iMXG4l&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h00 24/09: Nanjing City - Suzhou Dongwu
@@ -105,6 +99,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614d468a47c3390ce4d1b889-9Ont
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d47fa47c3390ce4d1b88c-457WRV-457WRV&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 25/09: Juárez - Queretaro
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d49d047c3390ce4d1b896-D8iDQb-D8iDQb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",11h30 25/09: Bucheon FC 1995 - Gyeongnam FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=614d4f6e47c3390ce4d1b8a2-uIphmC-uIphmC&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",12h00 25/09: Pohang Steelers - Jeju United
+http://vophutv.000webhostapp.com/playcakhia.php?id=614d4f7b47c3390ce4d1b8a5-oa74iU-oa74iU&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",18h30 25/09: Chelsea - Man City
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a392247c3390ce4d1b1c4-Y79lHW-Y79lHW&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",18h30 25/09: Man United - Aston Villa
