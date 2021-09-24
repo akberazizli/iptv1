@@ -20,16 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Uzbekistan - Iran
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Uzbekistan - Iran
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Uzbekistan - Iran
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Uzbekistan - Iran
-https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Uzbekistan - Iran
-https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Uzbekistan - Iran
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -65,8 +55,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc625baf5f939c69df865&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",18h30 25/09: Man United - Aston Villa
 http://vophutv.000webhostapp.com/play90p.php?id=614cc65d92893b39d170498c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 24/09: Uzbekistan - Iran
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a36a547c3390ce4d1b18e-Rc8uxb-Rc8uxb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 25/09: Portugal - Serbia
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a366047c3390ce4d1b188-f2n0rc-f2n0rc&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 25/09: Spain - Czech Republic
@@ -75,6 +63,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614a367a47c3390ce4d1b18b-gbm6
 http://vophutv.000webhostapp.com/playcakhia.php?id=614db78547c3390ce4d1b94d-dXYr7c-dXYr7c&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",01h30 25/09: Greuther Fürth - Bayern München
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a39ba47c3390ce4d1b1e8-qRplmM-qRplmM&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 25/09: Coventry - Peterborough
+http://vophutv.000webhostapp.com/playcakhia.php?id=614dfa6047c3390ce4d1b98c-t7ZGA6-t7ZGA6&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 25/09: West Brom - QPR
+http://vophutv.000webhostapp.com/playcakhia.php?id=614dfa6247c3390ce4d1b98d-40QTmA-40QTmA&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",03h15 25/09: Gil Vicente - FC Porto
 http://vophutv.000webhostapp.com/playcakhia.php?id=614db78747c3390ce4d1b94e-ESk5mP-ESk5mP&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",04h30 25/09: Huachipato - Palestino
