@@ -20,8 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Universidad San Martin - Universidad Cesar Vallejo
-https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Jorge Wilstermann - Independiente Petrolero
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Santa Lucia Cotzumalguapa - Deportivo Saprissa
@@ -34,9 +32,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Coquimbo Unido - Deportes Santa Cruz
-https://ndcagev-swv-47b850307.thapcam.link/c7bd2b13e32580fa3882c2869926d371fb69a91f/203ab89ceb190c6bc6e01fd590a213ca/1632444947343/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f9a5dd189dff25912d6c0c49d6455399729c22dd/203ab89ceb190c6bc6e01fd590a213ca/1632445253639/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atlético Morelia - Alebrijes de Oaxaca
-https://ndcagev-swv-47b850307.thapcam.link/fb7a614e1514338f8073a59d709410cea3e0c4e6/203ab89ceb190c6bc6e01fd590a213ca/1632444947918/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/245568b71112eb4aa9554569ec7228a761b55968/203ab89ceb190c6bc6e01fd590a213ca/1632445254324/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 24/09: Coquimbo Unido - Deportes Santa Cruz
 http://vophutv.000webhostapp.com/play90p.php?id=614c31d474dd7b31c399b1d0&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -73,8 +71,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc9aebba0f52229818231&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 25/09: RB Leipzig - Hertha BSC
 http://vophutv.000webhostapp.com/play90p.php?id=614cc92ebaf5f939c69df868&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 24/09: Universidad San Martin - Universidad Cesar Vallejo
-http://vophutv.000webhostapp.com/playcakhia.php?id=614c0d0647c3390ce4d1b648-xuAkQa-xuAkQa&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h30 24/09: Jorge Wilstermann - Independiente Petrolero
 http://vophutv.000webhostapp.com/playcakhia.php?id=614c0c8147c3390ce4d1b642-psaDnY-psaDnY&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 24/09: Santa Lucia Cotzumalguapa - Deportivo Saprissa
