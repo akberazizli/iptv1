@@ -20,10 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Independiente del Valle - Tecnico Universitario
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Union La Calera - O'Higgins
-https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sporting Kansas City II - FC Tulsa
 https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Estudiantes - Club Atletico Platense
@@ -32,17 +28,19 @@ https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Puebla - Cruz Azul
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Juárez - Queretaro
+https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tijuana - Mazatlan FC
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sporting Kansas City II - FC Tulsa
-https://ndcagev-swv-47b850307.thapcam.link/c0119fc055f2519ad3bd9a73dbc615413719eda6/203ab89ceb190c6bc6e01fd590a213ca/1632535254465/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/dde82e922afe4edc074613b24ab200a8cc7fc861/203ab89ceb190c6bc6e01fd590a213ca/1632535548019/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Estudiantes - Platense
-https://ndcagev-swv-47b850307.thapcam.link/03facb5e74791c921bbf1ca866a5dc07ab9968a6/203ab89ceb190c6bc6e01fd590a213ca/1632535255252/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8a3ed6c37bebc36b5c191bef07e1136193763361/203ab89ceb190c6bc6e01fd590a213ca/1632535548681/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brusque - Vasco da Gama
-https://ndcagev-swv-47b850307.thapcam.link/5a50457d72f16eeb42f27ee101ed71a9cf123ca5/203ab89ceb190c6bc6e01fd590a213ca/1632535256126/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/c5a9e6346f30b3c72661d0dcb0fd9630e6d114bb/203ab89ceb190c6bc6e01fd590a213ca/1632535549507/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Once Caldas - Alianza Petrolera
-https://ndcagev-swv-47b850307.thapcam.link/cf72228b6f4a7b4519cae94587a9f355355c4c8b/203ab89ceb190c6bc6e01fd590a213ca/1632535256845/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a9b73d8f51c4699477156d3e7e0785c3fc82c53a/203ab89ceb190c6bc6e01fd590a213ca/1632535550142/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 25/09: Sporting Kansas City II - FC Tulsa
 http://vophutv.000webhostapp.com/play90p.php?id=614dad62bba0f52229818235&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -83,10 +81,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc7e592893b39d170498e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h30 25/09: Moreirense - Arouca
 http://vophutv.000webhostapp.com/play90p.php?id=614cca8cbba0f52229818232&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Independiente del Valle - Tecnico Universitario
-http://vophutv.000webhostapp.com/playcakhia.php?id=614d3d7c47c3390ce4d1b87a-ocE8l9-ocE8l9&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Union La Calera - O'Higgins
-http://vophutv.000webhostapp.com/playcakhia.php?id=614d42c747c3390ce4d1b87f-DpSZ3y-DpSZ3y&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Sporting Kansas City II - FC Tulsa
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d5e3e47c3390ce4d1b8c0-wcwOOG-wcwOOG&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h15 25/09: Estudiantes - Club Atletico Platense
