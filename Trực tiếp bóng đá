@@ -54,34 +54,10 @@ https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Ceara - Chapecoense AF
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Melipilla - Audax Italiano
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Real Madrid - Villarreal (Thỏ + Liu)
-https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Real Madrid - Villarreal (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/b0059e162e0e4a587a58af7bd0af75ca12c02333/203ab89ceb190c6bc6e01fd590a213ca/1632603348851/livehls/mtc_may9118SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Real Madrid - Villarreal (Thỏ + Liu)
-https://livestream-2.fortuneholding.tk/live/614f6c1673aa8d001cd8a582/614f6c1673aa8d001cd8a582.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Real Madrid - Villarreal (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/a40eee8d640b65132492feb8509f8b23bc264e29/203ab89ceb190c6bc6e01fd590a213ca/1632603348852/livehls/mtc_may9118HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Real Madrid - Villarreal (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/0b6910af36ffd4be1f816d0c6ac8ade431681b5d/203ab89ceb190c6bc6e01fd590a213ca/1632603348852/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lyon - Lorient
-https://1630578888.vnns.net/may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Feyenoord - NEC
-https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 26/09: Genoa - Hellas Verona
-http://vophutv.000webhostapp.com/play90p.php?id=614f1d34baf5f939c69df86f&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",02h00 26/09: Real Madrid - Villarreal (Thỏ + Liu)
-http://vophutv.000webhostapp.com/play90p.php?id=614f1cc8baf5f939c69df86e&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",02h00 26/09: PSG - Montpellier (Nhà đài)
-http://vophutv.000webhostapp.com/play90p.php?id=614f1dfc8bb98639dd59c6df&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",02h00 26/09: Lyon - Lorient
-http://vophutv.000webhostapp.com/play90p.php?id=614f1e1274dd7b31c399b1d9&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h00 26/09: Feyenoord - NEC
-http://vophutv.000webhostapp.com/play90p.php?id=614f1ebabaf5f939c69df872&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h00 26/09: Utrecht - PEC Zwolle
-http://vophutv.000webhostapp.com/play90p.php?id=614f1ecc92893b39d1704997&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 26/09: Pittsburgh Riverhounds - Charleston Battery
 http://vophutv.000webhostapp.com/play90p.php?id=614ed287bba0f52229818237&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 26/09: Forge - Pacific
@@ -127,6 +103,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614f4aeebd3fe44b2091b619-4EMX
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f4acebd3fe44b2091b612-cRrwbR-cRrwbR&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",03h00 26/09: Ceara - Chapecoense AF
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f7b44bd3fe44b2091b6c7-cGI7nC-cGI7nC&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",03h30 26/09: Melipilla - Audax Italiano
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f8cd5bd3fe44b2091b6da-Avsau1-Avsau1&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",05h00 26/09: Corinthians - Palmeiras
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e6a2a47c3390ce4d1bad0-AAfQsH-AAfQsH&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 26/09: Atlas - León
