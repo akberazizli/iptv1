@@ -32,6 +32,8 @@ https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vitoria de Guimaraes - Benfica
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Genoa - Hellas Verona
+https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Ajax - FC Groningen
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -42,7 +44,7 @@ https://1630578888.vnns.net/may71/playlist.m3u8|Referer=https://xoilac.90phutt.x
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Strasbourg - Lille
 https://1630578888.vnns.net/may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Genoa - Hellas Verona
-https://ndcagev-swv-47b850307.thapcam.link/e59cdca1ffaeab71d737b7e14d01e26d2cec92eb/203ab89ceb190c6bc6e01fd590a213ca/1632594950392/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ba5dde31d349d17999e46ea90c841509016c1c19/203ab89ceb190c6bc6e01fd590a213ca/1632595251822/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",23h30 25/09: Brentford - Liverpool (Cáp + Nện)
 http://vophutv.000webhostapp.com/play90p.php?id=614cc73abba0f52229818230&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -99,12 +101,12 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614a3add47c3390ce4d1b22d-zRHj
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f4acdbd3fe44b2091b611-ByNQ4v-ByNQ4v&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 26/09: Genoa - Hellas Verona
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3a9847c3390ce4d1b215-IYlIa3-IYlIa3&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",02h00 26/09: PSG - Montpellier
+http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ae047c3390ce4d1b22f-RRKroj-RRKroj&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",02h00 26/09: Real Madrid - Villarreal
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3a4847c3390ce4d1b206-PGESmN-PGESmN&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",02h00 26/09: Lyon - Lorient
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ade47c3390ce4d1b22e-pdIsNZ-pdIsNZ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",02h00 26/09: PSG - Montpellier
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ae047c3390ce4d1b22f-RRKroj-RRKroj&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 26/09: FC Utrecht - PEC Zwolle
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f4aecbd3fe44b2091b618-Poei3L-Poei3L&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 26/09: Feyenoord - NEC Nijmegen
