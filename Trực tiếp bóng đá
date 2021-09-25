@@ -24,16 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Leverkusen - Mainz
-https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Frankfurt - Köln
-https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Hoffenheim - Wolfsburg
-https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài RB Leipzig - Hertha BSC
-https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Union Berlin - Arminia Bielefeld
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Leicester - Burnley
 https://7038446ef.vws.vegacdn.vn/livehls/m101nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Leicester - Burnley
@@ -65,28 +55,18 @@ https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Saint-Etienne - Nice
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Hoffenheim - Wolfsburg
-https://1630578888.vnns.net/may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài RB Leipzig - Hertha BSC
-https://ndcagev-swv-47b850307.thapcam.link/6e1c4b559ea8681ac07adb99c0fcb578b2b3aa7a/203ab89ceb190c6bc6e01fd590a213ca/1632583851727/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Leverkusen - Mainz
-https://1630578888.vnns.net/may51/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Frankfurt - Köln
-https://ndcagev-swv-47b850307.thapcam.link/63ea9f05b88ab1bec1a3f3c043da728f3bf3deb1/203ab89ceb190c6bc6e01fd590a213ca/1632583853474/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Union Berlin - Arminia Bielefeld
-https://1630578888.vnns.net/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Everton - Norwich
 https://1630578888.vnns.net/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Leicester - Burnley
-https://ndcagev-swv-47b850307.thapcam.link/4c3967a0a60853725c421a7a41ccad7f371b9555/203ab89ceb190c6bc6e01fd590a213ca/1632583855658/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/928b653be3814ed9e29cd68227d3444d85836bfe/203ab89ceb190c6bc6e01fd590a213ca/1632584151005/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Watford - Newcastle
-https://ndcagev-swv-47b850307.thapcam.link/db26e705fe6339da61a476c172ed3e3a21127cc7/203ab89ceb190c6bc6e01fd590a213ca/1632583856419/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/52f8db4912a75809139d8a873b24381f30d23e4b/203ab89ceb190c6bc6e01fd590a213ca/1632584151940/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Leeds - West Ham
-https://ndcagev-swv-47b850307.thapcam.link/ecedf97ba3b73cb8869c28ae869a3e14294f344c/203ab89ceb190c6bc6e01fd590a213ca/1632583857856/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/dd8766eabc502b6ef5b583673eac7a6f4ff4f165/203ab89ceb190c6bc6e01fd590a213ca/1632584152330/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Valencia - Athletic Club
-https://ndcagev-swv-47b850307.thapcam.link/2ca51921a16b5e805fccad6f84710ff53a1a388b/203ab89ceb190c6bc6e01fd590a213ca/1632583858847/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/fee37ad921df888ed5bdfc50273a81e6af0c2e2a/203ab89ceb190c6bc6e01fd590a213ca/1632584153341/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Willem II - PSV Eindhoven
-https://ndcagev-swv-47b850307.thapcam.link/d9b64bb429c1769f8d71d16186e1ad319c97651b/203ab89ceb190c6bc6e01fd590a213ca/1632583859258/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0a56b427800943b8e8a7d4afe6c95dbc80ce2355/203ab89ceb190c6bc6e01fd590a213ca/1632584153487/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Saint-Etienne - Nice
 https://1630578888.vnns.net/may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
@@ -145,16 +125,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1dfc8bb98639dd59c6df&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 26/09: Forge - Pacific
 http://vophutv.000webhostapp.com/play90p.php?id=614ed1f5baf5f939c69df86c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",20h30 25/09: Leverkusen - Mainz
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a39c447c3390ce4d1b1eb-N9edMz-N9edMz&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",20h30 25/09: Frankfurt - Köln
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a39c547c3390ce4d1b1ec-mjdCzb-mjdCzb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",20h30 25/09: Hoffenheim - Wolfsburg
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a39c747c3390ce4d1b1ed-uQG11b-uQG11b&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",20h30 25/09: RB Leipzig - Hertha BSC
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a39c847c3390ce4d1b1f0-usrsCb-usrsCb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",20h30 25/09: Union Berlin - Arminia Bielefeld
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a39ca47c3390ce4d1b1f3-0FFvqj-0FFvqj&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",21h00 25/09: Leicester - Burnley
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a393a47c3390ce4d1b1cb-16e4Nl-16e4Nl&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",21h00 25/09: Everton - Norwich
