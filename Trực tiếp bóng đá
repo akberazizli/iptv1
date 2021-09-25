@@ -20,8 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Deportivo Cali - Deportivo Pereira
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Independiente del Valle - Tecnico Universitario
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Union La Calera - O'Higgins
@@ -36,17 +34,17 @@ https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Deportivo Cali - Deportivo Pereira
-https://ndcagev-swv-47b850307.thapcam.link/28fff33c651d8196ace81e153f1a2cd7937930dc/203ab89ceb190c6bc6e01fd590a213ca/1632531947716/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f0ee98dd97adc03064e6a7f9be667adaefafa4ad/203ab89ceb190c6bc6e01fd590a213ca/1632532248815/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Unión La Calera - O'Higgins
-https://ndcagev-swv-47b850307.thapcam.link/207f6f5266cb1bad852a323d7274d70b06f08726/203ab89ceb190c6bc6e01fd590a213ca/1632531948452/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8f953ce04372f7e9a75cd4498c403eeba3e85ceb/203ab89ceb190c6bc6e01fd590a213ca/1632532249530/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sporting Kansas City II - FC Tulsa
-https://ndcagev-swv-47b850307.thapcam.link/74a4129f11e24f59b623c20a6ace28fe3311c982/203ab89ceb190c6bc6e01fd590a213ca/1632531949161/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/3fc2c1027627432c1288e91f67bbfbb72d793c93/203ab89ceb190c6bc6e01fd590a213ca/1632532250109/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Estudiantes - Platense
-https://ndcagev-swv-47b850307.thapcam.link/08dad81755270285e8ca7257bbc98a31ed9badf6/203ab89ceb190c6bc6e01fd590a213ca/1632531949774/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/10c34753fc2fb366d42c4eb5b228d69a38e9e015/203ab89ceb190c6bc6e01fd590a213ca/1632532250798/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brusque - Vasco da Gama
-https://ndcagev-swv-47b850307.thapcam.link/7086983a9c4ae60014ba6cc1daf6b6a3c124d141/203ab89ceb190c6bc6e01fd590a213ca/1632531950460/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/e2a944afd66c46066bbf72462e37527e8391840c/203ab89ceb190c6bc6e01fd590a213ca/1632532251632/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Once Caldas - Alianza Petrolera
-https://ndcagev-swv-47b850307.thapcam.link/f0353454635449ad74e9275f5e75f1e07946d5f0/203ab89ceb190c6bc6e01fd590a213ca/1632531951375/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ce9152416aa93c7373e20d73fa9e42b4b9ea4703/203ab89ceb190c6bc6e01fd590a213ca/1632532252347/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 25/09: Deportivo Cali - Deportivo Pereira
 http://vophutv.000webhostapp.com/play90p.php?id=614d67e492893b39d1704991&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -89,8 +87,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc689baf5f939c69df866&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",21h15 25/09: Valencia - Athletic Club
 http://vophutv.000webhostapp.com/play90p.php?id=614cc7e592893b39d170498e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 25/09: Deportivo Cali - Deportivo Pereira
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e10af47c3390ce4d1b9c4-oa5DgM-oa5DgM&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Independiente del Valle - Tecnico Universitario
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d3d7c47c3390ce4d1b87a-ocE8l9-ocE8l9&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Union La Calera - O'Higgins
