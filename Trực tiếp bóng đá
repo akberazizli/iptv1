@@ -24,8 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Ceara - Chapecoense AF
-https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Melipilla - Audax Italiano
 https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Corinthians - Palmeiras
@@ -65,8 +63,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1d4774dd7b31c399b1d8&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",18h00 26/09: Bordeaux - Rennes
 http://vophutv.000webhostapp.com/play90p.php?id=614f1e26c6aff63667deb15b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",03h00 26/09: Ceara - Chapecoense AF
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f7b44bd3fe44b2091b6c7-cGI7nC-cGI7nC&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",03h30 26/09: Melipilla - Audax Italiano
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f8cd5bd3fe44b2091b6da-Avsau1-Avsau1&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",05h00 26/09: Corinthians - Palmeiras
@@ -233,3 +229,31 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d5047c3390ce4d1ba8d-c7FH
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d5247c3390ce4d1ba90-2wvAO0-2wvAO0&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",23h45 29/09: Zenit - Malmö FF
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d5447c3390ce4d1ba93-ecj5Jj-ecj5Jj&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Bayern München - Dynamo Kyiv
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c3bbd3fe44b2091b72d-AkU0u8-AkU0u8&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Benfica - Barcelona
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c3ebd3fe44b2091b72e-kXHfDg-kXHfDg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Man United - Villarreal
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c43bd3fe44b2091b733-8f6WFP-8f6WFP&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Salzburg - Lille
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c46bd3fe44b2091b734-Oxz2Uh-Oxz2Uh&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Wolfsburg - Sevilla
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c49bd3fe44b2091b737-f0OcFZ-f0OcFZ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Juventus - Chelsea
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c4cbd3fe44b2091b73a-zCB3Ez-zCB3Ez&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Lyon - Brøndby IF
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c77bd3fe44b2091b73f-B5uQ0W-B5uQ0W&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Sparta Prague - Rangers
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c7dbd3fe44b2091b742-KkqFIv-KkqFIv&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Real Sociedad - Monaco
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c83bd3fe44b2091b745-CpeWEK-CpeWEK&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Sturm Graz - PSV Eindhoven
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c88bd3fe44b2091b748-Hw3GsN-Hw3GsN&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Legia Warszawa - Leicester
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c8fbd3fe44b2091b74b-saMDvl-saMDvl&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Napoli - Spartak
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c96bd3fe44b2091b74e-NCSJzf-NCSJzf&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Fenerbahce - Olympiacos
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c9ebd3fe44b2091b751-L6ejND-L6ejND&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Royal Antwerp - Frankfurt
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9ca5bd3fe44b2091b754-A9yISs-A9yISs&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
