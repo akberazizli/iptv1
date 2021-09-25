@@ -20,10 +20,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sporting Kansas City II - FC Tulsa
-https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Estudiantes - Club Atletico Platense
-https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Brusque - Vasco da Gama
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Puebla - Cruz Azul
@@ -33,12 +29,10 @@ https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tijuana - Mazatlan FC
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Estudiantes - Platense
-https://ndcagev-swv-47b850307.thapcam.link/d240ce1b0faab4937a25cd85dc43de6ffb640851/203ab89ceb190c6bc6e01fd590a213ca/1632535849472/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brusque - Vasco da Gama
-https://ndcagev-swv-47b850307.thapcam.link/f7eef63e0b85a46012ad14e8889cff76edf3169e/203ab89ceb190c6bc6e01fd590a213ca/1632535850231/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/965101b44209765f677d8689e0a8871036c0ad9d/203ab89ceb190c6bc6e01fd590a213ca/1632536150989/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Once Caldas - Alianza Petrolera
-https://ndcagev-swv-47b850307.thapcam.link/cb90457f91abb45b7e3d5d763eee67859ba9d0c9/203ab89ceb190c6bc6e01fd590a213ca/1632535850921/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/cb6e0ea9a9253c7eca0d894a433709e63d16c773/203ab89ceb190c6bc6e01fd590a213ca/1632536151782/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 25/09: Sporting Kansas City II - FC Tulsa
 http://vophutv.000webhostapp.com/play90p.php?id=614dad62bba0f52229818235&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -79,10 +73,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614cc7e592893b39d170498e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h30 25/09: Moreirense - Arouca
 http://vophutv.000webhostapp.com/play90p.php?id=614cca8cbba0f52229818232&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 25/09: Sporting Kansas City II - FC Tulsa
-http://vophutv.000webhostapp.com/playcakhia.php?id=614d5e3e47c3390ce4d1b8c0-wcwOOG-wcwOOG&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h15 25/09: Estudiantes - Club Atletico Platense
-http://vophutv.000webhostapp.com/playcakhia.php?id=614d465847c3390ce4d1b884-3QGOgB-3QGOgB&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 25/09: Brusque - Vasco da Gama
 http://vophutv.000webhostapp.com/playcakhia.php?id=614d468a47c3390ce4d1b889-9OntOK-9OntOK&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 25/09: Puebla - Cruz Azul
