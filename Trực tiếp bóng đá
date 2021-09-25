@@ -24,16 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Inter - Atalanta
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Inter - Atalanta
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Inter - Atalanta
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Inter - Atalanta
-https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Inter - Atalanta
-https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Brentford - Liverpool
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Brentford - Liverpool
@@ -57,30 +47,20 @@ https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vitoria de Guimaraes - Benfica
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Inter - Atalanta (Thỏ + Liu)
-https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Inter - Atalanta (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/99f628a439eb701975de6ba840418b177f70fdfa/203ab89ceb190c6bc6e01fd590a213ca/1632592545863/livehls/mtc_may3548766SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Inter - Atalanta (Thỏ + Liu)
-https://livestream-2.fortuneholding.tk/live/614f3ef35c3df9001c5666b3/614f3ef35c3df9001c5666b3.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Inter - Atalanta (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/f5d4178e8a04e2fa914501365b86cbc1c1d94246/203ab89ceb190c6bc6e01fd590a213ca/1632592545863/livehls/mtc_may3548766HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Inter - Atalanta (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/7b445e5af67897f4cd07638dfc5639db5c425a90/203ab89ceb190c6bc6e01fd590a213ca/1632592545863/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Brentford - Liverpool (Cáp + Nện)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Brentford - Liverpool (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/81e87342651ade6b93ebd1690151c1691653a6ed/203ab89ceb190c6bc6e01fd590a213ca/1632592546514/livehls/mtc_may9116SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/27b2817f8a9e5d363df934dbdf73dec7ed9a8c59/203ab89ceb190c6bc6e01fd590a213ca/1632592852330/livehls/mtc_may9116SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Brentford - Liverpool (Cáp + Nện)
 https://livestream.fortuneholding.tk/live/614f5b2a590496001dbe2a77/614f5b2a590496001dbe2a77.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Brentford - Liverpool (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/b14e97d1152317dac100cb71072c3d750e941e0a/203ab89ceb190c6bc6e01fd590a213ca/1632592546514/livehls/mtc_may9116HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/90a6508440454188902a622fff6756a3ba5a034b/203ab89ceb190c6bc6e01fd590a213ca/1632592852331/livehls/mtc_may9116HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brentford - Liverpool (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/8138b86f69a13b2ea2e81b514905736ab498f3ac/203ab89ceb190c6bc6e01fd590a213ca/1632592546515/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/c829cb87bdeb46d9051eada9e7b00031b3385ed2/203ab89ceb190c6bc6e01fd590a213ca/1632592852331/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sevilla - Espanyol
-https://ndcagev-swv-47b850307.thapcam.link/7ffc65ee90493d42f65730793f1df3b1dbf0f70d/203ab89ceb190c6bc6e01fd590a213ca/1632592547514/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d6b78b68d8324709a0c78dfdad3be27ac0eebcc9/203ab89ceb190c6bc6e01fd590a213ca/1632592852731/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài M'gladbach - Dortmund
-https://ndcagev-swv-47b850307.thapcam.link/20686a9343cb626bec0de1965df806e4ab78870b/203ab89ceb190c6bc6e01fd590a213ca/1632592547903/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/7fc67df48b06f4c1f5600ca215599432b8be648e/203ab89ceb190c6bc6e01fd590a213ca/1632592853690/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Ajax - FC Groningen
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vitesse - Fortuna Sittard
@@ -137,8 +117,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614ed0d8bba0f52229818236&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 26/09: Coritiba - Guarani
 http://vophutv.000webhostapp.com/play90p.php?id=614ed1818bb98639dd59c6dc&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",23h00 25/09: Inter - Atalanta
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a39a647c3390ce4d1b1e3-qi4DX7-qi4DX7&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",23h30 25/09: Brentford - Liverpool
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a396e47c3390ce4d1b1d6-WYuXlN-WYuXlN&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",23h30 25/09: Sevilla - Espanyol
