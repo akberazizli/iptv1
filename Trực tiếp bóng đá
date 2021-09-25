@@ -32,15 +32,37 @@ https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/ducsd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Renofa Yamaguchi - V-Varen Nagasaki
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Man United - Aston Villa
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Man United - Aston Villa
+https://1630578830.vnns.net/cakhiahd2/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Man United - Aston Villa
+https://1630578830.vnns.net/cakhiasd2/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Man United - Aston Villa
+https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Man United - Aston Villa
+https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Chelsea - Man City
+https://7038446ef.vws.vegacdn.vn/livehls/m101nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Chelsea - Man City
+https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Chelsea - Man City
+https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Chelsea - Man City
+https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Chelsea - Man City
+https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Reading - Middlesbrough
+https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Chelsea - Man City (Cáp + Nện)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Chelsea - Man City (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/be6452d1d94dfad838e61bd51e6fab7551762981/203ab89ceb190c6bc6e01fd590a213ca/1632568848330/livehls/mtc_may3548765SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a5f72724afa4525165d3fd6319f02b9360e575aa/203ab89ceb190c6bc6e01fd590a213ca/1632569146037/livehls/mtc_may3548765SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Chelsea - Man City (Cáp + Nện)
 https://livestream.fortuneholding.tk/live/614efa338a4c94001c7b897f/614efa338a4c94001c7b897f.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Chelsea - Man City (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/7b377433006fc3c592b81266e8cea9852ff3a5e7/203ab89ceb190c6bc6e01fd590a213ca/1632568848330/livehls/mtc_may3548765HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/64007cf9e5bae29c6b52cd0138cfa5fe49e4d566/203ab89ceb190c6bc6e01fd590a213ca/1632569146037/livehls/mtc_may3548765HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Chelsea - Man City (Cáp + Nện)
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Man United - Aston Villa (Bát Man + Liu men)
@@ -48,11 +70,11 @@ https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f930
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Man United - Aston Villa (Bát Man + Liu men)
 https://1630578888.vnns.net/may9115SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",SD3 Man United - Aston Villa (Bát Man + Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/67cf6181ac87d96b388a2f42363eb3129df082d7/203ab89ceb190c6bc6e01fd590a213ca/1632568849032/livehls/mtc_may9115SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/71dd6aa462417df5fe5d86d4e4ce1c4ed9a56523/203ab89ceb190c6bc6e01fd590a213ca/1632569146976/livehls/mtc_may9115SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Man United - Aston Villa (Bát Man + Liu men)
 https://livestream-2.fortuneholding.tk/live/614f01013c9a1b001cd0e517/614f01013c9a1b001cd0e517.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Man United - Aston Villa (Bát Man + Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/6b67afe83cdea3adf32c0bc6d83fbc416a7b8717/203ab89ceb190c6bc6e01fd590a213ca/1632568849032/livehls/mtc_may9115HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/15a2cca24817260b6b39188e993af37ebfc25392/203ab89ceb190c6bc6e01fd590a213ca/1632569146978/livehls/mtc_may9115HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Man United - Aston Villa (Bát Man + Liu men)
 https://1630578888.vnns.net/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
