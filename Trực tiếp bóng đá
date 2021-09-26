@@ -48,13 +48,15 @@ https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Cruzeiro - CSA
 https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Portimonense - Vizela
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Napoli - Cagliari
-https://ndcagev-swv-47b850307.thapcam.link/8304a9aacad18874a993c79096f6d83b518e55b3/203ab89ceb190c6bc6e01fd590a213ca/1632684050030/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/af76bea74ac4c741aea3d86d0ab3912243203ac5/203ab89ceb190c6bc6e01fd590a213ca/1632684348575/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Marseille - Lens
-https://ndcagev-swv-47b850307.thapcam.link/a682ff56f17857626e39656e7e88a96a37768d83/203ab89ceb190c6bc6e01fd590a213ca/1632684050755/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/c1e540124672f631a695b3cc0183246ae65f91ea/203ab89ceb190c6bc6e01fd590a213ca/1632684349281/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Real Betis - Getafe
-https://ndcagev-swv-47b850307.thapcam.link/5e8fd2d2fc19e8bb1b282b736e9ed6813b65e270/203ab89ceb190c6bc6e01fd590a213ca/1632684051445/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/03ec014e3bcdbfa4490cc42c5272f9b2e88c654c/203ab89ceb190c6bc6e01fd590a213ca/1632684349966/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",00h00 27/09: Santa Clara - Sporting Braga
 http://vophutv.000webhostapp.com/play90p.php?id=61504853e0d4672fc68e6d4c&.m3u8|Referer=https://xoilac.90phutt.xyz/
