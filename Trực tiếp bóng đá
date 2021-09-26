@@ -38,7 +38,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sparta Rotterdam - Cambuur
-https://ndcagev-swv-47b850307.thapcam.link/27dd800a2eb775d5be729ed79468d8c623eae9bd/203ab89ceb190c6bc6e01fd590a213ca/1632651348268/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/103118aaebc1d32b367e4661e23f3ab8ba7398ee/203ab89ceb190c6bc6e01fd590a213ca/1632651648285/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Juventus - Sampdoria
+https://ndcagev-swv-47b850307.thapcam.link/0e9ed64bbf3d337fddaa7e2fb1abc2e75c4a8df0/203ab89ceb190c6bc6e01fd590a213ca/1632651649222/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",17h15 26/09: Sparta Rotterdam - Cambuur
 http://vophutv.000webhostapp.com/play90p.php?id=614f1ee692893b39d1704998&.m3u8|Referer=https://xoilac.90phutt.xyz/
