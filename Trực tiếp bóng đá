@@ -46,8 +46,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m404nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Troyes - Angers
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Morocco - Brazil
-https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Bochum - VfB Stuttgart
 https://7038446ef.vws.vegacdn.vn/livehls/m504nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Barcelona - Levante
@@ -60,23 +58,25 @@ https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.t
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Barcelona - Levante
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Heracles - RKC Waalwijk
+https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài AZ - Go Ahead Eagles
-https://ndcagev-swv-47b850307.thapcam.link/7b9e9ad3d708b40b06c15913d6899689b781e3b4/203ab89ceb190c6bc6e01fd590a213ca/1632666946724/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/fc3c8b65a6d455432055ee454d286e010c58b101/203ab89ceb190c6bc6e01fd590a213ca/1632667248046/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Heerenveen - Twente
-https://ndcagev-swv-47b850307.thapcam.link/298699c03c3d71a30b98e37d6622c4504407e5d9/203ab89ceb190c6bc6e01fd590a213ca/1632666947159/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1ce9d4c10348d52c2b69601dde612a26c2bcb866/203ab89ceb190c6bc6e01fd590a213ca/1632667248718/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Southampton - Wolverhampton
-https://ndcagev-swv-47b850307.thapcam.link/8142a79006c734bde4b42cedb6196a2637e4fc32/203ab89ceb190c6bc6e01fd590a213ca/1632666948197/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/efc5e1b2490fe27fd6f19ff995b06b7e40efdf13/203ab89ceb190c6bc6e01fd590a213ca/1632667249433/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Empoli - Bologna
 https://1630578888.vnns.net/may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Udinese - Fiorentina
-https://ndcagev-swv-47b850307.thapcam.link/a2363eb114a7de89b3a644b1d1e45645d1f9c03e/203ab89ceb190c6bc6e01fd590a213ca/1632666949293/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/20d27855eda7af5e9e24725b47da5b8acae54288/203ab89ceb190c6bc6e01fd590a213ca/1632667250790/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sassuolo - Salernitana
 https://1630578888.vnns.net/may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brest - Metz
 https://1630578888.vnns.net/may51/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Reims - Nantes
-https://ndcagev-swv-47b850307.thapcam.link/6c3578ae0929bfbc2babf85694b7221289bd3388/203ab89ceb190c6bc6e01fd590a213ca/1632666951593/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1c10f99f2a06b35e8e08e1d850c195a62e87f575/203ab89ceb190c6bc6e01fd590a213ca/1632667252854/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Troyes - Angers SCO
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Morocco - Brazil
@@ -86,15 +86,15 @@ https://1630578888.vnns.net/may101/playlist.m3u8|Referer=https://xoilac.90phutt.
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Barcelona - Levante (Cáp + Nện)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Barcelona - Levante (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/a8efd231b191eb784ac1fa4796a49962f168582e/203ab89ceb190c6bc6e01fd590a213ca/1632666954362/livehls/mtc_may3548798SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d8aee664f54057cd4c4aeb97b87acafb8c29093a/203ab89ceb190c6bc6e01fd590a213ca/1632667255981/livehls/mtc_may3548798SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Barcelona - Levante (Cáp + Nện)
 https://livestream-2.fortuneholding.tk/live/61507b96564c05001cdcb901/61507b96564c05001cdcb901.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Barcelona - Levante (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/80e9cdee4aaa52babbcd079dd09389b655ce1ab4/203ab89ceb190c6bc6e01fd590a213ca/1632666954362/livehls/mtc_may3548798HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/124863d3b9e839cc12881366919347183bc05f80/203ab89ceb190c6bc6e01fd590a213ca/1632667255982/livehls/mtc_may3548798HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Barcelona - Levante (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/5c72f37cf9cb963ee2cd086c5220897201d5e0f2/203ab89ceb190c6bc6e01fd590a213ca/1632666954362/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/9e50a62226401eb9b3230e2f5c171582142e1a6e/203ab89ceb190c6bc6e01fd590a213ca/1632667255982/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Heracles - RKC Waalwijk
-https://ndcagev-swv-47b850307.thapcam.link/8b8ce50f41908991126b414d914f770d927661de/203ab89ceb190c6bc6e01fd590a213ca/1632666955040/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/bed339a0d98da6316df35c7cb7ef4ca733a82cb7/203ab89ceb190c6bc6e01fd590a213ca/1632667256399/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",19h30 26/09: AZ - Go Ahead Eagles
 http://vophutv.000webhostapp.com/play90p.php?id=614f1f0274dd7b31c399b1da&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -163,8 +163,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ae247c3390ce4d1b233-0g3L
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ae347c3390ce4d1b236-klohVF-klohVF&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",20h00 26/09: Troyes - Angers
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ae547c3390ce4d1b239-JL3Gm8-JL3Gm8&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",20h00 26/09: Morocco - Brazil
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4be247c3390ce4d1ba4d-W1Lq2B-W1Lq2B&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",20h30 26/09: Bochum - VfB Stuttgart
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ab047c3390ce4d1b227-ja3Nv0-ja3Nv0&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",21h15 26/09: Barcelona - Levante
