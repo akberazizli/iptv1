@@ -69,6 +69,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1cf074dd7b31c399b1d6&.m3u8|R
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h00 26/09: Kawasaki Frontale - Shonan Bellmare
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f1693bd3fe44b2091b4fc-Stfxfb-Stfxfb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h00 26/09: Khoromkhon - Erchim FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=61503fe5bd3fe44b2091b8c7-VXguu9-VXguu9&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 26/09:  Xinjiang - Guizhou FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f16e9bd3fe44b2091b50b-VYI2GO-VYI2GO&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 26/09: Chungnam Asan FC - Jeonnam Dragons
@@ -171,6 +173,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614fd72dbd3fe44b2091b7d9-cIE1
 http://vophutv.000webhostapp.com/playcakhia.php?id=614ffadabd3fe44b2091b838-sVPUmx-sVPUmx&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",12h00 27/09: Ubud Mazaranud - BCH Lion
 http://vophutv.000webhostapp.com/playcakhia.php?id=614ffc7ebd3fe44b2091b83d-bPkjp4-bPkjp4&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h15 27/09: PSM Makassar - Barito Putera
+http://vophutv.000webhostapp.com/playcakhia.php?id=61503ecebd3fe44b2091b8bd-2rE861-2rE861&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h30 27/09: Seoul E-Land FC - Busan I'Park
+http://vophutv.000webhostapp.com/playcakhia.php?id=61503ebbbd3fe44b2091b8ba-i0Rt26-i0Rt26&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 27/09: Spain - Portugal
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4c4647c3390ce4d1ba53-6iYYHe-6iYYHe&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 28/09: Iran - Kazakhstan
