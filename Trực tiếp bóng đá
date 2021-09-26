@@ -24,8 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sparta Rotterdam - Cambuur
-https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Juventus - Sampdoria
 https://7038446ef.vws.vegacdn.vn/livehls/m101nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Juventus - Sampdoria
@@ -42,13 +40,13 @@ https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sparta Rotterdam - Cambuur
-https://ndcagev-swv-47b850307.thapcam.link/6baf742b6ef6f96b6f814ac0c82fb265b40f9ed5/203ab89ceb190c6bc6e01fd590a213ca/1632658248169/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/96f08f7988903b0dfc2a7f92634eb440c0e08102/203ab89ceb190c6bc6e01fd590a213ca/1632658547219/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Juventus - Sampdoria
-https://ndcagev-swv-47b850307.thapcam.link/32a3f04f03e073d8d2a5e90d9c84d527e6ce9e73/203ab89ceb190c6bc6e01fd590a213ca/1632658248851/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/6a0d24591b3c2f5170be470866547510781ded74/203ab89ceb190c6bc6e01fd590a213ca/1632658547972/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Bordeaux - Rennes
-https://ndcagev-swv-47b850307.thapcam.link/ddfa7e43d5d4f44ce715bba76f6896f00e041b9b/203ab89ceb190c6bc6e01fd590a213ca/1632658249809/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/bd86036448b811e0fe2feb828b836b4b209537ca/203ab89ceb190c6bc6e01fd590a213ca/1632658548672/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mallorca - Osasuna
-https://ndcagev-swv-47b850307.thapcam.link/f4ef3de18cfd65785337920eea2b9690f31be454/203ab89ceb190c6bc6e01fd590a213ca/1632658250214/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/14b9a6c383ea83b8901e624e78fa2df8bbcc84b8/203ab89ceb190c6bc6e01fd590a213ca/1632658549364/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",17h15 26/09: Sparta Rotterdam - Cambuur
 http://vophutv.000webhostapp.com/play90p.php?id=614f1ee692893b39d1704998&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -87,8 +85,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1f2ee0d4672fc68e6d4a&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",22h00 26/09: Clermont - Monaco
 http://vophutv.000webhostapp.com/play90p.php?id=614f1e9a92893b39d1704996&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h15 26/09: Sparta Rotterdam - Cambuur
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f932ebd3fe44b2091b71e-Eh0DLx-Eh0DLx&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",17h30 26/09: Juventus - Sampdoria
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3a9947c3390ce4d1b216-pW2LuX-pW2LuX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",18h00 26/09: Bordeaux - Rennes
