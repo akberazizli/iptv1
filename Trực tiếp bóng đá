@@ -24,10 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Columbus - Montreal
-https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài DC United - Cincinnati
-https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Colorado - Toronto
 https://7038446ef.vws.vegacdn.vn/livehls/m303nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Minnesota - Houston
@@ -42,13 +38,13 @@ https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài São Paulo - Atlético Mineiro
-https://ndcagev-swv-47b850307.thapcam.link/932bf5979fd5946d1eb39c604c58cf3c1edc3e54/203ab89ceb190c6bc6e01fd590a213ca/1632620148162/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/105d6d901e23ea1a2dd39263bef2c6cdd0b39523/203ab89ceb190c6bc6e01fd590a213ca/1632620448689/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Coritiba - Guarani
-https://ndcagev-swv-47b850307.thapcam.link/6262064e460daf75b80c960b6ab192a3072e2294/203ab89ceb190c6bc6e01fd590a213ca/1632620148546/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ff6f6e4e494b8be0c9ad9706d52a212542cc162f/203ab89ceb190c6bc6e01fd590a213ca/1632620449362/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Colorado Springs - Austin Bold
-https://ndcagev-swv-47b850307.thapcam.link/1b7443d7b10d6cec9ecda827eef319095fab5506/203ab89ceb190c6bc6e01fd590a213ca/1632620149401/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/98c1b60fe36956f0e968fc15e56d4530d29335ec/203ab89ceb190c6bc6e01fd590a213ca/1632620450086/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Memphis 901 - Louisville City
-https://ndcagev-swv-47b850307.thapcam.link/ede7c7d4c7e95c6883e51812ebaf6ae4f987f305/203ab89ceb190c6bc6e01fd590a213ca/1632620149918/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/dfeafd046337350bc0c8c79f486bb97c16229e13/203ab89ceb190c6bc6e01fd590a213ca/1632620450945/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 26/09: São Paulo - Atlético Mineiro
 http://vophutv.000webhostapp.com/play90p.php?id=614ed0d8bba0f52229818236&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -89,10 +85,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1d7d92893b39d1704994&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",20h00 26/09: Reims - Nantes
 http://vophutv.000webhostapp.com/play90p.php?id=614f1e74e0d4672fc68e6d49&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h30 26/09: Columbus - Montreal
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e6cce47c3390ce4d1baeb-t0t3cp-t0t3cp&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h30 26/09: DC United - Cincinnati
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e6cd547c3390ce4d1baee-OEOJBt-OEOJBt&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 26/09: Colorado - Toronto
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e6d0747c3390ce4d1baf1-eDBcR8-eDBcR8&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 26/09: Minnesota - Houston
