@@ -42,11 +42,13 @@ https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bon
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sparta Rotterdam - Cambuur
-https://ndcagev-swv-47b850307.thapcam.link/003d9e50efbdc891de8622abd25743eaf44b42c0/203ab89ceb190c6bc6e01fd590a213ca/1632656747414/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/67b784eebab66f50f9aad30e3c5dfdbfbf961ee3/203ab89ceb190c6bc6e01fd590a213ca/1632657047269/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Juventus - Sampdoria
-https://ndcagev-swv-47b850307.thapcam.link/1ffa460de4cdf30ca2569c2293b1148a2bff7763/203ab89ceb190c6bc6e01fd590a213ca/1632656748374/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/27203dff65eea0f749368ee02ba0561c515ac9dc/203ab89ceb190c6bc6e01fd590a213ca/1632657048012/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Bordeaux - Rennes
-https://ndcagev-swv-47b850307.thapcam.link/657b8223b6dc9b5f1c01ec3fff5c4bf9c3201d52/203ab89ceb190c6bc6e01fd590a213ca/1632656749101/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f257e824eaba18dfada108c25fd7e03f83730a34/203ab89ceb190c6bc6e01fd590a213ca/1632657048672/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mallorca - Osasuna
+https://ndcagev-swv-47b850307.thapcam.link/d89c5fa4ce04dc699cb3c805373ab646334851a0/203ab89ceb190c6bc6e01fd590a213ca/1632657049377/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",17h15 26/09: Sparta Rotterdam - Cambuur
 http://vophutv.000webhostapp.com/play90p.php?id=614f1ee692893b39d1704998&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -193,6 +195,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61504198bd3fe44b2091b8e0-qWoG
 http://vophutv.000webhostapp.com/playcakhia.php?id=615042a4bd3fe44b2091b8ea-g4c47a-g4c47a&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h00 27/09: Ordabasy Shymkent - Kaspiy Aktau
 http://vophutv.000webhostapp.com/playcakhia.php?id=615057debd3fe44b2091b939-c2n2fL-c2n2fL&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",21h00 27/09: Volga Ulyanovsk  - Dinamo Barnaul
+http://vophutv.000webhostapp.com/playcakhia.php?id=61505dabbd3fe44b2091b94b-pjE4NZ-pjE4NZ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 27/09: Spain - Portugal
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4c4647c3390ce4d1ba53-6iYYHe-6iYYHe&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 28/09: Iran - Kazakhstan
