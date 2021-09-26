@@ -28,8 +28,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Young Lions - Tanjong Pagar
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Geylang FC - Lion City Sailors FC
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Gamba Osaka - Kashiwa Reysol
 https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sparta Rotterdam - Cambuur
@@ -48,11 +46,11 @@ https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bon
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sparta Rotterdam - Cambuur
-https://ndcagev-swv-47b850307.thapcam.link/9b7c0ca07548e9bc1970fd953dfeac893103adea/203ab89ceb190c6bc6e01fd590a213ca/1632655545874/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f53877530ee1d8132bffe6a89957c60e127ee51d/203ab89ceb190c6bc6e01fd590a213ca/1632655852106/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Juventus - Sampdoria
-https://ndcagev-swv-47b850307.thapcam.link/c950b6780fa5d3a7c23d884c1feeece27a118b11/203ab89ceb190c6bc6e01fd590a213ca/1632655546832/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b100fd50fe60451b4cc3e65d8b535a44d6d9fce2/203ab89ceb190c6bc6e01fd590a213ca/1632655852798/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Bordeaux - Rennes
-https://ndcagev-swv-47b850307.thapcam.link/ef42af00cabdc5a12c35311593723270909f81ff/203ab89ceb190c6bc6e01fd590a213ca/1632655547238/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a15b93e67e3883616fbd10400749290e8fdf4e09/203ab89ceb190c6bc6e01fd590a213ca/1632655853561/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",17h15 26/09: Sparta Rotterdam - Cambuur
 http://vophutv.000webhostapp.com/play90p.php?id=614f1ee692893b39d1704998&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -93,8 +91,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1e9a92893b39d1704996&.m3u8|R
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f169cbd3fe44b2091b502-NbMK0x-NbMK0x&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 26/09: Young Lions - Tanjong Pagar
 http://vophutv.000webhostapp.com/playcakhia.php?id=61501580bd3fe44b2091b85f-lQ7gr9-lQ7gr9&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 26/09: Geylang FC - Lion City Sailors FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=615015c5bd3fe44b2091b862-OaPprg-OaPprg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 26/09: Gamba Osaka - Kashiwa Reysol
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f16a1bd3fe44b2091b506-NQMPw3-NQMPw3&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h15 26/09: Sparta Rotterdam - Cambuur
