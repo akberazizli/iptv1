@@ -24,16 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Juventus - Sampdoria
-https://7038446ef.vws.vegacdn.vn/livehls/m101nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Juventus - Sampdoria
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Juventus - Sampdoria
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Juventus - Sampdoria
-https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Juventus - Sampdoria
-https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Bordeaux - Rennes
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Mallorca - Osasuna
@@ -44,15 +34,15 @@ https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Juventus - Sampdoria
-https://ndcagev-swv-47b850307.thapcam.link/35fb702177cf007b28de95addb471cbe6f1d6d27/203ab89ceb190c6bc6e01fd590a213ca/1632659147162/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0dbcec1b11fb10b28222549a93d52a952fc54de3/203ab89ceb190c6bc6e01fd590a213ca/1632659451677/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Bordeaux - Rennes
-https://ndcagev-swv-47b850307.thapcam.link/9700853587e16f2ff2b1908a4d6598a96448b6c8/203ab89ceb190c6bc6e01fd590a213ca/1632659147860/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d163189db88bbc26e1df10719bc554c8793db736/203ab89ceb190c6bc6e01fd590a213ca/1632659452361/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mallorca - Osasuna
-https://ndcagev-swv-47b850307.thapcam.link/0167b3c0ab994212fc1a3a567441f8f187147ea1/203ab89ceb190c6bc6e01fd590a213ca/1632659148529/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0235edbceed60e84ce2afd1d130457f4327aeaf6/203ab89ceb190c6bc6e01fd590a213ca/1632659453093/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Heerenveen - Twente
-https://ndcagev-swv-47b850307.thapcam.link/7f6d8fd8d49cde064b76ea0e70521a138b00aa34/203ab89ceb190c6bc6e01fd590a213ca/1632659149548/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/234ad46f8ec54e7029c488401dd4632acd6df0c5/203ab89ceb190c6bc6e01fd590a213ca/1632659453762/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài AZ - Go Ahead Eagles
-https://ndcagev-swv-47b850307.thapcam.link/665fbfa538007ebe47554b704532d4d010587ea0/203ab89ceb190c6bc6e01fd590a213ca/1632659149968/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ba36a20a57509415eceedd37ab91c7ce938ba97f/203ab89ceb190c6bc6e01fd590a213ca/1632659454444/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",17h15 26/09: Sparta Rotterdam - Cambuur
 http://vophutv.000webhostapp.com/play90p.php?id=614f1ee692893b39d1704998&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -91,8 +81,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1f2ee0d4672fc68e6d4a&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",22h00 26/09: Clermont - Monaco
 http://vophutv.000webhostapp.com/play90p.php?id=614f1e9a92893b39d1704996&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",17h30 26/09: Juventus - Sampdoria
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a3a9947c3390ce4d1b216-pW2LuX-pW2LuX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",18h00 26/09: Bordeaux - Rennes
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ae147c3390ce4d1b230-9YEZ6V-9YEZ6V&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",19h00 26/09: Mallorca - Osasuna
