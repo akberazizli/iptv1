@@ -24,8 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Clermont Foot - Monaco
-https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Arsenal - Tottenham
 https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Arsenal - Tottenham
@@ -57,22 +55,18 @@ https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Santa Clara - Braga
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Heracles - RKC Waalwijk
-https://ndcagev-swv-47b850307.thapcam.link/57492807a5889fdd3b8261f9f8b7baab4cf1dfa1/203ab89ceb190c6bc6e01fd590a213ca/1632675651881/livehls/mtc_may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Clermont - Monaco
-https://ndcagev-swv-47b850307.thapcam.link/0a4eb9cf226f8afa743db3b8e0d18be05f85b713/203ab89ceb190c6bc6e01fd590a213ca/1632675652572/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Arsenal - Tottenham (Thỏ + Liu)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Arsenal - Tottenham (Thỏ + Liu)
 https://1630578888.vnns.net/may9125SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",SD3 Arsenal - Tottenham (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/80ecd287b8adecdff2e53c43da495c69a8732ee1/203ab89ceb190c6bc6e01fd590a213ca/1632675653255/livehls/mtc_may9125SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/49bddb2c7c21af780433821fb695472f89731449/203ab89ceb190c6bc6e01fd590a213ca/1632675948346/livehls/mtc_may9125SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Arsenal - Tottenham (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/86349ac51f58485dbb2a9834320188ef059c286f/203ab89ceb190c6bc6e01fd590a213ca/1632675653255/livehls/mtc_may9125HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/88cd9870757198d62acfb223f4f2dbbb93d4c34e/203ab89ceb190c6bc6e01fd590a213ca/1632675948347/livehls/mtc_may9125HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Arsenal - Tottenham (Thỏ + Liu)
 https://livestream-2.fortuneholding.tk/live/61509e8049605e001ce285a1/61509e8049605e001ce285a1.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Arsenal - Tottenham (Thỏ + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/315a72d3857878040aca275abb36f1412cbae73b/203ab89ceb190c6bc6e01fd590a213ca/1632675653255/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/baf083d4c4fe64e79c22af3209f8af96b67192d6/203ab89ceb190c6bc6e01fd590a213ca/1632675948347/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Freiburg - Augsburg
 https://1630578888.vnns.net/may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Russia - Argentina
@@ -80,17 +74,19 @@ https://1630578888.vnns.net/may41/playlist.m3u8|Referer=https://xoilac.90phutt.x
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Lazio - Roma (Cáp + Nện)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Lazio - Roma (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/95ac6408ec105da4aa6554872596e7c212522646/203ab89ceb190c6bc6e01fd590a213ca/1632675655526/livehls/mtc_may3548799SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/cd348d1661bb140f3b1af4933acd131e8d31bcc7/203ab89ceb190c6bc6e01fd590a213ca/1632675950661/livehls/mtc_may3548799SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Lazio - Roma (Cáp + Nện)
 https://livestream.fortuneholding.tk/live/61509c0c5075bc0020618064/61509c0c5075bc0020618064.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Lazio - Roma (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/6d83665c6d4ea4bf4d3bc2fe27034d8428bf196f/203ab89ceb190c6bc6e01fd590a213ca/1632675655527/livehls/mtc_may3548799HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/38f2c9ca3208fcc045f21adb7e20be730e9e2c47/203ab89ceb190c6bc6e01fd590a213ca/1632675950661/livehls/mtc_may3548799HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lazio - Roma (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/89075da5f531f032d107ad6d49f0931c0ed96c1d/203ab89ceb190c6bc6e01fd590a213ca/1632675655527/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/e4b7f7867cd9f973161d499f4e123fd5560ea89d/203ab89ceb190c6bc6e01fd590a213ca/1632675950662/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Real Sociedad - Elche
-https://ndcagev-swv-47b850307.thapcam.link/b091e0f1fe2d160ab2588bb0f426a847737ed7ff/203ab89ceb190c6bc6e01fd590a213ca/1632675656572/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f3a7280813bb9bc4cd9728734fc9419af1ae1df0/203ab89ceb190c6bc6e01fd590a213ca/1632675951470/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Rayo Vallecano - Cádiz
-https://ndcagev-swv-47b850307.thapcam.link/c15df3445ba6f6a876bfd6888a0b117d6087e209/203ab89ceb190c6bc6e01fd590a213ca/1632675656986/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b8fdedabf25aed1391a5d1eb43ead864b192cd55/203ab89ceb190c6bc6e01fd590a213ca/1632675952206/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Santa Clara - Sporting Braga
+https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h45 26/09: Heracles - RKC Waalwijk
 http://vophutv.000webhostapp.com/play90p.php?id=614f1f2ee0d4672fc68e6d4a&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -131,8 +127,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6150488a92893b39d170499a&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h30 28/09: Atlético Goianiense - Cuiabá
 http://vophutv.000webhostapp.com/play90p.php?id=6150628fbaf5f939c69df875&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",22h00 26/09: Clermont Foot - Monaco
-http://vophutv.000webhostapp.com/playcakhia.php?id=614a3ae647c3390ce4d1b23e-wUGTEH-wUGTEH&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",22h30 26/09: Arsenal - Tottenham
 http://vophutv.000webhostapp.com/playcakhia.php?id=614a3a2a47c3390ce4d1b201-Qp7S1X-Qp7S1X&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",22h30 26/09: Freiburg - Augsburg
