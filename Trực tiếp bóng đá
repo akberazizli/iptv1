@@ -24,8 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài NYCFC - NY Red Bulls
-https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Manta - LDU de Quito
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài San Jose - LAFC
@@ -36,19 +34,19 @@ https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài São Paulo - Atlético Mineiro
-https://ndcagev-swv-47b850307.thapcam.link/a8f119c7d15c3b0dc9718e16c848d283378bce02/203ab89ceb190c6bc6e01fd590a213ca/1632622548459/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/47b7d56a6066d794a5754720f5914bd750178df1/203ab89ceb190c6bc6e01fd590a213ca/1632622849386/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Coritiba - Guarani
-https://ndcagev-swv-47b850307.thapcam.link/b81c90636216731aeb395fe608426b6b183d5e2e/203ab89ceb190c6bc6e01fd590a213ca/1632622548990/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/6fb563de3df3656c367ee70f351a07806df5e579/203ab89ceb190c6bc6e01fd590a213ca/1632622850080/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Colorado Springs - Austin Bold
-https://ndcagev-swv-47b850307.thapcam.link/c3e60ef5b3e816c30ffdcaf72733420e0dd4d5af/203ab89ceb190c6bc6e01fd590a213ca/1632622549828/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/61fdeb00e6583ff1c903275069b2079455aebae9/203ab89ceb190c6bc6e01fd590a213ca/1632622850924/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Memphis 901 - Louisville City
-https://ndcagev-swv-47b850307.thapcam.link/98da5c6afcc343b56bf9cc4e20e8f9ed5ed85d7f/203ab89ceb190c6bc6e01fd590a213ca/1632622550351/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b0da901dd94443af89f8d460decfe30aac226608/203ab89ceb190c6bc6e01fd590a213ca/1632622851498/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Orange County SC - Oakland Roots
-https://ndcagev-swv-47b850307.thapcam.link/7f2fbce534122993e1e736230d621129879364f9/203ab89ceb190c6bc6e01fd590a213ca/1632622551070/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ac9fb3117dd3080ae9d24c3e6aab4a29a5324e4c/203ab89ceb190c6bc6e01fd590a213ca/1632622852357/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Tacoma Defiance - Phoenix Rising
-https://ndcagev-swv-47b850307.thapcam.link/e62a5130d604a0c8b84e7eecd54dbadc09884003/203ab89ceb190c6bc6e01fd590a213ca/1632622551779/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0cfadb31f0eb3800df230a38302bb95d5205dd9a/203ab89ceb190c6bc6e01fd590a213ca/1632622852882/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Las Vegas Lights - San Diego Loyal
-https://ndcagev-swv-47b850307.thapcam.link/ab029ac2139120be167dcaf79bd3d981ed1e4031/203ab89ceb190c6bc6e01fd590a213ca/1632622552625/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/3f67bbb80b91ee461a1fe4a2a72e4f478b924be5/203ab89ceb190c6bc6e01fd590a213ca/1632622853568/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 26/09: São Paulo - Atlético Mineiro
 http://vophutv.000webhostapp.com/play90p.php?id=614ed0d8bba0f52229818236&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -89,8 +87,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1d7d92893b39d1704994&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",20h00 26/09: Reims - Nantes
 http://vophutv.000webhostapp.com/play90p.php?id=614f1e74e0d4672fc68e6d49&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 26/09: NYCFC - NY Red Bulls
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e6d8347c3390ce4d1bafa-3YEg6N-3YEg6N&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 26/09: Manta - LDU de Quito
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e6e9347c3390ce4d1bb09-81OlFb-81OlFb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 26/09: San Jose - LAFC
@@ -181,6 +177,34 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b7647c3390ce4d1ba42-GvEJ
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b6047c3390ce4d1ba3c-T6UeM2-T6UeM2&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h30 27/09: Portimonense - Vizela
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b8a47c3390ce4d1ba48-MxWjdc-MxWjdc&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 27/09: Platense FC - Lobos UPNFM
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd789bd3fe44b2091b7ff-UO7a5M-UO7a5M&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 27/09: Tapatio - Atlante
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd791bd3fe44b2091b804-hHhzGW-hHhzGW&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 27/09: OKC Energy FC - Indy Eleven
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd798bd3fe44b2091b808-Y04618-Y04618&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 27/09: Alianza Universidad - Sporting Cristal
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd771bd3fe44b2091b7f4-7drt5g-7drt5g&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 27/09: Cal United Strikers - Maryland Bobcats FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd778bd3fe44b2091b7fa-TGquGn-TGquGn&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 27/09: Sporting KC - Seattle Sounders
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd7c9bd3fe44b2091b80d-WPgVJZ-WPgVJZ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 27/09: CD Real Sociedad - Real Espana
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd7debd3fe44b2091b812-QfmGXv-QfmGXv&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h15 27/09: Boca Juniors - Colon
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd769bd3fe44b2091b7ef-12M1zT-12M1zT&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",06h30 27/09: Atletico GO - Cuiaba
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd75abd3fe44b2091b7e8-h0V0iz-h0V0iz&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h30 27/09: The Strongest - Always Ready
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd762bd3fe44b2091b7eb-2gFxAG-2gFxAG&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 27/09: Emelec - Universidad Catolica
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd74ebd3fe44b2091b7e4-dH9XXa-dH9XXa&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h06 27/09: Santos - Monterrey
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd746bd3fe44b2091b7e0-dJsT03-dJsT03&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 27/09: Real Monarchs SLC - New York Red Bulls II
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd733bd3fe44b2091b7dc-aEqrXu-aEqrXu&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h30 27/09: Austin FC - LA Galaxy
+http://vophutv.000webhostapp.com/playcakhia.php?id=614fd72dbd3fe44b2091b7d9-cIE1Zp-cIE1Zp&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",21h30 27/09: Spain - Portugal
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4c4647c3390ce4d1ba53-6iYYHe-6iYYHe&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 28/09: Iran - Kazakhstan
