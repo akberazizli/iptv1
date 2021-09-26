@@ -24,8 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài San Lorenzo - Defensa y Justicia
-https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Real Betis - Getafe
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Fluminense - Red Bull Bragantino
@@ -39,19 +37,7 @@ https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Portimonense - Vizela
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Napoli - Cagliari
-https://ndcagev-swv-47b850307.thapcam.link/ac5f3ca614611493bb3c9a2801f98b54c0e4bfeb/203ab89ceb190c6bc6e01fd590a213ca/1632689748186/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Marseille - Lens
-https://ndcagev-swv-47b850307.thapcam.link/0668d1e89f7ed26178722d154d26da62188ac99c/203ab89ceb190c6bc6e01fd590a213ca/1632689748874/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Real Betis - Getafe
-https://ndcagev-swv-47b850307.thapcam.link/d9caa22a5db1be826bc8fd91a48dc0c6b0321205/203ab89ceb190c6bc6e01fd590a213ca/1632689749573/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 27/09: Napoli - Cagliari
-http://vophutv.000webhostapp.com/play90p.php?id=61504838e0d4672fc68e6d4b&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",01h45 27/09: Marseille - Lens
-http://vophutv.000webhostapp.com/play90p.php?id=6150486d92893b39d1704999&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",02h00 27/09: Real Betis - Getafe
-http://vophutv.000webhostapp.com/play90p.php?id=6150481f8bb98639dd59c6e2&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 27/09: Sporting KC - Seattle Sounders FC
 http://vophutv.000webhostapp.com/play90p.php?id=6150437bbaf5f939c69df873&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 27/09: Deportivo Saprissa - Pérez Zeledón
@@ -81,8 +67,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6150aab7e0d4672fc68e6d4d&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 28/09: Shakhtar Donetsk - Inter
 http://vophutv.000webhostapp.com/play90p.php?id=6150aad18bb98639dd59c6e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 27/09: San Lorenzo - Defensa y Justicia
-http://vophutv.000webhostapp.com/playcakhia.php?id=6150b376bd3fe44b2091bae0-ehs5GT-ehs5GT&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",02h00 27/09: Real Betis - Getafe
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b6047c3390ce4d1ba3c-T6UeM2-T6UeM2&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",02h00 27/09: Fluminense - Red Bull Bragantino
