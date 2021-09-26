@@ -24,8 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài  Xinjiang - Guizhou FC
-https://7038446ef.vws.vegacdn.vn/livehls/ducsd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Chungnam Asan FC - Jeonnam Dragons
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Young Lions - Tanjong Pagar
@@ -48,9 +46,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bon
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sparta Rotterdam - Cambuur
-https://ndcagev-swv-47b850307.thapcam.link/c7a89a3864785df69d70cc2058b8b45312fa03ef/203ab89ceb190c6bc6e01fd590a213ca/1632651947441/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4317ac04e47be0295be04fb94b57c39d609ebeb4/203ab89ceb190c6bc6e01fd590a213ca/1632652251181/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Juventus - Sampdoria
-https://ndcagev-swv-47b850307.thapcam.link/b8292c10fcdbfa4a7b0a9d05151cd9d91edc92c4/203ab89ceb190c6bc6e01fd590a213ca/1632651947890/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/cff7a383c0c3e1dd9fea60307abae156ab818274/203ab89ceb190c6bc6e01fd590a213ca/1632652251864/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",17h15 26/09: Sparta Rotterdam - Cambuur
 http://vophutv.000webhostapp.com/play90p.php?id=614f1ee692893b39d1704998&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -82,9 +80,9 @@ http://vophutv.000webhostapp.com/play90p.php?id=614f1c90c6aff63667deb15a&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=614f1da5bba0f5222981823a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",21h15 26/09: Barcelona - Levante
 http://vophutv.000webhostapp.com/play90p.php?id=614f1cf074dd7b31c399b1d6&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h45 26/09: Heracles - RKC Waalwijk
+http://vophutv.000webhostapp.com/play90p.php?id=614f1f2ee0d4672fc68e6d4a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 26/09:  Xinjiang - Guizhou FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f16e9bd3fe44b2091b50b-VYI2GO-VYI2GO&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 26/09: Chungnam Asan FC - Jeonnam Dragons
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f169cbd3fe44b2091b502-NbMK0x-NbMK0x&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 26/09: Young Lions - Tanjong Pagar
