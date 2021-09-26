@@ -24,18 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Napoli - Cagliari
-https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Napoli - Cagliari
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Napoli - Cagliari
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Napoli - Cagliari
-https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Napoli - Cagliari
-https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Marseille - Lens
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài San Lorenzo - Defensa y Justicia
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Real Betis - Getafe
@@ -52,11 +40,11 @@ https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Napoli - Cagliari
-https://ndcagev-swv-47b850307.thapcam.link/7642ddc822e019493c4d9d169cfcc37b9c2bffef/203ab89ceb190c6bc6e01fd590a213ca/1632688849501/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/20245af04e8b0b24ad5a2eb28f36930c5cd321c0/203ab89ceb190c6bc6e01fd590a213ca/1632689148882/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Marseille - Lens
-https://ndcagev-swv-47b850307.thapcam.link/27e09e3efa93539ab41a12206c70d050ed261117/203ab89ceb190c6bc6e01fd590a213ca/1632688850178/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/747d7182dbddba107e239816a4393d735b100489/203ab89ceb190c6bc6e01fd590a213ca/1632689149624/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Real Betis - Getafe
-https://ndcagev-swv-47b850307.thapcam.link/c7b46f9fb14bacfb0697df71d20703d23d98ca9d/203ab89ceb190c6bc6e01fd590a213ca/1632688850894/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/78d1949049d93b75b4c15d834624b988d83c5dec/203ab89ceb190c6bc6e01fd590a213ca/1632689150278/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 27/09: Napoli - Cagliari
 http://vophutv.000webhostapp.com/play90p.php?id=61504838e0d4672fc68e6d4b&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -93,10 +81,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6150aab7e0d4672fc68e6d4d&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 28/09: Shakhtar Donetsk - Inter
 http://vophutv.000webhostapp.com/play90p.php?id=6150aad18bb98639dd59c6e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 27/09: Napoli - Cagliari
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b6b47c3390ce4d1ba3f-PkpmVT-PkpmVT&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",01h45 27/09: Marseille - Lens
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4b7647c3390ce4d1ba42-GvEJQQ-GvEJQQ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 27/09: San Lorenzo - Defensa y Justicia
 http://vophutv.000webhostapp.com/playcakhia.php?id=6150b376bd3fe44b2091bae0-ehs5GT-ehs5GT&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",02h00 27/09: Real Betis - Getafe
