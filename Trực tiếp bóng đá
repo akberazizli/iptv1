@@ -25,10 +25,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Pacos de Ferreira - Belenenses SAD
-https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Jong Ajax - MVV Maastricht
-https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Venezia - Torino
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Toulouse - Caen
@@ -53,9 +49,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Venezia - Torino
 https://1630578888.vnns.net/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Crystal Palace - Brighton
-https://ndcagev-swv-47b850307.thapcam.link/2143c0b4782f850de5b582099410aabff3d415a5/203ab89ceb190c6bc6e01fd590a213ca/1632772550735/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/5077147f8a93292c982aa6e2a53ac0e3a2c65ba3/203ab89ceb190c6bc6e01fd590a213ca/1632772855928/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Celta Vigo - Granada
-https://ndcagev-swv-47b850307.thapcam.link/981baf965aac60e7463d7d4076b06d1810bf31cd/203ab89ceb190c6bc6e01fd590a213ca/1632772551444/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/20ee22a95260cdd55edbd05254b6de651e40bf51/203ab89ceb190c6bc6e01fd590a213ca/1632772856315/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",00h00 28/09: Iran - Kazakhstan
 http://vophutv.000webhostapp.com/play90p.php?id=6150ab4a8bb98639dd59c6e7&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -80,10 +76,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6150aab7e0d4672fc68e6d4d&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 28/09: Shakhtar Donetsk - Inter
 http://vophutv.000webhostapp.com/play90p.php?id=6150aad18bb98639dd59c6e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h00 28/09: Pacos de Ferreira - Belenenses SAD
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4cc547c3390ce4d1ba6a-njpksw-njpksw&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h00 28/09: Jong Ajax - MVV Maastricht
-http://vophutv.000webhostapp.com/playcakhia.php?id=6151fc910ef2f51629bf0521-5vSybL-5vSybL&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 28/09: Venezia - Torino
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4cb947c3390ce4d1ba65-Mfzpkq-Mfzpkq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 28/09: Toulouse - Caen
