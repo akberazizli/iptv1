@@ -25,8 +25,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Fuenlabrada - Cartagena
-https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Boavista - Estoril
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Argentinos Juniors - Racing Club
@@ -35,12 +33,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 28/09: Venezia - Torino
-http://vophutv.000webhostapp.com/play90p.php?id=6150ab1c74dd7b31c399b1dc&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",02h00 28/09: Crystal Palace - Brighton
-http://vophutv.000webhostapp.com/play90p.php?id=6150aae7baf5f939c69df877&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",02h00 28/09: Celta Vigo - Granada
-http://vophutv.000webhostapp.com/play90p.php?id=6150ab0392893b39d170499c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 28/09: Vasco da Gama - Goiás
 http://vophutv.000webhostapp.com/play90p.php?id=6151b77c28d9a539bbd2aa84&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h15 28/09: Newell's Old Boys - Huracán
@@ -53,9 +45,23 @@ http://vophutv.000webhostapp.com/play90p.php?id=6151b9cabaf5f939c69df87a&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=6150aab7e0d4672fc68e6d4d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 28/09: Shakhtar Donetsk - Inter
 http://vophutv.000webhostapp.com/play90p.php?id=6150aad18bb98639dd59c6e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: FC Porto - Liverpool
+http://vophutv.000webhostapp.com/play90p.php?id=61522f21c6aff63667deb15f&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: PSG - Man City
+http://vophutv.000webhostapp.com/play90p.php?id=61522f5228d9a539bbd2aa85&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: Real Madrid - FC Sheriff
+http://vophutv.000webhostapp.com/play90p.php?id=61522f7f74dd7b31c399b1dd&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: Milan - Atletico Madrid
+http://vophutv.000webhostapp.com/play90p.php?id=61522fa8baf5f939c69df87b&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: RB Leipzig - Club Brugge
+http://vophutv.000webhostapp.com/play90p.php?id=61522fcfbba0f5222981823f&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: Dortmund - Sporting CP
+http://vophutv.000webhostapp.com/play90p.php?id=61522ff8e0d4672fc68e6d4f&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Zenit - Malmö FF
+http://vophutv.000webhostapp.com/play90p.php?id=6152302be0d4672fc68e6d50&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Atalanta - Young Boys
+http://vophutv.000webhostapp.com/play90p.php?id=6152306292893b39d170499f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 28/09: Fuenlabrada - Cartagena
-http://vophutv.000webhostapp.com/playcakhia.php?id=6151fd100ef2f51629bf0526-lz6NSN-lz6NSN&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",03h15 28/09: Boavista - Estoril
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4cc747c3390ce4d1ba6b-CEp5mG-CEp5mG&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",04h00 28/09: Argentinos Juniors - Racing Club
