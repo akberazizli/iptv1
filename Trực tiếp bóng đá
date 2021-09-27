@@ -41,7 +41,7 @@ https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Spain - Portugal
-https://ndcagev-swv-47b850307.thapcam.link/5a260c72347b2af5e5877f5d38af12680f629ab7/203ab89ceb190c6bc6e01fd590a213ca/1632760546391/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/93268b7d745d7f83484468d5fd072ab9534fe998/203ab89ceb190c6bc6e01fd590a213ca/1632760847888/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 27/09: Spain - Portugal
 http://vophutv.000webhostapp.com/play90p.php?id=6150488a92893b39d170499a&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -78,10 +78,14 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6151aeff0ef2f51629bf0442-rrxs
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4c5d47c3390ce4d1ba56-Lh93OT-Lh93OT&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",00h00 28/09: AGF Aarhus - SønderjyskE
 http://vophutv.000webhostapp.com/playcakhia.php?id=6151f1e30ef2f51629bf04d0-ZsiFLM-ZsiFLM&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",00h00 28/09: FC Viktoria 1889 Berlin - TSV Havelse
+http://vophutv.000webhostapp.com/playcakhia.php?id=6151f3a20ef2f51629bf04dc-1WlFNb-1WlFNb&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h00 28/09: Pacos de Ferreira - Belenenses SAD
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4cc547c3390ce4d1ba6a-njpksw-njpksw&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 28/09: Venezia - Torino
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4cb947c3390ce4d1ba65-Mfzpkq-Mfzpkq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 28/09: Toulouse - Caen
+http://vophutv.000webhostapp.com/playcakhia.php?id=6151f2c80ef2f51629bf04d6-7S2d5C-7S2d5C&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",02h00 28/09: Crystal Palace - Brighton
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4cab47c3390ce4d1ba5f-QMfWG9-QMfWG9&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",02h00 28/09: Celta Vigo - Granada
