@@ -20,10 +20,13 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/kHDbyvn/IMG-20210923-190634.png",THỂ THAO NƯỚC NGOÀI 1
 http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI 2
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/335
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/337
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/m6k7wHR/IMG-20210923-192627.png",THỂ THAO NƯỚC NGOÀI 4
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/SKTrJJD/IMG-20210923-192611.png",THỂ THAO NƯỚC NGOÀI 5
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
-
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Argentinos Juniors - Racing Club
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
@@ -33,6 +36,8 @@ https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vasco da Gama - Goias
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Newell's Old Boys - Huracan
+https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 28/09: Vasco da Gama - Goiás
