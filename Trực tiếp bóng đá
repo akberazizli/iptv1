@@ -24,10 +24,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FK Ekibastuz - FK Shakhtar Bulat
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Aksu - Maktaaral
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 27/09: Spain - Portugal
@@ -47,14 +43,14 @@ http://vophutv.000webhostapp.com/play90p.php?id=6150aab7e0d4672fc68e6d4d&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 28/09: Shakhtar Donetsk - Inter
 http://vophutv.000webhostapp.com/play90p.php?id=6150aad18bb98639dd59c6e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 27/09: FK Ekibastuz - FK Shakhtar Bulat
-http://vophutv.000webhostapp.com/playcakhia.php?id=61505fcfbd3fe44b2091b977-pL4WuV-pL4WuV&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 27/09: Aksu - Maktaaral
-http://vophutv.000webhostapp.com/playcakhia.php?id=61506011bd3fe44b2091b97a-XyqNoa-XyqNoa&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h30 27/09: Seoul E-Land FC - Busan I'Park
 http://vophutv.000webhostapp.com/playcakhia.php?id=61503ebbbd3fe44b2091b8ba-i0Rt26-i0Rt26&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 27/09: SP Falcons - Khangarid
 http://vophutv.000webhostapp.com/playcakhia.php?id=6150400cbd3fe44b2091b8ca-eM7r19-eM7r19&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 27/09: FC Astana - Taraz
+http://vophutv.000webhostapp.com/playcakhia.php?id=615198910ef2f51629bf03f7-07Dv8p-07Dv8p&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 27/09: Akzhaiyk Uralsk - Kaisar Kyzylorda
+http://vophutv.000webhostapp.com/playcakhia.php?id=615198af0ef2f51629bf03fa-U9BQjj-U9BQjj&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 27/09: Alashkert FC - BKMA
 http://vophutv.000webhostapp.com/playcakhia.php?id=6150416abd3fe44b2091b8dc-i8WrTh-i8WrTh&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 27/09: Persikabo 1973 - Persib Bandung
