@@ -25,14 +25,14 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Persikabo 1973 - Persib Bandung
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Chayka - Anzhi Makhachkala
 https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Ordabasy Shymkent - Kaspiy Aktau
 https://7038446ef.vws.vegacdn.vn/livehls/ducsd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Volga Ulyanovsk  - Dinamo Barnaul
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Ural - Arsenal Tula II
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",21h30 27/09: Spain - Portugal
@@ -60,8 +60,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6150aab7e0d4672fc68e6d4d&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 28/09: Shakhtar Donetsk - Inter
 http://vophutv.000webhostapp.com/play90p.php?id=6150aad18bb98639dd59c6e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 27/09: Persikabo 1973 - Persib Bandung
-http://vophutv.000webhostapp.com/playcakhia.php?id=61504198bd3fe44b2091b8e0-qWoGWO-qWoGWO&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h00 27/09: Chayka - Anzhi Makhachkala
 http://vophutv.000webhostapp.com/playcakhia.php?id=615042a4bd3fe44b2091b8ea-g4c47a-g4c47a&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h00 27/09: Ordabasy Shymkent - Kaspiy Aktau
