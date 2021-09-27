@@ -33,8 +33,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m403nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Independiente Petrolero - Aurora
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Santos Laguna - Monterrey
-https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 28/09: Vasco da Gama - Goiás
@@ -74,8 +72,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6151eeca0ef2f51629bf04c5-bkLD
 http://vophutv.000webhostapp.com/playcakhia.php?id=6151f0e30ef2f51629bf04ca-zOkGG6-zOkGG6&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",04h15 28/09: Independiente Petrolero - Aurora
 http://vophutv.000webhostapp.com/playcakhia.php?id=6151fb710ef2f51629bf0516-1GdtSd-1GdtSd&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 28/09: Santos Laguna - Monterrey
-http://vophutv.000webhostapp.com/playcakhia.php?id=6152365f0ef2f51629bf0618-O1C3dv-O1C3dv&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 28/09: Vasco da Gama - Goias
 http://vophutv.000webhostapp.com/playcakhia.php?id=61511e88bd3fe44b2091bc17-VM6Xub-VM6Xub&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h15 28/09: Newell's Old Boys - Huracan
