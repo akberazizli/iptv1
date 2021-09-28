@@ -25,8 +25,6 @@ http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=895f557054aa4d5abcedbbf64b4
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
-http://103.195.239.138/ongolf/mpegts
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Pusamania Borneo - Bali United Pusam
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
@@ -137,6 +135,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6152651c0ef2f51629bf066e-oX4z
 http://vophutv.000webhostapp.com/playcakhia.php?id=6152651f0ef2f51629bf066f-Z6gzh7-Z6gzh7&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h30 29/09: CD Olimpia - Inter Moengotapoe
 http://vophutv.000webhostapp.com/playcakhia.php?id=615265210ef2f51629bf0672-j6ZWwG-j6ZWwG&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",14h00 29/09: Qingdao Jonoon - Guangxi Baoyun
+http://vophutv.000webhostapp.com/playcakhia.php?id=61530c0d0ef2f51629bf0788-6c5wFh-6c5wFh&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",14h00 29/09: Shanxi Longjin - Dongguan United
+http://vophutv.000webhostapp.com/playcakhia.php?id=61530c5b0ef2f51629bf078b-Z9mXCe-Z9mXCe&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h00 29/09: Meizhou Hakka - J. Liansheng
 http://vophutv.000webhostapp.com/playcakhia.php?id=6152cfbb0ef2f51629bf06e6-MB7u9t-MB7u9t&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h15 29/09: Persipura Jayapura - Arema
