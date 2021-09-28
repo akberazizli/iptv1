@@ -19,15 +19,15 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/kHDbyvn/IMG-20210923-190634.png",THỂ THAO NƯỚC NGOÀI 1
 http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8
-
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI
+http://xcwsnl28.mrnova.online/live/60091_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdFR9Fp/IMG-20210906-185630.png",BOXING 1
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
+http://103.195.239.138/ongolf/mpegts
 
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Elazigspor - Arnavutkoy Belediyespor
-https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Pusamania Borneo - Bali United Pusam
 https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Noravank - Van
@@ -59,8 +59,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6152302be0d4672fc68e6d50&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Atalanta - Young Boys
 http://vophutv.000webhostapp.com/play90p.php?id=6152306292893b39d170499f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 28/09: Elazigspor - Arnavutkoy Belediyespor
-http://vophutv.000webhostapp.com/playcakhia.php?id=61511a35bd3fe44b2091bbea-vSDtFv-vSDtFv&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h15 28/09: Pusamania Borneo - Bali United Pusam
 http://vophutv.000webhostapp.com/playcakhia.php?id=61511a75bd3fe44b2091bbf3-iyp1jr-iyp1jr&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 28/09: Noravank - Van
