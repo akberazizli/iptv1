@@ -32,7 +32,7 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atlético Huila - La Equidad
-https://ndcagev-swv-47b850307.thapcam.link/039e14df7c76ae7998f0b98819d9da1d30e10f8e/203ab89ceb190c6bc6e01fd590a213ca/1632800448730/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/223e1efd03e937899bde3340481df4d5aaf8d819/203ab89ceb190c6bc6e01fd590a213ca/1632800748281/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 28/09: Atlético Huila - La Equidad
 http://vophutv.000webhostapp.com/play90p.php?id=6151b9cabaf5f939c69df87a&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -125,6 +125,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6152674a0ef2f51629bf0678-RoHE
 http://vophutv.000webhostapp.com/playcakhia.php?id=61528c130ef2f51629bf06a6-k7SRZ7-k7SRZ7&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 29/09: Mercer - Winthrop
 http://vophutv.000webhostapp.com/playcakhia.php?id=61528d040ef2f51629bf06ab-4bTBi2-4bTBi2&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 29/09: San Marcos -  Coquimbo Unido
+http://vophutv.000webhostapp.com/playcakhia.php?id=61528f980ef2f51629bf06b2-aRpCoy-aRpCoy&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 29/09: O'Higgins - Huachipato
 http://vophutv.000webhostapp.com/playcakhia.php?id=615264c90ef2f51629bf0657-GxVOHq-GxVOHq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 29/09: Mazatlan FC - Juárez
