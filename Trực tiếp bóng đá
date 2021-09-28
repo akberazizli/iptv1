@@ -28,13 +28,11 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/SKTrJJD/IMG-20210923-192611.png",THỂ THAO NƯỚC NGOÀI 5
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atletico Huila - La Equidad
-https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Guadalajara - Pachuca
 https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atlético Huila - La Equidad
-https://ndcagev-swv-47b850307.thapcam.link/3aa0d9be75e98c8d4f2bc9178f848289e46c41a6/203ab89ceb190c6bc6e01fd590a213ca/1632798347498/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/02d26d2f989b9c115aa752adb28cb17ee0f6faac/203ab89ceb190c6bc6e01fd590a213ca/1632798649527/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 28/09: Atlético Huila - La Equidad
 http://vophutv.000webhostapp.com/play90p.php?id=6151b9cabaf5f939c69df87a&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -59,8 +57,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6152302be0d4672fc68e6d50&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Atalanta - Young Boys
 http://vophutv.000webhostapp.com/play90p.php?id=6152306292893b39d170499f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 28/09: Atletico Huila - La Equidad
-http://vophutv.000webhostapp.com/playcakhia.php?id=6151e3d60ef2f51629bf04b1-Bvd2B5-Bvd2B5&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 28/09: Guadalajara - Pachuca
 http://vophutv.000webhostapp.com/playcakhia.php?id=6151257ebd3fe44b2091bc4b-FkFGtr-FkFGtr&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h15 28/09: Persela Lamongan - Persiraja Aceh
