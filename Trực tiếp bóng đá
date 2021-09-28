@@ -32,8 +32,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Elazigspor - Arnavutkoy Belediyespor
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Karakopru Belediyespor - Kizilcabolukspor
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 28/09: Atlético Huila - La Equidad
@@ -65,8 +63,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6152db520ef2f51629bf070e-lmCF
 http://vophutv.000webhostapp.com/playcakhia.php?id=615122d7bd3fe44b2091bc46-ywXCLX-ywXCLX&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 28/09: Elazigspor - Arnavutkoy Belediyespor
 http://vophutv.000webhostapp.com/playcakhia.php?id=61511a35bd3fe44b2091bbea-vSDtFv-vSDtFv&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 28/09: Karakopru Belediyespor - Kizilcabolukspor
-http://vophutv.000webhostapp.com/playcakhia.php?id=61511a4dbd3fe44b2091bbef-YYZiM2-YYZiM2&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h15 28/09: Pusamania Borneo - Bali United Pusam
 http://vophutv.000webhostapp.com/playcakhia.php?id=61511a75bd3fe44b2091bbf3-iyp1jr-iyp1jr&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h30 28/09: Nevsehir Belediye Spor - Fethiyespor
