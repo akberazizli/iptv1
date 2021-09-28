@@ -49,35 +49,35 @@ https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://bo
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Ajax - Beşiktaş
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Shakhtar Donetsk - Inter (Cáp + Liu)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Shakhtar Donetsk - Inter (Thỏ + Liu)
 https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Shakhtar Donetsk - Inter (Cáp + Liu)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Shakhtar Donetsk - Inter (Thỏ + Liu)
 https://1630578888.vnns.net/may12132123SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",SD3 Shakhtar Donetsk - Inter (Cáp + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/c54c6d47a4fe206d289559f37d2434552ac7de39/203ab89ceb190c6bc6e01fd590a213ca/1632848453232/livehls/mtc_may12132123SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Shakhtar Donetsk - Inter (Cáp + Liu)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",SD3 Shakhtar Donetsk - Inter (Thỏ + Liu)
+https://ndcagev-swv-47b850307.thapcam.link/776648d7b76fcb8b53946bb12c00b82267c62316/203ab89ceb190c6bc6e01fd590a213ca/1632848746560/livehls/mtc_may12132123SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Shakhtar Donetsk - Inter (Thỏ + Liu)
 https://livestream-2.fortuneholding.tk/live/6153402ef8fee4001dba34dd/6153402ef8fee4001dba34dd.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Shakhtar Donetsk - Inter (Cáp + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/7d48ca0179dc801b33beddfe4ad4bbd49b1871e7/203ab89ceb190c6bc6e01fd590a213ca/1632848453232/livehls/mtc_may12132123HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Shakhtar Donetsk - Inter (Cáp + Liu)
-https://ndcagev-swv-47b850307.thapcam.link/2081d091bc0eea5b36df5585a7e5501475fe9f0e/203ab89ceb190c6bc6e01fd590a213ca/1632848453232/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Shakhtar Donetsk - Inter (Thỏ + Liu)
+https://ndcagev-swv-47b850307.thapcam.link/afed1f39bcfbb6e31c654af7817d0844cf34bf47/203ab89ceb190c6bc6e01fd590a213ca/1632848746560/livehls/mtc_may12132123HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Shakhtar Donetsk - Inter (Thỏ + Liu)
+https://ndcagev-swv-47b850307.thapcam.link/71cc0647c0bfe3e1a9667fc012aa5ec727a9ecfc/203ab89ceb190c6bc6e01fd590a213ca/1632848746561/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 28/09: Ajax - Beşiktaş
 http://vophutv.000webhostapp.com/play90p.php?id=6150aab7e0d4672fc68e6d4d&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 28/09: Shakhtar Donetsk - Inter (Cáp + Liu)
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 28/09: Shakhtar Donetsk - Inter (Thỏ + Liu)
 http://vophutv.000webhostapp.com/play90p.php?id=6150aad18bb98639dd59c6e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: FC Porto - Liverpool
+http://vophutv.000webhostapp.com/play90p.php?id=61522f21c6aff63667deb15f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: PSG - Man City
 http://vophutv.000webhostapp.com/play90p.php?id=61522f5228d9a539bbd2aa85&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: Real Madrid - FC Sheriff
 http://vophutv.000webhostapp.com/play90p.php?id=61522f7f74dd7b31c399b1dd&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: Dortmund - Sporting CP
-http://vophutv.000webhostapp.com/play90p.php?id=61522ff8e0d4672fc68e6d4f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: Milan - Atletico Madrid
 http://vophutv.000webhostapp.com/play90p.php?id=61522fa8baf5f939c69df87b&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: FC Porto - Liverpool
-http://vophutv.000webhostapp.com/play90p.php?id=61522f21c6aff63667deb15f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: RB Leipzig - Club Brugge
 http://vophutv.000webhostapp.com/play90p.php?id=61522fcfbba0f5222981823f&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: Dortmund - Sporting CP
+http://vophutv.000webhostapp.com/play90p.php?id=61522ff8e0d4672fc68e6d4f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Zenit - Malmö FF
 http://vophutv.000webhostapp.com/play90p.php?id=6152302be0d4672fc68e6d50&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Atalanta - Young Boys
@@ -92,6 +92,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=615317da74dd7b31c399b1df&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=615317f028d9a539bbd2aa86&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 30/09: Bayern München - Dynamo Kyiv
 http://vophutv.000webhostapp.com/play90p.php?id=6153180ee0d4672fc68e6d52&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 30/09: Manchester United - Villarreal
+http://vophutv.000webhostapp.com/play90p.php?id=61531822bba0f52229818240&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",23h45 28/09: Shakhtar Donetsk - Inter
 http://vophutv.000webhostapp.com/playcakhia.php?id=61533be90ef2f51629bf07ed-XzQ4XE-XzQ4XE&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
