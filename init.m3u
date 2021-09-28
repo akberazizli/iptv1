@@ -24,6 +24,10 @@ https://22live00.akamaized.net/RMC_Sports_1/tracks-v1a1/mono.m3u8?token
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/337
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/m6k7wHR/IMG-20210923-192627.png",THỂ THAO NƯỚC NGOÀI 4
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+https://360funnysport.000webhostapp.com/360sport/sportchannels/playlist.php?id=mutv
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/SKTrJJD/IMG-20210923-192611.png",THỂ THAO NƯỚC NGOÀI 5
+https://360funnysport.000webhostapp.com/360sport/sportchannels/playlist.php?id=skysportfball
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdFR9Fp/IMG-20210906-185630.png",BOXING 1
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
