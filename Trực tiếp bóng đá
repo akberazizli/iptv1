@@ -26,16 +26,16 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài PSG - Man City
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 PSG - Man City
-https://1630578830.vnns.net/cakhiahd2/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 PSG - Man City
-https://1630578830.vnns.net/cakhiasd2/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 PSG - Man City
-https://7038446ef.vws.vegacdn.vn/livehls/cakhiahd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 PSG - Man City
-https://7038446ef.vws.vegacdn.vn/livehls/cakhiasd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Milan - Atletico Madrid
+https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Milan - Atletico Madrid
+https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Milan - Atletico Madrid
+https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Milan - Atletico Madrid
+https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Milan - Atletico Madrid
+https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài RB Leipzig - Club Brugge
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FC Porto - Liverpool
@@ -48,53 +48,11 @@ https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.t
 https://7038446ef.vws.vegacdn.vn/livehls/luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 FC Porto - Liverpool
 https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Milan - Atletico Madrid
-https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Milan - Atletico Madrid
-https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Milan - Atletico Madrid
-https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Milan - Atletico Madrid
-https://7038446ef.vws.vegacdn.vn/livehls/taihd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Milan - Atletico Madrid
-https://7038446ef.vws.vegacdn.vn/livehls/taisd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Dortmund - Sporting CP
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",Nhà đài tiếng anh Real Madrid - FC Sheriff
-https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Real Madrid - FC Sheriff
-https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 FC Porto - Liverpool (Liu men)
-https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 FC Porto - Liverpool (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/c23a207fef3419b570e7454c301c275cc8dd08a5/203ab89ceb190c6bc6e01fd590a213ca/1632862549085/livehls/mtc_may35487654SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 FC Porto - Liverpool (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/97fff3207aa5fd12c7ba6f71af5047843fa036fc/203ab89ceb190c6bc6e01fd590a213ca/1632862549085/livehls/mtc_may35487654HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 FC Porto - Liverpool (Liu men)
-https://livestream.fortuneholding.tk/live/615359b9f8fee4001dba34df/615359b9f8fee4001dba34df.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài FC Porto - Liverpool (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/0917865be7a59aa1f3195e404d1fd911ce356423/203ab89ceb190c6bc6e01fd590a213ca/1632862549085/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 PSG - Man City (Cáp + Thỏ)
-https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 PSG - Man City (Cáp + Thỏ)
-https://1630578888.vnns.net/may12132125SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",SD3 PSG - Man City (Cáp + Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/653bbd766e2503b1b6403c0e9ed53d9bfa473fbb/203ab89ceb190c6bc6e01fd590a213ca/1632862549764/livehls/mtc_may12132125SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 PSG - Man City (Cáp + Thỏ)
-https://livestream-2.fortuneholding.tk/live/6153618325a9e5001c07c4a4/6153618325a9e5001c07c4a4.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 PSG - Man City (Cáp + Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/dc10d61f2e06bc5a86cad9fb7e49f8fd505251c3/203ab89ceb190c6bc6e01fd590a213ca/1632862549765/livehls/mtc_may12132125HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài PSG - Man City (Cáp + Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/e25c8de0f5231422b26651e6f6fbeeebffa7ed95/203ab89ceb190c6bc6e01fd590a213ca/1632862549765/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Real Madrid - FC Sheriff
-https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Milan - Atletico Madrid
 https://1630578888.vnns.net/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài RB Leipzig - Club Brugge
-https://ndcagev-swv-47b850307.thapcam.link/f83a27920e48cdc2f13f4bd0eae455703b549db6/203ab89ceb190c6bc6e01fd590a213ca/1632862551849/livehls/mtc_may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Dortmund - Sporting CP
-https://ndcagev-swv-47b850307.thapcam.link/9bb392154cfb0e1db0aa82e164e0d51ffbd274a4/203ab89ceb190c6bc6e01fd590a213ca/1632862552514/livehls/mtc_may45/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 29/09: FC Porto - Liverpool (Liu men)
 http://vophutv.000webhostapp.com/play90p.php?id=61522f21c6aff63667deb15f&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -137,18 +95,14 @@ http://vophutv.000webhostapp.com/play90p.php?id=6153180ee0d4672fc68e6d52&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 30/09: Manchester United - Villarreal
 http://vophutv.000webhostapp.com/play90p.php?id=61531822bba0f52229818240&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 29/09: PSG - Man City
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d4847c3390ce4d1ba7e-xTfovL-xTfovL&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 29/09: Milan - Atletico Madrid
+http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d4d47c3390ce4d1ba87-GSAKUQ-GSAKUQ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 29/09: RB Leipzig - Club Brugge
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d4a47c3390ce4d1ba81-GnwMgo-GnwMgo&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 29/09: FC Porto - Liverpool
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d4c47c3390ce4d1ba84-qkhUBE-qkhUBE&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 29/09: Milan - Atletico Madrid
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d4d47c3390ce4d1ba87-GSAKUQ-GSAKUQ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 29/09: Dortmund - Sporting CP
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d4f47c3390ce4d1ba8a-NIUUOP-NIUUOP&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 29/09: Real Madrid - FC Sheriff
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d5047c3390ce4d1ba8d-c7FHOf-c7FHOf&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 29/09: Nautico - CRB
 http://vophutv.000webhostapp.com/playcakhia.php?id=615263c80ef2f51629bf0648-wrwnYW-wrwnYW&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 29/09: Independiente de La Chorrera - Forge FC
