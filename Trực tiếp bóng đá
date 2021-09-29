@@ -52,35 +52,17 @@ https://livecdn.fptplay.net/hdevent/uefa10_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atalanta - Young Boys
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Atalanta - Young Boys
-https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Atalanta - Young Boys
-https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Atalanta - Young Boys
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@taihd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Atalanta - Young Boys
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@taisd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Zenit - Malmö FF
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Zenit - Malmö FF
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Zenit - Malmö FF
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Zenit - Malmö FF
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Zenit - Malmö FF
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Brazil - Argentina
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Fulham - Swansea
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Zenit - Malmö FF
-https://ndcagev-swv-47b850307.thapcam.link/0bb69bd4635ab25cc97d95de4b39f224db27f3ea/203ab89ceb190c6bc6e01fd590a213ca/1632940847859/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b140bf64372fc7017b9b742538e87058026cdf67/203ab89ceb190c6bc6e01fd590a213ca/1632941147473/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atalanta - Young Boys
-https://ndcagev-swv-47b850307.thapcam.link/970da3e267c6385b743a7b4c3a5e1051415c2705/203ab89ceb190c6bc6e01fd590a213ca/1632940848516/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/310368c80739689487d441a55664d8112817b1cb/203ab89ceb190c6bc6e01fd590a213ca/1632941148192/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brazil - Argentina
-https://ndcagev-swv-47b850307.thapcam.link/b459a4b0d507d014ab09656e692bfc6af02c9c9d/203ab89ceb190c6bc6e01fd590a213ca/1632940849195/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/82fbd1102720fd1ae0fa6f7a2280e065c37b04fa/203ab89ceb190c6bc6e01fd590a213ca/1632941148842/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Zenit - Malmö FF
 http://vophutv.000webhostapp.com/play90p.php?id=6152302be0d4672fc68e6d50&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -119,20 +101,16 @@ http://vophutv.000webhostapp.com/play90p.php?id=61548f53c6aff63667deb166&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h30 30/09: LA Galaxy II - Phoenix Rising
 http://vophutv.000webhostapp.com/play90p.php?id=61547bc228d9a539bbd2aa8a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",23h45 29/09: Atalanta - Young Boys
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d5247c3390ce4d1ba90-2wvAO0-2wvAO0&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",23h45 29/09: Zenit - Malmö FF
-http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d5447c3390ce4d1ba93-ecj5Jj-ecj5Jj&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 30/09: Brazil - Argentina
 http://vophutv.000webhostapp.com/playcakhia.php?id=615386370ef2f51629bf090f-D0kDBT-D0kDBT&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 30/09: Fulham - Swansea
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f9da0bd3fe44b2091b774-AeTTTp-AeTTTp&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Man United - Villarreal
+http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c43bd3fe44b2091b733-8f6WFP-8f6WFP&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Bayern München - Dynamo Kyiv
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c3bbd3fe44b2091b72d-AkU0u8-AkU0u8&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Benfica - Barcelona
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c3ebd3fe44b2091b72e-kXHfDg-kXHfDg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Man United - Villarreal
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c43bd3fe44b2091b733-8f6WFP-8f6WFP&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Salzburg - Lille
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c46bd3fe44b2091b734-Oxz2Uh-Oxz2Uh&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Wolfsburg - Sevilla
