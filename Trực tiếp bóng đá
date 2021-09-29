@@ -42,16 +42,16 @@ https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vila Nova - Operario Ferroviario
 https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Pachuca - América
+https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mazatlán - Juárez
-https://ndcagev-swv-47b850307.thapcam.link/b184813632a57c1f595ab2730640308db2371541/203ab89ceb190c6bc6e01fd590a213ca/1632880548518/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4ea68706891bd8c0ab8d29e06ab64988b78c8bea/203ab89ceb190c6bc6e01fd590a213ca/1632880853431/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Coritiba - Confiança
-https://ndcagev-swv-47b850307.thapcam.link/a3184e903c393e74430df861a3f6ec65ccb2b183/203ab89ceb190c6bc6e01fd590a213ca/1632880549173/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/3dcacb894894f26b56efa4246c21a8a2644234c4/203ab89ceb190c6bc6e01fd590a213ca/1632880854029/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vila Nova - Operário PR
-https://ndcagev-swv-47b850307.thapcam.link/3165907f29abd49efbab7a18f9b03a9a3cc9c989/203ab89ceb190c6bc6e01fd590a213ca/1632880549964/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/47aaef0af1ff2a6ec2f566c83f352ff81cb09115/203ab89ceb190c6bc6e01fd590a213ca/1632880854731/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 29/09: O'Higgins - Huachipato
-http://vophutv.000webhostapp.com/play90p.php?id=61534f7992893b39d17049a0&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 29/09: Mazatlán - Juárez
 http://vophutv.000webhostapp.com/play90p.php?id=615350d7baf5f939c69df87c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 29/09: Coritiba - Confiança
@@ -84,6 +84,10 @@ http://vophutv.000webhostapp.com/play90p.php?id=6153180ee0d4672fc68e6d52&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=6153857cc6aff63667deb161&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Real Sociedad - Monaco
 http://vophutv.000webhostapp.com/play90p.php?id=6153858d8bb98639dd59c6e9&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Sparta Praha - Rangers
+http://vophutv.000webhostapp.com/play90p.php?id=615385ab28d9a539bbd2aa87&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Napoli - Spartak Moskva
+http://vophutv.000webhostapp.com/play90p.php?id=615385bf8bb98639dd59c6ea&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 29/09: O'Higgins - Huachipato
 http://vophutv.000webhostapp.com/playcakhia.php?id=615264c90ef2f51629bf0657-GxVOHq-GxVOHq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
