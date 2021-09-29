@@ -72,13 +72,15 @@ https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhia6.t
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@luhd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Zenit - Malmö FF
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@lusd1/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Brazil - Argentina
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Zenit - Malmö FF
-https://ndcagev-swv-47b850307.thapcam.link/98033197c56e472a206b889756a91181be321247/203ab89ceb190c6bc6e01fd590a213ca/1632935447515/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/df1bd4c39e2a8c34623d2720f4344df6b0fc6efa/203ab89ceb190c6bc6e01fd590a213ca/1632935747814/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atalanta - Young Boys
-https://ndcagev-swv-47b850307.thapcam.link/b7fb7ee0a588d2d4444f67cd4545eaf771c32bf6/203ab89ceb190c6bc6e01fd590a213ca/1632935448203/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4cdce0f3914c0489684866ebd5dad11d538bb1b6/203ab89ceb190c6bc6e01fd590a213ca/1632935748258/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brazil - Argentina
-https://ndcagev-swv-47b850307.thapcam.link/4d8afad1b79671421bc3edec04e013da637459c3/203ab89ceb190c6bc6e01fd590a213ca/1632935448661/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/80186cacebf06d1fdc0ce0fa8e24caf21493c9d9/203ab89ceb190c6bc6e01fd590a213ca/1632935749078/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Zenit - Malmö FF
 http://vophutv.000webhostapp.com/play90p.php?id=6152302be0d4672fc68e6d50&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -121,18 +123,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d5247c3390ce4d1ba90-2wvA
 http://vophutv.000webhostapp.com/playcakhia.php?id=614e4d5447c3390ce4d1ba93-ecj5Jj-ecj5Jj&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 30/09: Brazil - Argentina
 http://vophutv.000webhostapp.com/playcakhia.php?id=615386370ef2f51629bf090f-D0kDBT-D0kDBT&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 30/09: Barnsley - Nottm Forest
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d9dbd3fe44b2091b772-480Ki1-480Ki1&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 30/09: Derby - Reading
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d9fbd3fe44b2091b773-BBjVgc-BBjVgc&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 30/09: Fulham - Swansea
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f9da0bd3fe44b2091b774-AeTTTp-AeTTTp&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 30/09: Luton - Coventry
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9da1bd3fe44b2091b775-ZRiYjB-ZRiYjB&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 30/09: Millwall - Bristol City
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9da3bd3fe44b2091b778-vPIkKk-vPIkKk&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 30/09: Peterborough - Bournemouth
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9da4bd3fe44b2091b77d-1lGoMN-1lGoMN&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Bayern München - Dynamo Kyiv
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c3bbd3fe44b2091b72d-AkU0u8-AkU0u8&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/f9YZS1T/IMG-20210917-193959.png",02h00 30/09: Benfica - Barcelona
