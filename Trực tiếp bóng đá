@@ -39,6 +39,10 @@ https://7038446ef.vws.vegacdn.vn/livehls/m501nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Mercer - Winthrop
 https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài O'Higgins - Huachipato
+https://ndcagev-swv-47b850307.thapcam.link/1c615802371a5736299c5bc535954141f924ec6f/203ab89ceb190c6bc6e01fd590a213ca/1632873654706/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mazatlán - Juárez
+https://ndcagev-swv-47b850307.thapcam.link/ca8d6197601e0af2b0fee18b86b059c0fd6ea739/203ab89ceb190c6bc6e01fd590a213ca/1632873655384/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 29/09: O'Higgins - Huachipato
 http://vophutv.000webhostapp.com/play90p.php?id=61534f7992893b39d17049a0&.m3u8|Referer=https://xoilac.90phutt.xyz/
