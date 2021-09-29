@@ -23,31 +23,9 @@ http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8
 http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/nsdQ7r4/IMG-20210923-185011.png",THỂ THAO NƯỚC NGOÀI 3
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/335
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/m6k7wHR/IMG-20210923-192627.png",THỂ THAO NƯỚC NGOÀI 4
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1884
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdFR9Fp/IMG-20210906-185630.png",BOXING 1
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 1
-https://livecdn.fptplay.net/hdevent/uefa01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 2
-https://livecdn.fptplay.net/hdevent/uefa02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 3
-https://livecdn.fptplay.net/hdevent/uefa03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 4
-https://livecdn.fptplay.net/hdevent/uefa04_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 5
-https://livecdn.fptplay.net/hdevent/uefa05_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 6
-https://livecdn.fptplay.net/hdevent/uefa06_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 7
-https://livecdn.fptplay.net/hdevent/uefa07_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 8
-https://livecdn.fptplay.net/hdevent/uefa08_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 9
-https://livecdn.fptplay.net/hdevent/uefa09_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdf7JVH/IMG-20210929-120920.png",TỚI TRẬN MỚI MỞ 10
-https://livecdn.fptplay.net/hdevent/uefa10_hls.smil/chunklist_b2500000.m3u8
 
 
