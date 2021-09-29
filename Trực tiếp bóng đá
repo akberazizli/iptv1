@@ -38,15 +38,21 @@ https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài LD Alajuelense - Guastatoya
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atletico MG - Palmeiras
+https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Coritiba - Confianca
+https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vila Nova - Operario Ferroviario
+https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài O'Higgins - Huachipato
-https://ndcagev-swv-47b850307.thapcam.link/8713685ce31e051ded0b48153bd727e44f1d3a22/203ab89ceb190c6bc6e01fd590a213ca/1632874848565/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/35452a7fd94174c8de898a2f1f414e36e305390c/203ab89ceb190c6bc6e01fd590a213ca/1632875148122/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mazatlán - Juárez
-https://ndcagev-swv-47b850307.thapcam.link/3422e8b803c9ee30881292d89d1922fd01e0fecf/203ab89ceb190c6bc6e01fd590a213ca/1632874849225/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8fb9ffab9ecae5ed7fbf77593633fb474dcc0956/203ab89ceb190c6bc6e01fd590a213ca/1632875148862/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vila Nova - Operário PR
-https://ndcagev-swv-47b850307.thapcam.link/1768f371de6713452acbe027d8b8df28e1c98e71/203ab89ceb190c6bc6e01fd590a213ca/1632874849972/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/9cd7b418d2d1b31d1a0832541031c958df486bea/203ab89ceb190c6bc6e01fd590a213ca/1632875149537/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Coritiba - Confiança
-https://ndcagev-swv-47b850307.thapcam.link/dc0f877fa7b957bea6471a69efb55ce5e1442d43/203ab89ceb190c6bc6e01fd590a213ca/1632874850597/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0f3145dc3d5490a21a5ede13d98eed6afd9cb979/203ab89ceb190c6bc6e01fd590a213ca/1632875150290/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 29/09: O'Higgins - Huachipato
 http://vophutv.000webhostapp.com/play90p.php?id=61534f7992893b39d17049a0&.m3u8|Referer=https://xoilac.90phutt.xyz/
