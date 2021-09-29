@@ -34,10 +34,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h00 29/09: Atlas - Puebla
-http://vophutv.000webhostapp.com/play90p.php?id=615350f074dd7b31c399b1e3&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h05 29/09: Pachuca - América
-http://vophutv.000webhostapp.com/play90p.php?id=6153510abaf5f939c69df87d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Atalanta - Young Boys
 http://vophutv.000webhostapp.com/play90p.php?id=6152306292893b39d170499f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Zenit - Malmö FF
