@@ -52,8 +52,6 @@ https://livecdn.fptplay.net/hdevent/uefa10_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Olimp Dolgoprudny - Metalurg Lypetsk
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Ulaanbaatar FC - Ulaanbaatar City
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Hangzhou - Suzhou Dongwu
@@ -97,8 +95,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615385d7c6aff63667deb162&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Lyon - Brøndby
 http://vophutv.000webhostapp.com/play90p.php?id=615385ea74dd7b31c399b1e4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 29/09: Olimp Dolgoprudny - Metalurg Lypetsk
-http://vophutv.000webhostapp.com/playcakhia.php?id=6152ce6b0ef2f51629bf06e3-bODZaI-bODZaI&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 29/09: Ulaanbaatar FC - Ulaanbaatar City
 http://vophutv.000webhostapp.com/playcakhia.php?id=6152d06b0ef2f51629bf06ec-Vghufq-Vghufq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 29/09: Hangzhou - Suzhou Dongwu
