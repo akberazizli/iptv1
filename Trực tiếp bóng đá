@@ -19,8 +19,8 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/kHDbyvn/IMG-20210923-190634.png",THỂ THAO NƯỚC NGOÀI 1
 http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI
-http://xemtv.nhanhnhat.net/nguon/beinsports2.php
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI 2
+https://22live00.akamaized.net/RMC_Sports_1/index.m3u8?token
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdFR9Fp/IMG-20210906-185630.png",BOXING 1
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
@@ -34,9 +34,9 @@ https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bo
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atlas - Puebla
-https://ndcagev-swv-47b850307.thapcam.link/cdcd35c427a2356ef35211c5314b8a020be15f44/203ab89ceb190c6bc6e01fd590a213ca/1632887150056/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a7ca5aea10ac365c5a173d607ba6174854919d15/203ab89ceb190c6bc6e01fd590a213ca/1632887448668/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Pachuca - América
-https://ndcagev-swv-47b850307.thapcam.link/3ac8efa7fe31685568d3e84ee3965d82f8845393/203ab89ceb190c6bc6e01fd590a213ca/1632887150797/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ad857ed3414cfaa876c1573a4087ec5e6f3a285c/203ab89ceb190c6bc6e01fd590a213ca/1632887449491/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h00 29/09: Atlas - Puebla
 http://vophutv.000webhostapp.com/play90p.php?id=615350f074dd7b31c399b1e3&.m3u8|Referer=https://xoilac.90phutt.xyz/
