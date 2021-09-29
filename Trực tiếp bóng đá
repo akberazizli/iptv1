@@ -61,7 +61,7 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@ducsd/playlist.m3u8
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Spartak Moscow II - Tom Tomsk
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Hendekspor - 52 Orduspor
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 29/09: Atalanta - Young Boys
@@ -203,6 +203,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6153c5850ef2f51629bf0ad6-w6Jo
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153c5b30ef2f51629bf0ae4-Ozkymg-Ozkymg&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h30 30/09: San Jose - Seattle Sounders
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153c5bb0ef2f51629bf0ae7-ALESAw-ALESAw&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",12h00 30/09: BCH Lions - Khoromkhon
+http://vophutv.000webhostapp.com/playcakhia.php?id=61545ea30ef2f51629bf0c43-OgQ0q6-OgQ0q6&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",13h00 30/09: Dinamo Vladivostok - Fakel-M Voronezh
 http://vophutv.000webhostapp.com/playcakhia.php?id=615412250ef2f51629bf0b2d-5zrvvL-5zrvvL&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",14h30 30/09: Chita - Leningradets
@@ -217,6 +219,12 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6154339a0ef2f51629bf0b6e-xIJV
 http://vophutv.000webhostapp.com/playcakhia.php?id=6154346f0ef2f51629bf0b74-klEALI-klEALI&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 30/09: Kaluga - Avangard Kursk
 http://vophutv.000webhostapp.com/playcakhia.php?id=6154337e0ef2f51629bf0b69-Tj5cvc-Tj5cvc&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 30/09: Shenyang - Nanjing City
+http://vophutv.000webhostapp.com/playcakhia.php?id=61545ee40ef2f51629bf0c46-MJZm52-MJZm52&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 30/09: Sichuan - Beijing IT
+http://vophutv.000webhostapp.com/playcakhia.php?id=61545efd0ef2f51629bf0c49-7yWXe8-7yWXe8&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 30/09: Guizhou FC - Zibo Cuju
+http://vophutv.000webhostapp.com/playcakhia.php?id=61545f210ef2f51629bf0c4c-AZSeEF-AZSeEF&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 30/09: Zenit Penza - Salyut Belgorod
 http://vophutv.000webhostapp.com/playcakhia.php?id=6154126c0ef2f51629bf0b32-QITZjs-QITZjs&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h00 30/09: FC Ryazan - Arsenal Tula II
