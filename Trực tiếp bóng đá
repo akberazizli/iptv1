@@ -26,8 +26,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Correcaminos - Celaya
-https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài All Boys - CA Defensores de Belgrano
 https://7038446ef.vws.vegacdn.vn/livehls/m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài LD Alajuelense - Guastatoya
@@ -43,14 +41,14 @@ https://7038446ef.vws.vegacdn.vn/livehls/m301nd/playlist.m3u8|Referer=https://bo
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Pachuca - América
 https://7038446ef.vws.vegacdn.vn/livehls/m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mazatlán - Juárez
-https://ndcagev-swv-47b850307.thapcam.link/fcfd6db2292efa75f596cc8d522a99e4e67b2603/203ab89ceb190c6bc6e01fd590a213ca/1632881148000/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Coritiba - Confiança
-https://ndcagev-swv-47b850307.thapcam.link/571f526d80bf1df2fe7c214b64594404fca89dee/203ab89ceb190c6bc6e01fd590a213ca/1632881148723/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/2ad05634f58ceecffd1e79601bd789bcc044b4e4/203ab89ceb190c6bc6e01fd590a213ca/1632881450170/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vila Nova - Operário PR
-https://ndcagev-swv-47b850307.thapcam.link/77538dcfef77ccfc5a07cc474edc5fd3897ffa42/203ab89ceb190c6bc6e01fd590a213ca/1632881149406/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b7f3cf33c7eb4cda45bd09c122e7f7dda0ca9650/203ab89ceb190c6bc6e01fd590a213ca/1632881450941/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atlas - Puebla
-https://ndcagev-swv-47b850307.thapcam.link/0740d864d8857cdfdd9494fffd2b69ee87e83d34/203ab89ceb190c6bc6e01fd590a213ca/1632881150179/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/acb2f9eb949223170d9ffd7da75729171d56411c/203ab89ceb190c6bc6e01fd590a213ca/1632881451695/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Pachuca - América
+https://ndcagev-swv-47b850307.thapcam.link/1092f7304384120f99d6a979cd939b95ab33837b/203ab89ceb190c6bc6e01fd590a213ca/1632881452399/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 29/09: Mazatlán - Juárez
 http://vophutv.000webhostapp.com/play90p.php?id=615350d7baf5f939c69df87c&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -89,8 +87,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615385ab28d9a539bbd2aa87&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Napoli - Spartak Moskva
 http://vophutv.000webhostapp.com/play90p.php?id=615385bf8bb98639dd59c6ea&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h05 29/09: Correcaminos - Celaya
-http://vophutv.000webhostapp.com/playcakhia.php?id=615263dd0ef2f51629bf0652-Oo8rGo-Oo8rGo&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h10 29/09: All Boys - CA Defensores de Belgrano
 http://vophutv.000webhostapp.com/playcakhia.php?id=615264cf0ef2f51629bf065b-wnRBuq-wnRBuq&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h15 29/09: LD Alajuelense - Guastatoya
