@@ -30,24 +30,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Lyon - Brøndby IF
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m203nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sparta Prague - Rangers
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Real Sociedad - Monaco
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m403nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sturm Graz - PSV Eindhoven
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Legia Warszawa - Leicester
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Legia Warszawa - Leicester
-https://1630578830.vnns.net/cakhiahd2/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Legia Warszawa - Leicester
-https://1630578830.vnns.net/cakhiasd2/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Legia Warszawa - Leicester
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@cakhiahd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Legia Warszawa - Leicester
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@cakhiasd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Napoli - Spartak
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Napoli - Spartak
@@ -58,43 +40,31 @@ https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialiv
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@luhd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Napoli - Spartak
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@lusd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Fenerbahce - Olympiacos
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m503nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Royal Antwerp - Frankfurt
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m504nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài CFR Cluj - Randers FC
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m102nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài AZ Alkmaar - Jablonec
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m103nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Zorya - Roma
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Zorya - Roma
-https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Zorya - Roma
-https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Zorya - Roma
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@taihd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Zorya - Roma
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@taisd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài PFC CSKA-Sofia - Bodø/Glimt
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Partizan Beograd - Flora Tallinn
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m302nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Gent - Anorthosis
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m303nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài LASK - Maccabi Tel Aviv
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m304nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Alashkert FC - HJK
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m101nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Portugal - Kazakhstan
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m404nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Antwerp - Frankfurt
-https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Napoli - Spartak Moskva
-https://ndcagev-swv-47b850307.thapcam.link/223f339134c159a6345dcb5fbca27b336d5fa360/203ab89ceb190c6bc6e01fd590a213ca/1633027550137/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Real Sociedad - Monaco
-https://ndcagev-swv-47b850307.thapcam.link/ba2d27048298fb5b224ba1ce7259a6ffa492c337/203ab89ceb190c6bc6e01fd590a213ca/1633027551529/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/054fc73e9f283872e5ed33d652a3fc929ad7a010/203ab89ceb190c6bc6e01fd590a213ca/1633027850757/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Basel - Kairat
+https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Ludogorets - Crvena Zvezda
+https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Tottenham - Mura
+https://ndcagev-swv-47b850307.thapcam.link/4473df7c06b20e77c977687fd874c31e41a5329f/203ab89ceb190c6bc6e01fd590a213ca/1633027860329/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vitesse - Rennes
+https://1630578888.vnns.net/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài PAOK - Slovan Bratislava
+https://1630578888.vnns.net/may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sporting Braga - Midtjylland
+https://1630578888.vnns.net/may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Genk - Dinamo Zagreb
+https://ndcagev-swv-47b850307.thapcam.link/55bc96b100d150c5cffb7822cb1a7a5af4e52c82/203ab89ceb190c6bc6e01fd590a213ca/1633027864178/livehls/mtc_may3/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Omonia Nicosia - Qarabağ
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Celtic - Bayer Leverkusen
+https://ndcagev-swv-47b850307.thapcam.link/5873c1e16f50214aa7693f7f076f1415917cd28a/203ab89ceb190c6bc6e01fd590a213ca/1633027865552/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài West Ham - Rapid Wien
+https://ndcagev-swv-47b850307.thapcam.link/afd7e78a4f760068c54ebc458c968de35ec7d951/203ab89ceb190c6bc6e01fd590a213ca/1633027866234/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Zorya - Roma
 http://vophutv.000webhostapp.com/play90p.php?id=61538626c6aff63667deb163&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -157,38 +127,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=615388ebe0d4672fc68e6d56&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h00 01/10: Union Berlin - Maccabi Haifa
 http://vophutv.000webhostapp.com/play90p.php?id=615389abbba0f52229818243&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Lyon - Brøndby IF
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c77bd3fe44b2091b73f-B5uQ0W-B5uQ0W&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Sparta Prague - Rangers
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c7dbd3fe44b2091b742-KkqFIv-KkqFIv&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Real Sociedad - Monaco
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c83bd3fe44b2091b745-CpeWEK-CpeWEK&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Sturm Graz - PSV Eindhoven
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c88bd3fe44b2091b748-Hw3GsN-Hw3GsN&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Legia Warszawa - Leicester
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c8fbd3fe44b2091b74b-saMDvl-saMDvl&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Napoli - Spartak
 http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c96bd3fe44b2091b74e-NCSJzf-NCSJzf&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Fenerbahce - Olympiacos
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9c9ebd3fe44b2091b751-L6ejND-L6ejND&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",23h45 30/09: Royal Antwerp - Frankfurt
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9ca5bd3fe44b2091b754-A9yISs-A9yISs&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 30/09: CFR Cluj - Randers FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d71bd3fe44b2091b75a-s1SSYF-s1SSYF&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 30/09: AZ Alkmaar - Jablonec
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d73bd3fe44b2091b75b-63UCt0-63UCt0&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 30/09: Zorya - Roma
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d74bd3fe44b2091b75c-GJvSGe-GJvSGe&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 30/09: PFC CSKA-Sofia - Bodø/Glimt
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d75bd3fe44b2091b75d-dLq9y8-dLq9y8&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 30/09: Partizan Beograd - Flora Tallinn
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d77bd3fe44b2091b760-EpsO5u-EpsO5u&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 30/09: Gent - Anorthosis
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d78bd3fe44b2091b763-2mBzTS-2mBzTS&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 30/09: LASK - Maccabi Tel Aviv
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d79bd3fe44b2091b766-WeicdH-WeicdH&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 30/09: Alashkert FC - HJK
-http://vophutv.000webhostapp.com/playcakhia.php?id=614f9d7bbd3fe44b2091b769-YlmhN6-YlmhN6&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 01/10: Portugal - Kazakhstan
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153866e0ef2f51629bf0912-wYjxMK-wYjxMK&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 01/10: Tottenham - Mura
