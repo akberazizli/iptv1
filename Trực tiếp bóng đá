@@ -30,8 +30,16 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Portugal - Kazakhstan
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m404nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài West Ham - Rapid Wien
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 West Ham - Rapid Wien
+https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 West Ham - Rapid Wien
+https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 West Ham - Rapid Wien
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@luhd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 West Ham - Rapid Wien
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@lusd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tottenham - Mura
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Tottenham - Mura
@@ -56,16 +64,6 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m503nd/playlist.m3u
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m504nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Genk - Dinamo Zagreb
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m102nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài West Ham - Rapid Wien
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 West Ham - Rapid Wien
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 West Ham - Rapid Wien
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 West Ham - Rapid Wien
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@luhd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 West Ham - Rapid Wien
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@lusd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Feyenoord - Slavia Prague
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Omonia Nicosia - Qarabag FK
@@ -84,33 +82,33 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m101nd/playlist.m3u
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Basel - Kairat
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Feyenoord - Slavia Praha
-https://ndcagev-swv-47b850307.thapcam.link/1a9522be6fafa6941f7b72e90d347168fe66b4a9/203ab89ceb190c6bc6e01fd590a213ca/1633030252169/livehls/mtc_may51/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a384d97da4e41b8bb251fcb09a9d10eb97f6667c/203ab89ceb190c6bc6e01fd590a213ca/1633030546494/livehls/mtc_may51/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Ludogorets - Crvena Zvezda
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Marseille - Galatasaray
-https://ndcagev-swv-47b850307.thapcam.link/4bb1307db4e01bc1e984e2fea5d452d62d997984/203ab89ceb190c6bc6e01fd590a213ca/1633030253626/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1710ef5d65a8de4a0b4b19856c0297ef955b1799/203ab89ceb190c6bc6e01fd590a213ca/1633030547858/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Tottenham - Mura
-https://ndcagev-swv-47b850307.thapcam.link/0b3e72583cc6f143ef6c8beff3a49d5f05698b3d/203ab89ceb190c6bc6e01fd590a213ca/1633030254311/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1138c40a1ad12bec98a0e0be673ce8f0fec0b7db/203ab89ceb190c6bc6e01fd590a213ca/1633030548640/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Ferencváros - Real Betis
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vitesse - Rennes
 https://1630578888.vnns.net/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lazio - Lokomotiv Moskva
-https://ndcagev-swv-47b850307.thapcam.link/c5babc3ce6ad874a81199af9f341879583323b8f/203ab89ceb190c6bc6e01fd590a213ca/1633030256513/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8b21e635f83ddfe4f082796c89a93693c5e08e67/203ab89ceb190c6bc6e01fd590a213ca/1633030550588/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài PAOK - Slovan Bratislava
 https://1630578888.vnns.net/may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sporting Braga - Midtjylland
 https://1630578888.vnns.net/may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Genk - Dinamo Zagreb
-https://ndcagev-swv-47b850307.thapcam.link/b5096e71ecb41521248e1696d57e4d1f251b271c/203ab89ceb190c6bc6e01fd590a213ca/1633030258679/livehls/mtc_may3/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/70780b31707167bc02518af5af5a9c4db85655c8/203ab89ceb190c6bc6e01fd590a213ca/1633030552645/livehls/mtc_may3/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Omonia Nicosia - Qarabağ
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Celtic - Bayer Leverkusen
-https://ndcagev-swv-47b850307.thapcam.link/d9609aca05a2899c1ed2084094655739d95bcc54/203ab89ceb190c6bc6e01fd590a213ca/1633030260419/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/fba92895be273af82ca45970e106cd0d7b97fa62/203ab89ceb190c6bc6e01fd590a213ca/1633030554413/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài West Ham - Rapid Wien
-https://ndcagev-swv-47b850307.thapcam.link/60dc09b2fa5f554de6dbc95c322388a4c7fb8410/203ab89ceb190c6bc6e01fd590a213ca/1633030261096/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/e6e3c5bd98b89aa5ad4e58a22a6e11fef59aa286/203ab89ceb190c6bc6e01fd590a213ca/1633030554820/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Union Berlin - Maccabi Haifa
-https://ndcagev-swv-47b850307.thapcam.link/497af34038d993d8d81c63e574d8983e8c063e3b/203ab89ceb190c6bc6e01fd590a213ca/1633030261439/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d00382d7b1d14798dc66f90cabd0fa2cd1775b84/203ab89ceb190c6bc6e01fd590a213ca/1633030555548/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h00 01/10: Basel - Kairat
 http://vophutv.000webhostapp.com/play90p.php?id=61538913e0d4672fc68e6d57&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -153,8 +151,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=6155e1938bb98639dd59c6f3&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h40 01/10: Deportivo Pasto - Once Caldas
 http://vophutv.000webhostapp.com/play90p.php?id=6155e298e0d4672fc68e6d5a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 01/10: Portugal - Kazakhstan
-http://vophutv.000webhostapp.com/playcakhia.php?id=6153866e0ef2f51629bf0912-wYjxMK-wYjxMK&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",01h59 01/10: West Ham - Rapid Wien
+http://vophutv.000webhostapp.com/playcakhia.php?id=615387250ef2f51629bf092a-Fi4F8U-Fi4F8U&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 01/10: Tottenham - Mura
 http://vophutv.000webhostapp.com/playcakhia.php?id=615387650ef2f51629bf0933-qtnT7Z-qtnT7Z&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",02h00 01/10: Lazio - Lokomotiv
@@ -171,8 +169,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615386f20ef2f51629bf0921-qCN9
 http://vophutv.000webhostapp.com/playcakhia.php?id=615386f80ef2f51629bf0924-AZeIn3-AZeIn3&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",02h00 01/10: Genk - Dinamo Zagreb
 http://vophutv.000webhostapp.com/playcakhia.php?id=615386fe0ef2f51629bf0927-URWaSh-URWaSh&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/hY7WbGP/IMG-20210917-194011.png",02h00 01/10: West Ham - Rapid Wien
-http://vophutv.000webhostapp.com/playcakhia.php?id=615387250ef2f51629bf092a-Fi4F8U-Fi4F8U&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 01/10: Feyenoord - Slavia Prague
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153875f0ef2f51629bf092d-4FXM2T-4FXM2T&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 01/10: Omonia Nicosia - Qarabag FK
