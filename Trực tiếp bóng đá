@@ -42,10 +42,8 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/playlist.m3u
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m503nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Valour FC - Pacific FC
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Dallas - Sporting KC
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m202nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Chicago - NYCFC
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Temperley - Talleres
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h30 30/09: Atlanta United II - Louisville City
@@ -91,14 +89,14 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6153c2f90ef2f51629bf0aa2-kpN9
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153c2fc0ef2f51629bf0aa5-kyGJj7-kyGJj7&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",06h45 30/09: Valour FC - Pacific FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153c2fe0ef2f51629bf0aa8-5PkDfr-5PkDfr&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 30/09: Dallas - Sporting KC
-http://vophutv.000webhostapp.com/playcakhia.php?id=6153c4f00ef2f51629bf0abc-pPaf32-pPaf32&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 30/09: Chicago - NYCFC
-http://vophutv.000webhostapp.com/playcakhia.php?id=6153c4f40ef2f51629bf0abf-KpPZXK-KpPZXK&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h10 30/09: Temperley - Talleres
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153c4f70ef2f51629bf0ac2-yGINWJ-yGINWJ&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 30/09: Barcelona SC - Flamengo
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153c4eb0ef2f51629bf0ab6-0SECYR-0SECYR&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 30/09: Dallas - Sporting KC
+http://vophutv.000webhostapp.com/playcakhia.php?id=6153c4f00ef2f51629bf0abc-pPaf32-pPaf32&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 30/09: Chicago - NYCFC
+http://vophutv.000webhostapp.com/playcakhia.php?id=6153c4f40ef2f51629bf0abf-KpPZXK-KpPZXK&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 30/09: Colorado - Austin FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153c55b0ef2f51629bf0aca-PHzdd1-PHzdd1&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 30/09: Houston - Vancouver
