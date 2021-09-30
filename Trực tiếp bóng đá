@@ -44,19 +44,17 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m402nd/playlist.m3u
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m302nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Salt Lake - LA Galaxy
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  FC Edmonton - Cavalry FC
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atlanta United II - Louisville City
-https://ndcagev-swv-47b850307.thapcam.link/fd908e47cfb5bfe890d3a8d155d4febc8bd536ea/203ab89ceb190c6bc6e01fd590a213ca/1632966648844/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Valour - Pacific
-https://ndcagev-swv-47b850307.thapcam.link/359c76b07e8ba36c5d13456c788ca208dcfbcb1c/203ab89ceb190c6bc6e01fd590a213ca/1632966649572/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài OKC Energy - Indy Eleven
-https://ndcagev-swv-47b850307.thapcam.link/b54562577456078e02101a5195ddb3010966b92a/203ab89ceb190c6bc6e01fd590a213ca/1632966650532/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b4cd46b1e7c1cf4825c6e2205667dfbc721d335c/203ab89ceb190c6bc6e01fd590a213ca/1632966949676/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài CSA - Ponte Preta
-https://ndcagev-swv-47b850307.thapcam.link/3363b0e44c22a90a5a9218747d968053372feb7d/203ab89ceb190c6bc6e01fd590a213ca/1632966651097/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/2dcc4cac790155a6bcf8be0708adfd171775f30c/203ab89ceb190c6bc6e01fd590a213ca/1632966950455/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vitória - Botafogo
-https://ndcagev-swv-47b850307.thapcam.link/8867799f795a38423b6f3513a3104d7f59a59787/203ab89ceb190c6bc6e01fd590a213ca/1632966652068/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/6424399776a345c0d55b4aed63568f087989ef67/203ab89ceb190c6bc6e01fd590a213ca/1632966951190/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài New Mexico United - Rio Grande Valley
-https://ndcagev-swv-47b850307.thapcam.link/1940e98b4ff8002716520d887a946c508ce2766a/203ab89ceb190c6bc6e01fd590a213ca/1632966652724/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0c871a9240fd37509ee8ea459c15e6461ef71868/203ab89ceb190c6bc6e01fd590a213ca/1632966951628/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h30 30/09: Atlanta United II - Louisville City
 http://vophutv.000webhostapp.com/play90p.php?id=61547b3728d9a539bbd2aa89&.m3u8|Referer=https://xoilac.90phutt.xyz/
