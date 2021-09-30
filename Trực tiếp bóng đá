@@ -30,8 +30,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Kaluga - Avangard Kursk
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Shenyang - Nanjing City
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sichuan - Beijing IT
@@ -42,41 +40,41 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@ducsd/playlist.m3u8
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Belediye Kutahyaspor - Darica Genclerbirligi
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FC Ryazan - Arsenal Tula II
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Zorya - Roma
 http://vophutv.000webhostapp.com/play90p.php?id=61538626c6aff63667deb163&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Alashkert - HJK
 http://vophutv.000webhostapp.com/play90p.php?id=61538650e0d4672fc68e6d53&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Antwerp - Frankfurt
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",23h45 30/09: Antwerp - Frankfurt
 http://vophutv.000webhostapp.com/play90p.php?id=615385d7c6aff63667deb162&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Fenerbahçe - Olympiakos
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",23h45 30/09: Fenerbahçe - Olympiakos
 http://vophutv.000webhostapp.com/play90p.php?id=6153860b8bb98639dd59c6eb&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Gent - Anorthosis
 http://vophutv.000webhostapp.com/play90p.php?id=615386818bb98639dd59c6ed&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Napoli - Spartak Moskva
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",23h45 30/09: Napoli - Spartak Moskva
 http://vophutv.000webhostapp.com/play90p.php?id=615385bf8bb98639dd59c6ea&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: AZ - Jablonec
 http://vophutv.000webhostapp.com/play90p.php?id=6153863bc6aff63667deb164&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Real Sociedad - Monaco
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",23h45 30/09: Real Sociedad - Monaco
 http://vophutv.000webhostapp.com/play90p.php?id=6153858d8bb98639dd59c6e9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Partizan - Flora
 http://vophutv.000webhostapp.com/play90p.php?id=615386698bb98639dd59c6ec&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Lyon - Brøndby
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",23h45 30/09: Lyon - Brøndby
 http://vophutv.000webhostapp.com/play90p.php?id=615385ea74dd7b31c399b1e4&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Sturm Graz - PSV
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",23h45 30/09: Sturm Graz - PSV
 http://vophutv.000webhostapp.com/play90p.php?id=6153857cc6aff63667deb161&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: CFR Cluj - Randers
 http://vophutv.000webhostapp.com/play90p.php?id=61538699e0d4672fc68e6d54&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Sparta Praha - Rangers
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",23h45 30/09: Sparta Praha - Rangers
 http://vophutv.000webhostapp.com/play90p.php?id=615385ab28d9a539bbd2aa87&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Legia Warszawa - Leicester City
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",23h45 30/09: Legia Warszawa - Leicester City
 http://vophutv.000webhostapp.com/play90p.php?id=615385fb74dd7b31c399b1e5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: CSKA Sofia - Bodø / Glimt
 http://vophutv.000webhostapp.com/play90p.php?id=615386ae74dd7b31c399b1e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 30/09: Kaluga - Avangard Kursk
-http://vophutv.000webhostapp.com/playcakhia.php?id=6154337e0ef2f51629bf0b69-Tj5cvc-Tj5cvc&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 30/09: Shenyang - Nanjing City
 http://vophutv.000webhostapp.com/playcakhia.php?id=61545ee40ef2f51629bf0c46-MJZm52-MJZm52&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 30/09: Sichuan - Beijing IT
