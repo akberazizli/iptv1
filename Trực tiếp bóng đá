@@ -36,6 +36,10 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Volga Ulyanovsk  - Irtysh Omsk
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Dinamo Briansk - Sokol Saratov
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@duc1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Karabukspor - Karsiyaka
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@duc2/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Zorya - Roma
@@ -185,6 +189,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6155bb240ef2f51629bf110f-JZkr
 http://vophutv.000webhostapp.com/playcakhia.php?id=6155ccd50ef2f51629bf1141-Ap7F0n-Ap7F0n&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h15 01/10: Metallurg Bekabad - Lokomotiv Tashkent
 http://vophutv.000webhostapp.com/playcakhia.php?id=6155cdf80ef2f51629bf1146-zYhy4K-zYhy4K&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h30 01/10: Mariupol - Rukh Lviv
+http://vophutv.000webhostapp.com/playcakhia.php?id=6155cf7a0ef2f51629bf114b-8iUNtH-8iUNtH&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h00 02/10: Maritimo - Moreirense
 http://vophutv.000webhostapp.com/playcakhia.php?id=615388490ef2f51629bf097f-e4uVB5-e4uVB5&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h00 02/10: FC Groningen - FC Twente
