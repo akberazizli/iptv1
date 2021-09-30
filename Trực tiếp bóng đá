@@ -39,17 +39,13 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Real Esteli FC - CD Marathon
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài OKC Energy - Indy Eleven
-https://ndcagev-swv-47b850307.thapcam.link/5b9c4904ea3d675c90714a93a6d7644402cbeb83/203ab89ceb190c6bc6e01fd590a213ca/1632972347508/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Edmonton - Cavalry
-https://ndcagev-swv-47b850307.thapcam.link/be93560fd29920691acc64a43c7bd6dbe9a5f356/203ab89ceb190c6bc6e01fd590a213ca/1632972348931/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/84d8400bf29054bba3977e63c24e572982101910/203ab89ceb190c6bc6e01fd590a213ca/1632972653088/livehls/mtc_may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài LA Galaxy II - Phoenix Rising
-https://ndcagev-swv-47b850307.thapcam.link/45cf974ea83bda33db2ab347f01a9e01b2d9b643/203ab89ceb190c6bc6e01fd590a213ca/1632972349712/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/5ee122431a291487d55eb7269f29a3d1c24bbb2b/203ab89ceb190c6bc6e01fd590a213ca/1632972653851/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 30/09: OKC Energy - Indy Eleven
 http://vophutv.000webhostapp.com/play90p.php?id=61547b518bb98639dd59c6f1&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 30/09: New Mexico United - Rio Grande Valley
-http://vophutv.000webhostapp.com/play90p.php?id=61547b8fbba0f52229818244&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h00 30/09: Edmonton - Cavalry
 http://vophutv.000webhostapp.com/play90p.php?id=61548f53c6aff63667deb166&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h30 30/09: LA Galaxy II - Phoenix Rising
