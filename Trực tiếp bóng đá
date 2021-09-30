@@ -30,8 +30,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài BCH Lions - Khoromkhon
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@ducsd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Dinamo Vladivostok - Fakel-M Voronezh
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
@@ -67,8 +65,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615385fb74dd7b31c399b1e5&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: CSKA Sofia - Bodø / Glimt
 http://vophutv.000webhostapp.com/play90p.php?id=615386ae74dd7b31c399b1e6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",12h00 30/09: BCH Lions - Khoromkhon
-http://vophutv.000webhostapp.com/playcakhia.php?id=61545ea30ef2f51629bf0c43-OgQ0q6-OgQ0q6&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",13h00 30/09: Dinamo Vladivostok - Fakel-M Voronezh
 http://vophutv.000webhostapp.com/playcakhia.php?id=615412250ef2f51629bf0b2d-5zrvvL-5zrvvL&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",14h30 30/09: Chita - Leningradets
