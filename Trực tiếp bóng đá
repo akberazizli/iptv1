@@ -30,8 +30,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Libertad - Red Bull Bragantino
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Atlanta United - Inter Miami CF
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Toronto - Cincinnati
@@ -77,8 +75,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6153858d8bb98639dd59c6e9&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 30/09: Antwerp - Frankfurt
 http://vophutv.000webhostapp.com/play90p.php?id=615385d7c6aff63667deb162&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h15 30/09: Libertad - Red Bull Bragantino
-http://vophutv.000webhostapp.com/playcakhia.php?id=6153c2220ef2f51629bf0a94-5BeT4F-5BeT4F&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 30/09: Atlanta United - Inter Miami CF
 http://vophutv.000webhostapp.com/playcakhia.php?id=6153c2f10ef2f51629bf0a9b-SqUoHH-SqUoHH&.m3u8|Referer=https://bongda.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 30/09: Toronto - Cincinnati
