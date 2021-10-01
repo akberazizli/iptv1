@@ -32,8 +32,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Wuhan Three - Nantong Zhiyun
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@duc1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Shonan Bellmare - Yokohama F.Marinos
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
@@ -69,8 +67,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6156c011e0d4672fc68e6d5c&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 02/10: Hertha BSC - Freiburg
 http://vophutv.000webhostapp.com/play90p.php?id=6156bfc7bba0f52229818247&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 01/10: Wuhan Three - Nantong Zhiyun
-http://vophutv.000webhostapp.com/playcakhia.php?id=6155ba6d0ef2f51629bf1109-TwvGg9-TwvGg9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 01/10: Shonan Bellmare - Yokohama F.Marinos
 http://vophutv.000webhostapp.com/playcakhia.php?id=6155b9e40ef2f51629bf1101-kDb4r4-kDb4r4&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 01/10: Chonburi FC - Chiangrai United
