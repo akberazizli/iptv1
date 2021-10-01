@@ -30,12 +30,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Audax Italiano - Union Espanola
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Deportivo Saprissa - Santa Lucia Cotzumalguapa
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Hartford Athletic - Charlotte Independence
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  UDG - Atletico Morelia
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Sampaio Correa - Remo
@@ -46,6 +40,8 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m402nd/playlist.m3u
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Cimarrones - Pumas Tabasco
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  CD Motagua - UD Universitario
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",02h00 02/10: Athletic Club - Deportivo Alavés
@@ -69,12 +65,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61561defbba0f52229818245&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",23h30 02/10: Cádiz - Valencia
 http://vophutv.000webhostapp.com/play90p.php?id=61561f5fc6aff63667deb168&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 01/10: Audax Italiano - Union Espanola
-http://vophutv.000webhostapp.com/playcakhia.php?id=6155222f0ef2f51629bf0fcf-5mlisA-5mlisA&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 01/10: Deportivo Saprissa - Santa Lucia Cotzumalguapa
-http://vophutv.000webhostapp.com/playcakhia.php?id=615522380ef2f51629bf0fd2-sXi3Hh-sXi3Hh&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 01/10: Hartford Athletic - Charlotte Independence
-http://vophutv.000webhostapp.com/playcakhia.php?id=6155223e0ef2f51629bf0fd5-m9JM92-m9JM92&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h20 01/10: UDG - Atletico Morelia
 http://vophutv.000webhostapp.com/playcakhia.php?id=615522c70ef2f51629bf0fdb-VGvqy9-VGvqy9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 01/10: Sampaio Correa - Remo
