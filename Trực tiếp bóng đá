@@ -46,7 +46,7 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m402nd/playlist.m3u
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài New York RB II - Loudoun United
-https://ndcagev-swv-47b850307.thapcam.link/8155ba4eac114a8de38f3ef2e73ea698dcdca9c8/203ab89ceb190c6bc6e01fd590a213ca/1633052147753/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ccdd05b7a8526ca133447dbdb506440bbadaca46/203ab89ceb190c6bc6e01fd590a213ca/1633052448776/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 01/10: New York RB II - Loudoun United
 http://vophutv.000webhostapp.com/play90p.php?id=6155e31ec6aff63667deb167&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -147,6 +147,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61565e710ef2f51629bf13d4-w4JM
 http://vophutv.000webhostapp.com/playcakhia.php?id=61565e740ef2f51629bf13d7-iL03P3-iL03P3&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 02/10: Tolima - Santa Fe
 http://vophutv.000webhostapp.com/playcakhia.php?id=615660070ef2f51629bf13de-gKrP4o-gKrP4o&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 02/10: San Luis - Cobreloa
+http://vophutv.000webhostapp.com/playcakhia.php?id=6156669b0ef2f51629bf1413-hqaEzG-hqaEzG&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 02/10: Universidad Catolica - Deportivo Cuenca
 http://vophutv.000webhostapp.com/playcakhia.php?id=6156601e0ef2f51629bf13e1-7jOItR-7jOItR&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 02/10: Puebla - Pachuca
