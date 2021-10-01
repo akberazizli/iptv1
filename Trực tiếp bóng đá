@@ -30,14 +30,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  UDG - Atletico Morelia
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Sampaio Correa - Remo
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m302nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Athletico Paranaense - Peñarol
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Deportivo Pasto - Once Caldas
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  Cimarrones - Pumas Tabasco
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",Nhà đài  CD Motagua - UD Universitario
@@ -65,14 +57,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61561defbba0f52229818245&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",23h30 02/10: Cádiz - Valencia
 http://vophutv.000webhostapp.com/play90p.php?id=61561f5fc6aff63667deb168&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h20 01/10: UDG - Atletico Morelia
-http://vophutv.000webhostapp.com/playcakhia.php?id=615522c70ef2f51629bf0fdb-VGvqy9-VGvqy9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 01/10: Sampaio Correa - Remo
-http://vophutv.000webhostapp.com/playcakhia.php?id=615522cf0ef2f51629bf0fde-fOdhHq-fOdhHq&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 01/10: Athletico Paranaense - Peñarol
-http://vophutv.000webhostapp.com/playcakhia.php?id=615522d70ef2f51629bf0fe1-P5o3BZ-P5o3BZ&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h40 01/10: Deportivo Pasto - Once Caldas
-http://vophutv.000webhostapp.com/playcakhia.php?id=615522e80ef2f51629bf0fe6-bPGJyj-bPGJyj&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h06 01/10: Cimarrones - Pumas Tabasco
 http://vophutv.000webhostapp.com/playcakhia.php?id=615523140ef2f51629bf0fe9-so4fs0-so4fs0&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h15 01/10: CD Motagua - UD Universitario
