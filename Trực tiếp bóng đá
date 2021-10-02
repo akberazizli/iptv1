@@ -32,6 +32,22 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sassuolo - Inter
+https://1630578830.vnns.net/m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atletico Madrid - Barcelona
+https://1630578830.vnns.net/m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Atletico Madrid - Barcelona
+https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Atletico Madrid - Barcelona
+https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Atletico Madrid - Barcelona
+https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Atletico Madrid - Barcelona
+https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Nice - Brest
+https://1630578830.vnns.net/m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Fortuna Sittard - NEC Nijmegen
+https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Arouca - Sporting CP
 https://1630578830.vnns.net/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
@@ -67,6 +83,14 @@ http://vophutv.000webhostapp.com/play90p.php?id=61580d7d92893b39d17049a9&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",18h00 03/10: Rennes - PSG
 http://vophutv.000webhostapp.com/play90p.php?id=61580e7728d9a539bbd2aa92&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 03/10: Sassuolo - Inter
+http://vophutv.000webhostapp.com/playcakhia.php?id=615389780ef2f51629bf09b8-jNsTR8-jNsTR8&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",02h00 03/10: Atletico Madrid - Barcelona
+http://vophutv.000webhostapp.com/playcakhia.php?id=615389460ef2f51629bf09a9-q1Fe3J-q1Fe3J&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",02h00 03/10: Nice - Brest
+http://vophutv.000webhostapp.com/playcakhia.php?id=615389cd0ef2f51629bf09da-A5gsdR-A5gsdR&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h00 03/10: Fortuna Sittard - NEC Nijmegen
+http://vophutv.000webhostapp.com/playcakhia.php?id=61538a2d0ef2f51629bf09f2-eLdrA1-eLdrA1&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",02h30 03/10: Arouca - Sporting CP
 http://vophutv.000webhostapp.com/playcakhia.php?id=615389b20ef2f51629bf09d2-oNXeND-oNXeND&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",05h00 03/10: Red Bull Bragantino - Corinthians
