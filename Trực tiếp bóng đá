@@ -57,15 +57,15 @@ https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhiali
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Burnley - Norwich
 https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Leeds - Watford
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m504nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+https://1630578830.vnns.net/m504nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Leeds - Watford
 https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Leeds - Watford
 https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Leeds - Watford
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@luhd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Leeds - Watford
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@lusd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Wolves - Newcastle
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m102nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Cardiff - Reading
@@ -74,6 +74,8 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m402nd/playlist.m3u
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m403nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vizela - Santa Clara
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m103nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Montpellier - Strasbourg
+https://1630578830.vnns.net/m302nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Salernitana - Genoa
 https://1630578888.vnns.net/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -104,7 +106,7 @@ https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Wolverhampton - Newcastle United
 https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Cardiff City - Reading
-https://ndcagev-swv-47b850307.thapcam.link/3a355e42212daf802cf387970576548011237383/203ab89ceb190c6bc6e01fd590a213ca/1633186552740/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/89612a974e3f8a46d4d4c1b2b780f755baa39153/203ab89ceb190c6bc6e01fd590a213ca/1633186858392/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mallorca - Levante
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vizela - Santa Clara
