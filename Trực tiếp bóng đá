@@ -32,12 +32,14 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài V-Varen Nagasaki - Kyoto Sanga FC
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Gangwon FC - Jeonbuk FC
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vissel Kobe - Urawa Reds
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Kashima Antlers - Yokohama FC
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@duc2/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Kashiwa Reysol - Vegalta Sendai
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Seoul E-Land FC - Gyeongnam FC
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@duc1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 02/10: Sporting Kansas City II - Birmingham Legion
@@ -81,10 +83,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6156c05dbaf5f939c69df889&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",21h45 02/10: Mallorca - Levante
 http://vophutv.000webhostapp.com/play90p.php?id=61561f44baf5f939c69df885&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",12h00 02/10: V-Varen Nagasaki - Kyoto Sanga FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=615661ed0ef2f51629bf1403-VGxrCh-VGxrCh&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",12h00 02/10: Gangwon FC - Jeonbuk FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=615661f20ef2f51629bf1409-NlLA7J-NlLA7J&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",13h00 02/10: Vissel Kobe - Urawa Reds
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157fc690ef2f51629bf16a4-WAnVHx-WAnVHx&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",14h00 02/10: Kashima Antlers - Yokohama FC
