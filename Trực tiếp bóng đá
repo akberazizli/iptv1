@@ -32,12 +32,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Port FC - Muang Thong United
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Incheon United - Suwon Bluewings
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Gamba Osaka - Hokkaido Consadole Sapporo
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Konyaspor - Alanyaspor
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Rubin - Nizhny Novgorod
@@ -62,17 +56,17 @@ https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f930
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Man United - Everton (Lê Văn Cáp)
 https://1630578888.vnns.net/may1654859SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PcYttqN/IMG-20211002-183009.png",SD3 Man United - Everton (Lê Văn Cáp)
-https://ndcagev-swv-47b850307.thapcam.link/829ba58154c97a03d2a4740292bcfa67d07e1e70/203ab89ceb190c6bc6e01fd590a213ca/1633177247856/livehls/mtc_may1654859SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/36ddf8e35d15ec4915cc27469e7ce32623756d53/203ab89ceb190c6bc6e01fd590a213ca/1633177546253/livehls/mtc_may1654859SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Man United - Everton (Lê Văn Cáp)
-https://livestream.socialstreaming.tv/live/61583e13586ee7001c8432f9/61583e13586ee7001c8432f9.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://livestream.socialstreaming.tv/live/61584f3d586ee7001c8432fb/61584f3d586ee7001c8432fb.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Man United - Everton (Lê Văn Cáp)
-https://ndcagev-swv-47b850307.thapcam.link/11c821ac46f17ebcdd182873d0dc60241fa086e3/203ab89ceb190c6bc6e01fd590a213ca/1633177247856/livehls/mtc_may1654859HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/15697d6277adb377de062715c696592a08a78442/203ab89ceb190c6bc6e01fd590a213ca/1633177546254/livehls/mtc_may1654859HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Man United - Everton (Lê Văn Cáp)
-https://ndcagev-swv-47b850307.thapcam.link/f0d6d9b46e48408e83e361ae8baa76670301c2f1/203ab89ceb190c6bc6e01fd590a213ca/1633177247857/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/059042a3b95c4a222d1ba81180ffc4a9d8d42622/203ab89ceb190c6bc6e01fd590a213ca/1633177546254/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Coventry City - Fulham
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Osasuna - Rayo Vallecano
-https://ndcagev-swv-47b850307.thapcam.link/dba332120ae9225d9ace0f80586beb8a8d3cdc6b/203ab89ceb190c6bc6e01fd590a213ca/1633177249443/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/748283ab5cc90592040883d96cb3647410388cb8/203ab89ceb190c6bc6e01fd590a213ca/1633177547393/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",18h30 02/10: Man United - Everton (Lê Văn Cáp)
 http://vophutv.000webhostapp.com/play90p.php?id=61561d62baf5f939c69df882&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -109,12 +103,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6156c0a38bb98639dd59c6f5&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",23h00 02/10: Torino - Juventus (Liu men)
 http://vophutv.000webhostapp.com/play90p.php?id=6156bf8828d9a539bbd2aa8c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 02/10: Port FC - Muang Thong United
-http://vophutv.000webhostapp.com/playcakhia.php?id=6156ecb80ef2f51629bf1491-ECgCrJ-ECgCrJ&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 02/10: Incheon United - Suwon Bluewings
-http://vophutv.000webhostapp.com/playcakhia.php?id=6156ecd00ef2f51629bf1494-udA8xS-udA8xS&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 02/10: Gamba Osaka - Hokkaido Consadole Sapporo
-http://vophutv.000webhostapp.com/playcakhia.php?id=6156ecd30ef2f51629bf1495-ZXShNW-ZXShNW&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h30 02/10: Konyaspor - Alanyaspor
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157f5a40ef2f51629bf168d-AQJXuT-AQJXuT&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 02/10: Rubin - Nizhny Novgorod
