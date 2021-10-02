@@ -70,25 +70,21 @@ https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@lusd1/playlist.m3u8
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m102nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Cardiff - Reading
 https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Mallorca - Levante
+https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m403nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Osasuna - Rayo Vallecano
-https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Salernitana - Genoa
 https://1630578888.vnns.net/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Hertha BSC - Freiburg
 https://1630578888.vnns.net/may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Stuttgart - Hoffenheim
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Dortmund - Augsburg (Người Nện)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",SD Dortmund - Augsburg (Người Nện)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Dortmund - Augsburg (Người Nện)
-https://ndcagev-swv-47b850307.thapcam.link/9609bd5961a89f1014efb7659b9c9eb6121879dc/203ab89ceb190c6bc6e01fd590a213ca/1633183549197/livehls/mtc_may32485877SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Dortmund - Augsburg (Người Nện)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",HD Dortmund - Augsburg (Người Nện)
 https://livestream.socialstreaming.tv/live/615857ba586ee7001c8432fe/615857ba586ee7001c8432fe.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Dortmund - Augsburg (Người Nện)
-https://ndcagev-swv-47b850307.thapcam.link/7b58b7d175d1aa6df18d59cba0602d0002cd044b/203ab89ceb190c6bc6e01fd590a213ca/1633183549198/livehls/mtc_may32485877HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Dortmund - Augsburg (Người Nện)
-https://ndcagev-swv-47b850307.thapcam.link/a12c061c05255103e7db793e947a17cc0efd4848/203ab89ceb190c6bc6e01fd590a213ca/1633183549198/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://1630578888.vnns.net/maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Wolfsburg - M'gladbach
 https://1630578888.vnns.net/may51/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Wolverhampton - Newcastle United
@@ -98,17 +94,13 @@ https://1630578888.vnns.net/may71/playlist.m3u8|Referer=https://xoilac.90phutt.x
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Chelsea - Southampton (Liu men)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Chelsea - Southampton (Liu men)
-https://1630578888.vnns.net/may1654875SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PcYttqN/IMG-20211002-183009.png",SD3 Chelsea - Southampton (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/42ec266e953739bce52b9502931f902a471ff80e/203ab89ceb190c6bc6e01fd590a213ca/1633183551960/livehls/mtc_may1654875SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Chelsea - Southampton (Liu men)
+https://ndcagev-swv-47b850307.thapcam.link/livehls/mtc_may1654875SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",HD Chelsea - Southampton (Liu men)
 https://livestream.socialstreaming.tv/live/61585ed35605a0001ce2a53f/61585ed35605a0001ce2a53f.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Chelsea - Southampton (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/46b809f89f2cd9f254c56de8250bf5b5d6833aee/203ab89ceb190c6bc6e01fd590a213ca/1633183551960/livehls/mtc_may1654875HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Chelsea - Southampton (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/2f71a944a705662ed4de6d434a13b0c8a31caacb/203ab89ceb190c6bc6e01fd590a213ca/1633183551960/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Cardiff City - Reading
-https://ndcagev-swv-47b850307.thapcam.link/5cbc88df1c596aedc892923c1ee60d66f7446047/203ab89ceb190c6bc6e01fd590a213ca/1633183552642/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/e5b9a5ba91a3ac13d4bcf76a9ee876ef08624d81/203ab89ceb190c6bc6e01fd590a213ca/1633183854043/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Leeds United - Watford
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
