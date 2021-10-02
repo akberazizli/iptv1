@@ -32,20 +32,8 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Brighton - Arsenal
-https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Brighton - Arsenal
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Brighton - Arsenal
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Brighton - Arsenal
-https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Brighton - Arsenal
-https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Cadiz - Valencia
 https://1630578830.vnns.net/m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài RB Leipzig - Bochum
-https://1630578830.vnns.net/m503nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài RKC Waalwijk - Go Ahead Eagles
 https://1630578830.vnns.net/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FC Porto - Pacos de Ferreira
@@ -55,30 +43,16 @@ https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhiali
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài PEC Zwolle - SC Heerenveen
 https://1630578830.vnns.net/m302nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Brighton - Arsenal (Cáp + Nện)
-https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8	|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Brighton - Arsenal (Cáp + Nện)
-https://1630578888.vnns.net/may16548791SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PcYttqN/IMG-20211002-183009.png",SD3 Brighton - Arsenal (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/d72962f48a0990e953be8ae8bd8caa2522ecfc51/203ab89ceb190c6bc6e01fd590a213ca/1633198848469/livehls/mtc_may16548791SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Brighton - Arsenal (Cáp + Nện)
-https://livestream-2.socialstreaming.tv/live/615895323ee5c9001ce27b38/615895323ee5c9001ce27b38.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Brighton - Arsenal (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/c560780ea844eb0139f80145cb2e4c2d34518a0d/203ab89ceb190c6bc6e01fd590a213ca/1633198848469/livehls/mtc_may16548791HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brighton - Arsenal (Cáp + Nện)
-https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Cádiz - Valencia
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài RB Leipzig - Bochum
-https://1630578888.vnns.net/maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài RKC Waalwijk - Go Ahead Eagles
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Porto - Paços Ferreira
-https://ndcagev-swv-47b850307.thapcam.link/85d67e6294f50fc21f53236ea83e224bace78f93/203ab89ceb190c6bc6e01fd590a213ca/1633198850946/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4c9664030ea2f7e2a60728abba23b1c18c4f34a4/203ab89ceb190c6bc6e01fd590a213ca/1633199149577/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Heracles - Willem II
-https://ndcagev-swv-47b850307.thapcam.link/c7f508d695517e69fad30b8c035c2011738ce928/203ab89ceb190c6bc6e01fd590a213ca/1633198851948/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d6632ce21808bb930cb9058d6b57b33266562d0c/203ab89ceb190c6bc6e01fd590a213ca/1633199149990/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài PEC Zwolle - Heerenveen
-https://ndcagev-swv-47b850307.thapcam.link/435d464926ddfd5329d0313f573cf40b562f71b4/203ab89ceb190c6bc6e01fd590a213ca/1633198852350/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/7636f69414f070422924817a83c534cb431fa30b/203ab89ceb190c6bc6e01fd590a213ca/1633199150694/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",23h00 02/10: Torino - Juventus (Liu men)
 http://vophutv.000webhostapp.com/play90p.php?id=6156bf8828d9a539bbd2aa8c&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -123,12 +97,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=615878eebaf5f939c69df893&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h10 03/10: América de Cali - Atlético Huila
 http://vophutv.000webhostapp.com/play90p.php?id=61587a9574dd7b31c399b1f0&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",23h30 02/10: Brighton - Arsenal
-http://vophutv.000webhostapp.com/playcakhia.php?id=615387bb0ef2f51629bf0950-vrJmMu-vrJmMu&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",23h30 02/10: Cadiz - Valencia
 http://vophutv.000webhostapp.com/playcakhia.php?id=615387dc0ef2f51629bf095a-tOYLC5-tOYLC5&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",23h30 02/10: RB Leipzig - Bochum
-http://vophutv.000webhostapp.com/playcakhia.php?id=6153881d0ef2f51629bf0975-cbNgm9-cbNgm9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h45 02/10: RKC Waalwijk - Go Ahead Eagles
 http://vophutv.000webhostapp.com/playcakhia.php?id=615388780ef2f51629bf0988-Eg1Yfv-Eg1Yfv&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",00h00 03/10: FC Porto - Pacos de Ferreira
