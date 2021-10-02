@@ -32,8 +32,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Montpellier - Strasbourg
-https://1630578830.vnns.net/m302nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Torino - Juventus
 https://1630578830.vnns.net/m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Torino - Juventus
@@ -67,28 +65,26 @@ https://1630578830.vnns.net/m202nd/playlist.m3u8|Referer=https://bongda.cakhiali
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FC Porto - Pacos de Ferreira
 https://1630578830.vnns.net/m203nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Montpellier - Strasbourg
-https://1630578888.vnns.net/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Torino - Juventus (Liu men)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Torino - Juventus (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/c3c576d3bf85d22219870478db9e929b5a5b08bc/203ab89ceb190c6bc6e01fd590a213ca/1633193748000/livehls/mtc_may32485871SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/83f9225af53a06a6742ab7cd587da2ca4ed4fb9d/203ab89ceb190c6bc6e01fd590a213ca/1633194051807/livehls/mtc_may32485871SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Torino - Juventus (Liu men)
 https://livestream-2.socialstreaming.tv/live/61587bbee235dc001c0296e3/61587bbee235dc001c0296e3.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Torino - Juventus (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/b3e5969c8cb7b023eeb56be64bada484e933ae28/203ab89ceb190c6bc6e01fd590a213ca/1633193748001/livehls/mtc_may32485871HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/237af6dcb8a00fde4528e4f3fb800745df6dc71e/203ab89ceb190c6bc6e01fd590a213ca/1633194051807/livehls/mtc_may32485871HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Torino - Juventus (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/882e8470cd157ea055dda4a625f250b3dda95f0a/203ab89ceb190c6bc6e01fd590a213ca/1633193748001/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1f5a2b029c725ca34a5b3887402d4c89a98c5bd1/203ab89ceb190c6bc6e01fd590a213ca/1633194051807/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Brighton - Arsenal (Cáp + Nện)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8	|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Brighton - Arsenal (Cáp + Nện)
 https://1630578888.vnns.net/may16548791SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PcYttqN/IMG-20211002-183009.png",SD3 Brighton - Arsenal (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/53f15c79e75f92f74d500264457d7493ee9d6da4/203ab89ceb190c6bc6e01fd590a213ca/1633193748676/livehls/mtc_may16548791SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8a8bfc959b52f8f7b854b6fc0121fa5206af7463/203ab89ceb190c6bc6e01fd590a213ca/1633194052744/livehls/mtc_may16548791SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Brighton - Arsenal (Cáp + Nện)
 https://livestream.socialstreaming.tv/live/6158838e226e2c001c9866d8/6158838e226e2c001c9866d8.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Brighton - Arsenal (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/591218c8b5025e51720821fc282687d419ca3c65/203ab89ceb190c6bc6e01fd590a213ca/1633193748677/livehls/mtc_may16548791HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f66a5c818ac1781ec0d9570aa7d5bda1394822f1/203ab89ceb190c6bc6e01fd590a213ca/1633194052744/livehls/mtc_may16548791HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Brighton - Arsenal (Cáp + Nện)
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Cádiz - Valencia
@@ -98,12 +94,8 @@ https://1630578888.vnns.net/maynam/playlist.m3u8|Referer=https://xoilac.90phutt.
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài RKC Waalwijk - Go Ahead Eagles
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Porto - Paços Ferreira
-https://ndcagev-swv-47b850307.thapcam.link/20a16e9f258da0d9f2898dc0774733eaf5636b07/203ab89ceb190c6bc6e01fd590a213ca/1633193750815/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/5de345a0fae274260a6fe922ae5ba9e5377b6f47/203ab89ceb190c6bc6e01fd590a213ca/1633194055462/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h30 02/10: Vizela - Santa Clara
-http://vophutv.000webhostapp.com/play90p.php?id=6156c05dbaf5f939c69df889&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",22h00 02/10: Montpellier - Strasbourg
-http://vophutv.000webhostapp.com/play90p.php?id=6156c0a38bb98639dd59c6f5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",23h00 02/10: Torino - Juventus (Liu men)
 http://vophutv.000webhostapp.com/play90p.php?id=6156bf8828d9a539bbd2aa8c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",23h30 02/10: Brighton - Arsenal (Cáp + Nện)
@@ -122,10 +114,10 @@ http://vophutv.000webhostapp.com/play90p.php?id=61580f48bba0f5222981824a&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=61580f5b74dd7b31c399b1ef&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 03/10: Sassuolo - Inter (Liu men)
 http://vophutv.000webhostapp.com/play90p.php?id=61580d6774dd7b31c399b1ec&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",02h00 03/10: Atletico Madrid - Barcelona (Cáp + Nện)
-http://vophutv.000webhostapp.com/play90p.php?id=6156cb27e0d4672fc68e6d5d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",02h00 03/10: Nice - Brest
 http://vophutv.000webhostapp.com/play90p.php?id=61580e6328d9a539bbd2aa91&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",02h00 03/10: Atletico Madrid - Barcelona (Cáp + Nện)
+http://vophutv.000webhostapp.com/play90p.php?id=6156cb27e0d4672fc68e6d5d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h00 03/10: Fortuna Sittard -  NEC
 http://vophutv.000webhostapp.com/play90p.php?id=61580f7128d9a539bbd2aa94&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 03/10: Indy Eleven - Atlanta United II
@@ -136,9 +128,15 @@ http://vophutv.000webhostapp.com/play90p.php?id=6158845c92893b39d17049ae&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=615879f728d9a539bbd2aa95&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h15 03/10: Vélez Sarsfield - Independiente
 http://vophutv.000webhostapp.com/play90p.php?id=61586e8cc6aff63667deb173&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h30 03/10: Unión La Calera - Universidad Católica
+http://vophutv.000webhostapp.com/play90p.php?id=6158798de0d4672fc68e6d63&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h30 03/10: Miami FC - Pittsburgh Riverhounds
+http://vophutv.000webhostapp.com/play90p.php?id=615884908bb98639dd59c6f7&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 03/10: Ponte Preta - Vila Nova
+http://vophutv.000webhostapp.com/play90p.php?id=615878eebaf5f939c69df893&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 03/10: Atlético Mineiro - Internacional
+http://vophutv.000webhostapp.com/play90p.php?id=61586ea6e0d4672fc68e6d62&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",22h00 02/10: Montpellier - Strasbourg
-http://vophutv.000webhostapp.com/playcakhia.php?id=615388bb0ef2f51629bf098f-krtWOc-krtWOc&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",23h00 02/10: Torino - Juventus
 http://vophutv.000webhostapp.com/playcakhia.php?id=615387fa0ef2f51629bf0965-CqPyUk-CqPyUk&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h00 02/10: Arsenal Tula II - Khimki
