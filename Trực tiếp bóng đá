@@ -40,35 +40,49 @@ https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhiali
 https://1630578830.vnns.net/m302nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sassuolo - Inter
 https://1630578830.vnns.net/m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atletico Madrid - Barcelona
+https://1630578830.vnns.net/m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Atletico Madrid - Barcelona
+https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Atletico Madrid - Barcelona
+https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Atletico Madrid - Barcelona
+https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Atletico Madrid - Barcelona
+https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Nice - Brest
+https://1630578830.vnns.net/m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Fortuna Sittard - NEC Nijmegen
+https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Porto - Paços Ferreira
-https://ndcagev-swv-47b850307.thapcam.link/82baf30ce312ccd4f81c45aacab0c9d9f6b3ff92/203ab89ceb190c6bc6e01fd590a213ca/1633200648618/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/dd80d097633e7d1e94ef782948dff599dec1b3bc/203ab89ceb190c6bc6e01fd590a213ca/1633200946829/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Heracles - Willem II
-https://ndcagev-swv-47b850307.thapcam.link/4c6e03afffd478efd631166cae1893e8a09102fc/203ab89ceb190c6bc6e01fd590a213ca/1633200649009/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/54e3c618bddaf741f0d42295d75c02e915fbc4ea/203ab89ceb190c6bc6e01fd590a213ca/1633200947818/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài PEC Zwolle - Heerenveen
-https://ndcagev-swv-47b850307.thapcam.link/88dfdebfc8fb958a66f435b37009b44699f63d4b/203ab89ceb190c6bc6e01fd590a213ca/1633200649693/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/3e63409f86833a5aff0c601f978b92e097ddbb43/203ab89ceb190c6bc6e01fd590a213ca/1633200948163/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Sassuolo - Inter (Liu men)
 https://1630578888.vnns.net/may32485872SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Sassuolo - Inter (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/10931151a9c5eda067c1e5696d74e81d7527b166/203ab89ceb190c6bc6e01fd590a213ca/1633200650437/livehls/mtc_may32485872SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/5eecc4b85eee16f5e968d464a79ffa0e59da2578/203ab89ceb190c6bc6e01fd590a213ca/1633200948911/livehls/mtc_may32485872SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Sassuolo - Inter (Liu men)
 https://livestream.socialstreaming.tv/live/6158a0df75b96c001d25f8da/6158a0df75b96c001d25f8da.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Sassuolo - Inter (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/b9bf71b5bcfad1c74c313c837c2350f35540ccd4/203ab89ceb190c6bc6e01fd590a213ca/1633200650437/livehls/mtc_may32485872HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/5269e83b4108bbbdf9e7788c073395e47fbd3e7a/203ab89ceb190c6bc6e01fd590a213ca/1633200948911/livehls/mtc_may32485872HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Sassuolo - Inter (Liu men)
-https://ndcagev-swv-47b850307.thapcam.link/33f0babf72c0eaea0e3cf73eb8bcf7eeed53d936/203ab89ceb190c6bc6e01fd590a213ca/1633200650437/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/efb1fb23b5c095ef22cb7a2454d5ad7feeaa8cc8/203ab89ceb190c6bc6e01fd590a213ca/1633200948911/livehls/mtc_may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Nice - Brest
-https://ndcagev-swv-47b850307.thapcam.link/d163f562c9d1b0ba00c1566eb358f565661c430e/203ab89ceb190c6bc6e01fd590a213ca/1633200651067/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/49b9dc5bfd6f638f30009e07a95089b64703aee7/203ab89ceb190c6bc6e01fd590a213ca/1633200949560/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Atletico Madrid - Barcelona (Cáp + Nện)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Atletico Madrid - Barcelona (Cáp + Nện)
 https://1630578888.vnns.net/may16548799SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PcYttqN/IMG-20211002-183009.png",SD3 Atletico Madrid - Barcelona (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/c9b4f2c47067bc29de71521955767c7dbdc0c2a3/203ab89ceb190c6bc6e01fd590a213ca/1633200651751/livehls/mtc_may16548799SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/9be4a25d3a425c49ffbe0e50ccc85b90d29d89c4/203ab89ceb190c6bc6e01fd590a213ca/1633200950315/livehls/mtc_may16548799SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Atletico Madrid - Barcelona (Cáp + Nện)
 https://livestream-2.socialstreaming.tv/live/6158a4d629858a001d2b7e9b/6158a4d629858a001d2b7e9b.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Atletico Madrid - Barcelona (Cáp + Nện)
-https://ndcagev-swv-47b850307.thapcam.link/e48c998f202c0f7911c130f3c5c62b540039eb4e/203ab89ceb190c6bc6e01fd590a213ca/1633200651751/livehls/mtc_may16548799HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b34ed6b35918604e56192aee2ffc644985d2c2a9/203ab89ceb190c6bc6e01fd590a213ca/1633200950315/livehls/mtc_may16548799HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Atletico Madrid - Barcelona (Cáp + Nện)
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Fortuna Sittard -  NEC
