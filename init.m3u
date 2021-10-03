@@ -19,7 +19,7 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k0H5Ctq/IMG-20211001-160259.png",RMC SPORT 1
 https://22live00.akamaized.net/RMC_Sports_1/tracks-v1a1/mono.m3u8?token
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.pngRMC SPORT 2
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMC SPORT 2
 http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/6vBTWSP/IMG-20211001-122541.png",SONY TEN 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
