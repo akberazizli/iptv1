@@ -81,7 +81,7 @@ https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhiali
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Nantes - Troyes
 https://1630578830.vnns.net/m302nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Mainz - Union Berlin
-https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+https://1630578830.vnns.net/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Zenit - Sochi
 https://1630578830.vnns.net/m303nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
@@ -110,7 +110,7 @@ https://1630578888.vnns.net/may8/playlist.m3u8|Referer=https://xoilac.90phutt.xy
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lorient - Clermont
 https://1630578888.vnns.net/may51/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mainz 05 - Union Berlin
-https://ndcagev-swv-47b850307.thapcam.link/39ff5c1a5952596eddeca8efeb33854516917b1c/203ab89ceb190c6bc6e01fd590a213ca/1633268757229/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/c6fef8b55d665d6a17fadc1d49aac6a8bfdd66b0/203ab89ceb190c6bc6e01fd590a213ca/1633269056252/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",19h00 03/10: Elche - Celta de Vigo
 http://vophutv.000webhostapp.com/play90p.php?id=6156cb3fc6aff63667deb16c&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -293,6 +293,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615995e44f7cbb3e8b163d36-JYHM
 http://vophutv.000webhostapp.com/playcakhia.php?id=6159adba4f7cbb3e8b163ed9-ZhJVfC-ZhJVfC&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 04/10: Beijing IT - Shaanxi FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=6159add34f7cbb3e8b163edc-iGAf6c-iGAf6c&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 04/10: Beijing Guoan - Guizhou FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=6159b3ce4f7cbb3e8b163f01-99mM6m-99mM6m&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 04/10: Arsenal Tula II - Avangard Kursk
 http://vophutv.000webhostapp.com/playcakhia.php?id=615995de4f7cbb3e8b163d33-dKdAO9-dKdAO9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h00 04/10: Salyut Belgorod - FC Ryazan
