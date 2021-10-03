@@ -30,13 +30,11 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài América - Pumas
 https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Lobos UPNFM - CD Marathon
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Memphis Virginia - Central Florida
 https://1630578830.vnns.net/m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài OKC Energy FC - San Antonio FC
 https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lakers - Nets
-https://ndcagev-swv-47b850307.thapcam.link/7e8ff3a49aa80f0e5008416b69a4f61327af23dc/203ab89ceb190c6bc6e01fd590a213ca/1633299048489/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h30 04/10: Lakers - Nets
 http://vophutv.000webhostapp.com/play90p.php?id=615a013b8bb98639dd59c6fa&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -73,10 +71,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a07be92893b39d17049b3&.m3u8|R
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 04/10: América - Pumas
 http://vophutv.000webhostapp.com/playcakhia.php?id=615906ec4f7cbb3e8b163b04-OvEFaE-OvEFaE&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 04/10: Lobos UPNFM - CD Marathon
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 04/10: Memphis Virginia - Central Florida
 http://vophutv.000webhostapp.com/playcakhia.php?id=615906f34f7cbb3e8b163b07-V1Bxv7-V1Bxv7&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 04/10: CD Motagua - CD Victoria
-http://vophutv.000webhostapp.com/playcakhia.php?id=615906fb4f7cbb3e8b163b0b-MAKziY-MAKziY&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 04/10: OKC Energy FC - San Antonio FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=615907104f7cbb3e8b163b12-EcBrPk-EcBrPk&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 04/10: Charlotte Independence - Loudoun United
