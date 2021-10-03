@@ -28,11 +28,13 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài River Plate - Boca Juniors
-https://1630578830.vnns.net/m403nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài América - Pumas
+https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Lobos UPNFM - CD Marathon
+https://1630578830.vnns.net/m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lakers - Nets
-https://ndcagev-swv-47b850307.thapcam.link/8d2e8823ef62fbc6c53b93c576aac5a0811779be/203ab89ceb190c6bc6e01fd590a213ca/1633298147399/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/672fee51dfc1b0c145c7617bb9f00851e3bdd8f5/203ab89ceb190c6bc6e01fd590a213ca/1633298453182/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h30 04/10: Lakers - Nets
 http://vophutv.000webhostapp.com/play90p.php?id=615a013b8bb98639dd59c6fa&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -67,8 +69,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a07a528d9a539bbd2aa97&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h30 07/10: Iraq - Lebanon
 http://vophutv.000webhostapp.com/play90p.php?id=615a07be92893b39d17049b3&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",03h00 04/10: River Plate - Boca Juniors
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157cf6f0ef2f51629bf161c-kpDe8w-kpDe8w&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 04/10: América - Pumas
 http://vophutv.000webhostapp.com/playcakhia.php?id=615906ec4f7cbb3e8b163b04-OvEFaE-OvEFaE&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 04/10: Lobos UPNFM - CD Marathon
