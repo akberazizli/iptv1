@@ -28,8 +28,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài West Ham - Brentford
-https://1630578830.vnns.net/m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Mainz - Union Berlin
 https://1630578830.vnns.net/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Zenit - Sochi
@@ -46,15 +44,15 @@ https://1630578830.vnns.net/m302nd/playlist.m3u8|Referer=https://bongda.cakhiali
 https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mainz 05 - Union Berlin
-https://ndcagev-swv-47b850307.thapcam.link/1092367be0c1e36d62655d95ad6e8a0dab2cb403/203ab89ceb190c6bc6e01fd590a213ca/1633273855288/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/592f9081bf71cb343ebb16601403cfb89ed4add7/203ab89ceb190c6bc6e01fd590a213ca/1633274157153/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Espanyol - Real Madrid	(BLV Người Thỏ)
 https://179235864.global.cdnfastest.com/live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Espanyol - Real Madrid	(BLV Người Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/d4c7ac7a8d75880b2c5549b63a9d140497b76b8d/203ab89ceb190c6bc6e01fd590a213ca/1633273855968/livehls/mtc_may3456711SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4c89bfdd006318026a7334194953b1c28dcc9a9e/203ab89ceb190c6bc6e01fd590a213ca/1633274158099/livehls/mtc_may3456711SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Espanyol - Real Madrid	(BLV Người Thỏ)
 https://livestream-2.socialstreaming.tv/live/6159b289ec5bb3001c3d61f9/6159b289ec5bb3001c3d61f9.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Espanyol - Real Madrid	(BLV Người Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/dc5aa4b0171780ca72b88562dd098f3480806901/203ab89ceb190c6bc6e01fd590a213ca/1633273855968/livehls/mtc_may3456711HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/33db90cd6e737411d1fffa76fdb5e85834967a9d/203ab89ceb190c6bc6e01fd590a213ca/1633274158099/livehls/mtc_may3456711HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",Nhà Đài Espanyol - Real Madrid	(BLV Người Thỏ)
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Belenenses - Tondela
@@ -115,8 +113,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6156cb90e0d4672fc68e6d5e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",00h00 04/10: Argentina - Bồ Đào Nha
 http://vophutv.000webhostapp.com/play90p.php?id=61599ad8bba0f5222981824d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",20h00 03/10: West Ham - Brentford
-http://vophutv.000webhostapp.com/playcakhia.php?id=615389120ef2f51629bf099f-8ZFuZv-8ZFuZv&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",20h30 03/10: Mainz - Union Berlin
 http://vophutv.000webhostapp.com/playcakhia.php?id=615389920ef2f51629bf09ca-Nn8FFo-Nn8FFo&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h30 03/10: Zenit - Sochi
