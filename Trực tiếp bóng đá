@@ -40,8 +40,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tom Tomsk - FC Alania Vladikavkaz
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@duc1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Busan I'Park - Chungnam Asan FC
 https://1630578830.vnns.net/m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FC Seoul - Daegu FC
@@ -56,19 +54,31 @@ https://1630578830.vnns.net/m101nd/playlist.m3u8|Referer=https://bongda.cakhiali
 https://1630578830.vnns.net/m501nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài GKS Tychy - Odra Opole
 https://1630578830.vnns.net/m502nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Rennes - PSG
+https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Rennes - PSG
+https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Rennes - PSG
+https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Rennes - PSG
+https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Rennes - PSG
+https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Ufa - Ural
+https://1630578830.vnns.net/m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Bologna - Lazio
 https://1630578888.vnns.net/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Rennes - PSG (BLV Cáp Tần)
-https://ndcagev-swv-47b850307.thapcam.link/2525a70894549b80c2ff05c11544d161f1f9b724/203ab89ceb190c6bc6e01fd590a213ca/1633258547250/livehls/mtc_may1985624SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f9bacf39403560673c8e7db7ea5e282c0738a0a4/203ab89ceb190c6bc6e01fd590a213ca/1633258852109/livehls/mtc_may1985624SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Rennes - PSG (BLV Cáp Tần)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Rennes - PSG (BLV Cáp Tần)
 https://livestream-2.socialstreaming.tv/live/615985d5586ee7001c843336/615985d5586ee7001c843336.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Rennes - PSG (BLV Cáp Tần)
-https://ndcagev-swv-47b850307.thapcam.link/10dfd2a8b9b6071f8443e59a1094ef6dbfa62732/203ab89ceb190c6bc6e01fd590a213ca/1633258547251/livehls/mtc_may1985624HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/184d69aabcd4f5eabbac1288505fbf2061b6ddc5/203ab89ceb190c6bc6e01fd590a213ca/1633258852109/livehls/mtc_may1985624HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",Nhà Đài Rennes - PSG (BLV Cáp Tần)
-https://ndcagev-swv-47b850307.thapcam.link/fa96b0e2bf1309a081cdc2095500cbc87fe73819/203ab89ceb190c6bc6e01fd590a213ca/1633258547251/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d92eedcfcb0475c0f6c29e1b1be9d175ce6b151b/203ab89ceb190c6bc6e01fd590a213ca/1633258852109/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",17h30 03/10: Bologna - Lazio
 http://vophutv.000webhostapp.com/play90p.php?id=61580d7d92893b39d17049a9&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -101,8 +111,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61580eed92893b39d17049ac&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 03/10: Mainz 05 - Union Berlin
 http://vophutv.000webhostapp.com/play90p.php?id=61580de2baf5f939c69df88f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h00 03/10: Tom Tomsk - FC Alania Vladikavkaz
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157ffe90ef2f51629bf16bf-LmDxap-LmDxap&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 03/10: Busan I'Park - Chungnam Asan FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157fff10ef2f51629bf16c2-TDvTxo-TDvTxo&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 03/10: FC Seoul - Daegu FC
