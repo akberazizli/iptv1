@@ -28,8 +28,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Cambuur - AZ Alkmaar
-https://1630578830.vnns.net/m503nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tottenham - Aston Villa
 https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Tottenham - Aston Villa
@@ -96,19 +94,21 @@ https://1630578888.vnns.net/may8/playlist.m3u8|Referer=https://xoilac.90phutt.xy
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lorient - Clermont
 https://1630578888.vnns.net/may51/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Mainz 05 - Union Berlin
-https://ndcagev-swv-47b850307.thapcam.link/1b1c72b92e0253400d6f64b2b2fb0dcb75560d5a/203ab89ceb190c6bc6e01fd590a213ca/1633271459409/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/cbd5d10b96bc6b2bb9c5b9854131b4158545f4e3/203ab89ceb190c6bc6e01fd590a213ca/1633271754809/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Espanyol - Real Madrid	(BLV Người Thỏ)
 https://179235864.global.cdnfastest.com/live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Espanyol - Real Madrid	(BLV Người Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/396d75ce023ccbd448bcb641a3b5ee80a9b8ee15/203ab89ceb190c6bc6e01fd590a213ca/1633271460371/livehls/mtc_may3456711SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/96fa334be314ed4cc601f6131658375a9d573a70/203ab89ceb190c6bc6e01fd590a213ca/1633271755487/livehls/mtc_may3456711SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Espanyol - Real Madrid	(BLV Người Thỏ)
 https://livestream-2.socialstreaming.tv/live/6159b289ec5bb3001c3d61f9/6159b289ec5bb3001c3d61f9.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Espanyol - Real Madrid	(BLV Người Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/09fc18d13d0f14fdd129813cd09c6c9fd8ed3d57/203ab89ceb190c6bc6e01fd590a213ca/1633271460372/livehls/mtc_may3456711HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/7ff818c3fac9f8b70b187817105a4873b797731f/203ab89ceb190c6bc6e01fd590a213ca/1633271755488/livehls/mtc_may3456711HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",Nhà Đài Espanyol - Real Madrid	(BLV Người Thỏ)
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Belenenses - Tondela
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Vitesse - Feyenoord
+https://1630578888.vnns.net/may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",19h30 03/10: Ajax - Utrecht
 http://vophutv.000webhostapp.com/play90p.php?id=61580f87baf5f939c69df891&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -159,8 +159,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6156cb90e0d4672fc68e6d5e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",00h00 04/10: Argentina - Bồ Đào Nha
 http://vophutv.000webhostapp.com/play90p.php?id=61599ad8bba0f5222981824d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h30 03/10: Cambuur - AZ Alkmaar
-http://vophutv.000webhostapp.com/playcakhia.php?id=61538a300ef2f51629bf09f6-3CZgtJ-3CZgtJ&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",20h00 03/10: Tottenham - Aston Villa
 http://vophutv.000webhostapp.com/playcakhia.php?id=615389100ef2f51629bf099e-4dB7R5-4dB7R5&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",20h00 03/10: Crystal Palace - Leicester
