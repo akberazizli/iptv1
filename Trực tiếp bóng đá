@@ -44,9 +44,19 @@ https://1630578830.vnns.net/m502nd/playlist.m3u8|Referer=https://bongda.cakhiali
 https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vilafranquense - Farense
 https://1630578830.vnns.net/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atalanta - Milan
+https://1630578830.vnns.net/m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Atalanta - Milan
+https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Atalanta - Milan
+https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Atalanta - Milan
+https://179031331.global.cdnfastest.com/live/smil:183b0d223b7a3204bd48792abdff5e1cc20/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Atalanta - Milan
+https://179491115.global.cdnfastest.com/live/smil:183cb6b2f4f016a470cabf2b5047c4cbf5a/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Getafe - Real Sociedad
-https://ndcagev-swv-47b850307.thapcam.link/ba304195fb1284a024a0bb973efc9381bf347050/203ab89ceb190c6bc6e01fd590a213ca/1633286747177/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d2239b13b84a6c563f19a67ad8e2e5ce7714a91a/203ab89ceb190c6bc6e01fd590a213ca/1633287047321/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Villarreal - Real Betis
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Argentina - Bồ Đào Nha
@@ -56,21 +66,23 @@ https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.x
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Benfica - Portimonense
 https://1630578888.vnns.net/may5/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Arminia Bielefeld - Leverkusen
-https://ndcagev-swv-47b850307.thapcam.link/ad475e9e8a1ed65fb6833293dccaf3a21c2bdd27/203ab89ceb190c6bc6e01fd590a213ca/1633286750907/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8776d505369d819777754f9cc249db6f928a78a8/203ab89ceb190c6bc6e01fd590a213ca/1633287050915/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài PSV Eindhoven - Sparta Rotterdam
-https://ndcagev-swv-47b850307.thapcam.link/91b3e7714c355f07f996ebe79bef0cd64f044d63/203ab89ceb190c6bc6e01fd590a213ca/1633286751588/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/be439bf009d08eee7a2bf4171c9364816ecc2fe3/203ab89ceb190c6bc6e01fd590a213ca/1633287051892/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Atalanta - Milan  (Cậu Cả + Cậu Út)
-https://ndcagev-swv-47b850307.thapcam.link/f64d39cb1a02610121084d9082fe5bdf8bec77bd/203ab89ceb190c6bc6e01fd590a213ca/1633286752327/livehls/mtc_may1223344778SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/94c252413bdfe8c0f612251c4e85be473ba670b8/203ab89ceb190c6bc6e01fd590a213ca/1633287052011/livehls/mtc_may1223344778SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Atalanta - Milan  (Cậu Cả + Cậu Út)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Atalanta - Milan  (Cậu Cả + Cậu Út)
 https://livestream-2.socialstreaming.tv/live/6159ef3dc6f459001c567401/6159ef3dc6f459001c567401.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Atalanta - Milan  (Cậu Cả + Cậu Út)
-https://ndcagev-swv-47b850307.thapcam.link/a5ee65b9d27b26f216ac2c7edd492f7fcd26850c/203ab89ceb190c6bc6e01fd590a213ca/1633286752327/livehls/mtc_may1223344778HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/2dcc8bdd1a5aec9818ab89cb12e6fe5035849511/203ab89ceb190c6bc6e01fd590a213ca/1633287052011/livehls/mtc_may1223344778HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",Nhà Đài Atalanta - Milan  (Cậu Cả + Cậu Út)
-https://ndcagev-swv-47b850307.thapcam.link/c1708ef07e20ee95284703eb1e5bf7f4d27ae708/203ab89ceb190c6bc6e01fd590a213ca/1633286752328/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/6ad5f893e44bcb0fd1926d5eedf19d51fc2b7da2/203ab89ceb190c6bc6e01fd590a213ca/1633287052011/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Saint-Etienne - Lyon
-https://ndcagev-swv-47b850307.thapcam.link/a6ae738b92c8b5349762f7c5f42d7062954d3ca4/203ab89ceb190c6bc6e01fd590a213ca/1633286753273/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d340996e5901bc92ddb109c6ab838ab8d2ef781c/203ab89ceb190c6bc6e01fd590a213ca/1633287052961/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Granada - Sevilla
+https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",23h30 03/10: Getafe - Real Sociedad
 http://vophutv.000webhostapp.com/play90p.php?id=6156cb778bb98639dd59c6f6&.m3u8|Referer=https://xoilac.90phutt.xyz/
