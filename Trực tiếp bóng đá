@@ -40,14 +40,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Dallas - Minnesota
-https://1630578830.vnns.net/m202nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atletico MG - Internacional
-https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Ponte Preta - Vila Nova
-https://1630578830.vnns.net/m401nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Santos - Mazatlan FC
-https://1630578830.vnns.net/m402nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài LDU de Quito - Guayaquil City
 https://1630578830.vnns.net/m301nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Chivas - Atlas
@@ -56,7 +48,7 @@ https://1630578830.vnns.net/m401nd/playlist.m3u8 |Referer=https://bongda.cakhial
 https://1630578830.vnns.net/m501nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài América de Cali - Atlético Huila
-https://ndcagev-swv-47b850307.thapcam.link/462a21322dbc78d2ed4edb9f1ca9ac6167bf9ebb/203ab89ceb190c6bc6e01fd590a213ca/1633227648086/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/dcbb5c143fe16a4577e41d031cba18b12da889a5/203ab89ceb190c6bc6e01fd590a213ca/1633227947291/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h10 03/10: América de Cali - Atlético Huila
 http://vophutv.000webhostapp.com/play90p.php?id=61587a9574dd7b31c399b1f0&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -91,19 +83,11 @@ http://vophutv.000webhostapp.com/play90p.php?id=61580da774dd7b31c399b1ed&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",20h00 03/10: West Ham - Brentford
 http://vophutv.000webhostapp.com/play90p.php?id=6156ca0fc6aff63667deb169&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 03/10: Dallas - Minnesota
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157d4440ef2f51629bf1649-F38hLG-F38hLG&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",07h00 03/10: Atletico MG - Internacional
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157d4470ef2f51629bf164a-w7YahK-w7YahK&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 03/10: Ponte Preta - Vila Nova
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157d4490ef2f51629bf164d-bdIqDj-bdIqDj&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 03/10: Santos - Mazatlan FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157d7920ef2f51629bf1658-0PBN5Y-0PBN5Y&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",08h00 03/10: LDU de Quito - Guayaquil City
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157daf70ef2f51629bf1668-yEadkj-yEadkj&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 03/10: Chivas - Atlas
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157d7940ef2f51629bf1659-iXIfi8-iXIfi8&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 03/10: Vancouver - San Jose
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h10 03/10: Vancouver - San Jose
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157d7980ef2f51629bf165c-ox8MPc-ox8MPc&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",11h00 03/10: Tokushima Vortis - Sagan Tosu
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157dcb50ef2f51629bf166e-FvoREK-FvoREK&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
