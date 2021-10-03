@@ -49,13 +49,13 @@ https://1630578830.vnns.net/m503nd/playlist.m3u8|Referer=https://bongda.cakhiali
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tottenham - Aston Villa
 https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Tottenham - Aston Villa
-https://179031331.global.cdnfastest.com/live/smil:183b0d223b7a3204bd48792abdff5e1cc20/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Tottenham - Aston Villa
-https://179491115.global.cdnfastest.com/live/smil:183cb6b2f4f016a470cabf2b5047c4cbf5a/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Tottenham - Aston Villa
 https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Tottenham - Aston Villa
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Tottenham - Aston Villa
 https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Tottenham - Aston Villa
+https://179031331.global.cdnfastest.com/live/smil:183b0d223b7a3204bd48792abdff5e1cc20/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Tottenham - Aston Villa
+https://179491115.global.cdnfastest.com/live/smil:183cb6b2f4f016a470cabf2b5047c4cbf5a/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Crystal Palace - Leicester
 https://1630578830.vnns.net/m101nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Crystal Palace - Leicester
@@ -63,7 +63,7 @@ https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialiv
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Crystal Palace - Leicester
 https://1630578830.vnns.net/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Crystal Palace - Leicester
-https://179307646.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+https://1630578830.vnns.net/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Crystal Palace - Leicester
 https://179307646.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài West Ham - Brentford
@@ -100,7 +100,7 @@ https://1630578888.vnns.net/may81/playlist.m3u8|Referer=https://xoilac.90phutt.x
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Monaco - Bordeaux
 https://1630578888.vnns.net/may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Crystal Palace -  Leicester City
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài West Ham - Brentford
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lorient - Clermont
@@ -261,6 +261,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61590bd44f7cbb3e8b163b3f-9xfj
 http://vophutv.000webhostapp.com/playcakhia.php?id=61590bd74f7cbb3e8b163b42-lCQVKx-lCQVKx&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h06 04/10: Tijuana - Cruz Azul
 http://vophutv.000webhostapp.com/playcakhia.php?id=61590bd94f7cbb3e8b163b45-xnjESy-xnjESy&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",14h30 04/10: Kunshan FC - Sichuan
+http://vophutv.000webhostapp.com/playcakhia.php?id=6159ac904f7cbb3e8b163ebc-AbHwC9-AbHwC9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 04/10: Tuapse - Chernomorets Novorossiysk
 http://vophutv.000webhostapp.com/playcakhia.php?id=615995e44f7cbb3e8b163d36-JYHMXx-JYHMXx&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 04/10: Arsenal Tula II - Avangard Kursk
@@ -273,7 +275,5 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615995d44f7cbb3e8b163d2d-p8Lm
 http://vophutv.000webhostapp.com/playcakhia.php?id=615995b04f7cbb3e8b163d27-Ny5Cs4-Ny5Cs4&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",22h00 04/10: Dinamo Briansk - Kaluga
 http://vophutv.000webhostapp.com/playcakhia.php?id=615995b84f7cbb3e8b163d2a-b9X5Wv-b9X5Wv&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",23h00 04/10: Borac Banja Luka - Zeljeznicar
-http://vophutv.000webhostapp.com/playcakhia.php?id=615995a34f7cbb3e8b163d24-i43MhQ-i43MhQ&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",23h00 06/10: Sudan - Guinea
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157d1380ef2f51629bf1630-UFzBAh-UFzBAh&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
