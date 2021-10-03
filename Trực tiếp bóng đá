@@ -40,10 +40,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Chivas - Atlas
-https://1630578830.vnns.net/m401nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vancouver - San Jose
-https://1630578830.vnns.net/m501nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tokushima Vortis - Sagan Tosu
 https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài SC Sagamihara - Mito Hollyhock
@@ -83,10 +79,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61580eed92893b39d17049ac&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 03/10: Mainz 05 - Union Berlin
 http://vophutv.000webhostapp.com/play90p.php?id=61580de2baf5f939c69df88f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 03/10: Chivas - Atlas
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157d7940ef2f51629bf1659-iXIfi8-iXIfi8&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h10 03/10: Vancouver - San Jose
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157d7980ef2f51629bf165c-ox8MPc-ox8MPc&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",11h00 03/10: Tokushima Vortis - Sagan Tosu
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157dcb50ef2f51629bf166e-FvoREK-FvoREK&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",11h00 03/10: SC Sagamihara - Mito Hollyhock
