@@ -28,6 +28,18 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vilafranquense - Farense
+https://1630578830.vnns.net/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atalanta - Milan
+https://1630578830.vnns.net/m402nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Atalanta - Milan
+https://1630578830.vnns.net/taihd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Atalanta - Milan
+https://1630578830.vnns.net/taisd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Atalanta - Milan
+https://179031331.global.cdnfastest.com/live/smil:183b0d223b7a3204bd48792abdff5e1cc20/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Atalanta - Milan
+https://179491115.global.cdnfastest.com/live/smil:183cb6b2f4f016a470cabf2b5047c4cbf5a/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Saint-Etienne - Lyon
 https://1630578830.vnns.net/m503nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Granada - Sevilla
@@ -42,7 +54,7 @@ https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xy
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Braga - Boavista
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lakers - Nets
-https://ndcagev-swv-47b850307.thapcam.link/068d0fbb4560e7a3f6cb6c28d38bb386e87b7763/203ab89ceb190c6bc6e01fd590a213ca/1633294251708/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4dd34db075435c19bba0e80b39b485bfb4cc957a/203ab89ceb190c6bc6e01fd590a213ca/1633294549465/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 04/10: Atalanta - Milan  (Cậu Cả + Cậu Út)
 http://vophutv.000webhostapp.com/play90p.php?id=6159cd84bba0f5222981824e&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -85,6 +97,10 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a07a528d9a539bbd2aa97&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",21h30 07/10: Iraq - Lebanon
 http://vophutv.000webhostapp.com/play90p.php?id=615a07be92893b39d17049b3&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h30 04/10: Vilafranquense - Farense
+http://vophutv.000webhostapp.com/playcakhia.php?id=6157cfff0ef2f51629bf1628-Y8uNql-Y8uNql&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 04/10: Atalanta - Milan
+http://vophutv.000webhostapp.com/playcakhia.php?id=6155914c0ef2f51629bf106f-BghdEO-BghdEO&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",01h45 04/10: Saint-Etienne - Lyon
 http://vophutv.000webhostapp.com/playcakhia.php?id=6155914f0ef2f51629bf1073-IsfiC1-IsfiC1&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/XLHCZn3/IMG-20210917-193900.png",02h00 04/10: Granada - Sevilla
