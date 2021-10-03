@@ -28,20 +28,12 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Benfica - Portimonense
-https://1630578830.vnns.net/m302nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Estoril - Gil Vicente
-https://1630578830.vnns.net/m303nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Argentina - Portugal
-https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Arminia Bielefeld - Leverkusen
 https://1630578830.vnns.net/m403nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài PSV Eindhoven - Sparta Rotterdam
 https://1630578830.vnns.net/m501nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FK Crvena Zvezda - FK Metalac
 https://1630578830.vnns.net/m502nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vojvodina - Radnicki Nis
-https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Vilafranquense - Farense
 https://1630578830.vnns.net/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atalanta - Milan
@@ -58,34 +50,30 @@ https://179491115.global.cdnfastest.com/live/smil:183cb6b2f4f016a470cabf2b5047c4
 https://1630578830.vnns.net/m503nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Granada - Sevilla
 https://1630578830.vnns.net/m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Braga - Boavista
+https://1630578830.vnns.net/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài PSV Eindhoven - Sparta Rotterdam
-https://ndcagev-swv-47b850307.thapcam.link/e0b6f5771c1dc40333e698120f1053839dbbad77/203ab89ceb190c6bc6e01fd590a213ca/1633289456415/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0222ccb1695583c5497179f795765e9d1e77aa4b/203ab89ceb190c6bc6e01fd590a213ca/1633289747266/livehls/mtc_may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dmjXjvY/IMG-20210922-110149.png",SD1 Atalanta - Milan  (Cậu Cả + Cậu Út)
-https://ndcagev-swv-47b850307.thapcam.link/abb792f4fd29678de8a8c6d78b2cd13ee6391cae/203ab89ceb190c6bc6e01fd590a213ca/1633289457148/livehls/mtc_may1223344778SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/c4758f5b4314b9a510afa73579fe84ed65d162f8/203ab89ceb190c6bc6e01fd590a213ca/1633289747956/livehls/mtc_may1223344778SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n02hkMc/IMG-20210922-110017.png",SD2 Atalanta - Milan  (Cậu Cả + Cậu Út)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8ghjGr3/IMG-20210922-110007.png",HD1 Atalanta - Milan  (Cậu Cả + Cậu Út)
 https://livestream-2.socialstreaming.tv/live/6159ef3dc6f459001c567401/6159ef3dc6f459001c567401.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/XLYFPny/IMG-20210922-105955.png",HD2 Atalanta - Milan  (Cậu Cả + Cậu Út)
-https://ndcagev-swv-47b850307.thapcam.link/6d9c051a2f4b694736bc14ebf81ac984254f9283/203ab89ceb190c6bc6e01fd590a213ca/1633289457148/livehls/mtc_may1223344778HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/9553b8c6c6419712705a023f5f5f2877de316aef/203ab89ceb190c6bc6e01fd590a213ca/1633289747956/livehls/mtc_may1223344778HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",Nhà Đài Atalanta - Milan  (Cậu Cả + Cậu Út)
-https://ndcagev-swv-47b850307.thapcam.link/e818ac2b5bb7aa0362584c563e9855c9ef22ce39/203ab89ceb190c6bc6e01fd590a213ca/1633289457148/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8829746413a75771556c611df9838c5e96be1c48/203ab89ceb190c6bc6e01fd590a213ca/1633289747956/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Saint-Etienne - Lyon
-https://ndcagev-swv-47b850307.thapcam.link/c49f32fc460606a160e3ce41b0afa5c46e70892a/203ab89ceb190c6bc6e01fd590a213ca/1633289457955/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d0a9650598f47d33addca902e5a44f87c952d7a5/203ab89ceb190c6bc6e01fd590a213ca/1633289748621/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Granada - Sevilla
 https://1630578888.vnns.net/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Braga - Boavista
 https://1630578888.vnns.net/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Lakers - Nets
+https://ndcagev-swv-47b850307.thapcam.link/2904c8d9a44f8cf141b3aa35b49281532216f654/203ab89ceb190c6bc6e01fd590a213ca/1633289750955/livehls/mtc_may31/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - FIFA Futsal World Cup" tvg-logo="https://i.ibb.co/QCBjmnx/IMG-20210922-113310.png",00h00 04/10: Argentina - Bồ Đào Nha
-http://vophutv.000webhostapp.com/play90p.php?id=61599ad8bba0f5222981824d&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",00h00 04/10: Estoril - Gil Vicente
-http://vophutv.000webhostapp.com/play90p.php?id=6159ce4092893b39d17049b1&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",00h00 04/10: Benfica - Portimonense
-http://vophutv.000webhostapp.com/play90p.php?id=6159ce6ee0d4672fc68e6d65&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",00h30 04/10: Arminia Bielefeld - Leverkusen
-http://vophutv.000webhostapp.com/play90p.php?id=6159ce078bb98639dd59c6f9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",01h00 04/10: PSV Eindhoven - Sparta Rotterdam
 http://vophutv.000webhostapp.com/play90p.php?id=6159cf1b74dd7b31c399b1f4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 04/10: Atalanta - Milan  (Cậu Cả + Cậu Út)
@@ -96,6 +84,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=6159cedee0d4672fc68e6d66&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=6159cdca92893b39d17049b0&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h30 04/10: Braga - Boavista
 http://vophutv.000webhostapp.com/play90p.php?id=6159cea292893b39d17049b2&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",02h30 04/10: Lakers - Nets
+http://vophutv.000webhostapp.com/play90p.php?id=615a013b8bb98639dd59c6fa&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 04/10: Charlotte Independence - Loudoun United
 http://vophutv.000webhostapp.com/play90p.php?id=6159cfb1c6aff63667deb176&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h05 04/10: Medellín - Atlético Bucaramanga
@@ -115,22 +105,14 @@ http://vophutv.000webhostapp.com/play90p.php?id=6159d4e7baf5f939c69df896&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",01h45 07/10: Italy - Spain
 http://vophutv.000webhostapp.com/play90p.php?id=6159d57bc6aff63667deb177&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",00h00 04/10: Benfica - Portimonense
-http://vophutv.000webhostapp.com/playcakhia.php?id=6155915d0ef2f51629bf107a-XylaZA-XylaZA&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",00h00 04/10: Estoril - Gil Vicente
-http://vophutv.000webhostapp.com/playcakhia.php?id=615591620ef2f51629bf107d-BJqQoU-BJqQoU&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Futsal WC" tvg-logo="https://i.ibb.co/Tqk7WJZ/IMG-20210917-193846.png",00h00 04/10: Argentina - Portugal
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157d2b00ef2f51629bf1644-ACDb2S-ACDb2S&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/tBPSm5z/IMG-20210917-193946.png",00h30 04/10: Arminia Bielefeld - Leverkusen
 http://vophutv.000webhostapp.com/playcakhia.php?id=6155914a0ef2f51629bf106e-GtWG8k-GtWG8k&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h00 04/10: PSV Eindhoven - Sparta Rotterdam
 http://vophutv.000webhostapp.com/playcakhia.php?id=615591780ef2f51629bf1083-Rb4uiw-Rb4uiw&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h00 04/10: FK Crvena Zvezda - FK Metalac
 http://vophutv.000webhostapp.com/playcakhia.php?id=6157cffd0ef2f51629bf1627-4Tkh5f-4Tkh5f&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h00 04/10: Vojvodina - Radnicki Nis
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157cfff0ef2f51629bf1628-Y8uNql-Y8uNql&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h30 04/10: Vilafranquense - Farense
-http://vophutv.000webhostapp.com/playcakhia.php?id=6157cfc50ef2f51629bf1622-yTaHLI-yTaHLI&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+http://vophutv.000webhostapp.com/playcakhia.php?id=6157cfff0ef2f51629bf1628-Y8uNql-Y8uNql&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",01h45 04/10: Atalanta - Milan
 http://vophutv.000webhostapp.com/playcakhia.php?id=6155914c0ef2f51629bf106f-BghdEO-BghdEO&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/LYyhRvY/IMG-20210917-193913.png",01h45 04/10: Saint-Etienne - Lyon
