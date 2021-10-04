@@ -30,14 +30,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QjGpQzg/IMG-20210923-172737.png",HD Beijing BSU - Guizhou FC
-https://1630578830.vnns.net/paohd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/k4zYnkN/IMG-20210923-172749.png",SD Beijing BSU - Guizhou FC
-https://1630578830.vnns.net/paosd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài J. Liansheng - Shenyang
-https://1630578830.vnns.net/m101nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Beijing IT - Shaanxi FC
-https://1630578830.vnns.net/duc1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Arsenal Tula II - Avangard Kursk
 https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Salyut Belgorod - FC Ryazan
@@ -79,12 +71,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a078cbaf5f939c69df897&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",20h00 07/10: Liberia - Cape Verde
 http://vophutv.000webhostapp.com/play90p.php?id=615a07a528d9a539bbd2aa97&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 04/10: Beijing BSU - Guizhou FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=6159b3ce4f7cbb3e8b163f01-99mM6m-99mM6m&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 04/10: J. Liansheng - Shenyang
-http://vophutv.000webhostapp.com/playcakhia.php?id=6159adba4f7cbb3e8b163ed9-ZhJVfC-ZhJVfC&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 04/10: Beijing IT - Shaanxi FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=6159add34f7cbb3e8b163edc-iGAf6c-iGAf6c&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 04/10: Arsenal Tula II - Avangard Kursk
 http://vophutv.000webhostapp.com/playcakhia.php?id=615995de4f7cbb3e8b163d33-dKdAO9-dKdAO9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h00 04/10: Salyut Belgorod - FC Ryazan
