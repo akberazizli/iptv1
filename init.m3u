@@ -27,6 +27,5 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Qnwk1sv/IMG-20211004-055934.png", TV VÕ PHÚ
-https://arcunankfnliv.vcdn.cloud/kenh2/index.m3u8
+
 
