@@ -31,12 +31,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://arcunankfnliv.vcdn.cloud/kenh2/index.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Gremio - Sport Recife
-https://1630578830.vnns.net/m302nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Londrina EC - Sampaio Correa
-https://1630578830.vnns.net/m303nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Union Espanola - O'Higgins
-https://1630578830.vnns.net/m403nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài LA Galaxy - LAFC
 https://1630578830.vnns.net/m501nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Tecnico Universitario - Emelec
@@ -46,10 +40,10 @@ https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhial
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Peñarol - Wanderers
 https://1630578830.vnns.net/m503nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Alianza Petrolera - CD Jaguares
-https://1630578830.vnns.net/m301nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
+https://1630578830.vnns.net/m401nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Alianza Petrolera - Jaguares de Córdoba
-https://ndcagev-swv-47b850307.thapcam.link/596e623eb3e6ca27c473c1842e674dacf1819234/203ab89ceb190c6bc6e01fd590a213ca/1633311948161/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/d8baa7dbc22e574770e2c20dd79ef9688efbb440/203ab89ceb190c6bc6e01fd590a213ca/1633312248501/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h10 04/10: Alianza Petrolera - Jaguares de Córdoba
 http://vophutv.000webhostapp.com/play90p.php?id=6159cf4574dd7b31c399b1f5&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -80,12 +74,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a0c31c6aff63667deb179&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 07/10: UAE - Iran
 http://vophutv.000webhostapp.com/play90p.php?id=615a084bbaf5f939c69df898&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",06h30 04/10: Gremio - Sport Recife
-http://vophutv.000webhostapp.com/playcakhia.php?id=61590bc44f7cbb3e8b163b2a-UdCejs-UdCejs&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h30 04/10: Londrina EC - Sampaio Correa
-http://vophutv.000webhostapp.com/playcakhia.php?id=61590bc74f7cbb3e8b163b2d-oD7WJf-oD7WJf&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h30 04/10: Union Espanola - O'Higgins
-http://vophutv.000webhostapp.com/playcakhia.php?id=61590bc94f7cbb3e8b163b30-24uuMT-24uuMT&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 04/10: LA Galaxy - LAFC
 http://vophutv.000webhostapp.com/playcakhia.php?id=61590bcc4f7cbb3e8b163b33-VJtMyv-VJtMyv&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 04/10: Tecnico Universitario - Emelec
@@ -118,6 +106,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6159b3ce4f7cbb3e8b163f01-99mM
 http://vophutv.000webhostapp.com/playcakhia.php?id=615995de4f7cbb3e8b163d33-dKdAO9-dKdAO9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h00 04/10: Salyut Belgorod - FC Ryazan
 http://vophutv.000webhostapp.com/playcakhia.php?id=615995d94f7cbb3e8b163d30-AfyqKT-AfyqKT&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",20h00 04/10: Minyor Pernik - Strumska Slava
+http://vophutv.000webhostapp.com/playcakhia.php?id=615a5d584f7cbb3e8b1642f0-kw9KIa-kw9KIa&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",21h00 04/10: Cobresal - Audax Italiano
 http://vophutv.000webhostapp.com/playcakhia.php?id=615995d44f7cbb3e8b163d2d-p8LmTg-p8LmTg&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",21h00 04/10: Peresvet Podolsk - Saturn Moscow
@@ -130,6 +120,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615995b84f7cbb3e8b163d2a-b9X5
 http://vophutv.000webhostapp.com/playcakhia.php?id=615a55bb4f7cbb3e8b1642ae-7D0Ki6-7D0Ki6&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 05/10: Remo - Coritiba
 http://vophutv.000webhostapp.com/playcakhia.php?id=615a55d24f7cbb3e8b1642b8-X1zYp1-X1zYp1&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 05/10: Sportivo San Lorenzo - Tacuary
+http://vophutv.000webhostapp.com/playcakhia.php?id=615a5b744f7cbb3e8b1642ec-r4q4J5-r4q4J5&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h15 05/10: Colon - Banfield
 http://vophutv.000webhostapp.com/playcakhia.php?id=615a55cf4f7cbb3e8b1642b5-btC8DS-btC8DS&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 05/10: Delfin - Manta
