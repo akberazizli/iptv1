@@ -42,8 +42,6 @@ https://1630578830.vnns.net/paosd/playlist.m3u8|Referer=https://bongda.cakhialiv
 https://1630578830.vnns.net/m101nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Beijing IT - Shaanxi FC
 https://1630578830.vnns.net/duc1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Arsenal Tula II - Avangard Kursk
-https://1630578830.vnns.net/m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h00 06/10: Sudan - Guinea
@@ -123,16 +121,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615a55e84f7cbb3e8b1642cd-k1xQ
 http://vophutv.000webhostapp.com/playcakhia.php?id=615a55e94f7cbb3e8b1642d0-yrA46w-yrA46w&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 05/10: Zibo Cuju - Wuhan Three
 http://vophutv.000webhostapp.com/playcakhia.php?id=615acc422d544e0746607bb6-XBDSdA-XBDSdA&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 05/10: Ural Yekaterinburg II - Spartak Tuimazy
-http://vophutv.000webhostapp.com/playcakhia.php?id=615ae8d6ffb9fe073f472c7b-flRTcb-flRTcb&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 05/10: Muang Thong United - Nong Bua Pitchaya FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=615acbbeffb9fe073f472c5b-o9JEvx-o9JEvx&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h15 05/10: Olimpik Donetsk - Kramatorsk
-http://vophutv.000webhostapp.com/playcakhia.php?id=615ae9cfbbe01307388dc897-bRG1Ax-bRG1Ax&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 05/10: Police Tero FC - Chonburi FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=615acbbc459be70751bc984e-puMILT-puMILT&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 05/10: Zenit Izhevsk - Volga Ulyanovsk 
-http://vophutv.000webhostapp.com/playcakhia.php?id=615aeb0f2d544e0746607bcd-dp2Suo-dp2Suo&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 05/10: Nantong Zhiyun -  Xinjiang
 http://vophutv.000webhostapp.com/playcakhia.php?id=615acc6bffb9fe073f472c61-KwfUge-KwfUge&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h35 05/10: Chengdu - Heilongjiang Ice City
