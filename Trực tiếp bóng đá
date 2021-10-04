@@ -30,8 +30,14 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Melipilla - Santiago Wanderers
+https://1630578830.vnns.net/m501nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Necaxa (W) - Queretaro (W)
 https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Remo - Coritiba
+https://1630578830.vnns.net/m301nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sportivo San Lorenzo - Tacuary
+https://1630578830.vnns.net/m401nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 05/10: Raptors - 76ers
