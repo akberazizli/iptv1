@@ -31,6 +31,8 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://arcunankfnliv.vcdn.cloud/kenh2/index.m3u8
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Charlotte Independence - Loudoun United
+https://1630578830.vnns.net/m202nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Independiente Medellin - Bucaramanga
 https://1630578830.vnns.net/m502nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Racing Club - Estudiantes
@@ -51,11 +53,9 @@ https://1630578830.vnns.net/m203nd/playlist.m3u8 |Referer=https://bongda.cakhial
 https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Peñarol - Wanderers
 https://1630578830.vnns.net/m503nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Alianza Petrolera - CD Jaguares
-https://1630578830.vnns.net/m301nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Alianza Petrolera - Jaguares de Córdoba
-https://ndcagev-swv-47b850307.thapcam.link/fc13a6a86a82f0f56299445a746786d49f5c65fd/203ab89ceb190c6bc6e01fd590a213ca/1633309546603/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f765b28b079edb7d73397b7996ad297beb4cc74d/203ab89ceb190c6bc6e01fd590a213ca/1633309848447/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h10 04/10: Alianza Petrolera - Jaguares de Córdoba
 http://vophutv.000webhostapp.com/play90p.php?id=6159cf4574dd7b31c399b1f5&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -86,6 +86,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a0c31c6aff63667deb179&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h45 07/10: UAE - Iran
 http://vophutv.000webhostapp.com/play90p.php?id=615a084bbaf5f939c69df898&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 04/10: Charlotte Independence - Loudoun United
+http://vophutv.000webhostapp.com/playcakhia.php?id=615907134f7cbb3e8b163b14-goa3C4-goa3C4&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h05 04/10: Independiente Medellin - Bucaramanga
 http://vophutv.000webhostapp.com/playcakhia.php?id=615907174f7cbb3e8b163b1a-X6sLBk-X6sLBk&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h15 04/10: Racing Club - Estudiantes
