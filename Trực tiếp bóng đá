@@ -36,6 +36,14 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C6ZFGhH/IMG-20210922-182011.png",HD 2 Zibo Cuju - Wuhan Three
+https://179031331.global.cdnfastest.com/live/smil:183b0d223b7a3204bd48792abdff5e1cc20/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Zibo Cuju - Wuhan Three
+https://179491115.global.cdnfastest.com/live/smil:183cb6b2f4f016a470cabf2b5047c4cbf5a/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SmKJ6BZ/IMG-20210922-182024.png",HD 1 Zibo Cuju - Wuhan Three
+https://1630578830.vnns.net/paohd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Zibo Cuju - Wuhan Three
+https://1630578830.vnns.net/paosd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 06/10: Sudan - Guinea
@@ -115,6 +123,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615c0740459be70751bc9926-IK2E
 http://vophutv.000webhostapp.com/playcakhia.php?id=615c0746bbe01307388dc96c-i7ESva-i7ESva&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 06/10: BG Pathum United - Chiangrai United
 http://vophutv.000webhostapp.com/playcakhia.php?id=615c07482d544e0746607c82-YknSbz-YknSbz&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 06/10: Nagoya Grampus - FC Tokyo
+http://vophutv.000webhostapp.com/playcakhia.php?id=615c0b2e2d544e0746607c93-eIAmv9-eIAmv9&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",17h00 06/10: Urawa Reds - Cerezo Osaka
+http://vophutv.000webhostapp.com/playcakhia.php?id=615c0b532d544e0746607c96-I9HBA6-I9HBA6&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",18h00 06/10: Bangkok United - Prachuap FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=615c074affb9fe073f472d20-9zUm0s-9zUm0s&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 06/10: Buriram United - Samut Prakan City
