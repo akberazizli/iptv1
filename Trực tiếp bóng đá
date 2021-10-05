@@ -32,8 +32,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h30 05/10: Clippers - Nuggets
-http://vophutv.000webhostapp.com/play90p.php?id=615af18e74dd7b31c399b1f7&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 06/10: Sudan - Guinea
 http://vophutv.000webhostapp.com/play90p.php?id=6159d4e7baf5f939c69df896&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",01h45 07/10: Italy - Spain
