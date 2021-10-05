@@ -21,6 +21,12 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/stkNYvs/IMG-20211005-114601.png",TRING SPORT 2
 http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/C9Bt6Ft/IMG-20211005-132746.png",SKYSPORT1
+http://stream.tvtap.live:8081/live/de-skybundes1.stream/chunks.m3u8?nimblesessionid=7418759993
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/3zyZ8T3/IMG-20211005-133751.png",ARENA SPORT 1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/xfsHkV1/IMG-20211005-134337.png",BTSPORT 1
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/6vBTWSP/IMG-20211001-122541.png",SONY TEN 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdFR9Fp/IMG-20210906-185630.png",BOXING 1
