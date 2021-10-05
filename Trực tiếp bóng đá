@@ -30,8 +30,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Necaxa (W) - Queretaro (W)
-https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Remo - Coritiba
 https://1630578830.vnns.net/m301nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Sportivo San Lorenzo - Tacuary
@@ -47,14 +45,16 @@ https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhial
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Monterrey (W) - Club Leon (W)
 https://1630578830.vnns.net/m202nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Almirante Brown - Estudiantes de Rio Cuarto
-https://1630578830.vnns.net/m402nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
+https://1630578830.vnns.net/m403nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Raptors - 76ers
-https://ndcagev-swv-47b850307.thapcam.link/15cb9b64d439a7423417a81345910c96297d8068/203ab89ceb190c6bc6e01fd590a213ca/1633392948724/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ff2633e5d6d62774c198358d2fbab450677f916f/203ab89ceb190c6bc6e01fd590a213ca/1633393248915/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Heat - Hawks
-https://ndcagev-swv-47b850307.thapcam.link/c8668a45940662e43b3b461659bd731294be02d2/203ab89ceb190c6bc6e01fd590a213ca/1633392949401/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/127b6764766b29a180f70e6ea64bbbb674d5bf24/203ab89ceb190c6bc6e01fd590a213ca/1633393249600/livehls/mtc_may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Celtics - Magic
-https://ndcagev-swv-47b850307.thapcam.link/7730a88e4af0c5b0661e4a0b0ea8a572e7107ede/203ab89ceb190c6bc6e01fd590a213ca/1633392950037/livehls/mtc_may32/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/85e7ac9f38aa0230a68dda700e5676439d130357/203ab89ceb190c6bc6e01fd590a213ca/1633393250234/livehls/mtc_may32/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Spurs - Jazz
+https://ndcagev-swv-47b850307.thapcam.link/3dd8067564a25aceaa6f2326aaa54125154a9611/203ab89ceb190c6bc6e01fd590a213ca/1633393252265/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h00 05/10: Raptors - 76ers
 http://vophutv.000webhostapp.com/play90p.php?id=615af0cdbba0f52229818253&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -97,8 +97,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a07fd28d9a539bbd2aa98&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 07/10: Nigeria - CH Trung Phi
 http://vophutv.000webhostapp.com/play90p.php?id=615a083028d9a539bbd2aa99&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 05/10: Necaxa (W) - Queretaro (W)
-http://vophutv.000webhostapp.com/playcakhia.php?id=615a55bb4f7cbb3e8b1642ae-7D0Ki6-7D0Ki6&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 05/10: Remo - Coritiba
 http://vophutv.000webhostapp.com/playcakhia.php?id=615a55d24f7cbb3e8b1642b8-X1zYp1-X1zYp1&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 05/10: Sportivo San Lorenzo - Tacuary
