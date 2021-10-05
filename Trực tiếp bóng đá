@@ -38,6 +38,12 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 06/10: Valour - Cavalry
+http://vophutv.000webhostapp.com/play90p.php?id=615c83debba0f52229818258&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 06/10: Corinthians - Bahia
+http://vophutv.000webhostapp.com/play90p.php?id=615c8398bba0f52229818257&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 06/10: Náutico - Goiás
+http://vophutv.000webhostapp.com/play90p.php?id=615c83c728d9a539bbd2aa9a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 06/10: Sudan - Guinea
 http://vophutv.000webhostapp.com/play90p.php?id=6159d4e7baf5f939c69df896&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",01h45 07/10: Italy - Spain
@@ -62,8 +68,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a07fd28d9a539bbd2aa98&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=615a083028d9a539bbd2aa99&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h15 07/10: Germany U21 - Israel U21
 http://vophutv.000webhostapp.com/play90p.php?id=615a0c31c6aff63667deb179&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h45 07/10: UAE - Iran
-http://vophutv.000webhostapp.com/play90p.php?id=615a084bbaf5f939c69df898&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 06/10: Avai FC - Ponte Preta
 http://vophutv.000webhostapp.com/playcakhia.php?id=615b908fbbe01307388dc8da-cA7Kf5-cA7Kf5&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
@@ -75,10 +79,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615b90aa459be70751bc98a2-ufeM
 http://vophutv.000webhostapp.com/playcakhia.php?id=615b908abbe01307388dc8d5-Njb904-Njb904&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h05 06/10: Venados - Alebrijes
 http://vophutv.000webhostapp.com/playcakhia.php?id=615b90882d544e0746607bf4-8YBzh7-8YBzh7&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 06/10: Nautico - Goias
-http://vophutv.000webhostapp.com/playcakhia.php?id=615b9084ffb9fe073f472cae-2KtcuG-2KtcuG&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",07h30 06/10: Corinthians - Bahia
 http://vophutv.000webhostapp.com/playcakhia.php?id=615b9086bbe01307388dc8d4-wVxEcO-wVxEcO&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 06/10: Nautico - Goias
+http://vophutv.000webhostapp.com/playcakhia.php?id=615b9084ffb9fe073f472cae-2KtcuG-2KtcuG&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h05 06/10: Raya2 Expansion - Tlaxcala F.C.
 http://vophutv.000webhostapp.com/playcakhia.php?id=615b907f459be70751bc989f-k0a8e4-k0a8e4&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 06/10: Visakha FC - Phnom Penh
