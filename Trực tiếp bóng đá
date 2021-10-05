@@ -30,17 +30,13 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Club Tijuana (W) - Atlas (W)
-https://1630578830.vnns.net/m202nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài FC Juarez (W) - Santos Laguna (W)
-https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",SD Blazers - Warriors
-https://ndcagev-swv-47b850307.thapcam.link/24d721d6cb6ff137ffe6b728a484d1f6e5c03183/203ab89ceb190c6bc6e01fd590a213ca/1633406453515/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/6165dcf2fdaa3087baffc689efc175af261a6b9f/203ab89ceb190c6bc6e01fd590a213ca/1633406747229/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",HD Blazers - Warriors
-https://ndcagev-swv-47b850307.thapcam.link/6d79eeaabdb44258b6bde6a099392095794bcb89/203ab89ceb190c6bc6e01fd590a213ca/1633406453515/livehls/mtc_may35/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/00927f901f9b1192db0f5b000a0ac966baa8951b/203ab89ceb190c6bc6e01fd590a213ca/1633406747229/livehls/mtc_may35/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Clippers - Nuggets
-https://ndcagev-swv-47b850307.thapcam.link/da880e1a89af6b7394fd4081d36ac7aa650c8df5/203ab89ceb190c6bc6e01fd590a213ca/1633406454399/livehls/mtc_may62/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8e76da84ef9d556e7f1970591ec8ad08d4471496/203ab89ceb190c6bc6e01fd590a213ca/1633406748018/livehls/mtc_may62/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",09h00 05/10: Blazers - Warriors
 http://vophutv.000webhostapp.com/play90p.php?id=615af15bbba0f52229818255&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -73,10 +69,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a0c31c6aff63667deb179&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h45 07/10: UAE - Iran
 http://vophutv.000webhostapp.com/play90p.php?id=615a084bbaf5f939c69df898&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 05/10: Club Tijuana (W) - Atlas (W)
-http://vophutv.000webhostapp.com/playcakhia.php?id=615a55e84f7cbb3e8b1642cd-k1xQH5-k1xQH5&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h00 05/10: FC Juarez (W) - Santos Laguna (W)
-http://vophutv.000webhostapp.com/playcakhia.php?id=615a55e94f7cbb3e8b1642d0-yrA46w-yrA46w&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 05/10: Zibo Cuju - Wuhan Three
 http://vophutv.000webhostapp.com/playcakhia.php?id=615acc422d544e0746607bb6-XBDSdA-XBDSdA&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 05/10: Ural II - Spartak Tuimazy
