@@ -35,7 +35,8 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/5cDNww7/IMG-20211006-175138.png",VIỆT NAN VS TRUNG QUỐC
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/60M7gXx/IMG-20211006-161507.png",HD Incheon United - Gangwon FC
@@ -123,6 +124,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615cf7e3ffb9fe073f472dbe-a0Ye
 http://vophutv.000webhostapp.com/playcakhia.php?id=615cf7e5bbe01307388dc9fc-1RHyPN-1RHyPN&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 07/10: Celaya - Cimarrones
 http://vophutv.000webhostapp.com/playcakhia.php?id=615cf7e72d544e0746607d22-gpc9fo-gpc9fo&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",05h00 07/10: HFX Wanderers FC - Forge FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=615d85dabbe01307388dca3a-Hg7Qn3-Hg7Qn3&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h30 07/10: Richmond Kickers - Forward Madison FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d80782d544e0746607d5d-WeKO3T-WeKO3T&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 07/10: Cerro Porteno - Sol de America
