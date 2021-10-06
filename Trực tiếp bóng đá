@@ -17,6 +17,10 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k0H5Ctq/IMG-20211001-160259.png",RMCsports1
+http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMCsports2
+http://xcchui2.mrnova.online/live/60689_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/NVxVGkj/IMG-20211005-114613.png",QSPORT1
 http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/stkNYvs/IMG-20211005-114601.png",QSPORT 2
@@ -130,6 +134,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615d85dabbe01307388dca3a-Hg7Q
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d80782d544e0746607d5d-WeKO3T-WeKO3T&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 07/10: Cerro Porteno - Sol de America
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f8e2d544e0746607d57-FDKPXn-FDKPXn&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",06h00 07/10: Deportes Tolima - Deportivo Pereira
+http://vophutv.000webhostapp.com/playcakhia.php?id=615d89402d544e0746607d66-zROOqR-zROOqR&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",06h30 07/10: Red Bull Bragantino - Flamengo
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f90bbe01307388dca25-z035IV-z035IV&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h30 07/10: Universidad Catolica - Union Espanola
