@@ -44,14 +44,34 @@ https://1630578830.vnns.net/m201nd/playlist.m3u8 |Referer=https://bongda.cakhial
 https://1630578830.vnns.net/m301nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Atletico Nublense - La Serena
 https://1630578830.vnns.net/m302nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X864Ff2/IMG-20210922-182101.png",Nhà đài Valour FC - Cavalry FC
+https://1630578830.vnns.net/m401nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Knicks - Pacers
+https://ndcagev-swv-47b850307.thapcam.link/61a21383a83ed41bf51265f8653ad022790f2739/203ab89ceb190c6bc6e01fd590a213ca/1633478453627/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Rockets - Wizards
+https://nvndcagevswv87c6afake.thapcam.link/4b7b5df9ab57e541d394248a5efa3fda709a85cd/203ab89ceb190c6bc6e01fd590a213ca/1633478454420/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/f9dSSbS/IMG-20211005-112408.png",SD Grizzlies - Bucks
+https://nvndcagevswv87c6afake.thapcam.link/d5083016eea416c215c4dcc4011b803990779921/203ab89ceb190c6bc6e01fd590a213ca/1633478455084/live/_definst_/stream_1_1bda7@may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rchh9J3/IMG-20211005-112421.png",HD Grizzlies - Bucks
+https://nvndcagevswv87c6afake.thapcam.link/984a2f03e5ea5b4fdd471516be0a1d478bb602ce/203ab89ceb190c6bc6e01fd590a213ca/1633478455084/live/_definst_/stream_1_1bda7@may3/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Bulls - Cavaliers
+https://nvndcagevswv87c6afake.thapcam.link/1b0a0d8bf5d0320a2c3880207cd2292ddd5b9644/203ab89ceb190c6bc6e01fd590a213ca/1633478456473/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h30 06/10: Knicks - Pacers
+http://vophutv.000webhostapp.com/play90p.php?id=615ce0f4c6aff63667deb17a&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 06/10: Rockets - Wizards
+http://vophutv.000webhostapp.com/play90p.php?id=615ce10692893b39d17049b5&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 06/10: Grizzlies - Bucks
+http://vophutv.000webhostapp.com/play90p.php?id=615ce13abba0f5222981825a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 06/10: Valour - Cavalry
 http://vophutv.000webhostapp.com/play90p.php?id=615c83debba0f52229818258&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 06/10: Corinthians - Bahia
-http://vophutv.000webhostapp.com/play90p.php?id=615c8398bba0f52229818257&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 06/10: Bulls - Cavaliers
+http://vophutv.000webhostapp.com/play90p.php?id=615ce118bba0f52229818259&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 06/10: Náutico - Goiás
 http://vophutv.000webhostapp.com/play90p.php?id=615c83c728d9a539bbd2aa9a&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 06/10: Corinthians - Bahia
+http://vophutv.000webhostapp.com/play90p.php?id=615c8398bba0f52229818257&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 06/10: Sudan - Guinea
 http://vophutv.000webhostapp.com/play90p.php?id=6159d4e7baf5f939c69df896&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",01h45 07/10: Italy - Spain
@@ -70,12 +90,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a0ec174dd7b31c399b1f6&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=615a07be92893b39d17049b3&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 07/10: Rwanda - Uganda
 http://vophutv.000webhostapp.com/play90p.php?id=615a07e78bb98639dd59c6fb&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 07/10: Equatorial Guinea - Zambia
-http://vophutv.000webhostapp.com/play90p.php?id=615a07fd28d9a539bbd2aa98&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 07/10: Nigeria - CH Trung Phi
-http://vophutv.000webhostapp.com/play90p.php?id=615a083028d9a539bbd2aa99&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",23h15 07/10: Germany U21 - Israel U21
-http://vophutv.000webhostapp.com/play90p.php?id=615a0c31c6aff63667deb179&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 06/10: Avai FC - Ponte Preta
 http://vophutv.000webhostapp.com/playcakhia.php?id=615b908fbbe01307388dc8da-cA7Kf5-cA7Kf5&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
