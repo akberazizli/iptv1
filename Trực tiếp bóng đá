@@ -46,23 +46,31 @@ https://1630578830.vnns.net/m302nd/playlist.m3u8 |Referer=https://bongda.cakhial
 https://1630578830.vnns.net/m401nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fxsDDGT/IMG-20211006-070758.png",Nhà đài Venados - Alebrijes
 https://1630578830.vnns.net/m402nd/playlist.m3u8 |Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fxsDDGT/IMG-20211006-070758.png",Nhà đài Corinthians - Bahia
+https://ck020921.vnroute.com/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Corinthians - Bahia
+https://179410038.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Corinthians - Bahia
+https://ck020921.vnroute.com/caysd2/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fxsDDGT/IMG-20211006-070758.png",Nhà đài Nautico - Goias
+https://ck020921.vnroute.com/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Knicks - Pacers
-https://ndcagev-swv-47b850307.thapcam.link/4fe66e0a248be12429d291bdb103c2540f2d3ba6/203ab89ceb190c6bc6e01fd590a213ca/1633480546650/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4f593dc20372b209b365b413a6fce9c33eaad4fd/203ab89ceb190c6bc6e01fd590a213ca/1633480848428/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Valour - Cavalry
-https://ndcagev-swv-47b850307.thapcam.link/c5bebe6511561f8b4239a7b1a8e0cd0ab793cf9b/203ab89ceb190c6bc6e01fd590a213ca/1633480547375/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/7638f72e94eaa9c09adc694bccfc1b29f5ab4d2f/203ab89ceb190c6bc6e01fd590a213ca/1633480849086/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Rockets - Wizards
-https://nvndcagevswv87c6afake.thapcam.link/ce0cf0a551dd43b9968fd99056b589662411ced3/203ab89ceb190c6bc6e01fd590a213ca/1633480548067/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/7487997bee72c8e4ef62ff2a628e827eb0bed92b/203ab89ceb190c6bc6e01fd590a213ca/1633480849698/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Bulls - Cavaliers
-https://nvndcagevswv87c6afake.thapcam.link/c2ff5ca4f99b7d7f45b46396b320e3d9beaf5518/203ab89ceb190c6bc6e01fd590a213ca/1633480548691/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/aeccb2e31ad513603d2ed4432754cc04c627247f/203ab89ceb190c6bc6e01fd590a213ca/1633480850431/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/f9dSSbS/IMG-20211005-112408.png",SD Grizzlies - Bucks
-https://nvndcagevswv87c6afake.thapcam.link/817068fd121a4f372985e07143df2d27cdfb09ef/203ab89ceb190c6bc6e01fd590a213ca/1633480549366/live/_definst_/stream_1_1bda7@may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/5573c11bcdb57c412a8adc061aa2ce9b8c399dd1/203ab89ceb190c6bc6e01fd590a213ca/1633480851155/live/_definst_/stream_1_1bda7@may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rchh9J3/IMG-20211005-112421.png",HD Grizzlies - Bucks
-https://nvndcagevswv87c6afake.thapcam.link/621cbfe9e8763d69176bbd62dc3cf393d926a4d2/203ab89ceb190c6bc6e01fd590a213ca/1633480549366/live/_definst_/stream_1_1bda7@may3/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/c32b98952ab6e54c7d4d472588c9f1fb311cc0a0/203ab89ceb190c6bc6e01fd590a213ca/1633480851156/live/_definst_/stream_1_1bda7@may3/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Corinthians - Bahia
-https://ndcagev-swv-47b850307.thapcam.link/28e8e7086e83d98a1bd99d2ff8269c41f298af2c/203ab89ceb190c6bc6e01fd590a213ca/1633480550151/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0353e4e64e0cb2ca95f3a584e0749e4ddfe41f57/203ab89ceb190c6bc6e01fd590a213ca/1633480851778/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Náutico - Goiás
-https://ndcagev-swv-47b850307.thapcam.link/c1a913e39346686ddb901ef213a5246e97a0f644/203ab89ceb190c6bc6e01fd590a213ca/1633480550768/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/069d3872cd4c037e2d811b2f6ef358e276ab5741/203ab89ceb190c6bc6e01fd590a213ca/1633480852639/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",06h30 06/10: Knicks - Pacers
 http://vophutv.000webhostapp.com/play90p.php?id=615ce0f4c6aff63667deb17a&.m3u8|Referer=https://xoilac.90phutt.xyz/
