@@ -48,6 +48,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Urawa Reds - Cerezo Osaka
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài BG Pathum United - Chiangrai United
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@duc1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Bangkok United - Prachuap FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 06/10: Sudan - Guinea
@@ -129,6 +133,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f90bbe01307388dca25-z035
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f93459be70751bc99e4-xS2UOX-xS2UOX&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 07/10: Memphis 901 - Sporting Kansas City II
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d80bcffb9fe073f472dec-zUSJoP-zUSJoP&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 07/10: Memphis 901 - Sporting Kansas City II
+http://vophutv.000webhostapp.com/playcakhia.php?id=615d81f1bbe01307388dca34-YLraQD-YLraQD&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h05 07/10: Pumas Tabasco - UDG
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f95bbe01307388dca28-T2gwlB-T2gwlB&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h10 07/10: Godoy Cruz - Tigre
