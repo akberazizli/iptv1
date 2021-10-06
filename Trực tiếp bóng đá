@@ -59,11 +59,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8Ypj9Mb/IMG-20211006-165006.png",SD1 Ý - Tây Ban Nha (Cáp + Thỏ)
 https://p90020921.vnroute.com/may1342571SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ZHhN9V9/IMG-20211006-164946.png",SD2 Ý - Tây Ban Nha (Cáp + Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/0a05e0d27745e46d5800c021b9ddba301c3de9ae/203ab89ceb190c6bc6e01fd590a213ca/1633548652419/livehls/mtc_may1342571SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8da2a6617f8a659137be10c215c695708dbd10f5/203ab89ceb190c6bc6e01fd590a213ca/1633548947944/livehls/mtc_may1342571SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/VJ7TRXq/IMG-20211006-164917.png",HD1 Ý - Tây Ban Nha (Cáp + Thỏ)
 https://livestream.socialstreaming.tv/live/615df0e51f8f7c001c80a1b9/615df0e51f8f7c001c80a1b9.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rv2PhYt/IMG-20211006-164902.png",HD2 Ý - Tây Ban Nha (Cáp + Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/cf2949ae195371adc15afd40f5162f65d0f19437/203ab89ceb190c6bc6e01fd590a213ca/1633548652421/livehls/mtc_may1342571HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a25f8c6c7cdcc340d3bb846cfaeca7151a1af478/203ab89ceb190c6bc6e01fd590a213ca/1633548947944/livehls/mtc_may1342571HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Ý - Tây Ban Nha (Cáp + Thỏ)
 https://p90020921.vnroute.com/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Morocco - Guinea-Bissau
@@ -75,32 +75,34 @@ http://vophutv.000webhostapp.com/play90p.php?id=6159d57bc6aff63667deb177&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=615a0703c6aff63667deb178&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 07/10: Memphis 901 - Sporting Kansas City II
 http://vophutv.000webhostapp.com/play90p.php?id=615de38fe0d4672fc68e6d69&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 07/10: Fluminense - Fortaleza
-http://vophutv.000webhostapp.com/play90p.php?id=615de0efc6aff63667deb17c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 07/10: América Mineiro - Palmeiras
 http://vophutv.000webhostapp.com/play90p.php?id=615de0c8e0d4672fc68e6d68&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 07/10: Fluminense - Fortaleza
+http://vophutv.000webhostapp.com/play90p.php?id=615de0efc6aff63667deb17c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h30 07/10: Grêmio - Cuiabá
 http://vophutv.000webhostapp.com/play90p.php?id=615de132baf5f939c69df89a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 07/10: Edmonton - Pacific
 http://vophutv.000webhostapp.com/play90p.php?id=615de43e92893b39d17049b7&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 07/10: New Mexico United - Hartford Athletic
-http://vophutv.000webhostapp.com/play90p.php?id=615de3e228d9a539bbd2aa9b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 07/10: Austin Bold - Tacoma Defiance
 http://vophutv.000webhostapp.com/play90p.php?id=615de3b4baf5f939c69df89b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 07/10: El Paso Locomotive - San Antonio
 http://vophutv.000webhostapp.com/play90p.php?id=615de3cb8bb98639dd59c6fe&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",08h00 07/10: New Mexico United - Hartford Athletic
+http://vophutv.000webhostapp.com/play90p.php?id=615de3e228d9a539bbd2aa9b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",18h00 07/10: Hàn Quốc - Syria
 http://vophutv.000webhostapp.com/play90p.php?id=615a072dbba0f52229818250&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",20h00 07/10: Liberia - Cape Verde
-http://vophutv.000webhostapp.com/play90p.php?id=615a07a528d9a539bbd2aa97&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",20h00 07/10: Congo DR - Madagascar
-http://vophutv.000webhostapp.com/play90p.php?id=615a0ec174dd7b31c399b1f6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",20h00 07/10: Tanzania - Benin
 http://vophutv.000webhostapp.com/play90p.php?id=615a078cbaf5f939c69df897&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",20h00 07/10: Congo DR - Madagascar
+http://vophutv.000webhostapp.com/play90p.php?id=615a0ec174dd7b31c399b1f6&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",20h00 07/10: Liberia - Cape Verde
+http://vophutv.000webhostapp.com/play90p.php?id=615a07a528d9a539bbd2aa97&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",21h30 07/10: Iraq - Lebanon
 http://vophutv.000webhostapp.com/play90p.php?id=615a07be92893b39d17049b3&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 07/10: Nigeria - CH Trung Phi
-http://vophutv.000webhostapp.com/play90p.php?id=615a083028d9a539bbd2aa99&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 07/10: Rwanda - Uganda
+http://vophutv.000webhostapp.com/play90p.php?id=615a07e78bb98639dd59c6fb&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 07/10: Equatorial Guinea - Zambia
+http://vophutv.000webhostapp.com/play90p.php?id=615a07fd28d9a539bbd2aa98&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",01h45 07/10: Italy - Spain
 http://vophutv.000webhostapp.com/playcakhia.php?id=615baa802d544e0746607bfa-pD72vF-pD72vF&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
