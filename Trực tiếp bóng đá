@@ -43,15 +43,25 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Italy - Spain
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/x26WjVr/IMG-20211006-161656.png",HD 2 Italy - Spain
+https://ck020921.vnroute.com/luhd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/K9gthH8/IMG-20211006-161547.png",SD 2 Italy - Spain
+https://ck020921.vnroute.com/lusd3/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/K9gthH8/IMG-20211006-161547.png",SD 2 Italy - Spain
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/6w60KDt/IMG-20211006-161602.png",SD 1 Italy - Spain
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/8Ypj9Mb/IMG-20211006-165006.png",SD1 Ý - Tây Ban Nha (Cáp + Thỏ)
 https://p90020921.vnroute.com/may1342567SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ZHhN9V9/IMG-20211006-164946.png",SD2 Ý - Tây Ban Nha (Cáp + Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/6fca7ca2c99d5153330bc451b21b54cc228604d2/203ab89ceb190c6bc6e01fd590a213ca/1633545646660/livehls/mtc_may1342567SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8d2afe7bb9891f681f81abf9d1a2c1426890a28c/203ab89ceb190c6bc6e01fd590a213ca/1633545946935/livehls/mtc_may1342567SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/VJ7TRXq/IMG-20211006-164917.png",HD1 Ý - Tây Ban Nha (Cáp + Thỏ)
 https://livestream.socialstreaming.tv/live/615de5b4b29968001c6c2d4b/615de5b4b29968001c6c2d4b.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rv2PhYt/IMG-20211006-164902.png",HD2 Ý - Tây Ban Nha (Cáp + Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/84158984e2c0556bfd8512f364d2bc8e56f1d893/203ab89ceb190c6bc6e01fd590a213ca/1633545646660/livehls/mtc_may1342567HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/7fa9cb7960c0bc3828f66bf1688e4ebd159ac904/203ab89ceb190c6bc6e01fd590a213ca/1633545946935/livehls/mtc_may1342567HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/drp7pMp/IMG-20210922-110203.png",Nhà đài Ý - Tây Ban Nha (Cáp + Thỏ)
 https://p90020921.vnroute.com/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
