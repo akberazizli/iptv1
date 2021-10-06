@@ -38,21 +38,25 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vJ7J3SR/IMG-20211006-084911.png",Nhà đài Corinthians - Bahia
+https://ck020921.vnroute.com/m202nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qrbK1wM/IMG-20210922-182036.png",SD 2 Corinthians - Bahia
+https://179410038.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RNm7xNX/IMG-20210922-182048.png",SD 1 Corinthians - Bahia
+https://ck020921.vnroute.com/caysd2/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vJ7J3SR/IMG-20211006-084911.png",Nhà đài Nautico - Goias
+https://ck020921.vnroute.com/m201nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vJ7J3SR/IMG-20211006-084911.png",Nhà đài Raya2 Expansion - Tlaxcala F.C.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/tCNmnNc/IMG-20211006-071339.png",Nhà đài Valour - Cavalry
-https://ndcagev-swv-47b850307.thapcam.link/a04572aba9cd0b84832960abfe97ac4c3ba0a17d/203ab89ceb190c6bc6e01fd590a213ca/1633488348486/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/569ed4e3a09f524eb936ebf302df39dbc969b3e7/203ab89ceb190c6bc6e01fd590a213ca/1633488647743/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/tCNmnNc/IMG-20211006-071339.png",Nhà đài Rockets - Wizards
-https://nvndcagevswv87c6afake.thapcam.link/68d1d68876af14801dc1b751c5e43b33e0f5d2e7/203ab89ceb190c6bc6e01fd590a213ca/1633488349345/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/80LGsKm/IMG-20211006-085001.png",SD Grizzlies - Bucks
-https://nvndcagevswv87c6afake.thapcam.link/20d7a6d2b4f7e9c3cd924e72cb9757ec3958bca0/203ab89ceb190c6bc6e01fd590a213ca/1633488350254/live/_definst_/stream_1_1bda7@may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GQNxYvb/IMG-20211006-084945.png",HD Grizzlies - Bucks
-https://nvndcagevswv87c6afake.thapcam.link/35068a9fd21b4d583cf022771cbc8c9ca3e3de8b/203ab89ceb190c6bc6e01fd590a213ca/1633488350255/live/_definst_/stream_1_1bda7@may3/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/026379c2e15d831ab7da4abc707e81e38206869c/203ab89ceb190c6bc6e01fd590a213ca/1633488648481/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/tCNmnNc/IMG-20211006-071339.png",Nhà đài Corinthians - Bahia
-https://ndcagev-swv-47b850307.thapcam.link/9e6b6557103123d150d0a81980742998bbaba164/203ab89ceb190c6bc6e01fd590a213ca/1633488350830/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/fddf35a016a90862c05cb1607b74cfe1259c00db/203ab89ceb190c6bc6e01fd590a213ca/1633488649882/livehls/mtc_may8/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/tCNmnNc/IMG-20211006-071339.png",Nhà đài Náutico - Goiás
-https://ndcagev-swv-47b850307.thapcam.link/82dbeb3d9b66898dd2f88f1b75bfab4ced143ecd/203ab89ceb190c6bc6e01fd590a213ca/1633488351591/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/58c15c026d49fd557e54fbfaa2b60b300af2c512/203ab89ceb190c6bc6e01fd590a213ca/1633488650481/livehls/mtc_may81/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/f1y2M49/IMG-20210922-174248.png",07h00 06/10: Valour - Cavalry
 http://vophutv.000webhostapp.com/play90p.php?id=615c83debba0f52229818258&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -91,6 +95,10 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a0c31c6aff63667deb179&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h45 07/10: UAE - Iran
 http://vophutv.000webhostapp.com/play90p.php?id=615a084bbaf5f939c69df898&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",07h30 06/10: Corinthians - Bahia
+http://vophutv.000webhostapp.com/playcakhia.php?id=615b9086bbe01307388dc8d4-wVxEcO-wVxEcO&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h30 06/10: Nautico - Goias
+http://vophutv.000webhostapp.com/playcakhia.php?id=615b9084ffb9fe073f472cae-2KtcuG-2KtcuG&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h05 06/10: Raya2 Expansion - Tlaxcala F.C.
 http://vophutv.000webhostapp.com/playcakhia.php?id=615b907f459be70751bc989f-k0a8e4-k0a8e4&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 06/10: Visakha FC - Phnom Penh
