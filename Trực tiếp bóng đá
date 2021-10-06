@@ -38,8 +38,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vJ7J3SR/IMG-20211006-084911.png",Nhà đài Raya2 Expansion - Tlaxcala F.C.
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 06/10: Sudan - Guinea
@@ -69,8 +67,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a0c31c6aff63667deb179&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h45 07/10: UAE - Iran
 http://vophutv.000webhostapp.com/play90p.php?id=615a084bbaf5f939c69df898&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",09h05 06/10: Raya2 Expansion - Tlaxcala F.C.
-http://vophutv.000webhostapp.com/playcakhia.php?id=615b907f459be70751bc989f-k0a8e4-k0a8e4&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 06/10: Visakha FC - Phnom Penh
 http://vophutv.000webhostapp.com/playcakhia.php?id=615c1194ffb9fe073f472d35-aQ7g1h-aQ7g1h&.m3u8|Referer=https://bongda.cakhialive.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 06/10: Boeung Ket FC - Angkor Tiger
