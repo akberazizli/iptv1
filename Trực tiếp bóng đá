@@ -43,14 +43,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài Pumas Tabasco - UDG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài Godoy Cruz - Tigre
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C9D0XG6/IMG-20211007-083736.png",HD Godoy Cruz - Tigre
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/hswZn2x/IMG-20211007-083747.png",SD Godoy Cruz - Tigre
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài America MG - Palmeiras
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài Fluminense - Fortaleza
@@ -104,10 +96,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a07e78bb98639dd59c6fb&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 07/10: Equatorial Guinea - Zambia
 http://vophutv.000webhostapp.com/play90p.php?id=615a07fd28d9a539bbd2aa98&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h05 07/10: Pumas Tabasco - UDG
-http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f95bbe01307388dca28-T2gwlB-T2gwlB&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h15 07/10: Godoy Cruz - Tigre
-http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f982d544e0746607d5a-j3C9XD-j3C9XD&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",07h30 07/10: America MG - Palmeiras
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f9abbe01307388dca2b-scU7ho-scU7ho&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",07h30 07/10: Fluminense - Fortaleza
