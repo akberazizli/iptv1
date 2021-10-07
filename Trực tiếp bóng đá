@@ -43,16 +43,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Celaya - Cimarrones
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài HFX Wanderers FC - Forge FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Sport Recife - Juventude
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Chapecoense AF - Atletico MG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Ceara - Internacional
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Richmond Kickers - Forward Madison FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Cerro Porteno - Sol de America
@@ -102,16 +92,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a07e78bb98639dd59c6fb&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/MCg7V2W/IMG-20211005-050033.png",23h00 07/10: Equatorial Guinea - Zambia
 http://vophutv.000webhostapp.com/play90p.php?id=615a07fd28d9a539bbd2aa98&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h00 07/10: Celaya - Cimarrones
-http://vophutv.000webhostapp.com/playcakhia.php?id=615cf7e72d544e0746607d22-gpc9fo-gpc9fo&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",05h00 07/10: HFX Wanderers FC - Forge FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=615d85dabbe01307388dca3a-Hg7Qn3-Hg7Qn3&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",05h00 07/10: Sport Recife - Juventude
-http://vophutv.000webhostapp.com/playcakhia.php?id=615d9365459be70751bc99f6-NFjZuG-NFjZuG&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",05h00 07/10: Chapecoense AF - Atletico MG
-http://vophutv.000webhostapp.com/playcakhia.php?id=615e1a572d544e0746607db8-KdbSco-KdbSco&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",05h00 07/10: Ceara - Internacional
-http://vophutv.000webhostapp.com/playcakhia.php?id=615e1a76459be70751bc9a2b-XqRSbm-XqRSbm&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",05h30 07/10: Richmond Kickers - Forward Madison FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d92eabbe01307388dca40-0ERzgW-0ERzgW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h00 07/10: Cerro Porteno - Sol de America
