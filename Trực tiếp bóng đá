@@ -43,6 +43,12 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài America MG - Palmeiras
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài Fluminense - Fortaleza
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài Gremio - Cuiaba
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài FC Edmonton - Pacific FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài New Mexico United - Hartford Athletic
@@ -60,6 +66,12 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",07h30 07/10: America MG - Palmeiras
+http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f9abbe01307388dca2b-scU7ho-scU7ho&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",07h30 07/10: Fluminense - Fortaleza
+http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f9bffb9fe073f472de6-BhpOBD-BhpOBD&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",07h30 07/10: Gremio - Cuiaba
+http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f9ebbe01307388dca2e-ULVkul-ULVkul&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",08h00 07/10: FC Edmonton - Pacific FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d7fa1ffb9fe073f472de9-Igs364-Igs364&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",08h00 07/10: New Mexico United - Hartford Athletic
