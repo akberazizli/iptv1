@@ -43,17 +43,15 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Universidad Catolica - Union Espanola
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Memphis 901 - Sporting Kansas City II
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Pumas Tabasco - UDG
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài Godoy Cruz - Tigre
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/60M7gXx/IMG-20211006-161507.png",HD Godoy Cruz - Tigre
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C9D0XG6/IMG-20211007-083736.png",HD Godoy Cruz - Tigre
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/x2FcGf3/IMG-20211006-161531.png",SD Godoy Cruz - Tigre
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/hswZn2x/IMG-20211007-083747.png",SD Godoy Cruz - Tigre
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/G7vYfdf/IMG-20211006-154734.png",Nhà đài America MG - Palmeiras
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
@@ -100,8 +98,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615a07e78bb98639dd59c6fb&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 07/10: Equatorial Guinea - Zambia
 http://vophutv.000webhostapp.com/play90p.php?id=615a07fd28d9a539bbd2aa98&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",06h30 07/10: Universidad Catolica - Union Espanola
-http://vophutv.000webhostapp.com/playcakhia.php?id=615d7f93459be70751bc99e4-xS2UOX-xS2UOX&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h00 07/10: Memphis 901 - Sporting Kansas City II
 http://vophutv.000webhostapp.com/playcakhia.php?id=615d80bcffb9fe073f472dec-zUSJoP-zUSJoP&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",07h05 07/10: Pumas Tabasco - UDG
@@ -184,6 +180,12 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0b6ffb9fe073f472ccc-5bfU
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0b92d544e0746607c1e-A6VRxT-A6VRxT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",15h30 08/10: Vysocina Jihlava - Slovacko
 http://vophutv.000webhostapp.com/playcakhia.php?id=615e4ec3459be70751bc9a35-pzxAda-pzxAda&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h00 08/10: Comets - Adelaide
+http://vophutv.000webhostapp.com/playcakhia.php?id=615e4f0d459be70751bc9a38-g4L95K-g4L95K&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h30 08/10: Logan Lightning - Capalaba
+http://vophutv.000webhostapp.com/playcakhia.php?id=615e4f292d544e0746607dd5-WdlTMz-WdlTMz&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",16h45 08/10: Peninsula Power - Eastern Suburbs
+http://vophutv.000webhostapp.com/playcakhia.php?id=615e4fcfbbe01307388dca98-uWQbNO-uWQbNO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/s2zBpdg/IMG-20210918-054804.png",19h00 08/10: Levski Lom - PFC Lokomotiv Sofia 1929
 http://vophutv.000webhostapp.com/playcakhia.php?id=615e4e592d544e0746607dd2-LX17K5-LX17K5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 08/10: Malawi - Ivory Coast
