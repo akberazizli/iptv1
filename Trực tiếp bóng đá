@@ -51,8 +51,6 @@ https://web-livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m
 https://web-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài JL Chiangmai United FC - Port FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Liberia - Cape Verde
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Liberia - Cape Verde
@@ -71,11 +69,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Tanzania - Benin
 https://p90020921.vnroute.com/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Liberia - Cape Verde
-https://ndcagev-swv-47b850307.thapcam.link/cff9b955ca3a5ebd323e550ac3d7501bb9b07d1c/203ab89ceb190c6bc6e01fd590a213ca/1633616447958/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/dc64c55b00baefc921390c5b8bcae124095932c2/203ab89ceb190c6bc6e01fd590a213ca/1633616746966/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài DR Congo - Madagascar
 https://p90020921.vnroute.com/may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Iraq - Lebanon
-https://ndcagev-swv-47b850307.thapcam.link/8f4b2b7a8faf84171d82e9df5b6c0c4cfc86508b/203ab89ceb190c6bc6e01fd590a213ca/1633616449831/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/eaed8b8d4c4d02e95ac15cba2cb214bbbdc0546b/203ab89ceb190c6bc6e01fd590a213ca/1633616748596/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",20h00 07/10: Tanzania - Benin
 http://vophutv.000webhostapp.com/play90p.php?id=615a078cbaf5f939c69df897&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -114,8 +112,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615e0835c6aff63667deb17e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",06h30 08/10: USA - Jamaica
 http://vophutv.000webhostapp.com/play90p.php?id=615e0847bba0f5222981825e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 07/10: JL Chiangmai United FC - Port FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=615d603b2d544e0746607d43-ZajcMd-ZajcMd&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 07/10: Liberia - Cape Verde
 http://vophutv.000webhostapp.com/playcakhia.php?id=615baaf3bbe01307388dc8e6-Yze3nG-Yze3nG&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 07/10: DR Congo - Madagascar
