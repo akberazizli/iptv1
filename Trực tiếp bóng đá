@@ -55,15 +55,27 @@ https://web-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Tapatio - Cancun FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Paraguay - Argentina
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C9D0XG6/IMG-20211007-083736.png",HD Paraguay - Argentina
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/hswZn2x/IMG-20211007-083747.png",SD Paraguay - Argentina
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Uruguay - Colombia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C9D0XG6/IMG-20211007-083736.png",HD Uruguay - Colombia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/hswZn2x/IMG-20211007-083747.png",SD Uruguay - Colombia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Uruguay - Colombia
 https://p90020921.vnroute.com/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SvMgbS7/IMG-20211007-140409.png",SD1 Paraguay - Argentina (BLV Người Thỏ)
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bzbC3G9/IMG-20211007-140431.png",SD2 Paraguay - Argentina (BLV Người Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/91db263f355e7bac80b0dcbb036907547005c0ac/203ab89ceb190c6bc6e01fd590a213ca/1633647047219/livehls/mtc_67464641SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/176e81db967c0705616e1eb84da30c541b770c60/203ab89ceb190c6bc6e01fd590a213ca/1633647345875/livehls/mtc_67464641SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BzthSS6/IMG-20211007-140329.png",HD1 Paraguay - Argentina (BLV Người Thỏ)
-https://ndcagev-swv-47b850307.thapcam.link/1eecc34ff07d9705210b148c9368c0186b5c84b8/203ab89ceb190c6bc6e01fd590a213ca/1633647047219/livehls/mtc_67464641HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/76727f73ad38795a5d73806a352666d1d8bf7165/203ab89ceb190c6bc6e01fd590a213ca/1633647345876/livehls/mtc_67464641HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fqLVFRj/IMG-20211007-140205.png",HD2 Paraguay - Argentina (BLV Người Thỏ)
 https://livestream.socialstreaming.tv/live/615f74f0355aee001cc2b20f/615f74f0355aee001cc2b20f.m3u8|Referer=https://xoilac.90phutt.xyz/
 
