@@ -45,8 +45,6 @@ https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài Hirnyk-Sport - Metalist Kharkiv
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Yp324Gn/IMG-20211007-082952.png",Nhà đài South Korea - Syria
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 South Korea - Syria
@@ -63,7 +61,7 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/6D0yMPR/IMG-20211007-141052.png",Nhà đài Hàn Quốc - Syria
-https://ndcagev-swv-47b850307.thapcam.link/2849169359effa0cf75c01fe51f357ecc29337e4/203ab89ceb190c6bc6e01fd590a213ca/1633608947593/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/2480bed17543bdf3907b9d948c901147ef8f0426/203ab89ceb190c6bc6e01fd590a213ca/1633609247422/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",18h00 07/10: Hàn Quốc - Syria
 http://vophutv.000webhostapp.com/play90p.php?id=615a072dbba0f52229818250&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -96,8 +94,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615e07f28bb98639dd59c6ff&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",02h00 08/10: Tunisia - Mauritania
 http://vophutv.000webhostapp.com/play90p.php?id=615e080e28d9a539bbd2aa9c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h15 07/10: Hirnyk-Sport - Metalist Kharkiv
-http://vophutv.000webhostapp.com/playcakhia.php?id=615d61c2bbe01307388dca10-G5e5yJ-G5e5yJ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",18h00 07/10: South Korea - Syria
 http://vophutv.000webhostapp.com/playcakhia.php?id=615baaf0459be70751bc98b9-SFdVAx-SFdVAx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 07/10: Suphanburi FC - Ratchaburi FC
