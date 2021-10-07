@@ -51,8 +51,6 @@ https://web-livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m
 https://web-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Germany U21 - Israel U21
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài UAE - Iran
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C9D0XG6/IMG-20211007-083736.png",HD UAE - Iran
@@ -81,27 +79,29 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Albania U21 - Andorra U21
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Slovenia U21 - England U21
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Germany U21 - Israel U21
-https://ndcagev-swv-47b850307.thapcam.link/f0f627d9301047e322b1e2c283b41fbc1282fa95/203ab89ceb190c6bc6e01fd590a213ca/1633631147806/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/fdb2a00a6399dd156414cbab995aa4c33e41c0ad/203ab89ceb190c6bc6e01fd590a213ca/1633631452193/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài UAE - Iran
-https://ndcagev-swv-47b850307.thapcam.link/2a2a0d0337bd13758dec1a0e522f6fd00cf0db25/203ab89ceb190c6bc6e01fd590a213ca/1633631148221/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/6b9cbe6add8c7bbe8b3c5257371cde1f684deb9a/203ab89ceb190c6bc6e01fd590a213ca/1633631452901/livehls/mtc_may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SvMgbS7/IMG-20211007-140409.png",SD1 Trung Quốc - Việt Nam (Thỏ + Dr Sờ Trên)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bzbC3G9/IMG-20211007-140431.png",SD2 Trung Quốc - Việt Nam (Thỏ + Dr Sờ Trên)
 https://p90020921.vnroute.com/may1122335568SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/2gzDyqT/IMG-20211007-140449.png",SD3 Trung Quốc - Việt Nam (Thỏ + Dr Sờ Trên)
-https://ndcagev-swv-47b850307.thapcam.link/5326d45c74c6318e5d8df11b64fd5102b269900d/203ab89ceb190c6bc6e01fd590a213ca/1633631148884/livehls/mtc_may1122335568SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4b0e562037263967d7dbaa85f27bd55adb685838/203ab89ceb190c6bc6e01fd590a213ca/1633631453325/livehls/mtc_may1122335568SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BzthSS6/IMG-20211007-140329.png",HD1 Trung Quốc - Việt Nam (Thỏ + Dr Sờ Trên)
 https://livestream.socialstreaming.tv/live/615f1ee2353116001d0a883a/615f1ee2353116001d0a883a.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fqLVFRj/IMG-20211007-140205.png",HD2 Trung Quốc - Việt Nam (Thỏ + Dr Sờ Trên)
-https://ndcagev-swv-47b850307.thapcam.link/d798c54e35a497a42f96e34e73e6cc2fd6156fd9/203ab89ceb190c6bc6e01fd590a213ca/1633631148884/livehls/mtc_may1122335568HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/dc13fda6f3cc250c6fc7f7379e5a55c0aca7bb4b/203ab89ceb190c6bc6e01fd590a213ca/1633631453326/livehls/mtc_may1122335568HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Trung Quốc - Việt Nam (Thỏ + Dr Sờ Trên)
-https://ndcagev-swv-47b850307.thapcam.link/8eb7c5b0c6ae7f231a8c4c7168881953ecb654a8/203ab89ceb190c6bc6e01fd590a213ca/1633631148884/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f1f32e5aa488aea5443a9372eea49654f382b1d3/203ab89ceb190c6bc6e01fd590a213ca/1633631453326/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Saudi Arabia - Japan
-https://ndcagev-swv-47b850307.thapcam.link/924a4fae27ec07909e5df7b424ec93114fdaa214/203ab89ceb190c6bc6e01fd590a213ca/1633631149554/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/f88dbced5cd9359a9cb4ae29c6cb400f06f09ba7/203ab89ceb190c6bc6e01fd590a213ca/1633631454004/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Australia - Oman
-https://ndcagev-swv-47b850307.thapcam.link/9427c7eea50cfd71fc79ad3bfdd39c23f95f4515/203ab89ceb190c6bc6e01fd590a213ca/1633631150535/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a1707a2c87604f337fdbe7b129cbf84fc753164c/203ab89ceb190c6bc6e01fd590a213ca/1633631454675/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 07/10: Rwanda - Uganda
 http://vophutv.000webhostapp.com/play90p.php?id=615a07e78bb98639dd59c6fb&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -148,8 +148,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615e091c92893b39d17049b8&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 08/10: Angola - Gabon
 http://vophutv.000webhostapp.com/play90p.php?id=615e092fbaf5f939c69df89d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",23h15 07/10: Germany U21 - Israel U21
-http://vophutv.000webhostapp.com/playcakhia.php?id=615e927e459be70751bc9a43-OH1iPC-OH1iPC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",23h45 07/10: UAE - Iran
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bab16bbe01307388dc8ef-Ji9yCu-Ji9yCu&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",00h00 08/10: China - Vietnam
