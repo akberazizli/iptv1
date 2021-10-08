@@ -69,19 +69,15 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Switzerland U21 - Netherlands U21
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Bosnia U21 - Italy U21
-http://p90020921.vnroute.com/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Angola - Gabon
-https://ndcagev-swv-47b850307.thapcam.link/f93cc2c9eed7f1189b22037d864f7c229278b300/203ab89ceb190c6bc6e01fd590a213ca/1633713946387/livehls/mtc_may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/c2d73f50777f82de9ba9be106d77e92949b5b05c/203ab89ceb190c6bc6e01fd590a213ca/1633714251219/livehls/mtc_may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Cameroon - Mozambique
-https://ndcagev-swv-47b850307.thapcam.link/56181a2a1a57d13e6ddb81f39504e2e89891c053/203ab89ceb190c6bc6e01fd590a213ca/1633713947073/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/8385eae7615e56f1669edf84f8547439a1c63665/203ab89ceb190c6bc6e01fd590a213ca/1633714251750/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Russia U21 - Northern Ireland U21
-https://ndcagev-swv-47b850307.thapcam.link/099b5ab06dd05a366c2297ffcce94664f5a28679/203ab89ceb190c6bc6e01fd590a213ca/1633713947741/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ee440f9510412616cb65c61b1522f0dd92c44a54/203ab89ceb190c6bc6e01fd590a213ca/1633714252017/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài France U21 - Ukraine U21
-https://ndcagev-swv-47b850307.thapcam.link/3c885a65e0fa71aaf587c2bbcaf002699a5e430c/203ab89ceb190c6bc6e01fd590a213ca/1633713948482/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/c08e54f4d5d29be241aaa94f106c0c86d9ff46d9/203ab89ceb190c6bc6e01fd590a213ca/1633714252714/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",22h30 08/10: Bosnia U21 - Italy U21
-http://vophutv.000webhostapp.com/play90p.php?id=615f9c5474dd7b31c399b1fc&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 08/10: Angola - Gabon
 http://vophutv.000webhostapp.com/play90p.php?id=615e092fbaf5f939c69df89d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 08/10: Cameroon - Mozambique
@@ -90,14 +86,16 @@ http://vophutv.000webhostapp.com/play90p.php?id=615e094392893b39d17049b9&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=61605709bba0f52229818263&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",23h30 08/10: France U21 - Ukraine U21
 http://vophutv.000webhostapp.com/play90p.php?id=615f9c8b92893b39d17049bb&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Đức - Romania (Dr Sờ Trên + Âu men)
-http://vophutv.000webhostapp.com/play90p.php?id=615f87fdc6aff63667deb184&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Czech Republic - Wales
 http://vophutv.000webhostapp.com/play90p.php?id=615f885328d9a539bbd2aa9f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Liechtenstein - North Macedonia
 http://vophutv.000webhostapp.com/play90p.php?id=615f887fe0d4672fc68e6d6a&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Đức - Romania (Dr Sờ Trên + Âu men)
+http://vophutv.000webhostapp.com/play90p.php?id=615f87fdc6aff63667deb184&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Latvia - Hà Lan (Cáp + Thỏ)
 http://vophutv.000webhostapp.com/play90p.php?id=615f883c74dd7b31c399b1f8&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Iceland - Armenia
+http://vophutv.000webhostapp.com/play90p.php?id=615f8812c6aff63667deb185&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Estonia - Belarus
 http://vophutv.000webhostapp.com/play90p.php?id=615f87e992893b39d17049ba&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Gibraltar - Montenegro
@@ -106,18 +104,18 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f8866bba0f5222981825f&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=615f87a48bb98639dd59c701&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Turkey - Norway
 http://vophutv.000webhostapp.com/play90p.php?id=615f8759baf5f939c69df89e&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Iceland - Armenia
-http://vophutv.000webhostapp.com/play90p.php?id=615f8812c6aff63667deb185&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Malta - Slovenia
-http://vophutv.000webhostapp.com/play90p.php?id=615f87d328d9a539bbd2aa9e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Russia - Slovakia
 http://vophutv.000webhostapp.com/play90p.php?id=615f8829c6aff63667deb186&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Malta - Slovenia
+http://vophutv.000webhostapp.com/play90p.php?id=615f87d328d9a539bbd2aa9e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",02h00 09/10: Egypt - Libya
 http://vophutv.000webhostapp.com/play90p.php?id=615f8895e0d4672fc68e6d6b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",02h00 09/10: Algeria - Niger
 http://vophutv.000webhostapp.com/play90p.php?id=615f88b174dd7b31c399b1f9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",02h00 09/10: Djibouti - Burkina Faso
 http://vophutv.000webhostapp.com/play90p.php?id=615f88ce74dd7b31c399b1fa&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",06h00 09/10: Rionegro Águilas - Alianza Petrolera
+http://vophutv.000webhostapp.com/play90p.php?id=615fd2aec6aff63667deb189&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h30 08/10: Bosnia and Herzegovina U21 - Italy U21
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb231ffb9fe073f472cd0-s8p5fL-s8p5fL&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
