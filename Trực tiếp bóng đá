@@ -17,7 +17,7 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/HhzgRg8/IMG-20211009-055942.png",K+ SPORT 1
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/HhzgRg8/IMG-20211009-055942.png",K+ SPORT 2
 http://s4live.tv1asia.com:21585/kpc1/index.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k0H5Ctq/IMG-20211001-160259.png",RMCsports1
 http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
