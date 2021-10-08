@@ -42,6 +42,10 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Bosnia and Herzegovina U21 - Italy U21
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Bulgaria U21 - Gibraltar U21
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Cameroon - Mozambique
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Cameroon - Mozambique
@@ -52,6 +56,8 @@ https://ck020921.vnroute.com/taisd3/playlist.m3u8|Referer=https://cakhia.cakhia6
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taihd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QKhmzqd/IMG-20211007-140053.png",SD 1 Cameroon - Mozambique
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taisd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Angola - Gabon
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Belarus U21 - Greece U21
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Croatia U21 - Norway U21
@@ -64,13 +70,13 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Angola - Gabon
-https://ndcagev-swv-47b850307.thapcam.link/1ba19f309ec15438befd451428e6e5edaa53b2ea/203ab89ceb190c6bc6e01fd590a213ca/1633715446113/livehls/mtc_may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/5d3abb57240a645e50a4fe81edbffe60947e2664/203ab89ceb190c6bc6e01fd590a213ca/1633715745110/livehls/mtc_may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Cameroon - Mozambique
-https://ndcagev-swv-47b850307.thapcam.link/d3bd358981ac4a17e375d99356dc8bbd8236d018/203ab89ceb190c6bc6e01fd590a213ca/1633715446801/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/beb4718061c71ab7b2af76f8c36d376c77207e7c/203ab89ceb190c6bc6e01fd590a213ca/1633715745827/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Russia U21 - Northern Ireland U21
-https://ndcagev-swv-47b850307.thapcam.link/b23ad747a669dfd0d949bbb0bfedd5282092521d/203ab89ceb190c6bc6e01fd590a213ca/1633715448100/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/0405dd7482c701af52fd592c66f1625a1ce77c3c/203ab89ceb190c6bc6e01fd590a213ca/1633715746524/livehls/mtc_may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài France U21 - Ukraine U21
-https://ndcagev-swv-47b850307.thapcam.link/2ba29813c475c051472e41fc8c2a9a7d21e4439a/203ab89ceb190c6bc6e01fd590a213ca/1633715448775/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/4170b53a194c42b78790972e129b6a9260254234/203ab89ceb190c6bc6e01fd590a213ca/1633715747627/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 08/10: Angola - Gabon
 http://vophutv.000webhostapp.com/play90p.php?id=615e092fbaf5f939c69df89d&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -111,8 +117,14 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f88ce74dd7b31c399b1fa&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",06h00 09/10: Rionegro Águilas - Alianza Petrolera
 http://vophutv.000webhostapp.com/play90p.php?id=615fd2aec6aff63667deb189&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h30 08/10: Bosnia and Herzegovina U21 - Italy U21
+http://vophutv.000webhostapp.com/playcakhia.php?id=615bb231ffb9fe073f472cd0-s8p5fL-s8p5fL&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h30 08/10: Bulgaria U21 - Gibraltar U21
+http://vophutv.000webhostapp.com/playcakhia.php?id=615ff3ff459be70751bc9b03-exnQra-exnQra&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",23h00 08/10: Cameroon - Mozambique
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0d0bbe01307388dc8f8-kKW0iP-kKW0iP&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",23h00 08/10: Angola - Gabon
+http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0d32d544e0746607c24-mGBztM-mGBztM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",23h00 08/10: Belarus U21 - Greece U21
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb241bbe01307388dc904-OOKWa3-OOKWa3&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",23h00 08/10: Croatia U21 - Norway U21
