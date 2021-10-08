@@ -42,10 +42,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Tampa Bay Rowdies - Charleston Battery
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Honduras - Costa Rica
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Ecuador - Bolivia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Peru - Chile
@@ -58,11 +54,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Ecuador - Bolivia
 https://p90020921.vnroute.com/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Peru - Chile
-https://ndcagev-swv-47b850307.thapcam.link/9317c5bfe0eba08dc7b0ac7f504c966eec3e88b0/203ab89ceb190c6bc6e01fd590a213ca/1633659050120/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/a55c8b828e9c80c05cd7b381a3588cb03dd737a0/203ab89ceb190c6bc6e01fd590a213ca/1633659353077/livehls/mtc_may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Mexico - Canada
-https://ndcagev-swv-47b850307.thapcam.link/c5f46f428d681c75643046aaedd0b2b3a03622d2/203ab89ceb190c6bc6e01fd590a213ca/1633659050430/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/e95dcdba03f8748d67532925f464f27bbefb8010/203ab89ceb190c6bc6e01fd590a213ca/1633659353788/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài El Salvador - Panama
-https://ndcagev-swv-47b850307.thapcam.link/1e8f76f75c36e508ddf0e8e96ccca70bd812c7f0/203ab89ceb190c6bc6e01fd590a213ca/1633659051537/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/b9e203485264210f75c67e759fb9615f2fef00ed/203ab89ceb190c6bc6e01fd590a213ca/1633659354039/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",07h05 08/10: Honduras - Costa Rica
 http://vophutv.000webhostapp.com/play90p.php?id=615e0874c6aff63667deb180&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -101,10 +97,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f883c74dd7b31c399b1f8&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Czech Republic - Wales
 http://vophutv.000webhostapp.com/play90p.php?id=615f885328d9a539bbd2aa9f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h00 08/10: Tampa Bay Rowdies - Charleston Battery
-http://vophutv.000webhostapp.com/playcakhia.php?id=615ee18a459be70751bc9a5a-aurxer-aurxer&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",07h05 08/10: Honduras - Costa Rica
-http://vophutv.000webhostapp.com/playcakhia.php?id=615bb093ffb9fe073f472cc9-YY8rSm-YY8rSm&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",07h30 08/10: Ecuador - Bolivia
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0972d544e0746607c18-ODbjG4-ODbjG4&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",08h00 08/10: Peru - Chile
@@ -195,6 +187,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=615fa3ecbbe01307388dcb77-SvMA
 http://vophutv.000webhostapp.com/playcakhia.php?id=615fa4ed459be70751bc9afa-pqnNpZ-pqnNpZ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",11h30 09/10: Busan I'Park - Bucheon FC 1995
 http://vophutv.000webhostapp.com/playcakhia.php?id=615fa84fffb9fe073f472f0b-Hrq8U8-Hrq8U8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 09/10: Albirex Niigata - Renofa Yamaguchi
+http://vophutv.000webhostapp.com/playcakhia.php?id=615fa8d2459be70751bc9afd-AR2Lnr-AR2Lnr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 09/10: Guinea - Sudan
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb43fbbe01307388dc91f-p2xufd-p2xufd&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 09/10: Lithuania - Bulgaria
