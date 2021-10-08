@@ -42,8 +42,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài El Salvador - Panama
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",08h40 08/10: Mexico - Canada
@@ -81,8 +79,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f8866bba0f5222981825f&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Liechtenstein - North Macedonia
 http://vophutv.000webhostapp.com/play90p.php?id=615f887fe0d4672fc68e6d6a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",09h05 08/10: El Salvador - Panama
-http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0b92d544e0746607c1e-A6VRxT-A6VRxT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",15h30 08/10: Vysocina Jihlava - Slovacko
 http://vophutv.000webhostapp.com/playcakhia.php?id=615e4ec3459be70751bc9a35-pzxAda-pzxAda&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h00 08/10: Comets - Adelaide
