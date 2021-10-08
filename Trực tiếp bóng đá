@@ -46,8 +46,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài FK G'ijduvon - FC Bunyodkor
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@duc1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Levski Lom - PFC Lokomotiv Sofia 1929
-https://live.fastlycdnlive.xyz/live/_definst_/stream_1_32379@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",20h00 08/10: Malawi - Côte d'Ivoire
@@ -85,8 +83,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f887fe0d4672fc68e6d6a&.m3u8|R
 http://vophutv.000webhostapp.com/playcakhia.php?id=616026152d544e0746607eb9-IDKTa3-IDKTa3&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 08/10: FK G'ijduvon - FC Bunyodkor
 http://vophutv.000webhostapp.com/playcakhia.php?id=616027aeffb9fe073f472f33-P2JdBL-P2JdBL&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 08/10: Levski Lom - PFC Lokomotiv Sofia 1929
-http://vophutv.000webhostapp.com/playcakhia.php?id=615e4e592d544e0746607dd2-LX17K5-LX17K5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 08/10: Malawi - Ivory Coast
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0cd2d544e0746607c21-tGFibC-tGFibC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h00 08/10: Moldova U21 - Wales U21
