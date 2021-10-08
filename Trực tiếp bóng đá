@@ -44,10 +44,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",08h40 08/10: Mexico - Canada
-http://vophutv.000webhostapp.com/play90p.php?id=615e08d3c6aff63667deb183&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",09h05 08/10: El Salvador - Panama
-http://vophutv.000webhostapp.com/play90p.php?id=615e090728d9a539bbd2aa9d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",20h00 08/10: Malawi - Côte d'Ivoire
 http://vophutv.000webhostapp.com/play90p.php?id=615e091c92893b39d17049b8&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",22h30 08/10: Bosnia U21 - Italy U21
