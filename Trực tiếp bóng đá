@@ -42,15 +42,13 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Mexico - Canada
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài El Salvador - Panama
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Mexico - Canada
-https://ndcagev-swv-47b850307.thapcam.link/da963ced7e2b031f760cc896e8a0bb6c8287922b/203ab89ceb190c6bc6e01fd590a213ca/1633664147316/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/7f707a563346508d41eb3b4cacd382bdfeb11e19/203ab89ceb190c6bc6e01fd590a213ca/1633664448983/livehls/mtc_may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài El Salvador - Panama
-https://ndcagev-swv-47b850307.thapcam.link/650d7dc5c4b9c263d445e79672694a9ea1de372e/203ab89ceb190c6bc6e01fd590a213ca/1633664148025/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/ffa76ddf49778cf641c56d045f314c52220e1976/203ab89ceb190c6bc6e01fd590a213ca/1633664449237/livehls/mtc_may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",08h40 08/10: Mexico - Canada
 http://vophutv.000webhostapp.com/play90p.php?id=615e08d3c6aff63667deb183&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -87,8 +85,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f8866bba0f5222981825f&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Liechtenstein - North Macedonia
 http://vophutv.000webhostapp.com/play90p.php?id=615f887fe0d4672fc68e6d6a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",08h40 08/10: Mexico - Canada
-http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0b6ffb9fe073f472ccc-5bfUDs-5bfUDs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",09h05 08/10: El Salvador - Panama
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0b92d544e0746607c1e-A6VRxT-A6VRxT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",15h30 08/10: Vysocina Jihlava - Slovacko
