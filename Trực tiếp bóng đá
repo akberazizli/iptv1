@@ -42,19 +42,11 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Malawi - Ivory Coast
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Malawi - Ivory Coast
-https://ck020921.vnroute.com/paohd2/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/5Kc5QnC/IMG-20211007-140117.png",SD 2 Malawi - Ivory Coast
-https://ck020921.vnroute.com/paosd2/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zs2wMCR/IMG-20211007-140027.png",HD 1 Malawi - Ivory Coast
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QKhmzqd/IMG-20211007-140053.png",SD 1 Malawi - Ivory Coast
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Moldova U21 - Wales U21
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Malawi - Côte d'Ivoire
-https://ndcagev-swv-47b850307.thapcam.link/5ebcf9e828b9b27f35303533db24ba7bc6ecb350/203ab89ceb190c6bc6e01fd590a213ca/1633704945677/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/9d94b7ed8f1e2dc7e1815afcd2cc335ee74a8e0b/203ab89ceb190c6bc6e01fd590a213ca/1633705251894/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",20h00 08/10: Malawi - Côte d'Ivoire
 http://vophutv.000webhostapp.com/play90p.php?id=615e091c92893b39d17049b8&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -89,8 +81,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f8759baf5f939c69df89e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 09/10: Đức - Romania (Dr Sờ Trên + Âu men)
 http://vophutv.000webhostapp.com/play90p.php?id=615f87fdc6aff63667deb184&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 08/10: Malawi - Ivory Coast
-http://vophutv.000webhostapp.com/playcakhia.php?id=615bb0cd2d544e0746607c21-tGFibC-tGFibC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h00 08/10: Moldova U21 - Wales U21
 http://vophutv.000webhostapp.com/playcakhia.php?id=615ff61effb9fe073f472f1a-VhpqTh-VhpqTh&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h30 08/10: Bosnia and Herzegovina U21 - Italy U21
