@@ -46,8 +46,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Spartak Moscow II - Akron Togliatti
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Lithuania - Bulgaria
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Lithuania - Bulgaria
@@ -76,11 +74,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Guinea - Sudan
 https://p90020921.vnroute.com/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Lithuania - Bulgaria
-https://ndcagev-swv-47b850307.thapcam.link/504199ba3331364c32a33da97cd31912715d55e0/203ab89ceb190c6bc6e01fd590a213ca/1633788052101/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/03b0bbd21476a428ba2045daef53c0c9a69d08c0/203ab89ceb190c6bc6e01fd590a213ca/1633788346539/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Ethiopia - South Africa
 https://p90020921.vnroute.com/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Kazakhstan - Bosnia
-https://ndcagev-swv-47b850307.thapcam.link/ff7639f57574a8399725f767553ac54cedb83f69/203ab89ceb190c6bc6e01fd590a213ca/1633788053818/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://ndcagev-swv-47b850307.thapcam.link/1f657420329e184a974ad74b1caeb7ad5fa6d5a8/203ab89ceb190c6bc6e01fd590a213ca/1633788347979/livehls/mtc_may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",20h00 09/10: Guinea - Sudan
 http://vophutv.000webhostapp.com/play90p.php?id=615f88e3baf5f939c69df89f&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -121,8 +119,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=616113f792893b39d17049bd&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",02h00 10/10: Senegal - Namibia
 http://vophutv.000webhostapp.com/play90p.php?id=61611410e0d4672fc68e6d71&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 09/10: Spartak Moscow II - Akron Togliatti
-http://vophutv.000webhostapp.com/playcakhia.php?id=61601b952d544e0746607eac-edaA0N-edaA0N&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 09/10: Lithuania - Bulgaria
 http://vophutv.000webhostapp.com/playcakhia.php?id=615bb44cbbe01307388dc922-xLQRc8-xLQRc8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 09/10: Guinea - Sudan
