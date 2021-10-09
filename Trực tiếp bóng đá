@@ -44,8 +44,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Real Monarchs SLC - Colorado Springs Switchbacks FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Independiente Medellin - Envigado
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài América - Pumas
@@ -81,8 +79,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f89e0baf5f939c69df8a0&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 09/10: Azerbaijan - Ireland Republic
 http://vophutv.000webhostapp.com/play90p.php?id=615f89f78bb98639dd59c705&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",08h00 09/10: Real Monarchs SLC - Colorado Springs Switchbacks FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=615fa3ea459be70751bc9af7-VcOTq0-VcOTq0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",08h05 09/10: Independiente Medellin - Envigado
 http://vophutv.000webhostapp.com/playcakhia.php?id=615fa3e82d544e0746607e8f-dzVz41-dzVz41&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",09h00 09/10: América - Pumas
@@ -209,6 +205,12 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6160fff72d544e0746607f97-aN9a
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160fff9ffb9fe073f47302f-Rj7zg6-Rj7zg6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 10/10: Gangwon FC - Jeju United
 http://vophutv.000webhostapp.com/playcakhia.php?id=616101e9ffb9fe073f473035-MC0PeW-MC0PeW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 10/10: FC Tokyo - Nagoya Grampus
+http://vophutv.000webhostapp.com/playcakhia.php?id=616105d42d544e0746607fa0-ABEg1K-ABEg1K&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 10/10: Kyoto Sanga FC - SC Sagamihara
+http://vophutv.000webhostapp.com/playcakhia.php?id=616106baffb9fe073f47303b-Ch1nYW-Ch1nYW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",13h00 10/10: Cerezo Osaka - Urawa Red Diamonds
+http://vophutv.000webhostapp.com/playcakhia.php?id=61610617bbe01307388dcc98-4jMSWr-4jMSWr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",20h00 10/10: Italy - Belgium
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a7332d544e0746607f4b-w8h2Fe-w8h2Fe&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 10/10: Central African Republic - Nigeria
