@@ -47,6 +47,24 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Sweden - Kosovo
+https://ndcagev-swv-47b850307.thapcam.link/d5ba4b30977f22cc65707cd3b09bb10c6dba1297/203ab89ceb190c6bc6e01fd590a213ca/1633794647127/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Togo - Congo
+https://p90020921.vnroute.com/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/y8GZkfs/IMG-20211007-140513.png",SD Phần Lan - Ukraine (Ầu men)
+https://ndcagev-swv-47b850307.thapcam.link/ef4856848871c6d67339950337b160ca19cfd0be/203ab89ceb190c6bc6e01fd590a213ca/1633794648604/livehls/mtc_67464645SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/nPj0HJd/IMG-20211007-140536.png",HD Phần Lan - Ukraine (Ầu men)
+https://livestream-2.socialstreaming.tv/live/6161b1c6e0dc88001cdcd30b/6161b1c6e0dc88001cdcd30b.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Phần Lan - Ukraine (Ầu men)
+https://ndcagev-swv-47b850307.thapcam.link/1b6383e971a56cd59e87bfd3b0b79fe3fca8f71d/203ab89ceb190c6bc6e01fd590a213ca/1633794648604/livehls/mtc_maynam/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Ghana - Zimbabwe
+https://p90020921.vnroute.com/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Georgia - Greece
+https://p90020921.vnroute.com/may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Scotland - Israel
+https://ndcagev-swv-47b850307.thapcam.link/6039030342cbdfa9bcacd93145fb59335dfc1e65/203ab89ceb190c6bc6e01fd590a213ca/1633794650953/livehls/mtc_may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Azerbaijan - Ireland Republic
+https://p90020921.vnroute.com/may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 09/10: Sweden - Kosovo
 http://vophutv.000webhostapp.com/play90p.php?id=615f8973e0d4672fc68e6d6c&.m3u8|Referer=https://xoilac.90phutt.xyz/
