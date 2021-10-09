@@ -44,8 +44,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Instituto - Atletico Rafaela
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài York United FC - Atletico Ottawa
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Juárez - Queretaro
@@ -95,8 +93,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=615f89e0baf5f939c69df8a0&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 09/10: Togo - Congo
 http://vophutv.000webhostapp.com/play90p.php?id=615f895a74dd7b31c399b1fb&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h00 09/10: Instituto - Atletico Rafaela
-http://vophutv.000webhostapp.com/playcakhia.php?id=615fa37d2d544e0746607e88-UQsa9n-UQsa9n&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/5L9X1Jv/IMG-20210917-194255.png",06h30 09/10: York United FC - Atletico Ottawa
 http://vophutv.000webhostapp.com/playcakhia.php?id=615fa3c6bbe01307388dcb71-Di51vz-Di51vz&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h00 09/10: Juárez - Queretaro
@@ -189,6 +185,20 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6160a771bbe01307388dcc22-MH3t
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a776bbe01307388dcc25-gUuMzc-gUuMzc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",02h15 10/10: Portugal - Qatar
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a7ceffb9fe073f472fbb-Al6DlX-Al6DlX&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",05h00 10/10: NY Red Bulls - Inter Miami CF
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160ec6d2d544e0746607f8d-U8SiKP-U8SiKP&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",05h00 10/10: Athletico Paranaense - Bahia
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160ec6f459be70751bc9bef-Dhrx8L-Dhrx8L&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/bJ8cn9T/IMG-20210917-193932.png",05h00 10/10: Fortaleza - Flamengo
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160ec72ffb9fe073f473018-110QNz-110QNz&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",05h00 10/10: Vitoria - Confianca
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160ec74459be70751bc9bf2-ORSOE7-ORSOE7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h00 10/10: Charlotte Independence - New York Red Bulls II
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160ec69ffb9fe073f473015-jj32o1-jj32o1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h00 10/10: New Mexico United - Rio Grande Valley FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160ec6b459be70751bc9bec-pDXwaM-pDXwaM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h15 10/10: Boca Juniors - Lanus
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160ed17ffb9fe073f47301b-c4U1pG-c4U1pG&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",20h00 10/10: Italy - Belgium
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a7332d544e0746607f4b-w8h2Fe-w8h2Fe&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 10/10: Central African Republic - Nigeria
