@@ -44,8 +44,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Busan I'Park - Bucheon FC 1995
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Albirex Niigata - Renofa Yamaguchi
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Ventforet Kofu - FC Ryukyu
@@ -85,8 +83,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61611386e0d4672fc68e6d6e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 10/10: Moldova - Denmark
 http://vophutv.000webhostapp.com/play90p.php?id=616113a3c6aff63667deb18a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",11h30 09/10: Busan I'Park - Bucheon FC 1995
-http://vophutv.000webhostapp.com/playcakhia.php?id=615fa84fffb9fe073f472f0b-Hrq8U8-Hrq8U8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 09/10: Albirex Niigata - Renofa Yamaguchi
 http://vophutv.000webhostapp.com/playcakhia.php?id=615fa8d2459be70751bc9afd-AR2Lnr-AR2Lnr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 09/10: Ventforet Kofu - FC Ryukyu
@@ -211,6 +207,34 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616105d42d544e0746607fa0-ABEg
 http://vophutv.000webhostapp.com/playcakhia.php?id=616106baffb9fe073f47303b-Ch1nYW-Ch1nYW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",13h00 10/10: Cerezo Osaka - Urawa Red Diamonds
 http://vophutv.000webhostapp.com/playcakhia.php?id=61610617bbe01307388dcc98-4jMSWr-4jMSWr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",14h00 10/10: Ehime FC - V-Varen Nagasaki
+http://vophutv.000webhostapp.com/playcakhia.php?id=6161352e2d544e0746607fae-9d6IXR-9d6IXR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",14h00 10/10: Daejeon Citizen - Ansan Greeners
+http://vophutv.000webhostapp.com/playcakhia.php?id=61613531bbe01307388dcca7-ZZwzzo-ZZwzzo&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h00 10/10: CSKA - Nizhny Novgorod
+http://vophutv.000webhostapp.com/playcakhia.php?id=61613544bbe01307388dccaa-1HWwzN-1HWwzN&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h30 10/10: Gyeongnam FC - Chungnam Asan FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=61613550bbe01307388dccad-EtmXYc-EtmXYc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h00 10/10: Rio Ave - Vilafranquense
+http://vophutv.000webhostapp.com/playcakhia.php?id=61613557459be70751bc9c15-QzocVy-QzocVy&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 10/10: Biolog Novokubansk - FC Rotor Volgograd II
+http://vophutv.000webhostapp.com/playcakhia.php?id=6161357a2d544e0746607fb2-KDQEKS-KDQEKS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 10/10: Kaluga - Salyut Belgorod
+http://vophutv.000webhostapp.com/playcakhia.php?id=61613581bbe01307388dccb0-fgYil7-fgYil7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 10/10: Chonburi FC - Suphanburi FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=616135982d544e0746607fb5-5jA3tF-5jA3tF&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 10/10: Prachuap FC - Samut Prakan City
+http://vophutv.000webhostapp.com/playcakhia.php?id=6161359abbe01307388dccb3-GkbEvs-GkbEvs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 10/10: Ratchaburi FC - JL Chiangmai United FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=6161359c2d544e0746607fb8-12CCBq-12CCBq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h30 10/10: Port FC - Buriram United
+http://vophutv.000webhostapp.com/playcakhia.php?id=616135ccbbe01307388dccb7-mcqNJp-mcqNJp&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 10/10: Spartak Nalchik - FC Kuban-Holding
+http://vophutv.000webhostapp.com/playcakhia.php?id=616135c9459be70751bc9c18-iBESVv-iBESVv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 10/10: Fakel-M Voronezh - Dinamo Briansk
+http://vophutv.000webhostapp.com/playcakhia.php?id=616135d22d544e0746607fbb-WfEthc-WfEthc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 10/10: Zenit Penza - Avangard Kursk
+http://vophutv.000webhostapp.com/playcakhia.php?id=616135d7bbe01307388dccba-8dZ8br-8dZ8br&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",20h00 10/10: Italy - Belgium
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a7332d544e0746607f4b-w8h2Fe-w8h2Fe&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 10/10: Central African Republic - Nigeria
