@@ -54,10 +54,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài FC Tokyo - Nagoya Grampus
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Kyoto Sanga FC - SC Sagamihara
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Cerezo Osaka - Urawa Red Diamonds
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Machida Zelvia - JEF United Chiba
@@ -107,10 +103,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6161ed82c6aff63667deb18e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",05h00 11/10: Jamaica - Canada
 http://vophutv.000webhostapp.com/play90p.php?id=6161edc7bba0f52229818267&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 10/10: FC Tokyo - Nagoya Grampus
-http://vophutv.000webhostapp.com/playcakhia.php?id=616105d42d544e0746607fa0-ABEg1K-ABEg1K&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 10/10: Kyoto Sanga FC - SC Sagamihara
-http://vophutv.000webhostapp.com/playcakhia.php?id=616106baffb9fe073f47303b-Ch1nYW-Ch1nYW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",13h00 10/10: Cerezo Osaka - Urawa Red Diamonds
 http://vophutv.000webhostapp.com/playcakhia.php?id=61610617bbe01307388dcc98-4jMSWr-4jMSWr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",13h00 10/10: Machida Zelvia - JEF United Chiba
