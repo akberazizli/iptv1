@@ -55,9 +55,17 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SvMgbS7/IMG-20211007-140409.png",SD1 Tây Ban Nha - Pháp (Thỏ  + Liu)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may122SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bzbC3G9/IMG-20211007-140431.png",SD2 Tây Ban Nha - Pháp (Thỏ  + Liu)
+https://p90020921.vnroute.com/may11223345568SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BzthSS6/IMG-20211007-140329.png",HD1 Tây Ban Nha - Pháp (Thỏ  + Liu)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may122SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fqLVFRj/IMG-20211007-140205.png",HD2 Tây Ban Nha - Pháp (Thỏ  + Liu)
+https://livestream-2.socialstreaming.tv/live/61633042197740001d92cf23/61633042197740001d92cf23.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Tây Ban Nha - Pháp (Thỏ  + Liu)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 10/10: Madagascar - Congo DR
-http://vophutv.000webhostapp.com/play90p.php?id=616114ce8bb98639dd59c709&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",01h45 11/10: Tây Ban Nha - Pháp (Thỏ  + Liu)
 http://vophutv.000webhostapp.com/play90p.php?id=6161eb1c8bb98639dd59c70b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",02h00 11/10: Mauritania - Tunisia
