@@ -50,8 +50,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Phoenix Rising FC - Oakland Roots
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài San Diego Loyal - Sacramento Republic FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
@@ -87,8 +85,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6161ed82c6aff63667deb18e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",05h00 11/10: Jamaica - Canada
 http://vophutv.000webhostapp.com/play90p.php?id=6161edc7bba0f52229818267&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",09h30 10/10: Phoenix Rising FC - Oakland Roots
-http://vophutv.000webhostapp.com/playcakhia.php?id=6160fff72d544e0746607f97-aN9afP-aN9afP&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",09h30 10/10: San Diego Loyal - Sacramento Republic FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160fff9ffb9fe073f47302f-Rj7zg6-Rj7zg6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 10/10: Gangwon FC - Jeju United
