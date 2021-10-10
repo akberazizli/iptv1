@@ -23,6 +23,10 @@ http://s4live.tv1asia.com:21585/kpc1/index.m3u8
 http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMCsports2
 http://xcchui2.mrnova.online/live/60689_.m3u8?token=tienmedia
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/59DT4HL/IMG-20211001-124722.png",BEIN sports 1
+http://viewplayer.ip1v.com:25461/maan/test/22
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/gS1DytY/IMG-20211001-124704.png",BEIN sports 1
+http://viewplayer.ip1v.com:25461/maan/test/23
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/3z5VSXJ/IMG-20211010-102658.png",TRUE PREMIER 1
 http://209.145.58.109:25461/myapp/omohaktv/63
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qmqLL6N/IMG-20211010-102713.png",TRUE PREMIER 2
