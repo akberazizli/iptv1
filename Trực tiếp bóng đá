@@ -23,6 +23,10 @@ http://s4live.tv1asia.com:21585/kpc1/index.m3u8
 http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMCsports2
 http://xcchui2.mrnova.online/live/60689_.m3u8?token=tienmedia
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/K2zkNV3/IMG-20211011-061159.png",super premier
+http://cloudcdn.tk:80/SackisPd4038/MjxVR0897/28895
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/SRK27Cw/IMG-20211011-061147.png",Sky PLeague
+http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/98775.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/59DT4HL/IMG-20211001-124722.png",BEIN sports 1
 http://xcchui2.mrnova.online/live/60685_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/gS1DytY/IMG-20211001-124704.png",BEIN sports 1
@@ -71,6 +75,14 @@ https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Mexico - Honduras
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SvMgbS7/IMG-20211007-140409.png",SD1 Argentina - Uruguay (Lê Văn Cáp)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may123SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bzbC3G9/IMG-20211007-140431.png",SD2 Argentina - Uruguay (Lê Văn Cáp)
+https://p90020921.vnroute.com/may123SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BzthSS6/IMG-20211007-140329.png",HD1 Argentina - Uruguay (Lê Văn Cáp)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may123HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fqLVFRj/IMG-20211007-140205.png",HD2 Argentina - Uruguay (Lê Văn Cáp)
+https://livestream-2.socialstreaming.tv/live/61636d7907e8c5001d7e1cc2/61636d7907e8c5001d7e1cc2.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",05h00 11/10: Panama - USA
 http://vophutv.000webhostapp.com/play90p.php?id=6161ed82c6aff63667deb18e&.m3u8|Referer=https://xoilac.90phutt.xyz/
