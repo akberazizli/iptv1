@@ -66,6 +66,14 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Sampaio Correa - Vasco da Gama
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Seattle Sounders - Vancouver
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/C9D0XG6/IMG-20211007-083736.png",HD Seattle Sounders - Vancouver
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/hswZn2x/IMG-20211007-083747.png",SD Seattle Sounders - Vancouver
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài CD Olimpia - CD Real Sociedad
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",06h00 10/10: New Mexico United - Rio Grande Valley
@@ -141,6 +149,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616105d42d544e0746607fa0-ABEg
 http://vophutv.000webhostapp.com/playcakhia.php?id=616106baffb9fe073f47303b-Ch1nYW-Ch1nYW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",13h00 10/10: Cerezo Osaka - Urawa Red Diamonds
 http://vophutv.000webhostapp.com/playcakhia.php?id=61610617bbe01307388dcc98-4jMSWr-4jMSWr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",13h00 10/10: Machida Zelvia - JEF United Chiba
+http://vophutv.000webhostapp.com/playcakhia.php?id=61623910459be70751bc9ca8-gFSQyz-gFSQyz&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",14h00 10/10: Ehime FC - V-Varen Nagasaki
 http://vophutv.000webhostapp.com/playcakhia.php?id=6161352e2d544e0746607fae-9d6IXR-9d6IXR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",14h00 10/10: Daejeon Citizen - Ansan Greeners
@@ -157,8 +167,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61623885ffb9fe073f4730e6-bGQV
 http://vophutv.000webhostapp.com/playcakhia.php?id=6162389f2d544e0746608081-pDVaOi-pDVaOi&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h00 10/10: Rio Ave - Vilafranquense
 http://vophutv.000webhostapp.com/playcakhia.php?id=61613557459be70751bc9c15-QzocVy-QzocVy&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 10/10: Biolog Novokubansk - FC Rotor Volgograd II
-http://vophutv.000webhostapp.com/playcakhia.php?id=6161357a2d544e0746607fb2-KDQEKS-KDQEKS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 10/10: Kaluga - Salyut Belgorod
 http://vophutv.000webhostapp.com/playcakhia.php?id=61613581bbe01307388dccb0-fgYil7-fgYil7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 10/10: Chonburi FC - Suphanburi FC
