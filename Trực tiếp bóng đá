@@ -66,7 +66,7 @@ https://ck020921.vnroute.com/caysd2/playlist.m3u8|Referer=https://cakhia.cakhia6
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QKhmzqd/IMG-20211007-140053.png",SD 1 Gyeongnam FC - Chungnam Asan FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Tampines Rovers FC - Geylang FC
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Tanjong Pagar Ut - Albirex Niigata FC 
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Hougang United - Young Lions
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
@@ -109,7 +109,7 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6161371cbbe01307388dccbf-5WnA
 http://vophutv.000webhostapp.com/playcakhia.php?id=6161373f2d544e0746607fbe-uQTJE3-uQTJE3&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h30 10/10: Gyeongnam FC - Chungnam Asan FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=61613550bbe01307388dccad-EtmXYc-EtmXYc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h45 10/10: Tampines Rovers FC - Geylang FC
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h30 10/10: Tanjong Pagar Ut - Albirex Niigata FC 
 http://vophutv.000webhostapp.com/playcakhia.php?id=61623885ffb9fe073f4730e6-bGQVsj-bGQVsj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h45 10/10: Hougang United - Young Lions
 http://vophutv.000webhostapp.com/playcakhia.php?id=6162389f2d544e0746608081-pDVaOi-pDVaOi&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
