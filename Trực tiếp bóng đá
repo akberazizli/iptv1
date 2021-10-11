@@ -17,8 +17,8 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8|Referer=http://s
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/HhzgRg8/IMG-20211009-055942.png",K+ SPORT 2
-http://s4live.tv1asia.com:21585/kpc1/index.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/HhzgRg8/IMG-20211009-055942.png",K+ SPORT 1
+http://171.244.139.99:9876/LIVE/CLIPTV/GROUPkplus/KSPORT1
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k0H5Ctq/IMG-20211001-160259.png",RMCsports1
 http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMCsports2
@@ -39,8 +39,6 @@ http://209.145.58.109:25461/myapp/omohaktv/35
 http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/stkNYvs/IMG-20211005-114601.png",QSPORT 2
 http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hXX7rLz/IMG-20211011-085303.png", TSN 1HD
-http://xcchui2.mrnova.online/live/60540_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyhfnZN/IMG-20211009-170304.png",U1DO 1
 http://xcchui2.mrnova.online/live/60302_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JKL2SRK/IMG-20211009-170330.png",U1DO 2
