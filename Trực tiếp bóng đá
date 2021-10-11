@@ -68,10 +68,6 @@ https://ck020921.vnroute.com/caysd2/playlist.m3u8|Referer=https://cakhia.cakhia6
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QKhmzqd/IMG-20211007-140053.png",SD 1 Cyprus - Malta
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Ivory Coast - Malawi
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Burkina Faso - Djibouti
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Albania U21 - Slovenia U21
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
@@ -80,10 +76,6 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/pl
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 11/10: Cyprus - Malta
 http://vophutv.000webhostapp.com/play90p.php?id=6161ef8b92893b39d17049c2&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 11/10: Ivory Coast - Malawi
-http://vophutv.000webhostapp.com/play90p.php?id=6161efeb8bb98639dd59c70d&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",23h00 11/10: Burkina Faso - Djibouti
-http://vophutv.000webhostapp.com/play90p.php?id=6161f01592893b39d17049c3&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 12/10: Belarus - Czech Republic
 http://vophutv.000webhostapp.com/play90p.php?id=61632c3dc6aff63667deb191&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 12/10: Croatia - Slovakia
@@ -117,10 +109,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61632cf6baf5f939c69df8a7&.m3u8|R
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",23h00 11/10: Cyprus - Malta
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a841459be70751bc9ba7-dy7Nix-dy7Nix&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",23h00 11/10: Ivory Coast - Malawi
-http://vophutv.000webhostapp.com/playcakhia.php?id=6160a8432d544e0746607f5a-A5n5Qs-A5n5Qs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",23h00 11/10: Burkina Faso - Djibouti
-http://vophutv.000webhostapp.com/playcakhia.php?id=6160a847ffb9fe073f472fbe-5xTHxs-5xTHxs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",23h30 11/10: Albania U21 - Slovenia U21
 http://vophutv.000webhostapp.com/playcakhia.php?id=61626a60459be70751bc9cb9-nHqa9V-nHqa9V&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",01h45 12/10: North Macedonia - Germany
