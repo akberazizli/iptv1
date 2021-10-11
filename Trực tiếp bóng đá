@@ -58,8 +58,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Mexico - Honduras
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Argentina - Uruguay
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Argentina - Uruguay
@@ -96,9 +94,9 @@ https://livestream-2.socialstreaming.tv/live/61636d7907e8c5001d7e1cc2/61636d7907
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Chile - Paraguay
 https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài San Antonio - Memphis 901
-https://nvndcagevswv87c6afake.thapcam.link/a0be2468e9008c0a1c77e0e74c038004c5ee9a29/203ab89ceb190c6bc6e01fd590a213ca/1633914054123/live/_definst_/stream_1_1bda7@may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Austin Bold - OKC Energy
-https://nvndcagevswv87c6afake.thapcam.link/a4c827f6e73ec7116f551ba2941be6ff5c1b727d/203ab89ceb190c6bc6e01fd590a213ca/1633914054816/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",06h30 11/10: Argentina - Uruguay (Lê Văn Cáp)
 http://vophutv.000webhostapp.com/play90p.php?id=6161ee6428d9a539bbd2aaa2&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -137,8 +135,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61632c3dc6aff63667deb191&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 12/10: Latvia - Turkey
 http://vophutv.000webhostapp.com/play90p.php?id=61632b958bb98639dd59c70e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",06h00 11/10: Mexico - Honduras
-http://vophutv.000webhostapp.com/playcakhia.php?id=6160a85bbbe01307388dcc2e-gi9hHD-gi9hHD&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",06h30 11/10: Argentina - Uruguay
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a856ffb9fe073f472fc4-eGT7Mr-eGT7Mr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",07h00 11/10: Chile - Paraguay
