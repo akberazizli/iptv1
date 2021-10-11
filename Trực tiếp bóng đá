@@ -58,16 +58,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Argentina - Uruguay
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Argentina - Uruguay
-https://ck020921.vnroute.com/taisd3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/5Kc5QnC/IMG-20211007-140117.png",SD 2 Argentina - Uruguay
-https://ck020921.vnroute.com/taisd3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zs2wMCR/IMG-20211007-140027.png",HD 1 Argentina - Uruguay
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taihd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QKhmzqd/IMG-20211007-140053.png",SD 1 Argentina - Uruguay
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taisd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Chile - Paraguay
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Chile - Paraguay
@@ -137,8 +127,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61632b958bb98639dd59c70e&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 12/10: Bắc Macedonia - Germany
 http://vophutv.000webhostapp.com/play90p.php?id=61632c66e0d4672fc68e6d79&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",06h30 11/10: Argentina - Uruguay
-http://vophutv.000webhostapp.com/playcakhia.php?id=6160a856ffb9fe073f472fc4-eGT7Mr-eGT7Mr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",07h00 11/10: Chile - Paraguay
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a852bbe01307388dcc2b-k82eOn-k82eOn&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h30 11/10: San Antonio FC - Memphis 901
