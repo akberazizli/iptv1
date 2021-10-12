@@ -1,51 +1,51 @@
 #EXTM3U url-tvg = "http://trada.info/epg.xml" tvg-shift = 0 m3uautoload = 1
 
 #EXTINF:vo phu 
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 1
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 1
 https://vnw-vod-cdn.popsww.com/hn-Tna1La4OmloK2V0QfOytNBOW8sw/videos/transcoded/fix_thamtulungdanhconan_tap401_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 2
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 2
 https://vnw-vod-cdn.popsww.com/hn-cRNrI-p38THCCdFhQ2eY994NVs4/videos/transcoded/fix_thamtulungdanhconan_tap402_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 3
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 3
 https://vnw-vod-cdn.popsww.com/hn-bvzZhj19rkGj6k99Kv8hDHu0IaE/videos/transcoded/cn_403_thamtulungdanhconan_tap422_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 4
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 4
 https://vnw-vod-cdn.popsww.com/hn-KPSTy0zJK3PJdUWHyog4R0WVeBc/videos/transcoded/fix_thamtulungdanhconan_tap404_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 5
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 5
 https://vnw-vod-cdn.popsww.com/hn-UBmK2dmP_GyWiEfu-_GRsGIfue0/videos/transcoded/cn_405_thamtulungdanhconan_tap424_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 6
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 6
 https://vnw-vod-cdn.popsww.com/hn-LzyJySgVkn3nSBDQTiaFE4HuL7s/videos/transcoded/cn_406_thamtulungdanhconan_tap425_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 7
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 7
 https://vnw-vod-cdn.popsww.com/hn-JM7HwsxDFCyhmk5xklKc9-G3BE0/videos/transcoded/fix_thamtulungdanhconan_tap407_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 8
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 8
 https://vnw-vod-cdn.popsww.com/hn-Jr6r_sP6TayoblzF9e_ozmah18w/videos/transcoded/fix_thamtulungdanhconan_tap408_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 9
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 9
 https://vnw-vod-cdn.popsww.com/hn-EfTMs1hpFT5WUJIHxr16h_0HZzo/videos/transcoded/cn_thamtulungdanhconan_tap409_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 10
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 10
 https://vnw-vod-cdn.popsww.com/hn-xxpHL_ly7MrXk7BCesFeKws3H2c/videos/transcoded/cn_thamtulungdanhconan_tap410_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 11
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 11
 https://vnw-vod-cdn.popsww.com/hn-_2w81tc8m_7C6Vxmps3yAJr_HEo/videos/transcoded/cn_thamtulungdanhconan_tap411_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 12
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 12
 https://vnw-vod-cdn.popsww.com/hn-korNIIAcFTky7NvViBq2m9ACuDg/videos/transcoded/cn_thamtulungdanhconan_tap412_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 13
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 14
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 13
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 14
 https://vnw-vod-cdn.popsww.com/hn-si72H0fwAXxDhlgr9ITQxU1FV6I/videos/transcoded/cn_thamtulungdanhconan_tap413_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 15
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 15
 https://vnw-vod-cdn.popsww.com/hn-GIzSuPyNGDIfCdO0bP5Qm4fGB7M/videos/transcoded/cn_thamtulungdanhconan_tap414_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 16
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 16
 https://vnw-vod-cdn.popsww.com/hn-RxHFk2dE4qmvrEqE0d5BYC_5MoI/videos/transcoded/cn_thamtulungdanhconan_tap415_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 17
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 17
 https://vnw-vod-cdn.popsww.com/hn-jn-b-Cyn-dxP8zPlwv9Nu0ilzss/videos/transcoded/cn_thamtulungdanhconan_tap416_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/jfPcqcF/thumbnail-title-dc987f7111f4-1602494632769-p-Efo-Tsx1.png",TẬP 18
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/W293j67/conan-24-main-poster-1.jpg",TẬP 18
 https://vnw-vod-cdn.popsww.com/hn-1-ze9NioVdLm8M3ZhCoCp5olHqU/videos/transcoded/cn_thamtulungdanhconan_tap417_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/3Ydjycz/3236199-middle.png",TẬP 1
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 1
 https://vnw-vod-cdn.popsww.com/hn-zpvoiqZmr6CAwKQvzivxE0uGbP8/videos/transcoded/update_popskid_doraemon_phan9_tap1_417-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/3Ydjycz/3236199-middle.png",TẬP 2
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 2
 https://vnw-vod-cdn.popsww.com/hn-9tZwiB65JTiiSL3RyAA6Jn5HHSo/videos/transcoded/update_popskid_doraemon_phan9_tap2_418-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/3Ydjycz/3236199-middle.png",TẬP 3
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 3
 https://vnw-vod-cdn.popsww.com/hn-nEEpbtDPNvAZz2-QDkbjP83Y6e8/videos/transcoded/doraemon_set6_eps003a_phan5reup-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/3Ydjycz/3236199-middle.png",TẬP 4
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 4
 https://vnw-vod-cdn.popsww.com/hn-jb8HWI_oojgIX7E67rLljOlVbCo/videos/transcoded/doraemon_set7_eps002-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/3Ydjycz/3236199-middle.png",TẬP 5
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 5
 https://vnw-vod-cdn.popsww.com/hn-rmnlYq3c_-rG2CcEV4aTpSZxyCI/videos/transcoded/doraemon_set6_eps006-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/3Ydjycz/3236199-middle.png",TẬP 6
+#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 6
 https://vnw-vod-cdn.popsww.com/hn-Z9FTtydonItx2Hxx0vqY30pJDzo/videos/transcoded/fix_doraemon_set6_eps008-popsapp/index-f2-v1-a1.m3u8
 
