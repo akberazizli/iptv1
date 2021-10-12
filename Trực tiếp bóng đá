@@ -65,12 +65,6 @@ https://web-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Cilegon United - Perserang
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zs2wMCR/IMG-20211007-140027.png",HD 1 Cilegon United - Perserang
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QKhmzqd/IMG-20211007-140053.png",SD 1 Cilegon United - Perserang
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Japan - Australia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Japan - Australia
@@ -126,8 +120,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61648bfec6aff63667deb193&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 13/10: Israel - Moldova
 http://vophutv.000webhostapp.com/play90p.php?id=61648c2cc6aff63667deb194&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",15h15 12/10: Cilegon United - Perserang
-http://vophutv.000webhostapp.com/playcakhia.php?id=6164156affb9fe073f4731cd-W0dl7Z-W0dl7Z&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",17h14 12/10: Japan - Australia
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a952ffb9fe073f472fdc-zgTx8g-zgTx8g&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h15 12/10: FC Uzhhorod  - Podillia Khmelnytsky
