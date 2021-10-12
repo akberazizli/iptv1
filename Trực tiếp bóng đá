@@ -60,6 +60,10 @@ https://web-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Zimbabwe - Ghana
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Namibia - Senegal
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Iran - South Korea
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PzCTqv0/IMG-20211007-140011.png",HD 2 Iran - South Korea
@@ -123,6 +127,10 @@ http://vophutv.000webhostapp.com/play90p.php?id=61648c5128d9a539bbd2aaa6&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",01h45 13/10: Denmark - Austria
 http://vophutv.000webhostapp.com/play90p.php?id=61648c7be0d4672fc68e6d7c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 12/10: Zimbabwe - Ghana
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160a955bbe01307388dcc46-UgNU6C-UgNU6C&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h00 12/10: Namibia - Senegal
+http://vophutv.000webhostapp.com/playcakhia.php?id=6160a958ffb9fe073f472fdf-SNoacJ-SNoacJ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",20h30 12/10: Iran - South Korea
 http://vophutv.000webhostapp.com/playcakhia.php?id=6160a95dffb9fe073f472fe2-VAEqp3-VAEqp3&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",21h00 12/10: Kazakhstan - Finland
