@@ -67,16 +67,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài PSIM Yogyakarta - Persis Solo
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/SvMgbS7/IMG-20211007-140409.png",SD1 Nhật Bản - Úc (Liu men)
-https://p90020921.vnroute.com/may1SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bzbC3G9/IMG-20211007-140431.png",SD2 Nhật Bản - Úc (Liu men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BzthSS6/IMG-20211007-140329.png",HD1 Nhật Bản - Úc (Liu men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fqLVFRj/IMG-20211007-140205.png",HD2 Nhật Bản - Úc (Liu men)
-https://livestream.socialstreaming.tv/live/61655b11197740001d92cfd8/61655b11197740001d92cfd8.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Xs8vJ6v/IMG-20211007-195012.png",Nhà đài Nhật Bản - Úc (Liu men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",17h14 12/10: Nhật Bản - Úc (Liu men)
 http://vophutv.000webhostapp.com/play90p.php?id=61632ca3baf5f939c69df8a6&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -175,6 +165,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6164fc0b459be70751bc9e1e-hU0u
 http://vophutv.000webhostapp.com/playcakhia.php?id=6164fc0dffb9fe073f473269-eMnrWS-eMnrWS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Ch96QQr/IMG-20211009-184649.png",05h00 13/10: Red Bull Bragantino - Atletico GO
 http://vophutv.000webhostapp.com/playcakhia.php?id=6165787d459be70751bc9e68-6xoVGj-6xoVGj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h00 13/10:  Fortaleza CEIF - Boyacá Chicó
+http://vophutv.000webhostapp.com/playcakhia.php?id=61657c52ffb9fe073f47329d-UAKilD-UAKilD&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h30 13/10: Deportes Iquique - Cobreloa
+http://vophutv.000webhostapp.com/playcakhia.php?id=61657d392d544e074660825c-l1dG3I-l1dG3I&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h00 13/10: Los Andes - Flandria
 http://vophutv.000webhostapp.com/playcakhia.php?id=6164fbfa459be70751bc9e1b-NXBhqq-NXBhqq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h05 13/10: Gimnasia Mendoza - Belgrano
