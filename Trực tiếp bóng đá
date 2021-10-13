@@ -53,10 +53,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài FC Krasnodar II - Torpedo Moscow
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài FK Radnik Surdulica - FK Radnicki 1923
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@duc3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GQK0rgr/IMG-20211013-090458.png",HD Irtysh Omsk - Novosibirsk
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taihd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DQjhGVQ/IMG-20211013-082636.png",SD Irtysh Omsk - Novosibirsk
@@ -96,10 +92,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6165dd0392893b39d17049ca&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",09h30 14/10: Sacramento Republic - LA Galaxy II
 http://vophutv.000webhostapp.com/play90p.php?id=61669adac6aff63667deb19a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 13/10: FC Krasnodar II - Torpedo Moscow
-http://vophutv.000webhostapp.com/playcakhia.php?id=616538f2bbe01307388dcef5-poxVAI-poxVAI&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 13/10: FK Radnik Surdulica - FK Radnicki 1923
-http://vophutv.000webhostapp.com/playcakhia.php?id=61665559ffb9fe073f47334c-rjcNPH-rjcNPH&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",20h00 13/10: Irtysh Omsk - Novosibirsk
 http://vophutv.000webhostapp.com/playcakhia.php?id=6166bfea2d544e074660835f-udHEtO-udHEtO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",20h00 13/10: Orenburg - Tekstilshchik
@@ -142,8 +134,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6166075f2d544e07466082c8-xtEk
 http://vophutv.000webhostapp.com/playcakhia.php?id=61660762ffb9fe073f473336-JEWsbo-JEWsbo&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",07h05 14/10: Honduras - Jamaica
 http://vophutv.000webhostapp.com/playcakhia.php?id=61626aea459be70751bc9cbf-YqIXRw-YqIXRw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h05 14/10: Cancun FC - Atletico Morelia
-http://vophutv.000webhostapp.com/playcakhia.php?id=616607592d544e07466082c2-UTguHb-UTguHb&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h10 14/10: Argentinos Juniors - San Telmo
 http://vophutv.000webhostapp.com/playcakhia.php?id=61660756ffb9fe073f473333-56DmUO-56DmUO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Ch96QQr/IMG-20211009-184649.png",07h30 14/10: Internacional - America MG
