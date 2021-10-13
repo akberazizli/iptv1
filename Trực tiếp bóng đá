@@ -57,8 +57,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Deportes Iquique - Cobreloa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Los Andes - Flandria
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rZr7MN0/IMG-20211007-192831.png",Nhà đài Gimnasia Mendoza - Belgrano
@@ -98,8 +96,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6165de9ebaf5f939c69df8ad&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",07h30 15/10: Brazil - Uruguay
 http://vophutv.000webhostapp.com/play90p.php?id=6165deb328d9a539bbd2aaac&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h30 13/10: Deportes Iquique - Cobreloa
-http://vophutv.000webhostapp.com/playcakhia.php?id=61657d392d544e074660825c-l1dG3I-l1dG3I&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h00 13/10: Los Andes - Flandria
 http://vophutv.000webhostapp.com/playcakhia.php?id=6164fbfa459be70751bc9e1b-NXBhqq-NXBhqq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h05 13/10: Gimnasia Mendoza - Belgrano
@@ -114,7 +110,7 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6164fc04bbe01307388dcec0-UKxT
 http://vophutv.000webhostapp.com/playcakhia.php?id=6164fc052d544e0746608209-Q6oown-Q6oown&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",08h05 13/10: Deportes Quindio - Deportivo Pereira
 http://vophutv.000webhostapp.com/playcakhia.php?id=6164fc07bbe01307388dcec1-ZnCIP6-ZnCIP6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",09h05 13/10: Alebrijes - Jaibos
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",09h10 13/10: Alebrijes - Jaibos
 http://vophutv.000webhostapp.com/playcakhia.php?id=6164fc09bbe01307388dcec4-TVo9Sv-TVo9Sv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",13h30 13/10: Shenzhen FC - Shaanxi FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=6165382c459be70751bc9e44-BN5CCC-BN5CCC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
