@@ -63,6 +63,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@duc1/playlist.m
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DQjhGVQ/IMG-20211013-082636.png",SD Shenzhen FC - Shaanxi Warriors
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Guangzhou FC - Qingdao Jonoon
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Tianjin Jinmen Tiger - Beijing BSU
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",06h00 14/10: USA - Costa Rica
@@ -92,7 +96,7 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61653839459be70751bc9e47-sRHl
 http://vophutv.000webhostapp.com/playcakhia.php?id=6165384c2d544e0746608226-Cp4PuR-Cp4PuR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",15h00 13/10: Chongqing Liangjiang Athletic - Wuhan Three
 http://vophutv.000webhostapp.com/playcakhia.php?id=61653850459be70751bc9e4c-oIzKxa-oIzKxa&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",15h00 13/10: Changchun Yatai - Zhejiang Professional
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h00 13/10: Changchun Yatai - Zhejiang Professional
 http://vophutv.000webhostapp.com/playcakhia.php?id=616538562d544e0746608229-CNOOAx-CNOOAx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 13/10: Bangladesh - Nepal
 http://vophutv.000webhostapp.com/playcakhia.php?id=616538602d544e074660822c-qUGOgg-qUGOgg&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
