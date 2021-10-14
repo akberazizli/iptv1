@@ -55,8 +55,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Internacional - America MG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài El Paso Locomotive - Colorado Springs Switchbacks FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài El Salvador - Mexico
@@ -116,8 +114,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6165de9ebaf5f939c69df8ad&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/PNjcTrC/IMG-20211007-082233.png",07h30 15/10: Brazil - Uruguay
 http://vophutv.000webhostapp.com/play90p.php?id=6165deb328d9a539bbd2aaac&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Ch96QQr/IMG-20211009-184649.png",07h30 14/10: Internacional - America MG
-http://vophutv.000webhostapp.com/playcakhia.php?id=616607532d544e07466082bf-IoGjT1-IoGjT1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",08h00 14/10: El Paso Locomotive - Colorado Springs Switchbacks FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=6166e003459be70751bc9f9b-mXkK9U-mXkK9U&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/fkcbtT1/IMG-20211007-081543.png",09h05 14/10: El Salvador - Mexico
@@ -186,6 +182,12 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61678748ffb9fe073f4733f1-iieN
 http://vophutv.000webhostapp.com/playcakhia.php?id=61678749459be70751bc9fb9-TpiPi6-TpiPi6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",15h15 15/10: PSIS - Persik
 http://vophutv.000webhostapp.com/playcakhia.php?id=616794c42d544e074660839c-Fty4bo-Fty4bo&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",15h15 15/10: Persiba Balikpapan - Sulut United
+http://vophutv.000webhostapp.com/playcakhia.php?id=6167970abbe01307388dd087-zfupyf-zfupyf&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",15h15 15/10: BaBel United - Tiga Naga
+http://vophutv.000webhostapp.com/playcakhia.php?id=61679736ffb9fe073f473411-YxM8Mf-YxM8Mf&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h30 15/10: Comets - Sturt Lions
+http://vophutv.000webhostapp.com/playcakhia.php?id=61679753459be70751bc9fd0-PpSzEn-PpSzEn&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h15 15/10: PSS Sleman - Barito Putera
 http://vophutv.000webhostapp.com/playcakhia.php?id=616794d3bbe01307388dd081-zQe8a7-zQe8a7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 15/10: FC Noah - Sevan
