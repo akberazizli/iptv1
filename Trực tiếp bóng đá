@@ -61,8 +61,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Hannover 96 - Schalke 04
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Academica - Famalicao
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m102nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Istanbul Basaksehir - Besiktas
@@ -110,8 +108,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61687609c6aff63667deb19b&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",21h00 16/10: Norwich City - Brighton
 http://vophutv.000webhostapp.com/play90p.php?id=6168761c92893b39d17049cc&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",23h30 15/10: Hannover 96 - Schalke 04
-http://vophutv.000webhostapp.com/playcakhia.php?id=6169a7fcffb9fe073f4734f2-VMLgyv-VMLgyv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",00h00 16/10: Academica - Famalicao
 http://vophutv.000webhostapp.com/playcakhia.php?id=61669e762d544e0746608335-h6odNv-h6odNv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",00h00 16/10: Istanbul Basaksehir - Besiktas
