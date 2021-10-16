@@ -61,16 +61,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Atletico Nublense - Union La Calera
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Emelec - Orense
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Necaxa - Puebla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GQK0rgr/IMG-20211013-090458.png",HD Necaxa - Puebla
-//livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taihd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DQjhGVQ/IMG-20211013-082636.png",SD Necaxa - Puebla
-//livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taisd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Defensa y Justicia - Estudiantes
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Velez Sarsfield - Arsenal Sarandi
@@ -120,12 +110,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=616875d428d9a539bbd2aaae&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",21h30 16/10: Feyenoord - RKC Waalwijk
 http://vophutv.000webhostapp.com/play90p.php?id=61687855baf5f939c69df8b2&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h00 16/10: Atletico Nublense - Union La Calera
-http://vophutv.000webhostapp.com/playcakhia.php?id=6168e991459be70751bca03b-NRaily-NRaily&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h00 16/10: Emelec - Orense
-http://vophutv.000webhostapp.com/playcakhia.php?id=6168e994ffb9fe073f47348a-u3eYif-u3eYif&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h00 16/10: Necaxa - Puebla
-http://vophutv.000webhostapp.com/playcakhia.php?id=6168e996bbe01307388dd0ef-TwYDx2-TwYDx2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h15 16/10: Defensa y Justicia - Estudiantes
 http://vophutv.000webhostapp.com/playcakhia.php?id=6168e99a2d544e0746608424-KWvnOU-KWvnOU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h15 16/10: Velez Sarsfield - Arsenal Sarandi
@@ -136,7 +120,7 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6168e99fffb9fe073f47348d-9ZOO
 http://vophutv.000webhostapp.com/playcakhia.php?id=6168e9a1bbe01307388dd0f5-RAgFAs-RAgFAs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",07h40 16/10: Tolima - Atletico Huila
 http://vophutv.000webhostapp.com/playcakhia.php?id=6168e98dffb9fe073f473484-W2YVnF-W2YVnF&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",09h00 16/10: Mazatlan FC - Atlas
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",09h05 16/10: Mazatlan FC - Atlas
 http://vophutv.000webhostapp.com/playcakhia.php?id=6168e9ebffb9fe073f473496-y3RMQU-y3RMQU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",09h05 16/10: Dorados - Raya2 Expansion
 http://vophutv.000webhostapp.com/playcakhia.php?id=6168e9ed459be70751bca03e-TRBNhw-TRBNhw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
