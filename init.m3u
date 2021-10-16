@@ -20,7 +20,7 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/9hfdGmF/IMG-20211015-144715.png",K+sports 1 thử nghiệm
 http://171.244.139.99:9876/LIVE/CLIPTV/GROUPkplus/KSPORT1
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/V2prxvf/IMG-20211015-144656.png",K+sports 2 thử nghiệm
-http://s4live.tv1asia.com:21585/kpc2/index.m3u8
+http://s4live.tv1asia.com:21585/kpc1/index.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k0H5Ctq/IMG-20211001-160259.png",RMCsports1
 http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMCsports2
