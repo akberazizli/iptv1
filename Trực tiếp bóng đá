@@ -80,6 +80,18 @@ https://p90020921.vnroute.com/may6/playlist.m3u8|Referer=https://xoilac.90phutt.
 https://p90020921.vnroute.com/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7Kq1LZR/IMG-20211013-101629.png",Nhà đài Heerenveen - Ajax
 https://p90020921.vnroute.com/may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4NpDq1Q/IMG-20211013-084355.png",SD1 Milan - Hellas Verona (Liu men)
+https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ykDfpH2/IMG-20211013-084339.png",SD2 Milan - Hellas Verona (Liu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/nPm8hJv/IMG-20211013-084324.png",SD3 Milan - Hellas Verona (Liu men)
+https://p90020921.vnroute.com/may1SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QrGSDGw/IMG-20211013-084308.png",HD1 Milan - Hellas Verona (Liu men)
+https://livestream-2.socialstreaming.tv/live/616b1ad200229c001c1837ba/616b1ad200229c001c1837ba.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/N96K81q/IMG-20211013-084255.png",HD2 Milan - Hellas Verona (Liu men)
+https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7Kq1LZR/IMG-20211013-101629.png",Nhà đài Milan - Hellas Verona (Liu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",23h30 16/10: Levante - Getafe
 http://vophutv.000webhostapp.com/play90p.php?id=61687644c6aff63667deb19c&.m3u8|Referer=https://xoilac.90phutt.xyz/
