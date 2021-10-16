@@ -61,8 +61,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Fulham - QPR
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Spezia - Salernitana
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Dortmund - Mainz
@@ -132,8 +130,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=61687675e0d4672fc68e6d82&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",23h30 16/10: Brentford - Chelsea
 http://vophutv.000webhostapp.com/play90p.php?id=6168763274dd7b31c399b208&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h30 16/10: Fulham - QPR
-http://vophutv.000webhostapp.com/playcakhia.php?id=616503ff2d544e074660821a-VtlBKt-VtlBKt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Ch96QQr/IMG-20211009-184649.png",20h00 16/10: Spezia - Salernitana
 http://vophutv.000webhostapp.com/playcakhia.php?id=6165036abbe01307388dced5-1BiJJq-1BiJJq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/93Mkf0P/IMG-20211013-085434.png",20h30 16/10: Dortmund - Mainz
@@ -272,10 +268,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616a74a6459be70751bca108-ipEM
 http://vophutv.000webhostapp.com/playcakhia.php?id=61669b45ffb9fe073f47337c-oYJt4N-oYJt4N&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 17/10: Oita Trinita - Vegalta Sendai
 http://vophutv.000webhostapp.com/playcakhia.php?id=616a74a82d544e07466084cb-b0fSlz-b0fSlz&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 17/10: JEF United Chiba - Omiya Ardija
-http://vophutv.000webhostapp.com/playcakhia.php?id=616a74a9ffb9fe073f473550-umVg3E-umVg3E&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 17/10: Tochigi SC - Jubilo Iwata
-http://vophutv.000webhostapp.com/playcakhia.php?id=616a74ac2d544e07466084cc-0JJkX5-0JJkX5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",12h00 17/10: Gangwon FC - Gwangju FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=616a74aeffb9fe073f473553-3eYpuB-3eYpuB&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h00 17/10: Jeonbuk FC - Ulsan Hyundai
