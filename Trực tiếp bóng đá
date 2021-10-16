@@ -61,8 +61,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài PFC Lokomotiv Sofia 1929 - Levski Sofia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m102nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Persepolis - Al Hilal
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Malaga - Real Zaragoza
@@ -109,14 +107,6 @@ https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b7
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7Kq1LZR/IMG-20211013-101629.png",Nhà đài Fortuna Sittard - Cambuur
 https://p90020921.vnroute.com/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",23h30 16/10: Levante - Getafe
-http://vophutv.000webhostapp.com/play90p.php?id=61687644c6aff63667deb19c&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",23h30 16/10: M'gladbach - Stuttgart
-http://vophutv.000webhostapp.com/play90p.php?id=616877868bb98639dd59c717&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",23h45 16/10: Go Ahead Eagles - Heracles
-http://vophutv.000webhostapp.com/play90p.php?id=6168786fc6aff63667deb19e&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",23h45 16/10: Heerenveen - Ajax
-http://vophutv.000webhostapp.com/play90p.php?id=6168788228d9a539bbd2aab1&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 17/10: Milan - Hellas Verona (Liu men)
 http://vophutv.000webhostapp.com/play90p.php?id=6169e9bb74dd7b31c399b20b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",02h00 17/10: Real Sociedad - Mallorca
@@ -148,8 +138,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6169ec1a3679ef42e3971353&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",20h00 17/10: Empoli - Atalanta
 http://vophutv.000webhostapp.com/play90p.php?id=6169ea46c6aff63667deb1a0&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",00h00 17/10: PFC Lokomotiv Sofia 1929 - Levski Sofia
-http://vophutv.000webhostapp.com/playcakhia.php?id=6166b475ffb9fe073f4733b0-XURnZE-XURnZE&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",01h00 17/10: Persepolis - Al Hilal
 http://vophutv.000webhostapp.com/playcakhia.php?id=61669b43459be70751bc9f42-pxfYYK-pxfYYK&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",01h30 17/10: Malaga - Real Zaragoza
