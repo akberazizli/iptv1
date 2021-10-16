@@ -136,6 +136,14 @@ https://p90020921.vnroute.com/may4/playlist.m3u8|Referer=https://xoilac.90phutt.
 https://p90020921.vnroute.com/may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7Kq1LZR/IMG-20211013-101629.png",Nhà đài Clermont - Lille
 https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4NpDq1Q/IMG-20211013-084355.png",SD1 Lazio - Inter (Liu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QrGSDGw/IMG-20211013-084308.png",HD1 Lazio - Inter (Liu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/N96K81q/IMG-20211013-084255.png",HD2 Lazio - Inter (Liu men)
+https://livestream.socialstreaming.tv/live/616ac8ddf348bc001c09df34/616ac8ddf348bc001c09df34.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7Kq1LZR/IMG-20211013-101629.png",Nhà đài Lazio - Inter (Liu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may5/playlist.m3u8	|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 16/10: Greuther Fürth - Bochum
 http://vophutv.000webhostapp.com/play90p.php?id=6168772992893b39d17049ce&.m3u8|Referer=https://xoilac.90phutt.xyz/
