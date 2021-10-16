@@ -67,8 +67,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài FC Ryukyu - Ehime FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Oliveira Hospital - Vitoria de Guimaraes
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Yokohama F.Marinos - Hokkaido Consadole Sapporo
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
@@ -110,8 +108,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=61686450ffb9fe073f473463-wPz6
 http://vophutv.000webhostapp.com/playcakhia.php?id=61686469bbe01307388dd0cd-N5bwRm-N5bwRm&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",16h30 16/10: FC Ryukyu - Ehime FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=616864622d544e07466083f0-7dau9m-7dau9m&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h00 16/10: Oliveira Hospital - Vitoria de Guimaraes
-http://vophutv.000webhostapp.com/playcakhia.php?id=61669e8cffb9fe073f473384-m8jOOk-m8jOOk&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h00 16/10: Yokohama F.Marinos - Hokkaido Consadole Sapporo
 http://vophutv.000webhostapp.com/playcakhia.php?id=616864832d544e07466083f3-uX1tCv-uX1tCv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",17h30 16/10: Samut Prakan City - Port FC
