@@ -57,10 +57,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Bangkok United - Chonburi FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@duc1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Police Tero FC - Ratchaburi FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@duc2/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Rayo Vallecano - Elche
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài UD Ibiza - CD Mirandes
@@ -170,10 +166,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6169eb07c6aff63667deb1a1&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",23h00 17/10: Napoli - Torino
 http://vophutv.000webhostapp.com/play90p.php?id=6169ea9fbaf5f939c69df8b4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 17/10: Bangkok United - Chonburi FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=616aef412d544e074660858e-NXjCe0-NXjCe0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",18h00 17/10: Police Tero FC - Ratchaburi FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=616aef442d544e074660858f-k77zXF-k77zXF&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/vj8LBsk/IMG-20211013-085458.png",19h00 17/10: Rayo Vallecano - Elche
 http://vophutv.000webhostapp.com/playcakhia.php?id=61669aa62d544e074660830e-7XtR8c-7XtR8c&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",19h00 17/10: UD Ibiza - CD Mirandes
