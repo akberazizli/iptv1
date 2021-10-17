@@ -61,16 +61,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài New England - Chicago
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Charlotte Independence - Charleston Battery
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Melipilla - La Serena
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Hartford Athletic - Loudoun United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Deportivo Pereira - Once Caldas
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Huracan - Boca Juniors
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Cincinnati - Orlando
@@ -87,6 +77,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",SD2 Houston - Seattle Sounders
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Atletico Nacional - Independiente Medellin
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/yg1Jcxg/IMG-20211007-093236.png",17h15 17/10: AZ Alkmaar - FC Utrecht
@@ -120,16 +112,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6169ec47baf5f939c69df8b6&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",20h00 17/10: Metz - Rennes
 http://vophutv.000webhostapp.com/play90p.php?id=6169ec1a3679ef42e3971353&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h00 17/10: New England - Chicago
-http://vophutv.000webhostapp.com/playcakhia.php?id=616a7402459be70751bca0f9-dkgEqZ-dkgEqZ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h00 17/10: Charlotte Independence - Charleston Battery
-http://vophutv.000webhostapp.com/playcakhia.php?id=616a7404ffb9fe073f473544-pw8duc-pw8duc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h00 17/10: Melipilla - La Serena
-http://vophutv.000webhostapp.com/playcakhia.php?id=616a7407459be70751bca0fc-z93uNw-z93uNw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h00 17/10: Hartford Athletic - Loudoun United
-http://vophutv.000webhostapp.com/playcakhia.php?id=616a7409459be70751bca0fd-RSJthH-RSJthH&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h05 17/10: Deportivo Pereira - Once Caldas
-http://vophutv.000webhostapp.com/playcakhia.php?id=616ad34a2d544e0746608559-BMaUhY-BMaUhY&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h15 17/10: Huracan - Boca Juniors
 http://vophutv.000webhostapp.com/playcakhia.php?id=616a75b92d544e07466084e6-eJmBmL-eJmBmL&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h30 17/10: Cincinnati - Orlando
