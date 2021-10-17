@@ -34,9 +34,9 @@ http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/1.ts
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/gS1DytY/IMG-20211001-124704.png",BEIN sports 1
 http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/2.ts
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/yPb6dSy/IMG-20211016-133304.jpg",ELEVEN sports 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+http://tv.datastream.iptv.uno:80/live/q8HeX0JRa21081/sTOWWQY6su1081/28711.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xp7Ttrp/IMG-20211016-133233.png",ELEVEN sports 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+http://tv.datastream.iptv.uno:80/live/q8HeX0JRa21081/sTOWWQY6su1081/28712.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/NVxVGkj/IMG-20211005-114613.png",QSPORT1
 http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/stkNYvs/IMG-20211005-114601.png",QSPORT 2
