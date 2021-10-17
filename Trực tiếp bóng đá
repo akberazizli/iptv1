@@ -73,6 +73,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Hapoel Beer Sheva - Maccabi Petach Tikva
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài RWD Molenbeek - Westerlo
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/9NVkKvt/IMG-20211013-084244.png",SD Napoli - Torino (Ầu men)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may123SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -85,10 +87,6 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/pl
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7Kq1LZR/IMG-20211013-101629.png",Nhà đài Villarreal - Osasuna
 https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/Drpr0XT/IMG-20210922-113356.png",22h30 17/10: Newcastle - Tottenham (BLV Cáp Tần + Người Thỏ)
-http://vophutv.000webhostapp.com/play90p.php?id=6169e8a192893b39d17049d0&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",22h30 17/10: Augsburg - Arminia Bielefeld
-http://vophutv.000webhostapp.com/play90p.php?id=6169eb07c6aff63667deb1a1&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",23h00 17/10: Napoli - Torino (Ầu men)
 http://vophutv.000webhostapp.com/play90p.php?id=6169ea9fbaf5f939c69df8b4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",23h30 17/10: Villarreal - Osasuna
