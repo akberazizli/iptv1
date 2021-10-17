@@ -59,6 +59,8 @@ https://ja0ytqfmrnliv.vcdn.cloud/649a0f364055d9ad940ac5347c0eb100/1634479919385/
 https://916cee5ac.vws.vegacdn.vn/7f87249f11e05f19bcc80c2643d3913a1e9d76dd/41fa7c825a61668eb80f160e4b8aadb5/1634519654/live/_definst_/stream_1_c0769@kenh1/playlist.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Proleter - TSC Backa Topola
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Hapoel Beer Sheva - Maccabi Petach Tikva
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài RWD Molenbeek - Westerlo
@@ -156,6 +158,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=616c6c8cc6aff63667deb1a5&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 20/10: Atletico Madrid - Liverpool
 http://vophutv.000webhostapp.com/play90p.php?id=616c6cde92893b39d17049d4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",00h05 18/10: Proleter - TSC Backa Topola
+http://vophutv.000webhostapp.com/playcakhia.php?id=6167e49d2d544e07466083bf-qswgjF-qswgjF&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",00h15 18/10: Hapoel Beer Sheva - Maccabi Petach Tikva
 http://vophutv.000webhostapp.com/playcakhia.php?id=616bdeeb2d544e0746608643-039sJw-039sJw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",01h00 18/10: RWD Molenbeek - Westerlo
