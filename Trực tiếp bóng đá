@@ -61,12 +61,6 @@ https://916cee5ac.vws.vegacdn.vn/7f87249f11e05f19bcc80c2643d3913a1e9d76dd/41fa7c
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 18/10: Juventus - Roma (BLV Người Thỏ + Người Mới)
-http://vophutv.000webhostapp.com/play90p.php?id=616b4ed328d9a539bbd2aab3&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/C8LP9Pd/IMG-20210922-113324.png",01h45 18/10: Marseille - Lorient
-http://vophutv.000webhostapp.com/play90p.php?id=616b4eeb28d9a539bbd2aab4&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",02h00 18/10: Barcelona - Valencia (BLV Cáp Tần)
-http://vophutv.000webhostapp.com/play90p.php?id=616b4ebbe0d4672fc68e6d84&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/dP9dzMb/IMG-20210922-113249.png",00h00 19/10: Deportivo Alaves - Real Betis
 http://vophutv.000webhostapp.com/play90p.php?id=616c4db08bb98639dd59c71b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/BCTY2Vv/IMG-20210922-112244.png",01h45 19/10: Venezia - Fiorentina
@@ -77,10 +71,10 @@ http://vophutv.000webhostapp.com/play90p.php?id=616c4df628d9a539bbd2aab5&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=616c4d8474dd7b31c399b210&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",21h30 19/10: Celtic - Ferencvaros
 http://vophutv.000webhostapp.com/play90p.php?id=616c4cfbbaf5f939c69df8b9&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 19/10: Besiktas - Sporting CP
-http://vophutv.000webhostapp.com/play90p.php?id=616c4b8874dd7b31c399b20f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 19/10: Club Brugge - Man City
 http://vophutv.000webhostapp.com/play90p.php?id=616c4c8892893b39d17049d3&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 19/10: Besiktas - Sporting CP
+http://vophutv.000webhostapp.com/play90p.php?id=616c4b8874dd7b31c399b20f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 20/10: FC Porto - Milan
 http://vophutv.000webhostapp.com/play90p.php?id=616c6b65e0d4672fc68e6d85&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 20/10: PSG - RB Leipzig
@@ -91,6 +85,12 @@ http://vophutv.000webhostapp.com/play90p.php?id=616c6c3174dd7b31c399b211&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=616c6c8cc6aff63667deb1a5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 20/10: Atletico Madrid - Liverpool
 http://vophutv.000webhostapp.com/play90p.php?id=616c6cde92893b39d17049d4&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",02h00 20/10: Shakhtar Donetsk - Real Madrid
+http://vophutv.000webhostapp.com/play90p.php?id=616c6d2f92893b39d17049d5&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/C62JMDt/IMG-20210930-195212.png",21h30 20/10: Spartak - Leicester
+http://vophutv.000webhostapp.com/play90p.php?id=616c6e4dbaf5f939c69df8bb&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/2nfZGSq/IMG-20210927-061750.png",23h45 20/10: Salzburg - Wolfsburg
+http://vophutv.000webhostapp.com/play90p.php?id=616c6d873679ef42e3971359&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",06h05 18/10: Santa Fe - Millonarios
 http://vophutv.000webhostapp.com/playcakhia.php?id=616baf8a459be70751bca224-Sp5PUc-Sp5PUc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
@@ -142,3 +142,39 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616c1780ffb9fe073f4736e7-TWMV
 http://vophutv.000webhostapp.com/playcakhia.php?id=6167e4a52d544e07466083c2-EmJF17-EmJF17&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h00 18/10: NK Celje - NK Bravo
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c3d64459be70751bca2e9-lgMuMb-lgMuMb&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/vj8LBsk/IMG-20211013-085458.png",00h00 19/10: Deportivo Alaves - Real Betis
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8eddffb9fe073f47378b-snDtJe-snDtJe&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Ch96QQr/IMG-20211009-184649.png",01h45 19/10: Venezia - Fiorentina
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8ee1ffb9fe073f47378c-WbuI9P-WbuI9P&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/vj8LBsk/IMG-20211013-085458.png",02h00 19/10: Espanyol - Cadiz
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8ee0459be70751bca331-YLMui8-YLMui8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/z2YqGY2/IMG-20211013-082650.png",02h00 19/10: Arsenal - Crystal Palace
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8ee32d544e0746608735-xp9i3u-xp9i3u&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/s5Q0w80/IMG-20211013-085523.png",21h30 19/10: Celtic - Ferencvaros
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8f962d544e074660873b-8ZEgt4-8ZEgt4&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",23h45 19/10: Club Brugge - Man City
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8f1cffb9fe073f473791-pwAaAR-pwAaAR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",23h45 19/10: Besiktas - Sporting CP
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8f1f2d544e0746608738-hvs37n-hvs37n&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",02h00 20/10: PSG - RB Leipzig
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8f9fffb9fe073f473794-07G8DA-07G8DA&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",02h00 20/10: Atletico Madrid - Liverpool
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fa3ffb9fe073f473795-LVlrGc-LVlrGc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",02h00 20/10: FC Porto - Milan
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fa6ffb9fe073f473798-qh6Gdm-qh6Gdm&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",02h00 20/10: Ajax - Dortmund
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8faabbe01307388dd3d8-7VGJuc-7VGJuc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",02h00 20/10: Inter - FC Sheriff
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fad459be70751bca334-AaBlU5-AaBlU5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",02h00 20/10: Shakhtar Donetsk - Real Madrid
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fb02d544e074660873e-2QSVm6-2QSVm6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/s5Q0w80/IMG-20211013-085523.png",21h30 20/10: Spartak - Leicester
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fce459be70751bca33a-2XE5z2-2XE5z2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h00 20/10: Muharraq - Kuwait SC
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fe8459be70751bca33d-P0AeWC-P0AeWC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",22h00 20/10: Nasaf Qarshi - Lee Man FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fed2d544e0746608741-L7qCpM-L7qCpM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",23h45 20/10: Barcelona - Dynamo Kyiv
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fb3ffb9fe073f47379d-eQBaN3-eQBaN3&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/wW0XGFS/IMG-20211013-085540.png",23h45 20/10: Salzburg - Wolfsburg
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fb6459be70751bca337-IDk8N2-IDk8N2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
