@@ -69,8 +69,6 @@ https://179410038.global.cdnfastest.com/live/1837cf21d05fa1c421c84a18c5f4df43ee3
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MfFJxVg/IMG-20211013-082618.png",SD 1 Newcastle - Tottenham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Augsburg - Arminia Bielefeld
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Napoli - Torino
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/X8WQb9b/IMG-20211013-102117.png",Nhà đài Krasnodar - Ufa
@@ -140,8 +138,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=616c4c8892893b39d17049d3&.m3u8|R
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/z2YqGY2/IMG-20211013-082650.png",22h30 17/10: Newcastle - Tottenham
 http://vophutv.000webhostapp.com/playcakhia.php?id=61669a7e459be70751bc9f39-reQG5t-reQG5t&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/93Mkf0P/IMG-20211013-085434.png",22h30 17/10: Augsburg - Arminia Bielefeld
-http://vophutv.000webhostapp.com/playcakhia.php?id=61669af52d544e074660831a-8uFUrL-8uFUrL&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Ch96QQr/IMG-20211009-184649.png",23h00 17/10: Napoli - Torino
 http://vophutv.000webhostapp.com/playcakhia.php?id=61669ae0bbe01307388dcff1-id99WW-id99WW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/411W6BP/IMG-20211007-080928.png",23h00 17/10: Krasnodar - Ufa
