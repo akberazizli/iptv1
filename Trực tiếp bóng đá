@@ -53,12 +53,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Dalian Professional FC - Tianjin Jinmen Tiger
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Dalian Professional FC - Tianjin Jinmen Tiger
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Dalian Professional FC - Tianjin Jinmen Tiger
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Perserang - Persekat Tegal
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Persijap Jepara  - PSCS Cilacap
@@ -96,18 +90,16 @@ http://vophutv.000webhostapp.com/play90p.php?id=616c6e4dbaf5f939c69df8bb&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",23h45 20/10: Salzburg - Wolfsburg
 http://vophutv.000webhostapp.com/play90p.php?id=616c6d873679ef42e3971359&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h30 18/10: Dalian Professional FC - Tianjin Jinmen Tiger
-http://vophutv.000webhostapp.com/playcakhia.php?id=616be30cffb9fe073f4736a8-Pp5XqL-Pp5XqL&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 18/10: Perserang - Persekat Tegal
 http://vophutv.000webhostapp.com/playcakhia.php?id=616be344ffb9fe073f4736ab-uDj1mQ-uDj1mQ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 18/10: Persijap Jepara  - PSCS Cilacap
 http://vophutv.000webhostapp.com/playcakhia.php?id=616be3622d544e074660864b-uvFfqM-uvFfqM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 18/10: Tuapse - Biolog Novokubansk
 http://vophutv.000webhostapp.com/playcakhia.php?id=616be36b459be70751bca24c-95QH0n-95QH0n&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 18/10: Changchun Yatai - Shanghai Shenhua
-http://vophutv.000webhostapp.com/playcakhia.php?id=616be37fffb9fe073f4736ae-h8sA3D-h8sA3D&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 18/10: Henan Songshan Longmen - Chongqing Liangjiang Athletic
 http://vophutv.000webhostapp.com/playcakhia.php?id=616be390459be70751bca24f-2lWCAR-2lWCAR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 18/10: Changchun Yatai - Shanghai Shenhua
+http://vophutv.000webhostapp.com/playcakhia.php?id=616be37fffb9fe073f4736ae-h8sA3D-h8sA3D&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 18/10: Shandong Taishan - Qingdao FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=616be3a12d544e074660864e-Wk2Cxo-Wk2Cxo&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",19h30 18/10: Unirea Dej - Hermannstadt
@@ -196,6 +188,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616d2c2bbbe01307388dd435-7BlX
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d2c32459be70751bca3b7-Uek84R-Uek84R&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 19/10: Salyut Belgorod - Arsenal Tula II
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d2c38bbe01307388dd438-Cxvu1M-Cxvu1M&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 19/10: Dinamo Vladivostok - Kaluga
+http://vophutv.000webhostapp.com/playcakhia.php?id=616d3d90459be70751bca3c3-s6agmM-s6agmM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",21h30 19/10: Celtic - Ferencvaros
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c8f962d544e074660873b-8ZEgt4-8ZEgt4&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",23h45 19/10: Club Brugge - Man City
