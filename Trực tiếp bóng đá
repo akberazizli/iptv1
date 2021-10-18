@@ -59,6 +59,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài NK Celje - NK Bravo
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Stal Mielec - Zaglebie Lubin
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",00h00 19/10: Deportivo Alaves - Real Betis
@@ -122,10 +124,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616d0c33459be70751bca382-YT33
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c8ee1ffb9fe073f47378c-WbuI9P-WbuI9P&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h45 19/10: Nimes - AC Ajaccio
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d0a82459be70751bca37e-Pc4sbH-Pc4sbH&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h00 19/10: Espanyol - Cadiz
-http://vophutv.000webhostapp.com/playcakhia.php?id=616c8ee0459be70751bca331-YLMui8-YLMui8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",02h00 19/10: Arsenal - Crystal Palace
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c8ee32d544e0746608735-xp9i3u-xp9i3u&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h00 19/10: Espanyol - Cadiz
+http://vophutv.000webhostapp.com/playcakhia.php?id=616c8ee0459be70751bca331-YLMui8-YLMui8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",06h00 19/10: Sao Paulo - Corinthians
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d2b40459be70751bca39a-twhqFK-twhqFK&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 19/10: Vila Nova - CRB
