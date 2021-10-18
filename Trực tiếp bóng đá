@@ -61,6 +61,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Shandong Taishan - Qingdao FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Unirea Dej - Hermannstadt
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",00h00 19/10: Deportivo Alaves - Real Betis
@@ -116,6 +118,8 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6167e4a52d544e07466083c2-EmJF
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c3d64459be70751bca2e9-lgMuMb-lgMuMb&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h00 18/10: Stal Mielec - Zaglebie Lubin
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d0a50ffb9fe073f4737ea-2boqZx-2boqZx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 18/10: Lamia - Aris Thessaloniki FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=616d672effb9fe073f47382c-xokI3q-xokI3q&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",00h00 19/10: Deportivo Alaves - Real Betis
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c8eddffb9fe073f47378b-snDtJe-snDtJe&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",00h00 19/10: CSKA 1948 - Beroe
@@ -124,6 +128,10 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616d0a67ffb9fe073f4737ed-Cfde
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d0cf7bbe01307388dd41c-uPaCnq-uPaCnq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",00h00 19/10: Hatayspor - Gaziantep FK
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d0cf9ffb9fe073f4737f0-WSMWwl-WSMWwl&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",00h00 19/10: Istanbulspor - Tuzlaspor
+http://vophutv.000webhostapp.com/playcakhia.php?id=616d67ec459be70751bca3d0-7ocTZ0-7ocTZ0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",00h30 19/10: University of Craiova - FC Academica Clinceni
+http://vophutv.000webhostapp.com/playcakhia.php?id=616d68dbffb9fe073f473833-eZB7zc-eZB7zc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 19/10: FC Volendam - NAC Breda
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d0c0dbbe01307388dd419-VSXdW5-VSXdW5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h30 19/10: Jagiellonia Bialystok - Radomiak Radom
