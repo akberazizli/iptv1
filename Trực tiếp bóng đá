@@ -76,8 +76,16 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cangzhou Mighty Lions F.C - Shenzhen FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Chita - Zenit St. Petersburg
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Shaanxi Changan - Shanghai Port
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Shaanxi Changan - Shanghai Port
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Wuhan FC - Qingdao FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",21h30 19/10: Celtic - Ferencvaros
@@ -105,12 +113,12 @@ http://vophutv.000webhostapp.com/play90p.php?id=616c6d873679ef42e3971359&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",23h45 20/10: Barcelona - Dynamo Kyiv
 http://vophutv.000webhostapp.com/play90p.php?id=616c6dd9baf5f939c69df8ba&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 19/10: Cangzhou Mighty Lions F.C - Shenzhen FC
+http://vophutv.000webhostapp.com/playcakhia.php?id=616d2b82459be70751bca3ae-IHs5Vp-IHs5Vp&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 19/10: Chita - Zenit St. Petersburg
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d2fe7ffb9fe073f47381f-0IMOWQ-0IMOWQ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h30 19/10: Shaanxi Changan - Shanghai Port
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d2b8cbbe01307388dd42e-OYrggU-OYrggU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h30 19/10: Cangzhou Mighty Lions F.C - Shenzhen FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=616d2b82459be70751bca3ae-IHs5Vp-IHs5Vp&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h30 19/10: Wuhan FC - Qingdao FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d2b98459be70751bca3b1-j6SB4H-j6SB4H&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 19/10: Putra Sinar Giri - PSIM Yogyakarta
@@ -133,8 +141,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616d2c2bbbe01307388dd435-7BlX
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d2c32459be70751bca3b7-Uek84R-Uek84R&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 19/10: Salyut Belgorod - Arsenal Tula II
 http://vophutv.000webhostapp.com/playcakhia.php?id=616d2c38bbe01307388dd438-Cxvu1M-Cxvu1M&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 19/10: Dinamo Vladivostok - Kaluga
-http://vophutv.000webhostapp.com/playcakhia.php?id=616d3d90459be70751bca3c3-s6agmM-s6agmM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",21h30 19/10: Celtic - Ferencvaros
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c8f962d544e074660873b-8ZEgt4-8ZEgt4&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",23h45 19/10: Club Brugge - Man City
