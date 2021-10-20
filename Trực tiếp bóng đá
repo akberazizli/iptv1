@@ -91,8 +91,6 @@ https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wpvHCzB/IMG-20211020-200741.png",MAN UTD VS ATALANTA 02H/21/10                    
 https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Nasaf Qarshi - Lee Man FC
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Spartak - Leicester
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Spartak - Leicester
@@ -146,8 +144,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=617032db92893b39d17049e0&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h00 21/10: Timberwolves - Rockets
 http://vophutv.000webhostapp.com/play90p.php?id=617032b58bb98639dd59c722&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 20/10: Nasaf Qarshi - Lee Man FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fed2d544e0746608741-L7qCpM-L7qCpM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",21h30 20/10: Spartak - Leicester
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fce459be70751bca33a-2XE5z2-2XE5z2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h00 20/10: Muharraq - Kuwait SC
