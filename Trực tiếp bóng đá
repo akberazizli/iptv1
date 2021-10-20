@@ -76,14 +76,14 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/W3whssh/IMG-20211020-101852.png",barcelona-vs-dynamo-kyiv-2345-20-10                    
-http://360sportvn.duckdns.org:81/mitomtv/thuckhuya_play.php?url=https://mitom2.tv/truc-tiep/barcelona-vs-dynamo-kyiv-2345-20-10/&.m3u8|Referer= https://playtk.p2pcdn.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/sqnPpfp/IMG-20211020-101632.png",chelsea-vs-malmo-ff-02h-21-10/                    
-http://360sportvn.duckdns.org:81/mitomtv/thuckhuya_play.php?url=https://mitom2.tv/truc-tiep/chelsea-vs-malmo-ff-0200-21-10/&.m3u8|Referer= https://playtk.p2pcdn.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/xhGhv5h/IMG-20211020-101656.png",benfica-vs-bayern-munich-02h-21-10                    
-http://360sportvn.duckdns.org:81/mitomtv/thuckhuya_play.php?url=https://mitom2.tv/truc-tiep/benfica-vs-bayern-munich-0200-21-10/&.m3u8|Referer= https://playtk.p2pcdn.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/b5ddrGb/IMG-20211020-101910.png",man-utd-vs-atalanta-0200-21-10                    
-http://360sportvn.duckdns.org:81/mitomtv/thuckhuya_play.php?url=https://mitom2.tv/truc-tiep/man-utd-vs-atalanta-0200-21-10/&.m3u8|Referer= https://playtk.p2pcdn.xyz/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/W3whssh/IMG-20211020-101852.png",barcelona vs dynamokyiv-23h45/20/10                    
+https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/sqnPpfp/IMG-20211020-101632.png",chelsea vs-malmoff 02h/21/10/                    
+https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/xhGhv5h/IMG-20211020-101656.png",benfica vs-bayern munich 02h/21/10                    
+https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/b5ddrGb/IMG-20211020-101910.png",MAN UTD VS ATALANTA 02H/21/10                    
+https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài PSPS Riau - PSMS Medan
@@ -171,8 +171,6 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=616fd97dffb9fe073f473950-YaOC
 http://vophutv.000webhostapp.com/playcakhia.php?id=616fd9b92d544e07466088b7-geXROy-geXROy&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",21h30 21/10: HJK - Maccabi Tel Aviv
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c90b62d544e0746608749-5LbqXd-5LbqXd&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h30 21/10: Napredak - Novi Pazar
-http://vophutv.000webhostapp.com/playcakhia.php?id=616fdec72d544e07466088bd-jkrhmj-jkrhmj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",23h45 21/10: Fenerbahce - Royal Antwerp
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c9068bbe01307388dd3df-JetjeG-JetjeG&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",23h45 21/10: Lazio - Marseille
