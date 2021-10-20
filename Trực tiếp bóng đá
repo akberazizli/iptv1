@@ -78,16 +78,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Bolivar - San Jose
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài O'Higgins - Melipilla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m102nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Puebla - Mazatlan FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m103nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài América - Santos
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m104nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Venados - Mineros
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Villa Dalmine - Ferro Carril Oeste
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Central Cordoba de Santiago - Velez Sarsfield
@@ -135,16 +125,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=616f203cbaf5f939c69df8bc&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Midtjylland - FK Crvena Zvezda
 http://vophutv.000webhostapp.com/play90p.php?id=616f206e28d9a539bbd2aab8&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 20/10: Bolivar - San Jose
-http://vophutv.000webhostapp.com/playcakhia.php?id=616e8c262d544e0746608813-mpEn30-mpEn30&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 20/10: O'Higgins - Melipilla
-http://vophutv.000webhostapp.com/playcakhia.php?id=616e8c29bbe01307388dd4b6-GiQgnO-GiQgnO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 20/10: Puebla - Mazatlan FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=616e8c2bbbe01307388dd4b7-vzWm5L-vzWm5L&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h05 20/10: América - Santos
-http://vophutv.000webhostapp.com/playcakhia.php?id=616e8c2f459be70751bca44c-WUngTt-WUngTt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h05 20/10: Venados - Mineros
-http://vophutv.000webhostapp.com/playcakhia.php?id=616e8c32ffb9fe073f4738b7-OiBURc-OiBURc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h10 20/10: Villa Dalmine - Ferro Carril Oeste
 http://vophutv.000webhostapp.com/playcakhia.php?id=616e8c35459be70751bca44f-cRBD7a-cRBD7a&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h15 20/10: Central Cordoba de Santiago - Velez Sarsfield
