@@ -86,6 +86,10 @@ http://360sportvn.duckdns.org:81/mitomtv/thuckhuya_play.php?url=https://mitom2.t
 http://360sportvn.duckdns.org:81/mitomtv/thuckhuya_play.php?url=https://mitom2.tv/truc-tiep/man-utd-vs-atalanta-0200-21-10/&.m3u8|Referer= https://playtk.p2pcdn.xyz/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài PSPS Riau - PSMS Medan
+ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sulut United - PSBS Biak
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",21h30 20/10: Spartak - Leicester
