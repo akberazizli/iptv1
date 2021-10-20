@@ -2,6 +2,22 @@
 
 #EXTINF:vo phu 
 
+#EXTINF:0 group-title="🇰| K+ logo" tvg-id="kcinehd" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", K+Cine
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/ccKcine
+#EXTINF:0 group-title="🇰| K+ logo" tvg-id="klifehd" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", K+Life
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/ccKlife
+#EXTINF:0 group-title="🇰| K+ logo" tvg-id="kkidshd" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kkids-hd.png", K+ Kids
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/ccKkids
+#EXTINF:0 group-title="🇰| K+ logo" tvg-id="ksport1hd" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", K+ Sport 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/ccKsport1
+#EXTINF:0 group-title="🇰| K+ logo" tvg-id="ksport2hd" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ Sport 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/ccKsport2
+
 #EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 1
 https://vnw-vod-cdn.popsww.com/hn-_2w81tc8m_7C6Vxmps3yAJr_HEo/videos/transcoded/cn_thamtulungdanhconan_tap411_app-popsapp/index-f2-v1-a1.m3u8
 #EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 2
