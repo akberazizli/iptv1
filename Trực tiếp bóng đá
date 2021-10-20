@@ -119,6 +119,8 @@ http://vophutv.000webhostapp.com/play90p.php?id=616f203cbaf5f939c69df8bc&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Midtjylland - FK Crvena Zvezda
 http://vophutv.000webhostapp.com/play90p.php?id=616f206e28d9a539bbd2aab8&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h30 20/10: Persewar - Persiba Balikpapan
+http://vophutv.000webhostapp.com/playcakhia.php?id=616f9ec32d544e07466088b3-f1lhSI-f1lhSI&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 20/10: PSPS Riau - PSMS Medan
 http://vophutv.000webhostapp.com/playcakhia.php?id=616edb9a459be70751bca481-jOYp8p-jOYp8p&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 20/10: Sulut United - PSBS Biak
