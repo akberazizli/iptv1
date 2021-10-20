@@ -91,12 +91,8 @@ https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/b5ddrGb/IMG-20211020-101910.png",MAN UTD VS ATALANTA 02H/21/10                    
 https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Ulsan Hyundai - Pohang Steelers
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Ulsan Hyundai - Pohang Steelers
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Ulsan Hyundai - Pohang Steelers
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Muharraq - Kuwait SC
+ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8 |Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",21h30 20/10: Spartak - Leicester (Ầu men)
@@ -130,8 +126,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=616f203cbaf5f939c69df8bc&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Midtjylland - FK Crvena Zvezda
 http://vophutv.000webhostapp.com/play90p.php?id=616f206e28d9a539bbd2aab8&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 20/10: Ulsan Hyundai - Pohang Steelers
-http://vophutv.000webhostapp.com/playcakhia.php?id=616e8bcfbbe01307388dd4b3-lrApn8-lrApn8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 20/10: Muharraq - Kuwait SC
 http://vophutv.000webhostapp.com/playcakhia.php?id=616c8fe8459be70751bca33d-P0AeWC-P0AeWC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h30 20/10: Barito Putera - PSIS
