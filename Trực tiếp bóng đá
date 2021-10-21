@@ -173,8 +173,6 @@ https://p90020921.vnroute.com/may2/playlist.m3u8|Referer=https://xoilac.90phutt.
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Maccabi Haifa - Slavia Prague
 https://p90020921.vnroute.com/may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",21h30 21/10: HJK - Maccabi Tel Aviv
-http://vophutv.000webhostapp.com/play90p.php?id=616f20cdc6aff63667deb1a6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Qarabag FK - Kairat Almaty
 http://vophutv.000webhostapp.com/play90p.php?id=616f214f8bb98639dd59c71e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Bodø/Glimt - Roma
