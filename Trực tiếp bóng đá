@@ -146,8 +146,6 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may91/p
 https://p90020921.vnroute.com/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Sturm Graz - Real Sociedad
 https://p90020921.vnroute.com/may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Lokomotiv Moskva - Galatasaray
-https://p90020921.vnroute.com/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Sparta Praha - Lyon
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Frankfurt - Olympiakos
@@ -426,3 +424,33 @@ http://vophutv.000webhostapp.com/playcakhia.php?id=6171d1c72d544e0746608a49-IJX1
 http://vophutv.000webhostapp.com/playcakhia.php?id=6171d1aabbe01307388dd6a2-BKUTcV-BKUTcV&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",23h30 24/10: Real Betis - Rayo Vallecano
 http://vophutv.000webhostapp.com/playcakhia.php?id=6171d17a2d544e0746608a46-JgfceR-JgfceR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",00h00 25/10: Vizela - Benfica
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d27a459be70751bca63b-wA9IVw-wA9IVw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/93Mkf0P/IMG-20211013-085434.png",00h30 25/10: Bochum - Frankfurt
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2782d544e0746608a50-LLc2b7-LLc2b7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",01h45 25/10: Inter - Juventus
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d277ffb9fe073f473a9f-exuy30-exuy30&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/S0xz0JT/IMG-20211013-094504.png",01h45 25/10: Marseille - PSG
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d27d459be70751bca63c-DzVqXK-DzVqXK&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h00 25/10: Atletico Madrid - Real Sociedad
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2752d544e0746608a4f-rtF2Wy-rtF2Wy&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",02h30 25/10: Portimonense - Estoril
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d27b2d544e0746608a53-CiCKn1-CiCKn1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 26/10: Gil Vicente - Braga
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2d2bbe01307388dd6b7-YBNbAN-YBNbAN&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h00 26/10: Getafe - Celta Vigo
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2ce459be70751bca641-kBjOWg-kBjOWg&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",03h15 26/10: Boavista - Belenenses SAD
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2d4ffb9fe073f473aa2-zZk6Dp-zZk6Dp&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 26/10: Spezia - Genoa
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2d02d544e0746608a58-m5qvz9-m5qvz9&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 26/10: Venezia - Salernitana
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2d1bbe01307388dd6b6-b7RIov-b7RIov&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 26/10: 1860 München - Schalke 04
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2d6ffb9fe073f473aa3-b4TDL2-b4TDL2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 26/10: Babelsberg - RB Leipzig
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2d7459be70751bca644-fnZUHd-fnZUHd&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 26/10: Hoffenheim - Holstein Kiel
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2d92d544e0746608a5b-moB9Wn-moB9Wn&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 26/10: Preussen Münster - Hertha BSC
+http://vophutv.000webhostapp.com/playcakhia.php?id=6171d2da459be70751bca645-Y0ohUU-Y0ohUU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
