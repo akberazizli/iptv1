@@ -93,16 +93,12 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h30 21/10: Spurs - Magic
-http://vophutv.000webhostapp.com/play90p.php?id=61703304e0d4672fc68e6d8d&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",08h00 21/10: Jazz - Thunder
-http://vophutv.000webhostapp.com/play90p.php?id=617033223679ef42e397135d&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",21h30 21/10: HJK - Maccabi Tel Aviv
 http://vophutv.000webhostapp.com/play90p.php?id=616f20cdc6aff63667deb1a6&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: København - PAOK
-http://vophutv.000webhostapp.com/play90p.php?id=616f212974dd7b31c399b212&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Midtjylland - FK Crvena Zvezda
 http://vophutv.000webhostapp.com/play90p.php?id=616f206e28d9a539bbd2aab8&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: København - PAOK
+http://vophutv.000webhostapp.com/play90p.php?id=616f212974dd7b31c399b212&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Anorthosis - Flora Tallinn
 http://vophutv.000webhostapp.com/play90p.php?id=616f217a74dd7b31c399b213&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Mura - Rennes
@@ -113,18 +109,20 @@ http://vophutv.000webhostapp.com/play90p.php?id=616f203cbaf5f939c69df8bc&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=616f214f8bb98639dd59c71e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Rapid Wien - Dinamo Zagreb
 http://vophutv.000webhostapp.com/play90p.php?id=616f1fdb92893b39d17049d8&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Bodø/Glimt - Roma
-http://vophutv.000webhostapp.com/play90p.php?id=616f219f28d9a539bbd2aab9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Real Betis - Leverkusen
 http://vophutv.000webhostapp.com/play90p.php?id=616f209b3679ef42e397135a&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Bodø/Glimt - Roma
+http://vophutv.000webhostapp.com/play90p.php?id=616f219f28d9a539bbd2aab9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Alashkert FC - LASK
 http://vophutv.000webhostapp.com/play90p.php?id=616f21d8c6aff63667deb1a7&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Fenerbahce - Royal Antwerp
 http://vophutv.000webhostapp.com/play90p.php?id=616f1fa428d9a539bbd2aab6&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Lazio - Marseille
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.ibb.co/K9mzGXC/IMG-20211018-153206.png",23h45 21/10: Lazio - Máeille (Ầu men)
 http://vophutv.000webhostapp.com/play90p.php?id=616f200b28d9a539bbd2aab7&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Feyenoord - Union Berlin
 http://vophutv.000webhostapp.com/play90p.php?id=616f220192893b39d17049da&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 21/10: Vitesse - Tottenham
+http://vophutv.000webhostapp.com/play90p.php?id=616f222c8bb98639dd59c71f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 21/10: Noravank - Urartu FC
 http://vophutv.000webhostapp.com/playcakhia.php?id=616fd956bbe01307388dd564-YTBSNf-YTBSNf&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
