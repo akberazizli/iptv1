@@ -110,10 +110,6 @@ https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f930
 https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Sampdoria - Spezia
 https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Osasuna - Granada
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Saint-Etienne - Angers
-https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 Arsenal - Aston Villa (Thỏ + Liu)
 https://p90020921.vnroute.com/may1SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xqP64yy/IMG-20211018-153031.png",SD2 Arsenal - Aston Villa (Thỏ + Liu)
@@ -124,6 +120,10 @@ https://livestream-2.socialstreaming.tv/live/61730246cf43f2001cb0f4ce/61730246cf
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Arsenal - Aston Villa (Thỏ + Liu)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Osasuna - Granada
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Saint-Etienne - Angers
+https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",01h00 23/10: Willem II - Fortuna Sittard
 http://vophutv.000webhostapp.com/play90p.php?id=6171c4453679ef42e3971360&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -131,34 +131,42 @@ http://vophutv.000webhostapp.com/play90p.php?id=6171c4453679ef42e3971360&.m3u8|R
 http://vophutv.000webhostapp.com/play90p.php?id=6171c23992893b39d17049e3&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",01h45 23/10: Sampdoria - Spezia
 http://vophutv.000webhostapp.com/play90p.php?id=6171c17ee0d4672fc68e6d90&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",02h00 23/10: Arsenal - Aston Villa (Thỏ + Liu)
+http://vophutv.000webhostapp.com/play90p.php?id=6171bf9074dd7b31c399b219&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",02h00 23/10: Osasuna - Granada
 http://vophutv.000webhostapp.com/play90p.php?id=6171c0dce0d4672fc68e6d8f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",02h00 23/10: Saint-Etienne - Angers
 http://vophutv.000webhostapp.com/play90p.php?id=6171c3da92893b39d17049e4&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",02h00 23/10: Arsenal - Aston Villa (Thỏ + Liu)
-http://vophutv.000webhostapp.com/play90p.php?id=6171bf9074dd7b31c399b219&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",18h30 23/10: Chelsea - Norwich
 http://vophutv.000webhostapp.com/play90p.php?id=6171bfbebaf5f939c69df8c4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",19h00 23/10: Valencia - Mallorca
 http://vophutv.000webhostapp.com/play90p.php?id=6171c0febaf5f939c69df8c5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",20h00 23/10: Salernitana - Empoli
 http://vophutv.000webhostapp.com/play90p.php?id=6171c1a892893b39d17049e2&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: RB Leipzig - Greuther Fürth
-http://vophutv.000webhostapp.com/play90p.php?id=6171c2c48bb98639dd59c727&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: Arminia Bielefeld - Dortmund
 http://vophutv.000webhostapp.com/play90p.php?id=6171c2eee0d4672fc68e6d91&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: Bayern München - Hoffenheim
-http://vophutv.000webhostapp.com/play90p.php?id=6171c29d3679ef42e397135f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: Wolfsburg - Freiburg
 http://vophutv.000webhostapp.com/play90p.php?id=6171c276baf5f939c69df8c6&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Southampton - Burnley
-http://vophutv.000webhostapp.com/play90p.php?id=6171c01528d9a539bbd2aabb&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: Bayern München - Hoffenheim
+http://vophutv.000webhostapp.com/play90p.php?id=6171c29d3679ef42e397135f&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: RB Leipzig - Greuther Fürth
+http://vophutv.000webhostapp.com/play90p.php?id=6171c2c48bb98639dd59c727&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Crystal Palace - Newcastle
 http://vophutv.000webhostapp.com/play90p.php?id=6171c04574dd7b31c399b21a&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Leeds - Wolves
-http://vophutv.000webhostapp.com/play90p.php?id=6171c0718bb98639dd59c726&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Everton - Watford
 http://vophutv.000webhostapp.com/play90p.php?id=6171bfe6e0d4672fc68e6d8e&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Leeds - Wolves
+http://vophutv.000webhostapp.com/play90p.php?id=6171c0718bb98639dd59c726&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Southampton - Burnley
+http://vophutv.000webhostapp.com/play90p.php?id=6171c01528d9a539bbd2aabb&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",21h15 23/10: Cadiz - Deportivo Alaves
+http://vophutv.000webhostapp.com/play90p.php?id=6171c1383679ef42e397135e&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",21h30 23/10: Santa Clara - Famalicao
+http://vophutv.000webhostapp.com/play90p.php?id=6171c3a774dd7b31c399b21b&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",22h00 23/10: Nantes - Clermont Foot
+http://vophutv.000webhostapp.com/play90p.php?id=6171c402e0d4672fc68e6d93&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",23h00 23/10: Sassuolo - Venezia
+http://vophutv.000webhostapp.com/play90p.php?id=6171c1d3c6aff63667deb1ae&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",01h30 23/10: Mainz - Augsburg
 http://vophutv.000webhostapp.com/playcakhia.php?id=6171d08b2d544e0746608a3a-LDaI2A-LDaI2A&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
