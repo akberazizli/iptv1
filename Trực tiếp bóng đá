@@ -83,10 +83,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cavalry FC - Pacific FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Atlético Nacional - Deportivo Cali
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài CD Marathon - CD Motagua
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD CD Marathon - CD Motagua
@@ -128,10 +124,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6171c2c48bb98639dd59c727&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/2Z6tLYP/IMG-20210922-113338.png",20h30 23/10: Wolfsburg - Freiburg
 http://vophutv.000webhostapp.com/play90p.php?id=6171c276baf5f939c69df8c6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",08h00 22/10: Cavalry FC - Pacific FC
-http://vophutv.000webhostapp.com/playcakhia.php?id=6170c763459be70751bca570-QZxgQj-QZxgQj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 22/10: Atlético Nacional - Deportivo Cali
-http://vophutv.000webhostapp.com/playcakhia.php?id=617112dbbbe01307388dd607-r5O7CT-r5O7CT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h05 22/10: CD Marathon - CD Motagua
 http://vophutv.000webhostapp.com/playcakhia.php?id=6170c762ffb9fe073f4739dd-jNjJG2-jNjJG2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",10h00 22/10: Sakhalin - Kaluga
