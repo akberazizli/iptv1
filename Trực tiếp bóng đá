@@ -83,8 +83,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Salernitana - Empoli
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Wolfsburg - Freiburg
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Bayern München - Hoffenheim
@@ -123,6 +121,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m102nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Santa Clara - Famalicao
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Nantes - Clermont Foot
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Salernitana - Empoli
 https://p90020921.vnroute.com/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -220,8 +220,6 @@ http://vophutv.000webhostapp.com/play90p.php?id=6171ccab92893b39d17049e9&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",17h30 24/10: Atalanta - Udinese
 http://vophutv.000webhostapp.com/play90p.php?id=6171c8403679ef42e3971362&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",20h00 23/10: Salernitana - Empoli
-http://vophutv.000webhostapp.com/playcakhia.php?id=6171d076bbe01307388dd68f-tPAgnt-tPAgnt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",20h30 23/10: Wolfsburg - Freiburg
 http://vophutv.000webhostapp.com/playcakhia.php?id=6171d095bbe01307388dd692-9xM444-9xM444&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",20h30 23/10: Bayern München - Hoffenheim
