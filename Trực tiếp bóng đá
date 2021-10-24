@@ -83,8 +83,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Colorado - Portland
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Orange County SC - Las Vegas Lights FC
  https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Chivas - Cruz Azul
@@ -132,8 +130,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6171cb958bb98639dd59c72c&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",20h00 24/10: Reims - Troyes
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171cb6e3679ef42e3971363&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 24/10: Colorado - Portland
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61736069bbe01307388dd770-26EdU0-26EdU0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h00 24/10: Orange County SC - Las Vegas Lights FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61736073ffb9fe073f473b42-CzSj8J-CzSj8J&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h00 24/10: Chivas - Cruz Azul
@@ -227,23 +223,13 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d27b2d544e0746608a53
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 25/10: San Diego Loyal - Oakland Roots
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad1bffb9fe073f473c4e-AZqyCY-AZqyCY&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 25/10: Atletico Morelia - CD Tepatitlan de Morelos
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad1dbbe01307388dd880-g2CnRo-g2CnRo&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 25/10: CD Motagua - CD Real Sociedad
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad1e459be70751bca840-tSMR5c-tSMR5c&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 25/10: CD Motagua - CD Real Sociedad
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad20bbe01307388dd881-sTi9FE-sTi9FE&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 25/10: Lobos UPNFM - Real Espana
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad22459be70751bca843-I2ruSd-I2ruSd&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 25/10: Deportivo Saprissa - C.S. Cartagines
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad24bbe01307388dd884-1NdlKz-1NdlKz&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174d1a4ffb9fe073f473c5c-aa30SM-aa30SM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 25/10: Huachipato - Audax Italiano
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad1affb9fe073f473c4b-625ouG-625ouG&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h05 25/10: America de Cali - Atletico Nacional
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad18bbe01307388dd87b-DeQjZa-DeQjZa&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 25/10: Velez Sarsfield - Boca Juniors
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad16ffb9fe073f473c48-wS5en1-wS5en1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 25/10: Nacional - Rentistas
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad08459be70751bca83d-oWtpCb-oWtpCb&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 25/10: Miami FC - New York Red Bulls II
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad0affb9fe073f473c41-iOrh7Z-iOrh7Z&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 25/10: Emelec - Barcelona SC
