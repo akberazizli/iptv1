@@ -89,14 +89,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Brentford - Leicester
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 West Ham - Tottenham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 West Ham - Tottenham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 West Ham - Tottenham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 West Ham - Tottenham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Fiorentina - Cagliari
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Hellas Verona - Lazio
@@ -197,10 +189,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6171c71792893b39d17049e6&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171cd4dc6aff63667deb1b1&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",22h00 24/10: Monaco - Montpellier
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171cbdc3679ef42e3971364&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",22h30 24/10: Man United - Liverpool
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",22h30 24/10: Team Man Utd (Bát man + Thỏ)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c590baf5f939c69df8c8&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",22h30 24/10: VfB Stuttgart - Union Berlin
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c9e98bb98639dd59c72b&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",22h30 24/10: Team Liverpool (Cáp + Nện)
+https://tuongbongda.000webhostapp.com/play90p.php?id=61756fa03679ef42e3971369&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",23h00 24/10: Roma - Napoli
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c90392893b39d17049e7&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",23h30 24/10: Real Betis - Rayo Vallecano
@@ -222,8 +216,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6171cfd63679ef42e3971367&.m
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",20h00 24/10: Brentford - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d14fffb9fe073f473a8d-Ft7Cd0-Ft7Cd0&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",20h00 24/10: West Ham - Tottenham
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d150459be70751bca626-xFdvR6-xFdvR6&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",20h00 24/10: Fiorentina - Cagliari
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d1a8bbe01307388dd6a1-TuW7ac-TuW7ac&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",20h00 24/10: Hellas Verona - Lazio
