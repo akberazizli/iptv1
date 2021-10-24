@@ -83,18 +83,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Man United - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Man United - Liverpool
-https://179410038.global.cdnfastest.com/live/1835da7dafa02da4ff6af052ba8c9ca5e88/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Man United - Liverpool
-https://179410038.global.cdnfastest.com/live/183f30fcf8f65ab4627805e00190a51b4d6/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Man United - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Man United - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài VfB Stuttgart - Union Berlin
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Roma - Napoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Zenit - Spartak
@@ -168,10 +156,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61758de03679ef42e397136d&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h30 26/10: Preußen Münster - Hertha BSC
 https://tuongbongda.000webhostapp.com/play90p.php?id=61758e088bb98639dd59c730&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",22h30 24/10: Man United - Liverpool
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d152ffb9fe073f473a8e-wz2cJ4-wz2cJ4&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",22h30 24/10: VfB Stuttgart - Union Berlin
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d1c72d544e0746608a49-IJX1em-IJX1em&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h00 24/10: Roma - Napoli
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d1aabbe01307388dd6a2-BKUTcV-BKUTcV&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h00 24/10: Zenit - Spartak
@@ -184,10 +168,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d27a459be70751bca63b
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d2782d544e0746608a50-LLc2b7-LLc2b7&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 25/10: FC Groningen - AZ Alkmaar
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61750ec5bbe01307388dd8c9-PkWofO-PkWofO&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",01h45 25/10: Inter - Juventus
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d277ffb9fe073f473a9f-exuy30-exuy30&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",01h45 25/10: Marseille - PSG
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d27d459be70751bca63c-DzVqXK-DzVqXK&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",01h45 25/10: Inter - Juventus
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d277ffb9fe073f473a9f-exuy30-exuy30&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h00 25/10: Atletico Madrid - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d2752d544e0746608a4f-rtF2Wy-rtF2Wy&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",02h30 25/10: Portimonense - Estoril
