@@ -83,8 +83,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài FC Universitatea Cluj - Unirea Dej
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cerezo Osaka - Yokohama F.Marinos
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Feirense - Estrela da Amadora
@@ -142,8 +140,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6171cb4892893b39d17049e8&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 24/10: Köln - Leverkusen
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c9c0baf5f939c69df8c9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h30 24/10: FC Universitatea Cluj - Unirea Dej
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6173beaf459be70751bca767-KdztJ0-KdztJ0&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 24/10: Cerezo Osaka - Yokohama F.Marinos
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6173bd7c459be70751bca764-5oI6lr-5oI6lr&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 24/10: Feirense - Estrela da Amadora
