@@ -99,6 +99,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Gangwon FC - FC Seoul
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Pohang Steelers - Incheon United
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 24/10: Indy Eleven - FC Tulsa
@@ -148,6 +150,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617365662d544e0746608b41
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617366f02d544e0746608b44-k2UDaI-k2UDaI&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 24/10: Gangwon FC - FC Seoul
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61736708bbe01307388dd788-i73TZ2-i73TZ2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 24/10: Pohang Steelers - Incheon United
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f80affb9fe073f473c7b-Uqd1hS-Uqd1hS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h30 24/10: Shanghai Shenhua - Shenzhen FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6173bd59ffb9fe073f473b6c-pgnfas-pgnfas&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h00 24/10: Kawasaki Frontale - Shimizu S-Pulse
