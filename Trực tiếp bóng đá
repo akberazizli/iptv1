@@ -58,19 +58,19 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/3FgFMMy/IMG-20211018-162933.png",Vsports 1
 https://rebrand.ly/Vsports-premium-hd
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/59DT4HL/IMG-20211001-124722.png",BEIN sports 1
-http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/1.ts
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/gS1DytY/IMG-20211001-124704.png",BEIN sports 1
-http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/2.ts
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/NVxVGkj/IMG-20211005-114613.png",QSPORT1
 http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/stkNYvs/IMG-20211005-114601.png",QSPORT 2
 http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyhfnZN/IMG-20211009-170304.png",U1DO 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JKL2SRK/IMG-20211009-170330.png",U1DO 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/kxFC2KC/IMG-20211009-170316.png",U1DO 3
-http://93.152.174.144:4000/play/ss3in/76077772.m3u8
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52871.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/6vBTWSP/IMG-20211001-122541.png",SONY TEN 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/j5prKvq/IMG-20211001-122521.png",SONY TEN 3
@@ -152,6 +152,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f3c42d544e0746608c5a
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617516ddbbe01307388dd8dd-FEH4ho-FEH4ho&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h20 25/10: Al Ahli - Al Arabi SC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175174e2d544e0746608c7d-mjxaI4-mjxaI4&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h25 25/10: Saudi Arabia U23 - Uzbekistan
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617669e1bbe01307388dd9e8-hD6J0K-hD6J0K&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h30 25/10: Botev Plovdiv - Ludogorets Razgrad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f3f92d544e0746608c5d-5OYskE-5OYskE&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h30 25/10: Santiago Wanderers - Antofagasta
@@ -208,8 +210,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617606c1459be70751bca96c
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617606d4bbe01307388dd9a9-De0x6K-De0x6K&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",19h00 26/10: Orenburg - Dinamo Moskva
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61760949bbe01307388dd9b4-hN68k4-hN68k4&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",19h50 26/10: UAE - Kyrgyzstan
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176676a2d544e0746608d97-09NFwc-09NFwc&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",19h00 26/10: Indonesia - Australia U23
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766ca9bbe01307388dd9eb-7Bmq6D-7Bmq6D&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h45 26/10: Persija Jakarta - Persebaya Surabaya
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176070c2d544e0746608d6c-xJqprB-xJqprB&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",21h00 26/10: Ukraine (W) - Spain (W)
@@ -238,3 +240,39 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d2d7459be70751bca644
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d2d92d544e0746608a5b-moB9Wn-moB9Wn&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 26/10: Preussen Münster - Hertha BSC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d2da459be70751bca645-Y0ohUU-Y0ohUU&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",00h00 27/10: Deportivo Alaves - Elche
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f3cffb9fe073f473da6-YOHGhX-YOHGhX&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 27/10: Dortmund - Ingolstadt
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f862d544e0746608da6-cKB2e0-cKB2e0&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/vVRFgsr/IMG-20210920-055346.png",01h45 27/10: Arsenal - Leeds
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f0b2d544e0746608d9d-macP1t-macP1t&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/vVRFgsr/IMG-20210920-055346.png",01h45 27/10: Chelsea - Southampton
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f0fffb9fe073f473da3-JgC3qk-JgC3qk&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/vVRFgsr/IMG-20210920-055346.png",01h45 27/10: QPR - Sunderland
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f17459be70751bca9a4-MCSvcl-MCSvcl&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",01h45 27/10: Milan - Torino
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f632d544e0746608da3-MdlhzQ-MdlhzQ&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h45 27/10: Mainz - Arminia Bielefeld
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f882d544e0746608da7-hAyMgu-hAyMgu&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h45 27/10: Nürnberg - Hamburger SV
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f89bbe01307388dd9f1-Wpr2NN-Wpr2NN&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h45 27/10: Osnabrück - Freiburg
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f8a2d544e0746608daa-UpLL8q-UpLL8q&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h00 27/10: Espanyol - Athletic Club
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f3ebbe01307388dd9ee-jWxbmx-jWxbmx&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h30 27/10: Villarreal - Cadiz
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f3f2d544e0746608da0-WbQq1n-WbQq1n&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 27/10: Juventus - Sassuolo
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f65ffb9fe073f473da9-lLpzrs-lLpzrs&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 27/10: Sampdoria - Atalanta
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f66ffb9fe073f473daa-qkQUjK-qkQUjK&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 27/10: Udinese - Hellas Verona
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f68459be70751bca9a7-m55NDe-m55NDe&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 27/10: Leverkusen - Karlsruher SC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f8cffb9fe073f473daf-qSPeG0-qSPeG0&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 27/10: Bochum - Augsburg
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f8d2d544e0746608dad-m4RibK-m4RibK&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 27/10: Dynamo Dresden - St. Pauli
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f8fffb9fe073f473db0-CMNUY2-CMNUY2&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h30 27/10: Waldhof Mannheim - Union Berlin
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f902d544e0746608db0-4NtcHZ-4NtcHZ&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
