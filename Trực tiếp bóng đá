@@ -82,18 +82,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Auxerre - SC Bastia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Getafe - Celta Vigo
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Getafe - Celta Vigo
-https://179410038.global.cdnfastest.com/live/183b0d223b7a3204bd48792abdff5e1cc20/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Getafe - Celta Vigo
-https://179410038.global.cdnfastest.com/live/183cb6b2f4f016a470cabf2b5047c4cbf5a/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Getafe - Celta Vigo
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Getafe - Celta Vigo
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Girona - Real Zaragoza
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Lanus - Talleres
@@ -139,10 +127,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6176ccd1e0d4672fc68e6d9b&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",01h45 27/10: Osnabrück - Freiburg
 https://tuongbongda.000webhostapp.com/play90p.php?id=6176ccb4e0d4672fc68e6d9a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h45 26/10: Auxerre - SC Bastia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176c76d459be70751bca9f5-7pyNmG-7pyNmG&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h00 26/10: Getafe - Celta Vigo
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d2ce459be70751bca641-kBjOWg-kBjOWg&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",02h00 26/10: Girona - Real Zaragoza
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176c647bbe01307388dda2f-ViRto3-ViRto3&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",02h45 26/10: Lanus - Talleres
