@@ -87,6 +87,8 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Shanxi Longjin - Qingdao Jonoon
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Chita - Zvezda Sankt-Peterburg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",01h00 26/10: Gil Vicente - Sporting Braga
@@ -112,6 +114,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617603d4ffb9fe073f473d52
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617603f3ffb9fe073f473d55-4aScXR-4aScXR&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 25/10: Chita - Zvezda Sankt-Peterburg
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61751eb8bbe01307388dd8ed-ksDsxH-ksDsxH&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 25/10: Malaysia - Laos
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617654bfbbe01307388dd9d7-3t7U3R-3t7U3R&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 25/10: Persipura Jayapura - Barito Putera
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f32fffb9fe073f473c6d-q8TEfe-q8TEfe&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 25/10: Persekat Tegal - Dewa United
