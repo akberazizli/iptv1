@@ -83,10 +83,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Shanghai Jiading - Dongguan United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Shanxi Longjin - Qingdao Jonoon
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Chita - Zvezda Sankt-Peterburg
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Malaysia - Laos
@@ -110,10 +106,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61758de03679ef42e397136d&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h30 26/10: Preußen Münster - Hertha BSC
 https://tuongbongda.000webhostapp.com/play90p.php?id=61758e088bb98639dd59c730&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 25/10: Shanghai Jiading - Dongguan United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617603d4ffb9fe073f473d52-X7qFeD-X7qFeD&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 25/10: Shanxi Longjin - Qingdao Jonoon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617603f3ffb9fe073f473d55-4aScXR-4aScXR&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 25/10: Chita - Zvezda Sankt-Peterburg
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61751eb8bbe01307388dd8ed-ksDsxH-ksDsxH&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 25/10: Malaysia - Laos
