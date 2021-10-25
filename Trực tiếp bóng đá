@@ -83,6 +83,8 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Velez Sarsfield - Boca Juniors
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Miami FC - New York Red Bulls II
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Emelec - Barcelona SC
@@ -122,6 +124,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61758de03679ef42e397136d&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h30 26/10: Preußen Münster - Hertha BSC
 https://tuongbongda.000webhostapp.com/play90p.php?id=61758e088bb98639dd59c730&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 25/10: Velez Sarsfield - Boca Juniors
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad16ffb9fe073f473c48-wS5en1-wS5en1&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 25/10: Miami FC - New York Red Bulls II
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174ad0affb9fe073f473c41-iOrh7Z-iOrh7Z&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 25/10: Emelec - Barcelona SC
@@ -182,6 +186,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175174e2d544e0746608c7d
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f3f92d544e0746608c5d-5OYskE-5OYskE&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h30 25/10: Santiago Wanderers - Antofagasta
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f408ffb9fe073f473c71-3nlcto-3nlcto&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h00 25/10: Stomil Olsztyn - Sandecja Nowy Sacz
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f44cbbe01307388dd8ba-BriONL-BriONL&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h00 25/10: Lokomotiv - Sochi
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f45affb9fe073f473c75-iX7NPS-iX7NPS&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 26/10: Gil Vicente - Braga
@@ -208,12 +214,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175da52bbe01307388dd998
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175da542d544e0746608d4e-y92rrR-y92rrR&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",07h30 26/10: Palmeiras - Sport Recife
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175da56bbe01307388dd999-1ZsIbj-1ZsIbj&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 26/10: PSM Makassar - Persikabo 1973
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61760609459be70751bca95e-XKIVxZ-XKIVxZ&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h45 26/10: Ararat - Van
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61760627459be70751bca961-clBogg-clBogg&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 26/10: Ankaragucu - Soma Spor Dernegi
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176063e459be70751bca964-gKZKIL-gKZKIL&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 26/10: Spezia - Genoa
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d2d02d544e0746608a58-m5qvz9-m5qvz9&.m3u8|Referer=https://bongda.cakhiaz.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 26/10: Venezia - Salernitana
