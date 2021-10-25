@@ -82,6 +82,8 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài  FK Andijon - Nasaf Qarshi
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Arsenal Tula II - Sokol Saratov
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Avangard Kursk - Fakel-M Voronezh
@@ -109,6 +111,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61758de03679ef42e397136d&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h30 26/10: Preußen Münster - Hertha BSC
 https://tuongbongda.000webhostapp.com/play90p.php?id=61758e088bb98639dd59c730&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h15 25/10:  FK Andijon - Nasaf Qarshi
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61768838ffb9fe073f473dd0-swP87C-swP87C&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 25/10: Arsenal Tula II - Sokol Saratov
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f33fbbe01307388dd8b7-xnwcmJ-xnwcmJ&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 25/10: Avangard Kursk - Fakel-M Voronezh
@@ -131,8 +135,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f3c42d544e0746608c5a
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617516ddbbe01307388dd8dd-FEH4ho-FEH4ho&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h20 25/10: Al Ahli - Al Arabi SC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175174e2d544e0746608c7d-mjxaI4-mjxaI4&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h30 25/10: FC Academica Clinceni - UTA Arad
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61769c26459be70751bca9d6-Uxj7JH-Uxj7JH&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h30 25/10: Botev Plovdiv - Ludogorets Razgrad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6174f3f92d544e0746608c5d-5OYskE-5OYskE&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h30 25/10: Santiago Wanderers - Antofagasta
