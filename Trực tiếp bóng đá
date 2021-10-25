@@ -94,6 +94,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Persela Lamongan - Persik
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Al Shamal SC - Al Duhail
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Al Ahli - Al Arabi SC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",01h00 26/10: Gil Vicente - Sporting Braga
@@ -159,6 +163,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175da52bbe01307388dd998
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175da542d544e0746608d4e-y92rrR-y92rrR&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",07h30 26/10: Palmeiras - Sport Recife
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6175da56bbe01307388dd999-1ZsIbj-1ZsIbj&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h05 26/10:  Real Cartagena - Depor FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176bc17ffb9fe073f473df3-JyIKSl-JyIKSl&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",11h00 26/10: Japan U23 - Cambodia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766714ffb9fe073f473d97-1cERhc-1cERhc&.m3u8|Referer=https://bongda.cakhia10.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 26/10: Qingdao Youth Island FC - Hebei KungFu
