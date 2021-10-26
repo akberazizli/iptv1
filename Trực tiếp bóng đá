@@ -82,12 +82,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cobresal - O'Higgins
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Kazanka - Torpedo Vladimir
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Metallurg Lipetsk - CSKA Moscow
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Umm Salal SC - Al Sadd
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Al Rayyan - Al Sailiya
@@ -125,12 +119,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6176ccb4e0d4672fc68e6d9a&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Carabao Cup" tvg-logo="https://i.ibb.co/1XqJ33F/IMG-20210922-113259.png",01h45 27/10: Chelsea - Southampton
 https://tuongbongda.000webhostapp.com/play90p.php?id=6176caea28d9a539bbd2aac1&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 26/10: Cobresal - O'Higgins
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617607cdffb9fe073f473d64-UPQ4zh-UPQ4zh&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 26/10: Kazanka - Torpedo Vladimir
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176098b459be70751bca975-4cvYZN-4cvYZN&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 26/10: Metallurg Lipetsk - CSKA Moscow
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61760a97bbe01307388dd9b7-qSfcxT-qSfcxT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h20 26/10: Umm Salal SC - Al Sadd
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61760a352d544e0746608d75-4JWDOD-4JWDOD&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h20 26/10: Al Rayyan - Al Sailiya
