@@ -82,8 +82,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Dortmund - Ingolstadt
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Arsenal - Leeds
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Arsenal - Leeds
@@ -120,6 +118,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist
  https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Villarreal - Cadiz
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sporting CP - Famalicao
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 Chelsea - Southampton (Liu men)
 https://p90020921.vnroute.com/may3SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -185,8 +185,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6176cd5874dd7b31c399b227&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h30 27/10: Bayer Leverkusen - Karlsruher SC
 https://tuongbongda.000webhostapp.com/play90p.php?id=6176cd7092893b39d17049ec&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 27/10: Dortmund - Ingolstadt
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f862d544e0746608da6-cKB2e0-cKB2e0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/vVRFgsr/IMG-20210920-055346.png",01h45 27/10: Arsenal - Leeds
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f0b2d544e0746608d9d-macP1t-macP1t&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/vVRFgsr/IMG-20210920-055346.png",01h45 27/10: Chelsea - Southampton
@@ -205,6 +203,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f8a2d544e0746608daa
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f3ebbe01307388dd9ee-jWxbmx-jWxbmx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h30 27/10: Villarreal - Cadiz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f3f2d544e0746608da0-WbQq1n-WbQq1n&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",03h15 27/10: Sporting CP - Famalicao
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61785f52459be70751bcab0f-lzqYrR-lzqYrR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 27/10: Alebrijes - Atlante
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61776f90ffb9fe073f473e53-YmKK9u-YmKK9u&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 27/10: CRB - Coritiba
