@@ -81,16 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Juventus - Sassuolo
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Juventus - Sassuolo
-https://179410038.global.cdnfastest.com/live/183704e92ebcbaa4ce291931814b6d4c945/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Juventus - Sassuolo
-https://179410038.global.cdnfastest.com/live/1837cf21d05fa1c421c84a18c5f4df43ee3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Juventus - Sassuolo
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Juventus - Sassuolo
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sampdoria - Atalanta
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Udinese - Hellas Verona
@@ -148,6 +138,32 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Real Betis - Valencia
 https://p90020921.vnroute.com/may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Burnley - Tottenham
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may91/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/0mBjdRG/IMG-20211018-153108.png",SD Preston North - Liverpool (BLV Old Man)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fGwKx5T/IMG-20211018-153051.png",HD Preston North - Liverpool (BLV Old Man)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 West Ham - Manchester City (BLV Nguời Thỏ)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xqP64yy/IMG-20211018-153031.png",SD2 West Ham - Manchester City (BLV Nguời Thỏ)
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GdGsZqP/IMG-20211018-152957.png",HD1 West Ham - Manchester City (BLV Nguời Thỏ)
+https://livestream-2.socialstreaming.tv/live/617981fd2f1594001c7f0991/617981fd2f1594001c7f0991.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yR8Tcvj/IMG-20211018-152942.png",HD2 West Ham - Manchester City (BLV Nguời Thỏ)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Leicester City - Brighton
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Hannover 96 - Düsseldorf
+https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 M'gladbach - Bayern München	(BLV Người Mới)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xqP64yy/IMG-20211018-153031.png",SD2 M'gladbach - Bayern München	(BLV Người Mới)
+https://p90020921.vnroute.com/may3SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GdGsZqP/IMG-20211018-152957.png",HD1 M'gladbach - Bayern München	(BLV Người Mới)
+https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yR8Tcvj/IMG-20211018-152942.png",HD2 M'gladbach - Bayern München	(BLV Người Mới)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",23h30 27/10: Juventus - Sassuolo (Âu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6176cc2f3679ef42e397136e&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -198,8 +214,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617960e292893b39d17049ef&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",02h30 28/10: Real Madrid - Osasuna
 https://tuongbongda.000webhostapp.com/play90p.php?id=61796097e0d4672fc68e6d9e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 27/10: Juventus - Sassuolo
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f65ffb9fe073f473da9-lLpzrs-lLpzrs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 27/10: Sampdoria - Atalanta
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766f66ffb9fe073f473daa-qkQUjK-qkQUjK&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h30 27/10: Udinese - Hellas Verona
@@ -218,6 +232,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766ff02d544e0746608db8
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766ff2459be70751bca9ad-1bc5SD-1bc5SD&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",01h00 28/10: Real Betis - Valencia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766ff3ffb9fe073f473db8-aQm1xR-aQm1xR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/sF6dLJM/IMG-20211027-113344.png",01h45 28/10: West Ham - Man City
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766fda459be70751bca9aa-lwop5r-lwop5r&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/sF6dLJM/IMG-20211027-113344.png",01h45 28/10: Burnley - Tottenham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766fd5bbe01307388dd9f4-8XRveF-8XRveF&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/sF6dLJM/IMG-20211027-113344.png",01h45 28/10: Leicester - Brighton
@@ -226,8 +242,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766fd6ffb9fe073f473db5
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766fd72d544e0746608db5-ZLEHXf-ZLEHXf&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/sF6dLJM/IMG-20211027-113344.png",01h45 28/10: Stoke - Brentford
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766fd9bbe01307388dd9f7-62yDxp-62yDxp&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/sF6dLJM/IMG-20211027-113344.png",01h45 28/10: West Ham - Man City
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61766fda459be70751bca9aa-lwop5r-lwop5r&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",01h45 28/10: Cagliari - Roma
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61767011ffb9fe073f473dbb-RVmHQt-RVmHQt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",01h45 28/10: Empoli - Inter
