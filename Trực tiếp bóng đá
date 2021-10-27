@@ -83,6 +83,14 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GtM9nJj/IMG-20211027-145255.png",U23 VIỆT NAM VS U23 ĐÀI LOAN 
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Bhayangkara FC - Pusamania Borneo
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Bhayangkara FC - Pusamania Borneo
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Persiraja Aceh - Madura United
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài PSBS Biak - Persewar Waropen
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Vô địch U23 Châu Á" tvg-logo="https://i.ibb.co/gPPBxHw/IMG-20211027-104934.png",17h00 27/10: U23 Việt Nam - U23 Đài Loan
@@ -260,6 +268,12 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61767059bbe01307388dda00
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61767068459be70751bca9b6-V1NRYA-V1NRYA&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h30 29/10: Levante - Atletico Madrid
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176705b459be70751bca9b3-t9AwRk-t9AwRk&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",00h00 30/10: Chaves - Trofense
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790879bbe01307388ddbd6-MtPCXr-MtPCXr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 30/10: De Graafschap - ADO Den Haag
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6179084abbe01307388ddbd0-1dYIHR-1dYIHR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 30/10: MVV Maastricht - Roda JC Kerkrade
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6179084cbbe01307388ddbd1-mGqINO-mGqINO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",01h30 30/10: Hoffenheim - Hertha BSC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790602459be70751bcab7c-AiEIcd-AiEIcd&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h45 30/10: QPR - Nottm Forest
@@ -268,6 +282,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790721ffb9fe073f473f57
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617906c92d544e0746608fc7-UhQRl1-UhQRl1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",02h15 30/10: Arouca - Tondela
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790691bbe01307388ddbc6-WhX8KS-WhX8KS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 30/10: Leixoes - Benfica B
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6179087b2d544e0746608fdc-qohK2T-qohK2T&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 30/10: Rubin - CSKA
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790950ffb9fe073f473f64-oWfjsc-oWfjsc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",18h30 30/10: Leicester - Arsenal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790595459be70751bcab70-HYvmak-HYvmak&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 30/10: Fulham - West Brom
@@ -304,6 +322,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617905bdffb9fe073f473f4c
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617907ee2d544e0746608fd4-7GZALs-7GZALs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h30 30/10: PSV Eindhoven - FC Twente
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790808ffb9fe073f473f60-VFCli7-VFCli7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h30 30/10: Excelsior - FC Eindhoven
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6179084e459be70751bcaba2-XVp0AP-XVp0AP&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",22h00 30/10: Metz - Saint-Etienne
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617906cb459be70751bcab8c-IW7WL9-IW7WL9&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",23h00 30/10: Hellas Verona - Juventus
