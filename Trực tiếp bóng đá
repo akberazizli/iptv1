@@ -83,8 +83,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Persiba Balikpapan - Mitra Kukar
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Tiga Naga - Semen Padang
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Ümraniyespor - Kahramanmarasspor
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
@@ -122,8 +120,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179be053679ef42e3971374&.m
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h10 28/10: Persiba Balikpapan - Mitra Kukar
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61794023459be70751bcac08-iGLVLC-iGLVLC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 28/10: Tiga Naga - Semen Padang
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617a5b0d459be70751bcace9-aWRZmx-aWRZmx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 28/10: Ümraniyespor - Kahramanmarasspor
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617910e0bbe01307388ddc0d-4ooZPZ-4ooZPZ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 28/10: Alians - FC Lviv
