@@ -81,6 +81,16 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Celta Vigo - Real Sociedad
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Celta Vigo - Real Sociedad
+https://179410038.global.cdnfastest.com/live/183704e92ebcbaa4ce291931814b6d4c945/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Celta Vigo - Real Sociedad
+https://179410038.global.cdnfastest.com/live/1837cf21d05fa1c421c84a18c5f4df43ee3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Celta Vigo - Real Sociedad
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Celta Vigo - Real Sociedad
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Granada - Getafe
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Napoli - Bologna
@@ -126,6 +136,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc783679ef42e3971373&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Burnley - Brentford
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc3792893b39d17049f2&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",00h00 29/10: Celta Vigo - Real Sociedad
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617670572d544e0746608dca-yTl4qF-yTl4qF&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",01h00 29/10: Granada - Getafe
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61767059bbe01307388dda00-ZEPSR1-ZEPSR1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",01h45 29/10: Napoli - Bologna
