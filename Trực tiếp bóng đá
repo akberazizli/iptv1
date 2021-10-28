@@ -81,8 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Napoli - Bologna
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Levante - Atletico Madrid
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Levante - Atletico Madrid
@@ -130,8 +128,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bea1e0d4672fc68e6da1&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 30/10: Arminia Bielefeld - Mainz
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179be528bb98639dd59c737&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",01h45 29/10: Napoli - Bologna
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61767068459be70751bca9b6-V1NRYA-V1NRYA&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",02h30 29/10: Levante - Atletico Madrid
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6176705b459be70751bca9b3-t9AwRk-t9AwRk&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",04h00 29/10: Audax Italiano - Colo Colo
