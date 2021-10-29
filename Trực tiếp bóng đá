@@ -93,6 +93,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",01h30 30/10: Hoffenheim - Hertha BSC
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bdd8c6aff63667deb1c0&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",01h45 30/10: QPR - Nottm Forest
+https://tuongbongda.000webhostapp.com/play90p.php?id=617c261be0d4672fc68e6da2&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",02h00 30/10: PSG - Lille (BLV Old Men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bf5292893b39d17049f4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h15 30/10: Arouca - Tondela
@@ -119,8 +121,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc783679ef42e3971373&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc3792893b39d17049f2&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Man City - Crystal Palace
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bca074dd7b31c399b22b&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Liverpool - Brighton
-https://tuongbongda.000webhostapp.com/play90p.php?id=6179bcc6c6aff63667deb1bf&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h00 29/10: Zenit - Dinamo
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617a3ec4ffb9fe073f4740a4-KiNGiG-KiNGiG&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
