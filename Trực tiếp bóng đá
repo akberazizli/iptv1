@@ -81,8 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sabah FA - J. Darul Ta'zim
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Melaka United - Kelantan United
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Petaling Jaya City - Kelantan FA
@@ -124,8 +122,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bca074dd7b31c399b22b&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Liverpool - Brighton
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bcc6c6aff63667deb1bf&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",19h15 29/10: Sabah FA - J. Darul Ta'zim
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ac01cbbe01307388ddd6c-xPw7Gs-xPw7Gs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 29/10: Melaka United - Kelantan United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ac0482d544e0746609180-SVK31S-SVK31S&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 29/10: Petaling Jaya City - Kelantan FA
@@ -180,20 +176,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab042bbe01307388ddd54
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab044ffb9fe073f4740dd-zG3iEU-zG3iEU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h00 30/10: Juárez - Puebla
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab047ffb9fe073f4740e0-RgBWdy-RgBWdy&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",11h00 30/10: Blaublitz Akita - Zweigen Kanazawa
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab049bbe01307388ddd58-AHcpch-AHcpch&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: Ehime FC - Kyoto Sanga FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab029ffb9fe073f4740d3-HXwiWx-HXwiWx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: Giravanz Kitakyushu - SC Sagamihara
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab02b459be70751bcad1a-GqpUOh-GqpUOh&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: JEF United Chiba - Renofa Yamaguchi
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab02d2d544e0746609169-gAsiWl-gAsiWl&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: Omiya Ardija - Jubilo Iwata
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab02f459be70751bcad1b-wK4Csl-wK4Csl&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: Thespakusatsu Gunma - Matsumoto Yamaga
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab0302d544e074660916a-3mRtJp-3mRtJp&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: V-Varen Nagasaki - Mito Hollyhock
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab032459be70751bcad1e-valC7G-valC7G&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: Incheon United - FC Seoul
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab0342d544e074660916d-DlJGL0-DlJGL0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 30/10: Tokyo Verdy - Ventforet Kofu
