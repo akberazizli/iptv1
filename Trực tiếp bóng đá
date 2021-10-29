@@ -81,14 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Hoffenheim - Hertha BSC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Stal Mielec - Lech Poznan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Korona Kielce - Odra Opole
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài QPR - Nottm Forest
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài PSG - Lille
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 PSG - Lille
@@ -102,29 +94,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playl
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Arouca - Tondela
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Hoffenheim - Hertha BSC
-https://p90020921.vnroute.com/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài QPR - Nottm Forest
-https://p90020921.vnroute.com/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 PSG - Lille (BLV Old Men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xqP64yy/IMG-20211018-153031.png",SD2 PSG - Lille (BLV Old Men)
-https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GdGsZqP/IMG-20211018-152957.png",HD1 PSG - Lille (BLV Old Men)
-https://livestream-2.socialstreaming.tv/live/617c225b282578001c028c8a/617c225b282578001c028c8a.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yR8Tcvj/IMG-20211018-152942.png",HD2 PSG - Lille (BLV Old Men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",FHD PSG - Lille (BLV Old Men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Arouca - Tondela
 https://p90020921.vnroute.com/may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",01h30 30/10: Hoffenheim - Hertha BSC
-https://tuongbongda.000webhostapp.com/play90p.php?id=6179bdd8c6aff63667deb1c0&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",01h45 30/10: QPR - Nottm Forest
-https://tuongbongda.000webhostapp.com/play90p.php?id=617c261be0d4672fc68e6da2&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",02h00 30/10: PSG - Lille (BLV Old Men)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6179bf5292893b39d17049f4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h15 30/10: Arouca - Tondela
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179befc8bb98639dd59c738&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h00 30/10: Necaxa - Mazatlán
@@ -153,15 +125,11 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179be7a74dd7b31c399b22c&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179be2e3679ef42e3971375&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Newcastle - Chelsea
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc783679ef42e3971373&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Burnley - Brentford
+https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc3792893b39d17049f2&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Man City - Crystal Palace
+https://tuongbongda.000webhostapp.com/play90p.php?id=6179bca074dd7b31c399b22b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",01h30 30/10: Hoffenheim - Hertha BSC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790602459be70751bcab7c-AiEIcd-AiEIcd&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h30 30/10: Stal Mielec - Lech Poznan
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617909aa2d544e0746608fe5-Op1Oga-Op1Oga&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h30 30/10: Korona Kielce - Odra Opole
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617909e4459be70751bcabaa-mo7O1K-mo7O1K&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h45 30/10: QPR - Nottm Forest
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790721ffb9fe073f473f57-fr2KLQ-fr2KLQ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",02h00 30/10: PSG - Lille
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617906c92d544e0746608fc7-UhQRl1-UhQRl1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",02h15 30/10: Arouca - Tondela
