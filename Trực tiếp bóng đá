@@ -81,8 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Tolima - America de Cali
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Monterrey - América
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Monterrey - América
@@ -128,12 +126,14 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bca074dd7b31c399b22b&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Liverpool - Brighton
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bcc6c6aff63667deb1bf&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h10 29/10: Tolima - America de Cali
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617a1d742d544e0746609119-92keIK-92keIK&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h00 29/10: Monterrey - América
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617a1d75bbe01307388ddcfe-RMXuQQ-RMXuQQ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h00 29/10: Atletico Morelia - Pumas Tabasco
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617a1d76459be70751bcacc1-hgdjhv-hgdjhv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 29/10: Hebei KungFu - Shanxi Longjin
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617b65c4459be70751bcad76-GV9yrD-GV9yrD&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 29/10: Xiamen Ludao - Shanghai Jiading
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617b65dd2d544e07466091cd-J6lkZq-J6lkZq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h30 29/10: Shenzhen FC - Shanghai Shenhua
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617a3dbfffb9fe073f4740a1-P9u4Q3-P9u4Q3&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h45 29/10: Peninsula Power - Queensland Lions
@@ -156,6 +156,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ac0482d544e0746609180
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ac069459be70751bcad35-zU2rkB-zU2rkB&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h30 29/10: Steaua București  - Concordia Chiajna
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ac3cabbe01307388ddd6f-OMM0bs-OMM0bs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h30 29/10: Volyn Lutsk - Volochysk
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617b6a7d2d544e07466091d0-IYR7rF-IYR7rF&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h00 29/10: Spartak Trnava - FK Senica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ac21a459be70751bcad38-QtQ8dt-QtQ8dt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",23h00 29/10: Zenit - Dinamo
