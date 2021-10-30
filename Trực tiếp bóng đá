@@ -81,8 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Fulham - West Brom
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Elche - Real Madrid
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Elche - Real Madrid
@@ -174,8 +172,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bdb1baf5f939c69df8d5&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h00 30/10: FC Porto - Boavista
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bf253679ef42e3971376&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 30/10: Fulham - West Brom
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6179072f459be70751bcab91-5jokqq-5jokqq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",19h00 30/10: Elche - Real Madrid
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617905bbbbe01307388ddbbc-qZ8kpM-qZ8kpM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",20h00 30/10: Atalanta - Lazio
