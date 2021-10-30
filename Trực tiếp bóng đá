@@ -110,12 +110,6 @@ https://p90020921.vnroute.com/may71/playlist.m3u8|Referer=https://xoilac.90phutt
 https://p90020921.vnroute.com/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Torino - Sampdoria
 https://p90020921.vnroute.com/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài AZ - PEC Zwolle
-https://p90020921.vnroute.com/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Reading - AFC Bournemouth
-https://p90020921.vnroute.com/may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Lyon - Lens
-https://p90020921.vnroute.com/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 Barcelona - Alaves (Thỏ + Nện)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xqP64yy/IMG-20211018-153031.png",SD2 Barcelona - Alaves (Thỏ + Nện)
@@ -126,6 +120,12 @@ https://livestream.socialstreaming.tv/live/617d7edca09ee4001c87bc26/617d7edca09e
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Barcelona - Alaves (Thỏ + Nện)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Lyon - Lens
+https://p90020921.vnroute.com/may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Reading - AFC Bournemouth
+https://p90020921.vnroute.com/may101/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài AZ - PEC Zwolle
+https://p90020921.vnroute.com/may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",01h00 31/10: Estoril - Benfica
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d5ef292893b39d17049fc&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -133,36 +133,44 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617d5ef292893b39d17049fc&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f3d92893b39d17049fd&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",01h45 31/10: Torino - Sampdoria
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d5ed6e0d4672fc68e6da9&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h00 31/10: AZ - PEC Zwolle
-https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f578bb98639dd59c73c&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h00 31/10: Reading - AFC Bournemouth
-https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f2728d9a539bbd2aad2&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",02h00 31/10: Lyon - Lens
-https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f0ee0d4672fc68e6daa&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",02h00 31/10: Barcelona - Alaves (Thỏ + Nện)
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d5ec328d9a539bbd2aad1&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 31/10: Charleston Battery - Miami FC
-https://tuongbongda.000webhostapp.com/play90p.php?id=617d94513679ef42e3971382&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 31/10: New Mexico United - Real Monarchs
-https://tuongbongda.000webhostapp.com/play90p.php?id=617d947f74dd7b31c399b238&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",02h00 31/10: Lyon - Lens
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f0ee0d4672fc68e6daa&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h00 31/10: Reading - AFC Bournemouth
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f2728d9a539bbd2aad2&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h00 31/10: AZ - PEC Zwolle
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f578bb98639dd59c73c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 31/10: Memphis 901 - Indy Eleven
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d9468c6aff63667deb1c9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 31/10: Pittsburgh Riverhounds - Hartford Athletic
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d949be0d4672fc68e6db2&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 31/10: Charleston Battery - Miami FC
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d94513679ef42e3971382&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 31/10: New Mexico United - Real Monarchs
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d947f74dd7b31c399b238&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h05 31/10: Atlético Bucaramanga - Envigado
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d9348baf5f939c69df8dd&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h10 31/10: Boca Juniors - Gimnasia La Plata
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d8d73e0d4672fc68e6db0&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",08h00 31/10: San Luis - Coquimbo Unido
-https://tuongbongda.000webhostapp.com/play90p.php?id=617d924692893b39d1704a05&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",08h00 31/10: América Mineiro - Fortaleza
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d8de792893b39d1704a04&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",08h00 31/10: San Luis - Coquimbo Unido
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d924692893b39d1704a05&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",08h10 31/10: Millonarios - La Equidad
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d93b8e0d4672fc68e6db1&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",09h30 31/10: Phoenix Rising - Tacoma Defiance
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d94e592893b39d1704a06&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",09h30 31/10: Sacramento Republic - San Diego Loyal
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d94fcc6aff63667deb1ca&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",09h30 31/10: LA Galaxy II - Orange County SC
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d94cde0d4672fc68e6db3&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",12h00 31/10: Daegu - Jeju United
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d977f3679ef42e3971383&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",13h00 31/10: Chungnam Asan - Seoul E-Land
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d984474dd7b31c399b239&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",13h00 31/10: Anyang - Bucheon 1995
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d98083679ef42e3971384&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",01h00 31/10: SC Heerenveen - Vitesse
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790b912d544e0746609004-Qg1yqJ-Qg1yqJ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
