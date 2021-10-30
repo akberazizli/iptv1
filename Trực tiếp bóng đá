@@ -81,8 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Union Berlin - Bayern München
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m103nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Newcastle - Chelsea
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Newcastle - Chelsea
@@ -204,8 +202,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f2728d9a539bbd2aad2&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h00 31/10: AZ - PEC Zwolle
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d5f578bb98639dd59c73c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",20h30 30/10: Union Berlin - Bayern München
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6179060abbe01307388ddbc2-ddq6CR-ddq6CR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",21h00 30/10: Newcastle - Chelsea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6179059a459be70751bcab73-zy7yY8-zy7yY8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",21h00 30/10: Burnley - Brentford
