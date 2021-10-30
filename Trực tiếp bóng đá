@@ -81,6 +81,12 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Racing Club - Defensa y Justicia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Operario Ferroviario - Avai FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Montevideo Wanderers - Liverpool FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Nacional Asunción - River Plate
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Atletico Rafaela - All Boys
@@ -91,10 +97,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Santamarina - Deportivo Moron
  https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Argentinos Juniors - Lanus
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taihd1/playlist.m3u8 |Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Argentinos Juniors - Lanus
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taisd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Vasco da Gama - CSA
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
@@ -136,6 +138,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc3792893b39d17049f2&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Man City - Crystal Palace
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bca074dd7b31c399b22b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 30/10: Racing Club - Defensa y Justicia
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab037bbe01307388ddd4e-w5WGXo-w5WGXo&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 30/10: Operario Ferroviario - Avai FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab038ffb9fe073f4740d6-6gFlXC-6gFlXC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 30/10: Montevideo Wanderers - Liverpool FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab03abbe01307388ddd4f-6AHVJY-6AHVJY&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h30 30/10: Nacional Asunción - River Plate
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c0093ffb9fe073f474151-6iy6A5-6iy6A5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 30/10: Atletico Rafaela - All Boys
@@ -308,20 +316,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8af9459be70751bcade5
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8afbbbe01307388dde36-MTEKCi-MTEKCi&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h30 31/10: Sacramento Republic FC - San Diego Loyal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8afc2d544e0746609241-YSVLzX-YSVLzX&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",10h00 31/10: Fagiano Okayama FC - Albirex Niigata
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8d2bbbe01307388dde39-gzpOV6-gzpOV6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",11h00 31/10: Daegu FC - Jeju United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8d27459be70751bcade9-FkS3Z5-FkS3Z5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",11h00 31/10: Tochigi SC - Montedio Yamagata
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8d2d459be70751bcadee-ipXdxj-ipXdxj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 31/10: FC Anyang - Bucheon FC 1995
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8d21ffb9fe073f4741a7-fWszuv-fWszuv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 31/10: Gimcheon Sangmu - Busan I'Park
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8d23459be70751bcade8-b4WW0I-b4WW0I&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 31/10: Gyeongnam FC - Daejeon Citizen
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8d252d544e0746609244-LK0iI1-LK0iI1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h30 31/10: Ulsan Hyundai - Suwon FC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8d2affb9fe073f4741aa-CHkNBQ-CHkNBQ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h15 31/10: Sparta Rotterdam - Feyenoord
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790b94bbe01307388ddbfe-tNLF6n-tNLF6n&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",17h30 31/10: Inter - Udinese
