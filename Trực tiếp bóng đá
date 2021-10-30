@@ -92,19 +92,13 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Juárez - Puebla
  https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Juárez - Puebla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taihd1/playlist.m3u8 |Referer=https://cakhia.cakhia6.tv/truc-tiep/
+https://ck020921.vnroute.com/taihd3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Juárez - Puebla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taisd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+https://ck020921.vnroute.com/taisd3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Juárez - Puebla
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h00 30/10: Necaxa - Mazatlán
-https://tuongbongda.000webhostapp.com/play90p.php?id=617c351f28d9a539bbd2aac7&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h15 30/10: Argentinos Juniors - Lanús
-https://tuongbongda.000webhostapp.com/play90p.php?id=617c340ec6aff63667deb1c3&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h30 30/10: Vasco da Gama - CSA
-https://tuongbongda.000webhostapp.com/play90p.php?id=617c34833679ef42e3971378&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",09h00 30/10: Juárez - Puebla
 https://tuongbongda.000webhostapp.com/play90p.php?id=617c353d28d9a539bbd2aac8&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",18h30 30/10: Leicester - Arsenal
@@ -129,6 +123,14 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc783679ef42e3971373&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc3792893b39d17049f2&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Man City - Crystal Palace
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bca074dd7b31c399b22b&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Liverpool - Brighton
+https://tuongbongda.000webhostapp.com/play90p.php?id=6179bcc6c6aff63667deb1bf&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 30/10: Watford - Southampton
+https://tuongbongda.000webhostapp.com/play90p.php?id=6179bc5892893b39d17049f3&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",21h15 30/10: Sevilla - Osasuna
+https://tuongbongda.000webhostapp.com/play90p.php?id=6179bd2cbaf5f939c69df8d4&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",21h30 30/10: PSV Eindhoven - FC Twente
+https://tuongbongda.000webhostapp.com/play90p.php?id=6179bfacbaf5f939c69df8d6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h15 30/10: Argentinos Juniors - Lanus
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab042bbe01307388ddd54-KnKXkN-KnKXkN&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
