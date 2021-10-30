@@ -81,10 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Nagoya Grampus - Cerezo Osaka
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Nagoya Grampus - Cerezo Osaka
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Ehime FC - Kyoto Sanga FC
  https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Omiya Ardija - Jubilo Iwata
@@ -128,8 +124,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6179bd2cbaf5f939c69df8d4&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",21h30 30/10: PSV Eindhoven - FC Twente
 https://tuongbongda.000webhostapp.com/play90p.php?id=6179bfacbaf5f939c69df8d6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",11h05 30/10: Nagoya Grampus - Cerezo Osaka
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c080d459be70751bcad95-HqouAX-HqouAX&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: Ehime FC - Kyoto Sanga FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab029ffb9fe073f4740d3-HXwiWx-HXwiWx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",12h00 30/10: Omiya Ardija - Jubilo Iwata
@@ -138,6 +132,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab02f459be70751bcad1b
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab0342d544e074660916d-DlJGL0-DlJGL0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 30/10: Tokyo Verdy - Ventforet Kofu
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ab0352d544e0746609170-XawPrX-XawPrX&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 30/10: SKA-Energiya II - Saturn Moscow
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ce12e2d544e074660926d-Vy21Ob-Vy21Ob&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h30 30/10: Suwon Bluewings - Jeonbuk FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617acb83ffb9fe073f4740f0-FCrQka-FCrQka&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h30 30/10: FC Ryukyu - Machida Zelvia
