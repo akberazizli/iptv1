@@ -153,8 +153,6 @@ https://p90020921.vnroute.com/may6/playlist.m3u8|Referer=https://xoilac.90phutt.
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Getafe - Espanyol
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may42/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",22h15 31/10: Atlético Madrid - Real Betis
-https://tuongbongda.000webhostapp.com/play90p.php?id=617d7e5692893b39d17049ff&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",22h30 31/10: Marítimo - Gil Vicente
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d7fa892893b39d1704a01&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",22h45 31/10: RKC Waalwijk - Cambuur
@@ -175,10 +173,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617d9bc5baf5f939c69df8e1&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d9c1692893b39d1704a0a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h00 01/11: Go Ahead Eagles - Fortuna Sittard
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d9c3ebaf5f939c69df8e3&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",02h45 01/11: Roma - Milan (Ầu Men)
-https://tuongbongda.000webhostapp.com/play90p.php?id=617d9c0092893b39d1704a09&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",02h45 01/11: Clermont - Marseille
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d9c2bc6aff63667deb1cc&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",02h45 01/11: Roma - Milan (Ầu Men)
+https://tuongbongda.000webhostapp.com/play90p.php?id=617d9c0092893b39d1704a09&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",03h00 01/11: Real Sociedad - Athletic Club
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d9bd8baf5f939c69df8e2&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",00h30 02/11: Rayo Vallecano - Celta Vigo
@@ -187,16 +185,18 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617ec167c6aff63667deb1cd&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec1e6c6aff63667deb1ce&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",02h45 02/11: Bologna - Cagliari
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec1b328d9a539bbd2aad5&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",03h00 02/11: Wolves - Everton
-https://tuongbongda.000webhostapp.com/play90p.php?id=617ec127e0d4672fc68e6db4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",03h00 02/11: Levante - Granada
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec18fbaf5f939c69df8e4&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",03h00 02/11: Wolves - Everton
+https://tuongbongda.000webhostapp.com/play90p.php?id=617ec127e0d4672fc68e6db4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",00h45 03/11: Malmö FF - Chelsea
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec27674dd7b31c399b23a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",00h45 03/11: Wolfsburg - Salzburg
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec2a474dd7b31c399b23b&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 03/11: Sevilla - Lille
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec2d23679ef42e3971389&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 03/11: Juventus - Zenit
+https://tuongbongda.000webhostapp.com/play90p.php?id=617ec322c6aff63667deb1cf&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h30 31/10: Maritimo - Gil Vicente
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790a92ffb9fe073f473f77-DZtjO5-DZtjO5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
