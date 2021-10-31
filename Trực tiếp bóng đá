@@ -81,6 +81,8 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Angers - Nice
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cadiz - Mallorca
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài NEC Nijmegen - FC Groningen
@@ -178,6 +180,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617d80b728d9a539bbd2aad3&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",23h30 31/10: Aston Villa - West Ham
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d7e2c8bb98639dd59c73e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",19h00 31/10: Angers - Nice
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790abd2d544e0746608ffa-eGF911-eGF911&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",20h00 31/10: Cadiz - Mallorca
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790a322d544e0746608fee-x1QTIj-x1QTIj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h30 31/10: NEC Nijmegen - FC Groningen
