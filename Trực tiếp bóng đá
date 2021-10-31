@@ -81,8 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Atletico Madrid - Real Betis
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Maritimo - Gil Vicente
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài FC Utrecht - Willem II
@@ -112,16 +110,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m103nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Real Valladolid - Eibar
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 Atlético Madrid - Real Betis
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xqP64yy/IMG-20211018-153031.png",SD2 Atlético Madrid - Real Betis
-https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GdGsZqP/IMG-20211018-152957.png",HD1 Atlético Madrid - Real Betis
-https://livestream.socialstreaming.tv/live/617ea883703111001cf635e8/617ea883703111001cf635e8.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",FHD Atlético Madrid - Real Betis
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",Nhà Đài Atlético Madrid - Real Betis
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may42/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Marítimo - Gil Vicente
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may41/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài RKC Waalwijk - Cambuur
@@ -190,8 +178,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617ec2a474dd7b31c399b23b&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 03/11: Sevilla - Lille
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec2d23679ef42e3971389&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",22h15 31/10: Atletico Madrid - Real Betis
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790a33ffb9fe073f473f70-XTJoFy-XTJoFy&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h30 31/10: Maritimo - Gil Vicente
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61790a92ffb9fe073f473f77-DZtjO5-DZtjO5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h45 31/10: FC Utrecht - Willem II
