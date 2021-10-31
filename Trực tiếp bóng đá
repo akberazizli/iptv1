@@ -81,12 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Chungnam Asan FC - Seoul E-Land FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Gimcheon Sangmu - Busan I'Park
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài FC Anyang - Bucheon FC 1995
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài SKA-Khabarovsk - Neftekhimik
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Laos - Mongolia
@@ -95,15 +89,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@duc2/playlist.m
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Ulsan Hyundai - Suwon FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Brisbane Roar FC - Olympic FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Anyang - Bucheon 1995
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Chungnam Asan - Seoul E-Land
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Gyeongnam - Daejeon Citizen
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Jeonnam Dragons - Ansan Greeners
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Ulsan - Suwon
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
@@ -146,12 +136,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617d8063e0d4672fc68e6daf&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",21h00 31/10: Montpellier - Nantes
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d80798bb98639dd59c73f&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 31/10: Chungnam Asan FC - Seoul E-Land FC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617d5c292d544e0746609327-ylQKxT-ylQKxT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 31/10: Gimcheon Sangmu - Busan I'Park
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617d5c32459be70751bcaea8-KMR9RL-KMR9RL&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 31/10: FC Anyang - Bucheon FC 1995
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617d602a459be70751bcaec1-3AFOnC-3AFOnC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 31/10: SKA-Khabarovsk - Neftekhimik
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ce742ffb9fe073f4741dc-n1HJTa-n1HJTa&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.ibb.co/tY1zFGc/IMG-20211027-113328.png",14h00 31/10: Laos - Mongolia
@@ -300,6 +284,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617e478affb9fe073f47436d
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617e4944ffb9fe073f474373-ECidwr-ECidwr&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h30 01/11: Madura United - Arema
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617e47a4ffb9fe073f474370-9rs7Yl-9rs7Yl&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h30 01/11: Selimbar - FC Universitatea Cluj
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617e4b782d544e07466093f9-L7oqS4-L7oqS4&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 01/11: Ararat Armenia - Pyunik
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617e47c4459be70751bcaf9a-axMTIA-axMTIA&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 01/11: Frosinone - Crotone
