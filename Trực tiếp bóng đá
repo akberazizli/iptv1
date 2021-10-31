@@ -81,10 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Boca Juniors - Gimnasia LP
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài DC United - Columbus
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Dallas - Austin FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài America MG - Fortaleza
@@ -142,10 +138,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617d80edc6aff63667deb1c7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",18h30 31/10: Inter - Udinese
 https://tuongbongda.000webhostapp.com/play90p.php?id=617d7ec2e0d4672fc68e6dab&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 31/10: Boca Juniors - Gimnasia LP
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8a9cbbe01307388dde31-g2ixTw-g2ixTw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 31/10: DC United - Columbus
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8a99459be70751bcadd4-Opw08d-Opw08d&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 31/10: Dallas - Austin FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8a91ffb9fe073f474198-3dGcvU-3dGcvU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",08h00 31/10: America MG - Fortaleza
@@ -162,8 +154,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617cba38bbe01307388dde60
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8af72d544e074660923e-AvNIqc-AvNIqc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h30 31/10: LA Galaxy II - Orange County SC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8af9459be70751bcade5-jSwcbG-jSwcbG&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h30 31/10: Phoenix Rising FC - Tacoma Defiance
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617c8afbbbe01307388dde36-MTEKCi-MTEKCi&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.ibb.co/tY1zFGc/IMG-20211027-113328.png",10h00 31/10: U23 Thailand - Malaysia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617cbee8bbe01307388dde6c-B6rSOj-B6rSOj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",11h00 31/10: Fagiano Okayama FC - Albirex Niigata
