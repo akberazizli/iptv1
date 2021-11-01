@@ -81,12 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Benevento - Brescia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Benevento - Brescia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Benevento - Brescia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Madura United - Arema
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@duc1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
@@ -128,16 +122,14 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617ec3dc28d9a539bbd2aad6&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 03/11: Atalanta - Man United
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec409c6aff63667deb1d0&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 01/11: Benevento - Brescia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617e475fffb9fe073f47436a-UwrfaE-UwrfaE&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h30 01/11: Madura United - Arema
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617e47a4ffb9fe073f474370-9rs7Yl-9rs7Yl&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 01/11: Lecce - Cosenza
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617eadc9bbe01307388de0a6-57g7Ia-57g7Ia&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 01/11: Ternana - Como
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617eaa21bbe01307388de09d-mp3d7v-mp3d7v&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 01/11: SPAL - Perugia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617eaa38bbe01307388de0a0-YtsAHk-YtsAHk&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 01/11: Lecce - Cosenza
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617eadc9bbe01307388de0a6-57g7Ia-57g7Ia&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 01/11: Farense - Penafiel
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617fac3a2b8f3f409e57c3f0-8tcgng-8tcgng&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h00 01/11: Alcorcon - UD Ibiza
