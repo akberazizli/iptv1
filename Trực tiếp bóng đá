@@ -89,8 +89,6 @@ https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbXx4vM/IMG-20211102-055118.png",Bayen vs Benfica 2h50/3/11
 https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cilegon United - Dewa United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài FK Metalac - Napredak
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Widzew Lodz - GKS Jastrzebie
@@ -114,8 +112,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617ec3dc28d9a539bbd2aad6&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 03/11: Atalanta - Man United
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec409c6aff63667deb1d0&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h30 02/11: Cilegon United - Dewa United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61809cf03a90894086a26dcc-CWAyO6-CWAyO6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h00 02/11: FK Metalac - Napredak
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f55d2459be70751bcb148-uToRy9-uToRy9&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h00 02/11: Widzew Lodz - GKS Jastrzebie
