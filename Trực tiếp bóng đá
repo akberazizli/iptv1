@@ -105,6 +105,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Kuwait - Uzbekistan
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Saudi Arabia - Bangladesh
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 U23 Việt Nam - U23 Myanmar
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -138,6 +140,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f5374459be70751bcb13d
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617eb46d2d544e074660947e-ZQO7WB-ZQO7WB&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.ibb.co/tY1zFGc/IMG-20211027-113328.png",17h00 02/11: Kuwait - Uzbekistan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f53a7bbe01307388de196-lSltrO-lSltrO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.ibb.co/tY1zFGc/IMG-20211027-113328.png",17h00 02/11: Saudi Arabia - Bangladesh
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61810d856663ad40a45410ec-038rE6-038rE6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h15 02/11: Hizbul Wathan - Persijap Jepara 
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f53c9bbe01307388de199-v0Om7O-v0Om7O&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 02/11: Wieczysta Krakow - Garbarnia
