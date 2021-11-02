@@ -91,6 +91,20 @@ https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbXx4vM/IMG-20211102-055118.png",Bayen vs Benfica 2h50/3/11
 https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Việt Nam - Myanmar
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Việt Nam - Myanmar
+https://179410038.global.cdnfastest.com/live/183704e92ebcbaa4ce291931814b6d4c945/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Việt Nam - Myanmar
+https://179410038.global.cdnfastest.com/live/1837cf21d05fa1c421c84a18c5f4df43ee3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Việt Nam - Myanmar
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Việt Nam - Myanmar
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Kuwait - Uzbekistan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Saudi Arabia - Bangladesh
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Hizbul Wathan - Persijap Jepara 
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Wieczysta Krakow - Garbarnia
@@ -114,6 +128,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617ec3dc28d9a539bbd2aad6&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 03/11: Atalanta - Man United
 https://tuongbongda.000webhostapp.com/play90p.php?id=617ec409c6aff63667deb1d0&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.ibb.co/tY1zFGc/IMG-20211027-113328.png",17h00 02/11: Việt Nam - Myanmar
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617eb46d2d544e074660947e-ZQO7WB-ZQO7WB&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.ibb.co/tY1zFGc/IMG-20211027-113328.png",17h00 02/11: Kuwait - Uzbekistan
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f53a7bbe01307388de196-lSltrO-lSltrO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.ibb.co/tY1zFGc/IMG-20211027-113328.png",17h00 02/11: Saudi Arabia - Bangladesh
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61810d856663ad40a45410ec-038rE6-038rE6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h15 02/11: Hizbul Wathan - Persijap Jepara 
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f53c9bbe01307388de199-v0Om7O-v0Om7O&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 02/11: Wieczysta Krakow - Garbarnia
@@ -132,10 +152,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61809cf03a90894086a26dcc
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f55d2459be70751bcb148-uToRy9-uToRy9&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",22h00 02/11: Widzew Lodz - GKS Jastrzebie
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f55df459be70751bcb14b-4xCqRD-4xCqRD&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",00h45 03/11: Malmö FF - Chelsea
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ee383459be70751bcb0ae-QAWeTO-QAWeTO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",00h45 03/11: Wolfsburg - Salzburg
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ee3802d544e0746609505-HC5OIk-HC5OIk&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",00h45 03/11: Malmö FF - Chelsea
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ee383459be70751bcb0ae-QAWeTO-QAWeTO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",02h45 03/11: Luton - Middlesbrough
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ee3c9ffb9fe073f474473-1JMsM6-1JMsM6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 03/11: Bayern München - Benfica
