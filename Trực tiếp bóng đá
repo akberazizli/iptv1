@@ -80,8 +80,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/HzCnkHS/IMG-20211102-114343.jpg",u23 việt nam vs u23 MyanMAR 17 giờ hôm nay
-http://drfamaga5qliv.vcdn.cloud:80/vtv06/vtv06@1080p.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/1qHp0Gq/IMG-20211102-053321.png",chelsea vs Malmo 00h45/3/11
 https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/QvZvxgr/IMG-20211102-054044.png",Man Utd vs Atalanta 2h50/3/11
@@ -95,8 +93,6 @@ https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Wieczysta Krakow - Garbarnia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Deportivo Maldonado - Villa Espanola
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",00h45 03/11: Malmö FF - Chelsea
@@ -120,8 +116,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=617ec409c6aff63667deb1d0&.m
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f53c9bbe01307388de199-v0Om7O-v0Om7O&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 02/11: Wieczysta Krakow - Garbarnia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f52d5459be70751bcb137-LYS9Vv-LYS9Vv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",19h45 02/11: Deportivo Maldonado - Villa Espanola
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61809f023a90894086a26dd5-ERypOX-ERypOX&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 02/11: Kolubara - FK Spartak Subotica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617f52fe2d544e074660956e-lY08FW-lY08FW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 02/11: Johor Darul Ta'zim FC - Sabah FA
