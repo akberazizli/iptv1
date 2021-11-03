@@ -81,14 +81,15 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GQW49PP/IMG-20211103-183015.jpg",REAL MADRID VS DONTSK 00H35/4/11
+https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/YpT9WQQ/Screenshot-20211103-182839.jpg",AC MILAN VS FC PORTO 00H45/4/11
 https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/G22LdPc/IMG-20211103-183653.jpg",LIVEROOL VS ATLETICO 2H50/4/11
 https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/BfbWM2h/IMG-20211103-183400.jpg",MANCHESTER CYTY VS BRYGG 2H50/411
 https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GQW49PP/IMG-20211103-183015.jpg",REAL MADRID VS DONTSK 00H35/4/11
-https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Gwangju FC - FC Seoul
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
@@ -171,22 +172,34 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ee40b459be70751bcb0ba
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ee40ebbe01307388de124-aWP71N-aWP71N&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 04/11: FC Sheriff - Inter
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=617ee412459be70751bcb0bd-7Y0KjP-7Y0KjP&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 04/11: Botafogo - Confianca
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b723a90894086a26eb9-4kvrWY-4kvrWY&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 04/11: Alebrijes - Correcaminos
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b748f05f7408c0878a0-XgM0Qi-XgM0Qi&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 04/11: Atletico Tembetary - Tacuary
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b768f05f7408c0878a1-SXd2kH-SXd2kH&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 04/11: Montreal - Houston
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b776663ad40a454119c-umPRAI-umPRAI&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 04/11: NY Red Bulls - Atlanta United
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b793a90894086a26ebc-iIOR5l-iIOR5l&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h30 04/11: Toronto - Pacific FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b7a2b8f3f409e57c567-SzHRbw-SzHRbw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 04/11: Atletico MG - Gremio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618279632b8f3f409e57c55a-N2RAYP-N2RAYP&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 04/11: Curico Unido - O'Higgins
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618279953a90894086a26eaa-cHF2zj-cHF2zj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 04/11: Nacional - Torque
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618279ac6663ad40a4541196-VNFrtW-VNFrtW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 04/11: Curico Unido - O'Higgins
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b7c2b8f3f409e57c568-3uJTqe-3uJTqe&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h10 04/11: Boca Juniors - Argentinos Juniors
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618279c23a90894086a26ead-u5ekJd-u5ekJd&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 04/11: Austin FC - Sporting KC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618279cf2b8f3f409e57c55e-F7H533-F7H533&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 04/11: Comunicaciones FC - Deportivo Saprissa
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618279d52b8f3f409e57c561-3OBV9w-3OBV9w&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 04/11: Pachuca - San Luis
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618279e33a90894086a26eb0-srfqVT-srfqVT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 04/11: Austin FC - Sporting KC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b832b8f3f409e57c570-POC2BH-POC2BH&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h05 04/11: Venados - UDG
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827a122b8f3f409e57c564-n75PFt-n75PFt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827b7f2b8f3f409e57c56b-cBz1Gk-cBz1Gk&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h30 04/11: Salt Lake - Portland
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827a0f6663ad40a4541199-hB3Xzn-hB3Xzn&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",10h00 04/11: Cruz Azul - León
