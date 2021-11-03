@@ -51,7 +51,7 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fp
 
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/k0H5Ctq/IMG-20211001-160259.png",RMCsports1
-http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
+http://xcchui2.mrnova.online/live/60688_1635912442.ts
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMCsports2
 http://xcchui2.mrnova.online/live/60689_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/K2zkNV3/IMG-20211011-061159.png",super premier
