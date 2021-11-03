@@ -83,8 +83,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sanfrecce Hiroshima - Kashima Antlers
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Nagoya Grampus - Kashiwa Reysol
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Hokkaido Consadole Sapporo - Shonan Bellmare
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Vissel Kobe - Vegalta Sendai
@@ -105,12 +103,6 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/pl
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Vissel Kobe - Vegalta Sendai
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",12h00 03/11: Tokushima Vortis - Cerezo Osaka
-https://tuongbongda.000webhostapp.com/play90p.php?id=6181bc22c6aff63667deb1d4&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",12h00 03/11: Tokyo - Shimizu S-Pulse
-https://tuongbongda.000webhostapp.com/play90p.php?id=6181bca33679ef42e3971397&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",12h00 03/11: Yokohama - Sagan Tosu
-https://tuongbongda.000webhostapp.com/play90p.php?id=6181bd7f28d9a539bbd2aae1&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",13h00 03/11: Avispa Fukuoka - Oita Trinita
 https://tuongbongda.000webhostapp.com/play90p.php?id=6181be3392893b39d1704a13&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",13h00 03/11: Nagoya Grampus - Kashiwa Reysol
@@ -154,8 +146,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6181a0f23679ef42e3971391&.m
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 03/11: Sanfrecce Hiroshima - Kashima Antlers
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61809de88f05f7408c0877a3-H2cTzN-H2cTzN&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",13h00 03/11: Nagoya Grampus - Kashiwa Reysol
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61809dea3a90894086a26dcf-h0mzWg-h0mzWg&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 03/11: Hokkaido Consadole Sapporo - Shonan Bellmare
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6180ec242b8f3f409e57c4af-mVUgxb-mVUgxb&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 03/11: Vissel Kobe - Vegalta Sendai
