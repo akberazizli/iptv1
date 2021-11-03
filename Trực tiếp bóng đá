@@ -97,10 +97,6 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/pl
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Yokohama F. Marinos - Gamba Osaka
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",09h15 03/11: Motagua - Marathón
-https://tuongbongda.000webhostapp.com/play90p.php?id=6181e2d2baf5f939c69df8f3&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",09h30 03/11: Los Angeles FC - Vancouver Whitecaps
-https://tuongbongda.000webhostapp.com/play90p.php?id=6181b9ea3679ef42e3971396&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",10h05 03/11: Cimarrones de Sonora - Mineros de Zacatecas
 https://tuongbongda.000webhostapp.com/play90p.php?id=6181cc4274dd7b31c399b247&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",11h05 03/11: Kawasaki Frontale - Urawa Reds
@@ -131,6 +127,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61819c398bb98639dd59c744&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61819df2e0d4672fc68e6db5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 04/11: Dortmund - Ajax
 https://tuongbongda.000webhostapp.com/play90p.php?id=61819cedc6aff63667deb1d2&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 04/11: FC Sheriff - Inter
+https://tuongbongda.000webhostapp.com/play90p.php?id=61819d473679ef42e397138f&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 04/11: Sporting CP - Beşiktaş
+https://tuongbongda.000webhostapp.com/play90p.php?id=61819d7d8bb98639dd59c747&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",03h00 04/11: RB Leipzig - PSG
+https://tuongbongda.000webhostapp.com/play90p.php?id=61819c968bb98639dd59c746&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h30 03/11: LAFC - Vancouver
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61809e316663ad40a45410b8-og1rY9-og1rY9&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
