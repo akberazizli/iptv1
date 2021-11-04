@@ -81,8 +81,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Pachuca - San Luis
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Salt Lake - Portland
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Salt Lake - Portland
@@ -98,6 +96,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Cruz Azul - León
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Tampico Madero - Atlético Morelia
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",08h00 04/11: Austin - Sporting KC
 https://tuongbongda.000webhostapp.com/play90p.php?id=6183078a3679ef42e397139f&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -140,8 +140,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6181a3b23679ef42e3971394&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",00h45 05/11: Gent - Partizan Beograd
 https://tuongbongda.000webhostapp.com/play90p.php?id=6181a32028d9a539bbd2aadd&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 04/11: Pachuca - San Luis
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618279e33a90894086a26eb0-srfqVT-srfqVT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h30 04/11: Salt Lake - Portland
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61827a0f6663ad40a4541199-hB3Xzn-hB3Xzn&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",10h00 04/11: Cruz Azul - León
