@@ -80,22 +80,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/b1kF2hg/Screenshot-20211104-183312.jpg",FLORA TALIINN VS ANORTHOSIS 22H20/4/11
-https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GQf7gXX/Screenshot-20211104-183144.jpg",KAIRAT VS QARABAG FK 22H20/4/11
-https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/MCF30F9/Screenshot-20211104-183131.jpg",LYONNAIS VS SPARTA 00H35/5/11
-https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/8mCHv9t/Screenshot-20211104-183003.jpg",MONACO VSEINDHOVEN 00H35/5/11
-https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/RT2Wp7Q/Screenshot-20211104-183117.jpg",PIACOS VS FRANKFURT 00H35/5/11
-https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jT555Tf/Screenshot-20211104-183051.jpg",BRONDBY VS RANGERS 00H35/5/11
-https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/j3StJLc/Screenshot-20211104-183031.jpg",WARSAW VS SSCNAPOLI 00H35/5/11
-https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/4Jb6hBg/Screenshot-20211104-190834.jpg",GALATASARAY VS MOSCOW 00H35/5/11
-https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
 
 
 
