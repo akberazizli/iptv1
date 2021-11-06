@@ -87,8 +87,6 @@ https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/sHjK5PV/Screenshot-20211106-185336.jpg",Man united vs Man city 19h30/6/11
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/man-utd-vs-manchester-city-1930-06-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Arsenal Tula - Ufa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Man United - Man City
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Man United - Man City
@@ -154,8 +152,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6182fd3abaf5f939c69df8f7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",23h00 06/11: Lille - Angers SCO
 https://tuongbongda.000webhostapp.com/play90p.php?id=6182fd6328d9a539bbd2aae5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 06/11: Arsenal Tula - Ufa
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6182ff1c22058903a30eb65d-SNLoAU-SNLoAU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",19h30 06/11: Man United - Man City
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6182fdf6595a1603a1393d40-kn3zhI-kn3zhI&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",20h00 06/11: Espanyol - Granada
