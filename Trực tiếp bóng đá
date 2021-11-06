@@ -92,17 +92,15 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Shimizu S-Pulse - Hokkaido Consadole Sapporo
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Shimizu S-Pulse - Consadole Sapporo
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Jeju United - Suwon Bluewings
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Shimizu S-Pulse - Consadole Sapporo
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",10h00 06/11: Mazatlán - Guadalajara
-https://tuongbongda.000webhostapp.com/play90p.php?id=618527c1c6aff63667deb1e7&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",12h00 06/11: Shimizu S-Pulse - Consadole Sapporo
-https://tuongbongda.000webhostapp.com/play90p.php?id=6185d16492893b39d1704a1a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",12h00 06/11: Jeju United - Suwon Bluewings
 https://tuongbongda.000webhostapp.com/play90p.php?id=6185d02ebaf5f939c69df8fc&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",12h00 06/11: Shimizu S-Pulse - Consadole Sapporo
+https://tuongbongda.000webhostapp.com/play90p.php?id=6185d16492893b39d1704a1a&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",13h00 06/11: Vissel Kobe - Tokushima Vortis
 https://tuongbongda.000webhostapp.com/play90p.php?id=6185d180baf5f939c69df8fd&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",14h00 06/11: Yokohama F. Marinos - Tokyo
@@ -129,6 +127,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6182fce992893b39d1704a17&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6182fcfbbaf5f939c69df8f6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",22h00 06/11: Chelsea - Burnley
 https://tuongbongda.000webhostapp.com/play90p.php?id=6182fb6f92893b39d1704a16&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",22h00 06/11: Crystal Palace - Wolverhampton
+https://tuongbongda.000webhostapp.com/play90p.php?id=6182fc198bb98639dd59c74e&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",22h00 06/11: Brentford - Norwich City
+https://tuongbongda.000webhostapp.com/play90p.php?id=6182fc0228d9a539bbd2aae4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",11h00 06/11: SKA-Khabarovsk - FC Rotor Volgograd
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61848542c84ea72ea50e9188-OPfPy2-OPfPy2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
