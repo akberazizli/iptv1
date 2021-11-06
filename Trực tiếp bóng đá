@@ -83,8 +83,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Ny0Z4YP/IMG-20211106-202956.png", TRỰC TIẾP 1
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/man-utd-vs-manchester-city-1930-06-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Lille - Angers
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Juventus - Fiorentina
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Juventus - Fiorentina
@@ -188,8 +186,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6186869592893b39d1704a1c&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",21h00 07/11: Sampdoria - Bologna
 https://tuongbongda.000webhostapp.com/play90p.php?id=618686b9baf5f939c69df8ff&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",23h00 06/11: Lille - Angers
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6182fe7a22058903a30eb65a-KZywQi-KZywQi&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",00h00 07/11: Juventus - Fiorentina
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61830177f8d4fe0354e09529-NWPz5y-NWPz5y&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",00h30 07/11: Brighton - Newcastle
