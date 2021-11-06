@@ -85,26 +85,8 @@ https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/tr
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/6vx0Fgc/IMG-20211107-011347.png", TRỰC TIẾP
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/juventus-vs-fiorentina-0000-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cagliari - Atalanta
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Bordeaux - PSG
-https://179410038.global.cdnfastest.com/live/183704e92ebcbaa4ce291931814b6d4c945/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Bordeaux - PSG
-https://179410038.global.cdnfastest.com/live/1837cf21d05fa1c421c84a18c5f4df43ee3/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Bordeaux - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Bordeaux - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Real Madrid - Rayo Vallecano
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Real Madrid - Rayo Vallecano
-https://179410038.global.cdnfastest.com/live/1832acb0fafcb3443fdb93f21e2350244a8/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Real Madrid - Rayo Vallecano
-https://179410038.global.cdnfastest.com/live/183961a36293f574048be545646da1d0857/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Real Madrid - Rayo Vallecano
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Real Madrid - Rayo Vallecano
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Internacional - Gremio
+ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",18h15 07/11: FC Groningen - RKC Waalwijk
@@ -138,12 +120,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6186881e28d9a539bbd2aaf2&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",21h00 07/11: Lorient - Brest
 https://tuongbongda.000webhostapp.com/play90p.php?id=618688453679ef42e39713a9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",02h45 07/11: Cagliari - Atalanta
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6183017822058903a30eb665-5VSBez-5VSBez&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",03h00 07/11: Bordeaux - PSG
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618301ec53c8f2035a59f296-hT0SOh-hT0SOh&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",03h00 07/11: Real Madrid - Rayo Vallecano
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6183013d22058903a30eb662-DS5bEi-DS5bEi&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",05h00 07/11: Internacional - Gremio
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186602fdd24032e9f4a5016-ghFvup-ghFvup&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 07/11: Charlotte Independence - Memphis 901
