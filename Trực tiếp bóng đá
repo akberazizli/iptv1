@@ -87,8 +87,6 @@ https://ja0ytqfmrnliv.vcdn.com.vn/rchtwtx/hdntl=exp=1636290320~acl=%2f*~data=hdn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/sHjK5PV/Screenshot-20211106-185336.jpg",Man united vs Man city 19h30/6/11
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/man-utd-vs-manchester-city-1930-06-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Celta Vigo - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Lille - Angers
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Juventus - Fiorentina
@@ -148,6 +146,8 @@ https://livestream-2.socialstreaming.tv/live/61869356e02849001cff13e9/61869356e0
 https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài NEC Nijmegen - SC Heerenveen
 https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Portimonense - Belenenses SAD
+https://p90020921.vnroute.com/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",23h00 06/11: Lille - Angers
 https://tuongbongda.000webhostapp.com/play90p.php?id=618683a974dd7b31c399b24b&.m3u8|Referer=https://xoilac.90phutt.xyz/
@@ -190,8 +190,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61868484c6aff63667deb1e8&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",21h00 07/11: Udinese - Sassuolo
 https://tuongbongda.000webhostapp.com/play90p.php?id=6186869592893b39d1704a1c&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",22h15 06/11: Celta Vigo - Barcelona
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6182fe1822058903a30eb648-bjhMQW-bjhMQW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",23h00 06/11: Lille - Angers
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6182fe7a22058903a30eb65a-KZywQi-KZywQi&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",00h00 07/11: Juventus - Fiorentina
