@@ -80,9 +80,9 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/KDm50my/IMG-20211107-011404.png", TRỰC TIẾP 1
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/KDm50my/IMG-20211107-011404.png", TRỰC TIẾP BÌNH LUẬN 1
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/man-utd-vs-manchester-city-1930-06-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/6vx0Fgc/IMG-20211107-011347.png", TRỰC TIẾP 2
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/6vx0Fgc/IMG-20211107-011347.png", TRỰC TIẾP BÌNH LUẬN 2
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/juventus-vs-fiorentina-0000-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Internacional - Gremio
@@ -230,3 +230,19 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6183028753c8f2035a59f29f
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61830233f8d4fe0354e09535-sScFIj-sScFIj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",04h15 08/11: Benfica - Braga
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6183027b22058903a30eb680-sXlWVx-sXlWVx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 08/11: Birmingham Legion - Pittsburgh Riverhounds
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd78f700cf2ed729eb1d-EYZOm1-EYZOm1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Colorado - LAFC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd7ac84ea72ea50e937f-30JoiM-30JoiM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Portland - Austin FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd7c814e2b2ede371fb9-S6tjV7-S6tjV7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: LA Galaxy - Minnesota
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd7edd24032e9f4a5111-tNWq0M-tNWq0M&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Colorado - LAFC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd81dd24032e9f4a5112-cxGmJs-cxGmJs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Pumas - Cruz Azul
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd88dd24032e9f4a5117-iOTNf5-iOTNf5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 08/11: River Plate - Patronato de Parana
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd85814e2b2ede371fbd-nSjHta-nSjHta&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",06h30 08/11: Ceara - Cuiaba
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd83814e2b2ede371fbc-OZJ5pS-OZJ5pS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
