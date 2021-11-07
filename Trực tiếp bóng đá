@@ -85,14 +85,16 @@ https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/tr
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/6vx0Fgc/IMG-20211107-011347.png", TRỰC TIẾP BÌNH LUẬN 2
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/juventus-vs-fiorentina-0000-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Internacional - Gremio
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Charlotte Independence - Memphis 901
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài León - Necaxa
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Atletico Tucuman - Racing Club
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Tampa Bay Rowdies - FC Tulsa
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Fluminense - Sport Recife
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Louisville City FC - Miami FC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
@@ -128,8 +130,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6186881e28d9a539bbd2aaf2&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",21h00 07/11: Lorient - Brest
 https://tuongbongda.000webhostapp.com/play90p.php?id=618688453679ef42e39713a9&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",05h00 07/11: Internacional - Gremio
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186602fdd24032e9f4a5016-ghFvup-ghFvup&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 07/11: Charlotte Independence - Memphis 901
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61866007c84ea72ea50e92a4-FMinz4-FMinz4&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 07/11: León - Necaxa
@@ -142,10 +142,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61866015dd24032e9f4a5013
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186246ef700cf2ed729ea2c-Jpj846-Jpj846&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 07/11: Louisville City FC - Miami FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61862474dd24032e9f4a4fd2-XjHKio-XjHKio&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 07/11: Olmedo - Barcelona SC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61862539f700cf2ed729ea2f-UtJ392-UtJ392&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 07/11: América - Monterrey
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61862543dd24032e9f4a4fd8-LG1JEF-LG1JEF&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 07/11: Olmedo - Barcelona SC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61862539f700cf2ed729ea2f-UtJ392-UtJ392&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h05 07/11: Atletico Nacional - Bucaramanga
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61862565dd24032e9f4a4fdb-pGr2kW-pGr2kW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",09h00 07/11: Orange County SC - Colorado Springs Switchbacks FC
