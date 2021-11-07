@@ -94,12 +94,8 @@ https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/tr
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Benfica - Braga
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Birmingham Legion - Pittsburgh Riverhounds
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",03h00 08/11: Real Betis - Sevilla
-https://tuongbongda.000webhostapp.com/play90p.php?id=6186da8abaf5f939c69df903&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/8KGwLV1/IMG-20211018-160430.png",16h10 11/11: Úc - Ả Rập Xê Út
 https://tuongbongda.000webhostapp.com/play90p.php?id=61881dfd28d9a539bbd2aaf5&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/8KGwLV1/IMG-20211018-160430.png",18h00 11/11: Hàn Quốc - UAE
@@ -125,10 +121,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61881efe92893b39d1704a25&.m
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",04h15 08/11: Benfica - Braga
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6183027b22058903a30eb680-sXlWVx-sXlWVx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 08/11: Birmingham Legion - Pittsburgh Riverhounds
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd78f700cf2ed729eb1d-EYZOm1-EYZOm1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Pumas - Cruz Azul
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd88dd24032e9f4a5117-iOTNf5-iOTNf5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Birmingham Legion - Pittsburgh Riverhounds
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd78f700cf2ed729eb1d-EYZOm1-EYZOm1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Portland - Austin FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd7c814e2b2ede371fb9-S6tjV7-S6tjV7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Colorado - LAFC
