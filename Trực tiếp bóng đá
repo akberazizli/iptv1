@@ -106,6 +106,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taisd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Colorado - LAFC
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài River Plate - Patronato de Parana
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sporting KC - Salt Lake
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Vancouver - Seattle Sounders
@@ -141,16 +143,16 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6183027b22058903a30eb680
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd88dd24032e9f4a5117-iOTNf5-iOTNf5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Birmingham Legion - Pittsburgh Riverhounds
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd78f700cf2ed729eb1d-EYZOm1-EYZOm1&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Portland - Austin FC
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 08/11: Portland - Austin FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd7c814e2b2ede371fb9-S6tjV7-S6tjV7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Colorado - LAFC
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 08/11: Colorado - LAFC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd81dd24032e9f4a5112-cxGmJs-cxGmJs&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Sporting KC - Salt Lake
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61884548814e2b2ede372116-pWenxk-pWenxk&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 08/11: Vancouver - Seattle Sounders
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61884557814e2b2ede372119-w7sZRh-w7sZRh&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 08/11: River Plate - Patronato de Parana
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd85814e2b2ede371fbd-nSjHta-nSjHta&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 08/11: Sporting KC - Salt Lake
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61884548814e2b2ede372116-pWenxk-pWenxk&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h15 08/11: Vancouver - Seattle Sounders
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61884557814e2b2ede372119-w7sZRh-w7sZRh&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",06h30 08/11: Ceara - Cuiaba
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6186fd83814e2b2ede371fbc-OZJ5pS-OZJ5pS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 08/11: Union La Calera - Huachipato
