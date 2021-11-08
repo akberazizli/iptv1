@@ -92,12 +92,6 @@ https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/tr
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/juventus-vs-fiorentina-0000-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài PSKC Cimahi - Perseru Serui
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD PSKC Cimahi - Perseru Serui
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD PSKC Cimahi - Perseru Serui
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Ural II - Chelyabinsk
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Alashkert FC - Urartu FC
@@ -131,8 +125,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61881ee774dd7b31c399b252&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/8KGwLV1/IMG-20211018-160430.png",23h00 11/11: Benin - Madagascar
 https://tuongbongda.000webhostapp.com/play90p.php?id=61881efe92893b39d1704a25&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h15 08/11: PSKC Cimahi - Perseru Serui
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61876e72c84ea72ea50e93c3-jynDtt-jynDtt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h30 08/11: Ural II - Chelyabinsk
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61876e97dd24032e9f4a515d-DCbQfU-DCbQfU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 08/11: Alashkert FC - Urartu FC
