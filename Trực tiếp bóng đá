@@ -81,13 +81,9 @@ http://ja0ytqfmrnliv.vcdn.cloud/86e290ce86e5f8a5323adf850bd17dd4/1636333711437/e
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/3Yb4fbv/IMG-20211110-182828.png",VIỆT NAN VS NHẬT BẢN 19h/11/11
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Kosovo - Jordan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",00h00 11/11: Kosovo - Jordan
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b22f8c84ea72ea50e969a-E7CT0w-E7CT0w&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h30 11/11: Vasco da Gama - Vitoria
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618aaae5814e2b2ede3722dc-eqkbRE-eqkbRE&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h30 11/11: Goias - Coritiba
