@@ -94,20 +94,6 @@ https://live90.thapcam.link/live/1837e24295520ac47ce8b211279a07d3158/playlist.m3
 https://live90.thapcam.link/live/1837e24295520ac47ce8b211279a07d3158/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Vietnam - Japan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Vietnam - Japan
-https://179410038.global.cdnfastest.com/live/1835da7dafa02da4ff6af052ba8c9ca5e88/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Vietnam - Japan
-https://179410038.global.cdnfastest.com/live/183f30fcf8f65ab4627805e00190a51b4d6/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Vietnam - Japan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Vietnam - Japan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Lebanon - Iran
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài North Macedonia U21 - Ukraine U21
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Uganda - Kenya
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Ethiopia - Ghana
@@ -117,12 +103,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",19h00 11/11: Vietnam - Japan
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b235f814e2b2ede372319-ijfeGH-ijfeGH&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",19h00 11/11: Lebanon - Iran
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b235bc84ea72ea50e96a0-6zIQpg-6zIQpg&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",19h00 11/11: North Macedonia U21 - Ukraine U21
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b2390814e2b2ede37232b-OGJ7fW-OGJ7fW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",20h00 11/11: Uganda - Kenya
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b2363814e2b2ede37231c-soT1Ja-soT1Ja&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",20h00 11/11: Ethiopia - Ghana
