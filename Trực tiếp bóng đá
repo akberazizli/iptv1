@@ -71,8 +71,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/3Yb4fbv/IMG-20211110-182828.png",VIỆT NAN VS NHẬT BẢN 19h/11/11
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/KDm50my/IMG-20211107-011404.png", TRỰC TIẾP 1 BÌNH LUẬN
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/everton-vs-tottenham-2100-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
@@ -83,10 +81,7 @@ https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/tr
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/N1D81bt/IMG-20211107-052227.png", TRỰC TIẾP 4 BÌNH LUẬN  
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/west-ham-utd-vs-liverpool-2330-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/dgg1R5V/IMG-20211107-074745.png", TRỰC TIẾP 5 BÌNH LUẬN
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zmVNn89/IMG-20211111-164754.png",TỚI TRẬN MỚI PHÁT 1
-https://jq9sucdqmfliv.vcdn.cloud/may5/index.m3u8|Referer=https://mitom.90phutttt.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/tZrQyyF/IMG-20211111-164735.png",TỚI TRẬN MỚI PHÁT 2
-https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer=https://mitom.90phutttt.xyz/
+https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/juventus-vs-fiorentina-0000-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GdGsZqP/IMG-20211018-152957.png",TỚI TRẬN MỚI MỞ HD1
 https://live90.thapcam.link/live/1837e24295520ac47ce8b211279a07d3158/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -134,6 +129,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài France U21 - Armenia U21
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Ecuador - Venezuela
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 
