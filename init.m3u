@@ -86,6 +86,8 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bHD1xCh/IMG-20211112-063337.png",TRỰC TIẾP SAO KÊ 1
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JQdNppH/IMG-20211112-063132.png",TRỰC TIẾP SAO KÊ 2
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GdGsZqP/IMG-20211018-152957.png",TỚI TRẬN MỚI MỞ HD1
 https://live90.thapcam.link/live/1837e24295520ac47ce8b211279a07d3158/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
