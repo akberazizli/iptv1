@@ -79,10 +79,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 https://jq9sucdqmfliv.vcdn.cloud/may0HD/index.m3u8|Referer=https://www.vebotv.live/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",20h00 13/11: Zambia - Mauritania
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b2679c84ea72ea50e96d9-peVmh9-peVmh9&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",20h00 13/11: Malawi - Cameroon
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b267c814e2b2ede372349-ktNItv-ktNItv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",20h00 13/11: Zambia - Mauritania
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b2679c84ea72ea50e96d9-peVmh9-peVmh9&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",21h00 13/11: Bosnia and Herzegovina - Finland
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b2680814e2b2ede37234c-jEbVoa-jEbVoa&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",23h00 13/11: Equatorial Guinea - Tunisia
