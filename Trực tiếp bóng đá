@@ -83,8 +83,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/VwHDDQ7/IMG-20211112-191206.png",TRỰC TIẾP 90PHUT 1
 https://jq9sucdqmfliv.vcdn.cloud/may0HD/index.m3u8|Referer=https://www.vebotv.live/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Honduras - Panama
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài El Salvador - Jamaica
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Canada - Costa Rica
@@ -100,8 +98,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 USA - Mexico
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",08h05 13/11: Honduras - Panama
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b2632814e2b2ede372343-cCFPGV-cCFPGV&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",09h00 13/11: El Salvador - Jamaica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b2637dd24032e9f4a5436-HVsYc6-HVsYc6&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",09h05 13/11: Canada - Costa Rica
