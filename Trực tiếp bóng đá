@@ -83,6 +83,10 @@ https://ja0ytqfmrnliv.vcdn.cloud/aa15f8c64aba273e3e87de48c6bbd685/1636937062175/
 https://jq9sucdqmfliv.vcdn.cloud/may0HD/index.m3u8|Referer=https://www.vebotv.live/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Malta - Slovakia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Slovenia - Cyprus
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Mali - Uganda
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Mali - Uganda
@@ -94,6 +98,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Mali - Uganda
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",21h00 14/11: Malta - Slovakia
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b2798c84ea72ea50e96e8-FFC5f3-FFC5f3&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",21h00 14/11: Slovenia - Cyprus
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b279cc84ea72ea50e96eb-hz2m9n-hz2m9n&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",23h00 14/11: Mali - Uganda
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618b27a0814e2b2ede372368-8gLnJR-8gLnJR&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",00h00 15/11: Armenia - Germany
