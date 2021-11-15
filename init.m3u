@@ -83,8 +83,7 @@ https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/tr
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/tbDVzyr/IMG-20211115-052727.png",TRỰC TIÊP MÌ TÔM TV 3
 https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/leeds-united-vs-leicester-city-2100-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
-TIẾP 90PHUT 1
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/VwHDDQ7/IMG-20211112-191206.png",TRỰC TIẾP 90PHUT 1
 https://p90020921.vnroute.com/123SD/playlist.m3u8
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/c15Lny3/IMG-20211112-191223.png",TRỰC TIẾP 90PHUT 2 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/c15Lny3/IMG-20211112-191223.png",TRỰC TIẾP 90PHUT 2 
 https://livestream-2.socialstreaming.tv/live/6192ad14206d90001cd6ee05/6192ad14206d90001cd6ee05.m3u8
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/KVrHTt5/IMG-20211116-044108.png",TRỰC TIẾP
