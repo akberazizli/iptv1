@@ -83,6 +83,8 @@ https://jq9sucdqmfliv.vcdn.cloud/may0HD/index.m3u8|Referer=https://www.vebotv.li
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 16/11: San Marino - England
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee875c84ea72ea50e9a34-DriALE-DriALE&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 16/11: Northern Ireland - Italy
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee855814e2b2ede3726c9-KzdG66-KzdG66&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 16/11: Switzerland - Bulgaria
@@ -97,8 +99,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee865814e2b2ede3726d2
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee869814e2b2ede3726d3-hfAMdn-hfAMdn&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 16/11: Poland - Hungary
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee870f700cf2ed729f13b-OoCWrx-OoCWrx&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 16/11: San Marino - England
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee875c84ea72ea50e9a34-DriALE-DriALE&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",19h00 16/11: Lebanon - UAE
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee878f700cf2ed729f13e-AInSyW-AInSyW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",19h00 16/11: Vietnam - Saudi Arabia
