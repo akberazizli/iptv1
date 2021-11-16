@@ -79,45 +79,7 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/WKnMxww/IMG-20211112-124752.png",TRỰC TIẾP SAO KÊ 2
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Oman - Japan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",Full HD Oman - Japan
-https://live.rakhoi.tv/truc-tiep/618ee895f700cf2ed729f148-7QAoFS.html?link=2|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Oman - Japan
-https://na46hw9rf0liv.vcdn.cloud/cayhd2/index.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Oman - Japan
-https://na46hw9rf0liv.vcdn.cloud/caysd2/index.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Oman - Japan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Oman - Japan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Syria - Iran
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",Full HD Syria - Iran
-https://rakhoi.tv/|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Algeria - Burkina Faso
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",Full HD Algeria - Burkina Faso
-https://rakhoi.tv/|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Liberia - Central African Republic
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",Full HD Liberia - Central African Republic
-https://rakhoi.tv/|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Nigeria - Cape Verde
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",Full HD Nigeria - Cape Verde
-https://rakhoi.tv/|Referer=
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",23h00 16/11: Oman - Japan
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee895f700cf2ed729f148-7QAoFS-7QAoFS&.m3u8|Referer=
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",23h00 16/11: Syria - Iran
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee891f700cf2ed729f147-r2Hsbk-r2Hsbk&.m3u8|Referer=
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",23h00 16/11: Algeria - Burkina Faso
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee898c84ea72ea50e9a40-WRyUa6-WRyUa6&.m3u8|Referer=
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",23h00 16/11: Liberia - Central African Republic
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee89b814e2b2ede3726db-SS9u5l-SS9u5l&.m3u8|Referer=
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",23h00 16/11: Nigeria - Cape Verde
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee89fc84ea72ea50e9a43-o3O8Gu-o3O8Gu&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h00 17/11: Mauritania - Equatorial Guinea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee8f8c84ea72ea50e9a46-FC2OZ8-FC2OZ8&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h00 17/11: Tunisia - Zambia
@@ -126,10 +88,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee8fbf700cf2ed729f14d
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee8fec84ea72ea50e9a49-J8dnyW-J8dnyW&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h00 17/11: Morocco - Guinea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee901dd24032e9f4a5734-IAJipl-IAJipl&.m3u8|Referer=
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 17/11: Bosnia and Herzegovina - Ukraine
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee91add24032e9f4a5737-nBSUpj-nBSUpj&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 17/11: Finland - France
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee91e814e2b2ede3726de-pcqRCM-pcqRCM&.m3u8|Referer=
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 17/11: Bosnia and Herzegovina - Ukraine
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee91add24032e9f4a5737-nBSUpj-nBSUpj&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 17/11: Czech Republic - Estonia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee922dd24032e9f4a573a-RXbtHO-RXbtHO&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",02h45 17/11: Wales - Belgium
