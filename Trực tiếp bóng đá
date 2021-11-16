@@ -78,17 +78,6 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/WKnMxww/IMG-20211112-124752.png",TRỰC TIẾP SAO KÊ 2
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qWThBZz/IMG-20211115-052802.png",TRỰC TIÊP MÌ TÔM TV 1
-https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/everton-vs-tottenham-2100-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/GQs1K7D/IMG-20211115-052746.png",TRỰC TIÊP MÌ TÔM TV 2
-https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/arsenal-vs-watford-2100-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/tbDVzyr/IMG-20211115-052727.png",TRỰC TIÊP MÌ TÔM TV 3
-https://family4you.fun/vn360sport/mitomtv/mitom_get.php?url=https://mitom1.tv/truc-tiep/leeds-united-vs-leicester-city-2100-07-11/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/VwHDDQ7/IMG-20211112-191206.png",TRỰC TIẾP 90PHUT 1
-https://p90020921.vnroute.com/123SD/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/c15Lny3/IMG-20211112-191223.png",TRỰC TIẾP 90PHUT 2 
-https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://www.vebotv.live/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Vietnam - Saudi Arabia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
