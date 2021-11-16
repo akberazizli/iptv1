@@ -91,10 +91,10 @@ https://p90020921.vnroute.com/123SD/playlist.m3u8
 https://livestream-2.socialstreaming.tv/live/6192ad14206d90001cd6ee05/6192ad14206d90001cd6ee05.m3u8
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",19h00 16/11: Lebanon - UAE
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee878f700cf2ed729f13e-AInSyW-AInSyW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",19h00 16/11: Vietnam - Saudi Arabia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee87cc84ea72ea50e9a37-8R7wWe-8R7wWe&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",19h00 16/11: Lebanon - UAE
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee878f700cf2ed729f13e-AInSyW-AInSyW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",20h00 16/11: Mozambique - Malawi
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=618ee880f700cf2ed729f141-qRjIiX-qRjIiX&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/NmCbwCp/IMG-20211022-182629.png",20h00 16/11: Egypt - Gabon
