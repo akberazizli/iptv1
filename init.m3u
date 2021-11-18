@@ -79,19 +79,20 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/z7MqSm9/IMG-20211117-091650.png",TRỰC TIẾP SAO KÊ 3
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Linh 1
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Dbkg9J7/IMG-20211118-035350.png",HD 1 Linh 1
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Linh  1
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/zxmjj9k/IMG-20211118-035331.png",HD 2 Linh  1
 https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/HNBJdp5/IMG-20211108-041712.png",HD 1 Linh  2
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/XDDGv5J/IMG-20211118-035315.png",HD 1 Linh  2
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/cQZZKfV/IMG-20211108-041729.png",HD 2 Linh  2
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/2MJ2qGM/IMG-20211118-035259.png",HD 2 Linh  2
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/gd5mhfx/IMG-20211107-152052.png",HD 1 Linh 3
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/dDpp0rs/IMG-20211118-035246.png",HD 1 Linh 3
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/KmYBFpk/IMG-20211107-152036.png",HD 2 Linh  3
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/kK5YnxC/IMG-20211118-035230.png",HD 2 Linh  3
 https://179410038.global.cdnfastest.com/live/1835da7dafa02da4ff6af052ba8c9ca5e88/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+
 
