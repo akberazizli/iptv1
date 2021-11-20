@@ -84,9 +84,9 @@ https://na46hw9rf0liv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://live.rakho
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/zxmjj9k/IMG-20211118-035331.png",BLV: Giàng A Phò Linh  1
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/XDDGv5J/IMG-20211118-035315.png",HD 1 Linh  2
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/XDDGv5J/IMG-20211118-035315.png",BLV: Giàng A Lử Linh  2
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/2MJ2qGM/IMG-20211118-035259.png",HD 2 Linh  2
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/2MJ2qGM/IMG-20211118-035259.png",BLV: Giàng A Lử Linh  2
 https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/dDpp0rs/IMG-20211118-035246.png",BLV: Giàng A  pao Linh 3
