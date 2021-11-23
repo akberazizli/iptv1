@@ -94,6 +94,14 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/kK5YnxC/IMG-20211118-035230.png",BLV: Giàng A Cay  HD2
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ncPRs1Q/Screenshot-20211123-152645.jpg",Man United vs Villarreal 00h45/24/11
+https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hWzV7TD/Screenshot-20211123-152707.jpg",Barcelona vs Benfica 03h00/24/11
+https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Cbp45QH/Screenshot-20211123-152628.jpg",Bayern München vs Dynamo Kyiv 00:45 24/11/
+https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",00h45 24/11: Dynamo Kyiv - Bayern München
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619807bd6a6cc20892642cd2-uJwycM-uJwycM&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
