@@ -117,6 +117,30 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playl
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Club Brugge - RB Leipzig
 https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Atletico Madrid - Milan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Atletico Madrid - Milan
+https://xem.rakhoi.tv/truc-tiep/619d498e093d4908b288c035-TYGCIK.html?link=2|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Atletico Madrid - Milan
+https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Atletico Madrid - Milan
+https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Atletico Madrid - Milan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Atletico Madrid - Milan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Liverpool - FC Porto
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Liverpool - FC Porto
+https://xem.rakhoi.tv/truc-tiep/619d4991cedadf08cbba3a35-bL3iG2.html?link=2|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Liverpool - FC Porto
+https://na46hw9rf0liv.vcdn.cloud/paohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Liverpool - FC Porto
+https://na46hw9rf0liv.vcdn.cloud/paosd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Liverpool - FC Porto
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Liverpool - FC Porto
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sporting CP - Dortmund
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Sporting CP - Dortmund
@@ -158,3 +182,61 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=619d49966a6cc20892643062
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619d49fd093d4908b288c03a-NS0uGP-NS0uGP&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",22h30 25/11: Kairat Almaty - Basel
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619d4a026a6cc20892643065-nNPql7-nNPql7&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Galatasaray - Marseille
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9ba46a6cc2089264310b-gzzYP7-gzzYP7&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Lokomotiv - Lazio
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bab093d4908b288c0de-u1Jel0-u1Jel0&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Midtjylland - Braga
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bb07aa67d088ca805ab-BZysTg-BZysTg&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: FK Crvena Zvezda - Ludogorets Razgrad
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bb86a6cc2089264310e-AGI9nC-AGI9nC&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Leverkusen - Celtic
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bbfcedadf08cbba3aeb-XwiQuI-XwiQuI&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Real Betis - Ferencvaros
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bc4093d4908b288c0e1-wBrCfZ-wBrCfZ&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Dinamo Zagreb - Genk
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bca6a6cc20892643111-Hor7Iu-Hor7Iu&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Rapid Wien - West Ham
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bcfcedadf08cbba3aee-xisDNG-xisDNG&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",00h45 26/11: HJK - Alashkert FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c526a6cc2089264311a-X1HEiF-X1HEiF&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",00h45 26/11: Maccabi Haifa - Union Berlin
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c55cedadf08cbba3af7-ADuuii-ADuuii&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",00h45 26/11: Slavia Prague - Feyenoord
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c59cedadf08cbba3af8-B1DA6O-B1DA6O&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",00h45 26/11: Lincoln Red Imps FC - FC København
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c5d7aa67d088ca805b4-LYcbEW-LYcbEW&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",00h45 26/11: Slovan Bratislava - PAOK Thessaloniki FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c63cedadf08cbba3afd-aPAbyK-aPAbyK&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",00h45 26/11: Mura - Tottenham
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c6acedadf08cbba3b00-TWKrnl-TWKrnl&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",00h45 26/11: Rennes - Vitesse
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c6fcedadf08cbba3b03-VhQ17f-VhQ17f&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",00h45 26/11: Qarabag FK - Omonia Nicosia
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c74093d4908b288c0e7-elOAwK-elOAwK&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",03h00 26/11: Brøndby IF - Lyon
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bd4093d4908b288c0e4-D4zeSZ-D4zeSZ&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",03h00 26/11: Rangers - Sparta Prague
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bd8cedadf08cbba3af1-GNACij-GNACij&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",03h00 26/11: Monaco - Real Sociedad
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bdd6a6cc20892643114-byVBEc-byVBEc&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",03h00 26/11: PSV Eindhoven - Sturm Graz
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9be17aa67d088ca805ae-Xp2rp7-Xp2rp7&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",03h00 26/11: Leicester - Legia Warszawa
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bee6a6cc20892643117-W9ZA0u-W9ZA0u&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",03h00 26/11: Frankfurt - Royal Antwerp
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bf57aa67d088ca805b1-Fan98n-Fan98n&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",03h00 26/11: Olympiacos - Fenerbahçe
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bfacedadf08cbba3af4-K2wud9-K2wud9&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",03h00 26/11: Maccabi Tel Aviv - LASK
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c797aa67d088ca805b7-8fte18-8fte18&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",03h00 26/11: Anorthosis - Gent
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c7d7aa67d088ca805ba-wz8VCW-wz8VCW&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",03h00 26/11: Bodø/Glimt - PFC CSKA-Sofia
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c817aa67d088ca805bb-r1BtGq-r1BtGq&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",03h00 26/11: Roma - Zorya
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c86093d4908b288c0ea-cWqchr-cWqchr&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",03h00 26/11: Jablonec - AZ Alkmaar
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c8a093d4908b288c0ed-vMtTRa-vMtTRa&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",03h00 26/11: Randers FC - CFR Cluj
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9c8e6a6cc2089264311d-sTVw0E-sTVw0E&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
