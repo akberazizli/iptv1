@@ -107,6 +107,22 @@ https://na46hw9rf0liv.vcdn.cloud/taosd2/index.m3u8|Referer=https://live.rakhoi.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Leicester - Legia Warszawa
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Anorthosis - Gent
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Anorthosis - Gent
+https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Bodø/Glimt - PFC CSKA-Sofia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Bodø/Glimt - PFC CSKA-Sofia
+https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Jablonec - AZ Alkmaar
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Jablonec - AZ Alkmaar
+https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Randers FC - CFR Cluj
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Randers FC - CFR Cluj
+https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",03h00 26/11: Leicester - Legia Warszawa
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9bee6a6cc20892643117-W9ZA0u-W9ZA0u&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
