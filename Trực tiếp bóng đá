@@ -94,12 +94,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/kK5YnxC/IMG-20211118-035230.png",BLV: Giàng A Cay  HD2
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xkd4DVt/IMG-20211124-180831.png",Liverpool vs FC Porto 03:00/25/11
-https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo =https://i.ibb.co/cb8MBVD/IMG-20211124-180820.png",Man City vs PSG 03:00/25/11
- https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo =https://i.ibb.co/8DN5jb5/IMG-20211124-180810.png",Real Madrid vs FC Sheriff 03:00/25/11
-https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",22h30 25/11: Flora Tallinn - Partizan Beograd
