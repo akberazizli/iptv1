@@ -96,10 +96,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",22h30 25/11: Flora Tallinn - Partizan Beograd
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=619d49fd093d4908b288c03a-NS0uGP-NS0uGP&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",22h30 25/11: Kairat Almaty - Basel
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619d4a026a6cc20892643065-nNPql7-nNPql7&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.ibb.co/njFVnQF/IMG-20211018-083919.png",22h30 25/11: Flora Tallinn - Partizan Beograd
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=619d49fd093d4908b288c03a-NS0uGP-NS0uGP&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Galatasaray - Marseille
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9ba46a6cc2089264310b-gzzYP7-gzzYP7&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.ibb.co/Ltfs8m5/IMG-20211018-081030.png",00h45 26/11: Lokomotiv - Lazio
