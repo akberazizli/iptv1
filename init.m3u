@@ -72,12 +72,12 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/0y5J5Wf/IMG-20211112-124734.png",BLV : SAO MAI 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/MNqFJRS/IMG-20211126-114325.png",BLV : SAO MAI 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/WKnMxww/IMG-20211112-124752.png",BLV : SAO KÊ 
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/z7MqSm9/IMG-20211117-091650.png",BLV: Thần Chổi 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jfqfXmf/IMG-20211126-114310.png",BLV: Thần Chổi 
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/RcG15dg/IMG-20211126-114256.png",BLV : SAO KÊ 
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/vqrhxYN/IMG-20211126-100629.png",BLV: Giàng A Phò  HD1
 https://na46hw9rf0liv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
