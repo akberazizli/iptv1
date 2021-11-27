@@ -95,14 +95,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Sd56y5X/IMG-20211126-094411.png",BLV: Giàng A TAO HD1
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Empoli - Fiorentina
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Empoli - Fiorentina
-https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sampdoria - Hellas Verona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Sampdoria - Hellas Verona
-https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Bochum - Freiburg
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Bochum - Freiburg
@@ -166,10 +158,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Lille - Nantes
 https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",21h00 27/11: Empoli - Fiorentina
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9d6d6a6cc20892643123-M8thKQ-M8thKQ&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",21h00 27/11: Sampdoria - Hellas Verona
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9d6ecedadf08cbba3b0a-SlFABc-SlFABc&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",21h30 27/11: Bochum - Freiburg
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9d8e093d4908b288c0f3-5w9kmM-5w9kmM&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",21h30 27/11: Köln - M'gladbach
