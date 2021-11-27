@@ -98,7 +98,7 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.t
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Venezia - Inter
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Venezia - Inter
-https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
+https://xem.rakhoi.tv/truc-tiep/619e9ec57aa67d088ca805ed-05rtAE.html?link=2|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Venezia - Inter
 https://na46hw9rf0liv.vcdn.cloud/paohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Venezia - Inter
@@ -110,7 +110,7 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Villarreal - Barcelona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Villarreal - Barcelona
-https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
+https://xem.rakhoi.tv/truc-tiep/619e9ea27aa67d088ca805e8-MVOYWl.html?link=2|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Villarreal - Barcelona
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Villarreal - Barcelona
@@ -119,6 +119,10 @@ https://na46hw9rf0liv.vcdn.cloud/taosd2/index.m3u8|Referer=https://live.rakhoi.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Villarreal - Barcelona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Nice - Metz
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Nice - Metz
+https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",02h45 28/11: Venezia - Inter
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9ec57aa67d088ca805ed-05rtAE-05rtAE&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
