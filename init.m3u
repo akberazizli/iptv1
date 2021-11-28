@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U
 #EXTINF: bongda
 #EXTINF: -1 tvg-id = "vtvcab16hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/BDTV_Logo_150x904.jpg", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -94,4 +94,3 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Sd56y5X/IMG-20211126-094411.png",BLV: Giàng A TAO HD1
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-
