@@ -90,10 +90,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Espanyol - Real Sociedad
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Espanyol - Real Sociedad
-https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Montpellier - Lyon
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Montpellier - Lyon
@@ -130,9 +126,19 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD CSKA - Zenit
 https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cadiz - Atletico Madrid
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Cadiz - Atletico Madrid
+https://xem.rakhoi.tv/truc-tiep/619e9e016a6cc20892643132-Gbui2x.html?link=2|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Cadiz - Atletico Madrid
+https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Cadiz - Atletico Madrid
+https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Cadiz - Atletico Madrid
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Cadiz - Atletico Madrid
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",22h15 28/11: Espanyol - Real Sociedad
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9eb2093d4908b288c0fc-C6xck1-C6xck1&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",23h00 28/11: Montpellier - Lyon
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9f3f6a6cc20892643150-Abozec-Abozec&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",23h30 28/11: Chelsea - Man United
