@@ -1,6 +1,15 @@
 #EXTM3U url-tvg = "http://trada.info/epg.xml" tvg-shift = 0 m3uautoload = 1
 
 #EXTINF:vo phu 
+
+#EXTINF:0 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130437&path-prefix=vi", K+Sports 1 HD(myk+)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+
+
 #EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 1
 https://vnw-vod-cdn.popsww.com/hn-_2w81tc8m_7C6Vxmps3yAJr_HEo/videos/transcoded/cn_thamtulungdanhconan_tap411_app-popsapp/index-f2-v1-a1.m3u8
 #EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 2
