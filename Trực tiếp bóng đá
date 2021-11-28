@@ -90,14 +90,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Napoli - Lazio
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Napoli - Lazio
-https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Marseille - Troyes
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Marseille - Troyes
-https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Real Madrid - Sevilla
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Real Madrid - Sevilla
@@ -111,10 +103,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Real Madrid - Sevilla
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",02h45 29/11: Napoli - Lazio
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9e166a6cc20892643135-g9FLPw-g9FLPw&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",02h45 29/11: Marseille - Troyes
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9e337aa67d088ca805db-4E4c29-4E4c29&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",03h00 29/11: Real Madrid - Sevilla
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=619e9e027aa67d088ca805d5-8pigqG-8pigqG&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",03h00 30/11: Osasuna - Elche
