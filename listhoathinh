@@ -1,6 +1,59 @@
-#EXTM3U url-tvg = "http://trada.info/epg.xml" tvg-shift = 0 m3uautoload = 1
-
+#EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
+
+#EXTINF: -1 tvg-id = "vtvcab16hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/BDTV_Logo_150x904.jpg", One Bóng đáTV
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "vtvcab3hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/TTTV_Logo_150x904.jpg", Một Thể ThaoTV
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF: -1 tvg-id = "vtvcab23hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/Golf_Logo_update_150x902.jpg", Một gofl
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/onsport_Logo_150x902.jpg", One Sports +
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/4WdxTnW/IMG-20210818-205754.png", SCTV15
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/0ZFYb4x/IMG-20210818-205836.png", SCTV 17
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8?md5=Ta95m8zjauF5U4Ya8NsJvg&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/cC8wvvc/IMG-20210818-205956.png", SCTV22
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/HDHJkz1/IMG-20210818-165554.png", Bình Dương 5
+https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Zmh2ycY/IMG-20210818-071456.png",VTV6 HD
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF: -1 group-title = "K+" tvg-logo = "https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ Sport1 thử nghiệm
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+
+#EXTINF: -1 group-title = "K+" tvg-logo = "https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png",K+ Sport2 thử nghiệm
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+
+#EXTINF: -1 group-title = "K+" tvg-logo = "https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", K+Life HD thử nghiệm
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+
+#EXTINF: -1 group-title = "K+" tvg-logo = "https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ Cine thử nghiệm
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlivevng.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vanhtv123.000webhostapp.com/k+live 1.png" group-title="K+",K+ LIVE 1
 #EXTVLCOPT:http-user-agent="vanhTV"
@@ -29,139 +82,27 @@ https://ottlivevng.kplus.vn/live/prod_mykplus_live_tv_2_fps/prod_mykplus_live_tv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ottlivevng.kplus.vn/live/prod_mykplus_live_tv_3_fps/prod_mykplus_live_tv_3_fps.isml/prod_mykplus_live_tv_3_fps.mpd
 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Pw81RJv/IMG-20211126-115710.png",BLV : SAO MAI 
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/sRnp30g/IMG-20211126-115723.png",BLV: Thần Chổi 
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JkvY2hP/IMG-20211126-115654.png",BLV : SAO KÊ 
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 1
-https://vnw-vod-cdn.popsww.com/hn-_2w81tc8m_7C6Vxmps3yAJr_HEo/videos/transcoded/cn_thamtulungdanhconan_tap411_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 2
-https://vnw-vod-cdn.popsww.com/hn-korNIIAcFTky7NvViBq2m9ACuDg/videos/transcoded/cn_thamtulungdanhconan_tap412_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 3
-https://vnw-vod-cdn.popsww.com/hn-si72H0fwAXxDhlgr9ITQxU1FV6I/videos/transcoded/cn_thamtulungdanhconan_tap413_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 4
-https://vnw-vod-cdn.popsww.com/hn-GIzSuPyNGDIfCdO0bP5Qm4fGB7M/videos/transcoded/cn_thamtulungdanhconan_tap414_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 5
-https://vnw-vod-cdn.popsww.com/hn-RxHFk2dE4qmvrEqE0d5BYC_5MoI/videos/transcoded/cn_thamtulungdanhconan_tap415_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 6
-https://vnw-vod-cdn.popsww.com/hn-jn-b-Cyn-dxP8zPlwv9Nu0ilzss/videos/transcoded/cn_thamtulungdanhconan_tap416_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="conan" tvg-logo="https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png",TẬP 7
-https://vnw-vod-cdn.popsww.com/hn-1-ze9NioVdLm8M3ZhCoCp5olHqU/videos/transcoded/cn_thamtulungdanhconan_tap417_app-popsapp/index-f2-v1-a1.
-#EXTINF: -1 tvg-id = "hoạt-hìnhhd" group-title = "conan" tvg-logo = "https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png", TẬP 8
-https://vnw-vod-cdn.popsww.com/hn-n8Xd9G1QFBcDTLVQtWCxBPmMSt8/videos/transcoded/cn_thamtulungdanhconan_tap419_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF: -1 tvg-id = "hoạt-hìnhhd" group-title = "conan" tvg-logo = "https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png", TẬP 9
-https://vnw-vod-cdn.popsww.com/hn-W3hA66YETiXt0-WLugYLCx1atMU/videos/transcoded/cn_thamtulungdanhconan_tap420_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF: -1 tvg-id = "hoạt-hìnhhd" group-title = "conan" tvg-logo = "https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png", TẬP 10
-https://vnw-vod-cdn.popsww.com/hn-udh1rtWQyepPbYj5yVqYQESYB14/videos/transcoded/cn_thamtulungdanhconan_tap421_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF: -1 tvg-id = "hoạt-hìnhhd" group-title = "conan" tvg-logo = "https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png", TẬP 11
-https://vnw-vod-cdn.popsww.com/hn-K_LHl63ba2XYIdueYQtSDY3mHAE/videos/transcoded/cn_thamtulungdanhconan_tap422_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF: -1 tvg-id = "hoạt-hìnhhd" group-title = "conan" tvg-logo = "https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png", TẬP 12
-https://vnw-vod-cdn.popsww.com/hn-dmWjFLSvZtcMLIrV1iXwzlwQuMw/videos/transcoded/cn_thamtulungdanhconan_tap423_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF: -1 tvg-id = "hoạt-hìnhhd" group-title = "conan" tvg-logo = "https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png", TẬP 13
-https://vnw-vod-cdn.popsww.com/hn-5TwlAC_WILvqvKjgaBoQe6XVfFo/videos/transcoded/cn_thamtulungdanhconan_tap424_app-popsapp/index-f2-v1-a1.m3u8
-#EXTINF: -1 tvg-id = "hoạt-hìnhhd" group-title = "conan" tvg-logo = "https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png", TẬP 14
-https://vnw-vod-cdn.popsww.com/dw-Dnr9XZpkQUOy4C8y82GnT6rvW_g/videos/transcoded/cn_thamtulungdanhconan_tap425_app-popsapp/init-v1-f2-v1.mp4
-#EXTINF: -1 tvg-id = "hoạt-hìnhhd" group-title = "conan" tvg-logo = "https://i.ibb.co/xSvcVLj/IMG-20211012-153427.png", TẬP 15
-https://vnw-vod-cdn.popsww.com/hn-msFOUb1Hk7RvA3ggebdJt6oISkc/videos/transcoded/cn_thamtulungdanhconan_tap426_app-popsapp/index-f2-v1-a1.m3u8
- 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/vqrhxYN/IMG-20211126-100629.png",BLV: Giàng A Phò  HD1
+https://na46hw9rf0liv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ZmjqWby/IMG-20211126-100647.png",BLV: Giàng A Phò  HD2
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 1
-https://vnw-vod-cdn.popsww.com/hn-zpvoiqZmr6CAwKQvzivxE0uGbP8/videos/transcoded/update_popskid_doraemon_phan9_tap1_417-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 2
-https://vnw-vod-cdn.popsww.com/hn-9tZwiB65JTiiSL3RyAA6Jn5HHSo/videos/transcoded/update_popskid_doraemon_phan9_tap2_418-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 3
-https://vnw-vod-cdn.popsww.com/hn-nEEpbtDPNvAZz2-QDkbjP83Y6e8/videos/transcoded/doraemon_set6_eps003a_phan5reup-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 4
-https://vnw-vod-cdn.popsww.com/hn-jb8HWI_oojgIX7E67rLljOlVbCo/videos/transcoded/doraemon_set7_eps002-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 5
-https://vnw-vod-cdn.popsww.com/hn-rmnlYq3c_-rG2CcEV4aTpSZxyCI/videos/transcoded/doraemon_set6_eps006-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="doraemon" tvg-logo="https://i.ibb.co/BVnzfDd/Th-3-12-10-2021-15-27-13.png",TẬP 6
-https://vnw-vod-cdn.popsww.com/hn-Z9FTtydonItx2Hxx0vqY30pJDzo/videos/transcoded/fix_doraemon_set6_eps008-popsapp/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 1
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo01_2fc6f668168e21cf/9e34681a/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 2
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo02_69a1525894f57d3b/bc0d1e29/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 3
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo03_d86ed2f2f8a7f97f/15f445af/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 4
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo04_1a4e4177ba60fbf6/8c38abd4/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 5
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo05_5a7775c78c85b552/23b6641d/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 6
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo06_67ec76a35d3e86db/c309f861/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 7
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo07_f679acf0a0b8a9d1/d0c03d6a/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 8
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo08_990b930ad8359d9b/3646c382/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 9
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo09_ad9e48e3de5f3e03/0f962c4a/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 10
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo10_02f892e82254b03c/0fa960f4/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 11
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo11_2bd9d6a6d107a116/b58d4acb/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 12
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo12_03eb50dbdd5fdc00/822aac74/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 13
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo13_c587b63556f3e088/29a38bd7/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 14
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo14_9cfa5bb9ec587209/ada07536/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 15
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo15_adbd227d14205709/ab129feb/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 16
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo16_584f4af25c987420/4f9982b3/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 17
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo17_818c4a865c20163d/f615e65e/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 18
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo18_83133fdd1270a3e8/fe7aeb56/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 19
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo19_3fc9ffc034b5cd6d/f396339a/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 20
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo20_d356c2e6ccdbbbf7/719f47ce/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 21
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo21_6be7eac46a65f790/c7385e58/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 22
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo22_a327592b94f176af/950ae7e0/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 23
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo23_0659ba11011669b7/99f2a00d/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 24
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo24_b4d8f693cc3803b2/5486bb20/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 25
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo25_d0468bde7e95310c/717d0554/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 26
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo26_dec15620f54cd228/88b6e8fd/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 27
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo27_456a86319b83573a/348e1e4d/hls/mapper-hd/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 28
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo28_40a6ffedde1643d2/76ae8649/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 29
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo29_ccbc767382fb8148/5ba8444c/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 30
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo30_005045cc015a5ef4/a21d26b8/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 31
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo31_151bf2ca564bbbf8/fe644ce5/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 32
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo32_665eff71dffa59a8/24c1aea6/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 33
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo33_b410df1860518449/0dfd441b/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 34
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo34_29336037a72e9838/2f7669f0/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 35
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo35_91f62bceed093809/1358da1f/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 36
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo36_4698e7d85b5550b3/5107f4cf/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 37
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo37_73032df936711668/c91e4494/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 38
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo38_6e337c657e32e664/e06841ad/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 39
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo39_f53559acbf733e61/7a7cfecc/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 40
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo40_f638f2aa3fd4c3eb/ca389730/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 41
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo41_2c954f0cc923ebb8/42a1e557/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 42
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo42_b21f44e83436938c/07408030/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 43
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo43_f4d29fd6764b6603/04578eef/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 44
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo44_a6959a8ce765b406/8f768f60/hls/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="hoạt-hìnhhd" group-title="thiên-long-bác-bộ" tvg-logo="https://i.ibb.co/DQG92xf/1e89d1b9fa04df44f3dd4592dfe22d2b.png",TẬP 45 tập cuối
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202105/thienlongbatbo45_a3544ce640ea9850/ff31eee6/hls/playlist.m3u8|Referer=https://sctvonline.vn/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/FHTbHXx/IMG-20211126-100614.png",BLV: Giàng A Lữ  HD1
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hfXQYJm/IMG-20211126-100559.png",BLV: Giàng A Lữ  HD2
+https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/J3HqYpf/IMG-20211126-100458.png",BLV: Giàng A  CAY HD1
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/zJ0CC7W/IMG-20211126-100544.png",BLV: Giàng A PÁO HD2
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Sd56y5X/IMG-20211126-094411.png",BLV: Giàng A TÁO HD1
+https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
