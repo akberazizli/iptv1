@@ -134,6 +134,10 @@ https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Venezia - Hellas Verona
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Leeds - Brentford
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Leeds - Brentford
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Tottenham - Norwich
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Tottenham - Norwich
