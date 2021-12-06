@@ -50,3 +50,21 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Sd56y5X/IMG-20211126-094411.png",BLV: Giàng A TÁO HD1
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
+
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png", Man City VS RB Leipzig 00:45/08/12
+https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",PSG VS Club Brugge 00:45/08/12
+https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Liverpool VS Milan03:00/08/12
+https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Real Madrid VS Inter 03:00/08/12
+https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Dortmund VS Beşiktaş 03:00/08/12
+https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Sporting CP VS Ajax 03:00/08/12
+https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",FC Sheriff VS Shakhtar Donetsk 03:00/08/12
+https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",FC Porto VS Atletico Madrid 03:00/08/12
+https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
+
