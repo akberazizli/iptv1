@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF: bongda
-#EXTINF: -1 tvg-id = "vtvcab16hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/BDTV_Logo_150x904.jpg", One Bóng đáTV
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/BDTV_Logo_150x904.jpg", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 tvg-id = "vtvcab3hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/TTTV_Logo_150x904.jpg", Một Thể ThaoTV
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/TTTV_Logo_150x904.jpg", Một Thể ThaoTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 tvg-id = "vtvcab23hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/Golf_Logo_update_150x902.jpg", Một gofl
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/Golf_Logo_update_150x902.jpg", Một gofl
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/onsport_Logo_150x902.jpg", One Sports +
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
@@ -51,50 +51,3 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png", Man City VS RB Leipzig 00:45/08/12
-https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",PSG VS Club Brugge 00:45/08/12
-https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Liverpool VS Milan03:00/08/12
-https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Real Madrid VS Inter 03:00/08/12
-https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Dortmund VS Beşiktaş 03:00/08/12
-https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Sporting CP VS Ajax 03:00/08/12
-https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",FC Sheriff VS Shakhtar Donetsk 03:00/08/12
-https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",FC Porto VS Atletico Madrid 03:00/08/12
-https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/f98NSLG/IMG-20211207-192121.png",Man City VS RB Leipzig 00:45/08/12
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/f98NSLG/IMG-20211207-192121.png",PSG VS Club Brugge 00:45/08/12
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/                                                    
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/f98NSLG/IMG-20211207-192121.png",Liverpool VS Milan03:00/08/12
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/f98NSLG/IMG-20211207-192121.png",FC Porto VS Atletico Madrid 03:00/08/12
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/f98NSLG/IMG-20211207-192121.png",Real Madrid VS Inter 03:00/08/12
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xb8CbYR/IMG-20211207-192218.png",Man City VS RB Leipzig 00:45/08/12
-https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xb8CbYR/IMG-20211207-192218.png",PSG VS Club Brugge 00:45/08/12
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xb8CbYR/IMG-20211207-192218.png",",Liverpool VS Milan03:00/08/12
-https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/                                                    
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xb8CbYR/IMG-20211207-192218.png",FC Porto VS Atletico Madrid 03:00/08/12
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xb8CbYR/IMG-20211207-192218.png",Real Madrid VS Inter 03:00/08/12
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Xb8CbYR/IMG-20211207-192218.png",Dortmund VS Beşiktaş 03:00/08/12
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/zRRsZ0B/IMG-20211206-193639.png",Man City VS RB Leipzig 00:45/08/12
-https://family4you.fun/vn360sport/90phut/90phut360.php?id=61ab9e98a6651b347626fa63&.m3u8|Referer=https://mitom.90phuttttt.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/zRRsZ0B/IMG-20211206-193639.png",Liverpool VS Milan03:00/08/12
-https://family4you.fun/vn360sport/90phut/90phut360.php?id=61ab9e98a6651b347626fa65&.m3u8|Referer=https://mitom.90phuttttt.xyz/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/zRRsZ0B/IMG-20211206-193639.png",Real Madrid VS Inter 03:00/08/12
-https://family4you.fun/vn360sport/90phut/90phut360.php?id=61ab9e98a6651b347626fa68&.m3u8|Referer=https://mitom.90phuttttt.xyz/
