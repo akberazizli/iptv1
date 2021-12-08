@@ -25,31 +25,6 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Pw81RJv/IMG-20211126-115710.png",BLV : SAO MAI 
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/sRnp30g/IMG-20211126-115723.png",BLV: Thần Chổi 
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JkvY2hP/IMG-20211126-115654.png",BLV : SAO KÊ 
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/vqrhxYN/IMG-20211126-100629.png",BLV: Giàng A Phò  HD1
-https://na46hw9rf0liv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ZmjqWby/IMG-20211126-100647.png",BLV: Giàng A Phò  HD2
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/FHTbHXx/IMG-20211126-100614.png",BLV: Giàng A Lữ  HD1
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/hfXQYJm/IMG-20211126-100559.png",BLV: Giàng A Lữ  HD2
-https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/J3HqYpf/IMG-20211126-100458.png",BLV: Giàng A  CAY HD1
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/zJ0CC7W/IMG-20211126-100544.png",BLV: Giàng A PÁO HD2
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Sd56y5X/IMG-20211126-094411.png",BLV: Giàng A TÁO HD1
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/YDGWtcv/IMG-20211208-055543.png",Timor-Leste VS Myanmar 16:30/08/12
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
