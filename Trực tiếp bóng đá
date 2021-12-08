@@ -72,43 +72,15 @@ http://tbientv.xyz/90phut_getlink.php?id=61acf141a6651b12615fcff5&.m3u8|Referer=
 http://tbientv.xyz/90phut_getlink.php?id=61acf141a6651b12615fcff2&.m3u8|Referer=https://mitom.90phuttttt.xyz/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Zenit - Chelsea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Zenit - Chelsea
-https://xem.rakhoi.tv/truc-tiep/61afcf9f6b36823d70f8e286-lTDSj1.html?link=2|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Zenit - Chelsea
-https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Zenit - Chelsea
-https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Zenit - Chelsea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Zenit - Chelsea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Juventus - Malmö FF
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Juventus - Malmö FF
-https://xem.rakhoi.tv/truc-tiep/61afcf9c3db2ea3d6f4c0d9c-0YCYyu.html?link=2|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Juventus - Malmö FF
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Juventus - Malmö FF
-https://na46hw9rf0liv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Juventus - Malmö FF
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Juventus - Malmö FF
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",00h45 09/12: Zenit - Chelsea
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61afcf9f6b36823d70f8e286-lTDSj1-lTDSj1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",00h45 09/12: Juventus - Malmö FF
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61afcf9c3db2ea3d6f4c0d9c-0YCYyu-0YCYyu&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 09/12: Man United - Young Boys
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61afcfad3db2ea3d6f4c0d9f-Jvznwo-Jvznwo&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 09/12: Bayern München - Barcelona
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61afcfa26b36823d70f8e287-0xMfFy-0xMfFy&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 09/12: Benfica - Dynamo Kyiv
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61afcfa5f081c13d37eea61c-VObQD5-VObQD5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 09/12: Atalanta - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61afcfa8f081c13d37eea61d-wmFiiH-wmFiiH&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 09/12: Man United - Young Boys
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61afcfad3db2ea3d6f4c0d9f-Jvznwo-Jvznwo&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 09/12: Salzburg - Sevilla
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61afcfb03db2ea3d6f4c0da0-pit7I9-pit7I9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.ibb.co/HHKbTQb/IMG-20211018-081047.png",03h00 09/12: Wolfsburg - Lille
