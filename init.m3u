@@ -25,6 +25,26 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",Leicester VS Napoli 00:00/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",Monaco VS Sturm Graz 00:35/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",Real Sociedad VS PSV Eindhoven 00H35/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",Sofia - Roma VS PFC CSKA 00H35/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",LYON VS RANGENRS FC 00H35/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",Spartak VS Legia Warszawa 00H35/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",AZALKMAAR VS RANDRS FC 00H35/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",FENERBAHCE VS FRANKFURT 00H35/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa09_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",ALSHKERT FC VS MACCABI TEL AVIVI 00H35/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa10_vhls.smil/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",Atalanta VS  Villarreal 01:00/10/12
+https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/YDGWtcv/IMG-20211208-055543.png",Cambodia VS Indonesia 19:30/09/12 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
