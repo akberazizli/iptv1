@@ -60,6 +60,8 @@ https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA ARAB CUP" tvg-logo="https://i.ibb.co/R2RwZF0/IMG-20211203-190635.png",22h00 10/12: Tunisia - Oman
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b1d79bf081c13d37eea775-BmPCJ8-BmPCJ8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA ARAB CUP" tvg-logo="https://i.ibb.co/R2RwZF0/IMG-20211203-190635.png",02h00 11/12: Qatar - UAE
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b38363a9936b3c499506fe-Wfsna6-Wfsna6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",02h30 11/12: Köln - Augsburg
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b0ca4b6b36823d70f8e312-umNs41-umNs41&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",02h45 11/12: Genoa - Sampdoria
@@ -96,6 +98,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b0ca093db2ea3d6f4c0e16
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b0ca0af1e4b13d3d26beeb-BUi5mQ-BUi5mQ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",22h00 11/12: Liverpool - Aston Villa
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b0ca0b6b36823d70f8e309-JpNLKa-JpNLKa&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA ARAB CUP" tvg-logo="https://i.ibb.co/R2RwZF0/IMG-20211203-190635.png",22h00 11/12: Egypt - Jordan
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b3837ec964fd3c81ee19e8-Gab9T5-Gab9T5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",22h15 11/12: Deportivo Alaves - Getafe
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b0ca253db2ea3d6f4c0e1a-y6HHm3-y6HHm3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",23h00 11/12: Brest - Montpellier
