@@ -24,6 +24,18 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/jTzpnSj/IMG-20211213-194355.png",rmc sport 1
+http://iptv.ndasat.com:88/934292182291493/934292182291493/1554?Wanicelife=Tienmedia/SFL=81554.ts
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/2yckGNW/IMG-20211213-194342.png",rmc sport 2
+http://iptv.ndasat.com:88/934292182291493/934292182291493/1555?Wanicelife=Tienmedia/SFL=51555.ts
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/v113XBt/IMG-20211213-193838.png",beIN SPORTS 1
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/x21D0V8/IMG-20211213-193826.png",beIN SPORTS 2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/S00988x/IMG-20211213-193811.png",beIN SPORTS 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/Ny51GTM/IMG-20211213-193756.png",premier leaggue
+http://tienmedia.duckdns.org:8080/LE_1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/47R4vHF/IMG-20211211-035634.png",BLV : SAO MAI 
