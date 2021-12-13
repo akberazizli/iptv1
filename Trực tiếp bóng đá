@@ -95,13 +95,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Al Masry - Misr Lel Makkasa SC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Sochi - Spartak
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m305nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",22h30 13/12: Al Masry - Misr Lel Makkasa SC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b5b5d6c964fd3c81ee1c05-5ttVq1-5ttVq1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",23h00 13/12: Sochi - Spartak
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b5b5d0c106263c8c4fc3ee-R8gIV7-R8gIV7&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",02h45 14/12: Roma - Spezia
