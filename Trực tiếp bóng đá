@@ -105,7 +105,21 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Philippines - Thailand
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Philippines - Thailand
+https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Philippines - Thailand
+https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Philippines - Thailand
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Philippines - Thailand
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/Wyv3DQN/IMG-20211204-200534.png",16h30 14/12: Philippines - Thailand
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b4edb51136b73c4f25b1e5-YYDBYF-YYDBYF&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/Wyv3DQN/IMG-20211204-200534.png",19h30 14/12: Singapore - Timor-Leste
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b4edd3a9936b3c49950880-MA2VtZ-MA2VtZ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",00h30 15/12: VfB Stuttgart - Bayern München
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b4ef091136b73c4f25b1f9-SNhjih-SNhjih&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",02h30 15/12: Brentford - Man United
@@ -118,6 +132,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b4ef14c106263c8c4fc33a
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b4eeed1136b73c4f25b1f5-RcSZiX-RcSZiX&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",03h00 15/12: Man City - Leeds
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b4eeeea9936b3c4995088a-Ry0YIG-Ry0YIG&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/Wyv3DQN/IMG-20211204-200534.png",16h30 15/12: Cambodia - Laos
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b4ef1fa9936b3c4995088e-Np9M6A-Np9M6A&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/Wyv3DQN/IMG-20211204-200534.png",19h30 15/12: Indonesia - Vietnam
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b4ef20c964fd3c81ee1b6d-3q59Na-3q59Na&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA ARAB CUP" tvg-logo="https://i.ibb.co/R2RwZF0/IMG-20211203-190635.png",22h00 15/12: Tunisia - Egypt
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61b7993e1136b73c4f25b5de-cJQhNf-cJQhNf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",00h30 16/12: M'gladbach - Frankfurt
