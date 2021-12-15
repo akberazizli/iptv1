@@ -36,10 +36,16 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/S00988x/IMG-20211213-193811.png",beIN SPORTS 3
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/p3SX6J8/IMG-20211215-131651.png",beIN SPORTS 4k
+http://54.169.182.201:80/Bein4k/mpegts
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/Ny51GTM/IMG-20211213-193756.png",premier leaggue
 http://tienmedia.duckdns.org:8080/LE_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/VYYqJV6/IMG-20211214-061305.png",VIASAT
 http://iptv.prosto.tv:7000/ch108/video.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/1dWZ5Qt/IMG-20211215-131621.png",VIASAT Premium
+http://54.169.182.201:80/V-Premium/mpegts
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/ZfXzTm9/IMG-20211215-131612.png",SPORTS 1
+http://6driveba.com:8079/live/nikca1/sepurin/118.ts
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/47R4vHF/IMG-20211211-035634.png",BLV : SAO MAI 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
