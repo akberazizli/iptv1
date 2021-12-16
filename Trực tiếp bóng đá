@@ -69,8 +69,13 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/1mfWb6c/IMG-20211211-194148.png",BLV: Giàng A TÁO HD1
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/TmycwR5/Screenshot-20211215-191306.jpg",19h30 15/12: Indonesia - Vietnam
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="XOI LẠC VoPhu - XOI LẠC" tvg-logo= "https://i.ibb.co/w7chNRt/IMG-20211216-124441.png",02:30-17/12: Leicester City vs Tottenham
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/leicester-city-vs-tottenham-0230-17-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="XOI LẠC VoPhu - XOI LẠC" tvg-logo= "https://i.ibb.co/w7chNRt/IMG-20211216-124441.png",02:45-17/12: Chelsea vs Everton Tottenham
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/chelsea-vs-everton-0245-17-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="XOI LẠC VoPhu - XOI LẠC" tvg-logo= "https://i.ibb.co/w7chNRt/IMG-20211216-124441.png",03:00-17/12: Liverpool vs Newcastle Utd
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/liverpool-vs-newcastle-utd-0300-17-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+
 
 #EXTINF:-1 group-title="90phut VoPhu - 90phut" tvg-logo= "https://i.ibb.co/x1jxYvJ/IMG-20211204-112128.png",02:30 17/12/2021: Tottenham vs Leicester
 https://family4you.fun/vn360sport/90phut/vebo_play.php?id=61b77c17a6651b7511787d92&.m3u8|Referer=https://mitom.90phuttttt.xyz/
