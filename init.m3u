@@ -86,3 +86,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/pPm5h15/IMG-20211208-090916.png",03:00 17/12/2021: Newcastle - Liverpool
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
 
+#EXTINF:-1 group-title="rakhoi VoPhu - rakhoi" tvg-logo= "https://i.ibb.co/tZmS18t/IMG-20211208-115419.png",02:30 17/12/2021: Tottenham vs Leicester
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="rakhoi VoPhu - rakhoi" tvg-logo= "https://i.ibb.co/tZmS18t/IMG-20211208-115419.png",02:45 17/12/2021: Chelsea - Southampton
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
+#EXTINF:-1 group-title="rakhoi VoPhu - rakhoi" tvg-logo= "https://i.ibb.co/tZmS18t/IMG-20211208-115419.png",03:00 17/12/2021: Newcastle - Liverpool
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
