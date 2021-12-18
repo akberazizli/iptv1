@@ -115,16 +115,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Atalanta - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xDZrMVr/IMG-20211217-050246.png",HD 2 Atalanta - Roma
-https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/WkqGfw8/IMG-20211217-050202.png",SD 2 Atalanta - Roma
-https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3S4HWpw/IMG-20211217-050234.png",HD 1 Atalanta - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gSPmYwX/IMG-20211217-050219.png",SD 1 Atalanta - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Bochum - Union Berlin
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Frankfurt - Mainz
@@ -138,8 +128,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Real Sociedad - Villarreal
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/YPW58cJ/IMG-20211217-045254.png",21h00 18/12: Atalanta - Roma
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68aec106263c8c4fc8ae-o4a4id-o4a4id&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/yQyRr42/IMG-20211217-045309.png",21h30 18/12: Bochum - Union Berlin
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68cfa9936b3c49950e0f-BOgg6a-BOgg6a&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/yQyRr42/IMG-20211217-045309.png",21h30 18/12: Frankfurt - Mainz
