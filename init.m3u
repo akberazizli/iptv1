@@ -30,6 +30,8 @@ http://193.33.88.172/football1_hd/index.m3u8
 http://193.33.88.172/football2_hd/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/9r7JhBk/IMG-20211214-060529.png",Math 3HD
 http://193.33.88.172/football3_hd/index.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/p3SX6J8/IMG-20211215-131651.png",beIN SPORTS 4k
+http://54.169.182.201:80/Bein4k/mpegts
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/v113XBt/IMG-20211213-193838.png",beIN SPORTS 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/x21D0V8/IMG-20211213-193826.png",beIN SPORTS 2
