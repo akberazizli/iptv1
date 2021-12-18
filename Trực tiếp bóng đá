@@ -115,18 +115,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Thailand - Singapore
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xDZrMVr/IMG-20211217-050246.png",HD 2 Thailand - Singapore
-https://na46hw9rf0liv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/WkqGfw8/IMG-20211217-050202.png",SD 2 Thailand - Singapore
-https://na46hw9rf0liv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3S4HWpw/IMG-20211217-050234.png",HD 1 Thailand - Singapore
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gSPmYwX/IMG-20211217-050219.png",SD 1 Thailand - Singapore
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Myanmar - Philippines
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Rayo Vallecano - Deportivo Alaves
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Atalanta - Roma
@@ -139,11 +127,17 @@ https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gSPmYwX/IMG-20211217-050219.png",SD 1 Atalanta - Roma
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Bochum - Union Berlin
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Frankfurt - Mainz
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Greuther Fürth - Augsburg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Hoffenheim - M'gladbach
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài RB Leipzig - Arminia Bielefeld
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/94ZfRxH/IMG-20211217-045348.png",19h30 18/12: Thailand - Singapore
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68f11136b73c4f25b7ab-35Wg8M-35Wg8M&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/94ZfRxH/IMG-20211217-045348.png",19h30 18/12: Myanmar - Philippines
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68eda9936b3c49950e13-UIKIrh-UIKIrh&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/n1htpP8/IMG-20211217-045322.png",20h00 18/12: Rayo Vallecano - Deportivo Alaves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba6894a9936b3c49950e0c-Ezo5cO-Ezo5cO&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/YPW58cJ/IMG-20211217-045254.png",21h00 18/12: Atalanta - Roma
