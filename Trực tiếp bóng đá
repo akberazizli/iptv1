@@ -115,29 +115,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Bochum - Union Berlin
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Frankfurt - Mainz
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Greuther Fürth - Augsburg
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Hoffenheim - M'gladbach
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài RB Leipzig - Arminia Bielefeld
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Real Sociedad - Villarreal
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/yQyRr42/IMG-20211217-045309.png",21h30 18/12: Bochum - Union Berlin
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68cfa9936b3c49950e0f-BOgg6a-BOgg6a&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/yQyRr42/IMG-20211217-045309.png",21h30 18/12: Frankfurt - Mainz
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68d0c106263c8c4fc8b1-kOJ4NS-kOJ4NS&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/yQyRr42/IMG-20211217-045309.png",21h30 18/12: Greuther Fürth - Augsburg
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68d11136b73c4f25b7a3-oCboMe-oCboMe&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/yQyRr42/IMG-20211217-045309.png",21h30 18/12: Hoffenheim - M'gladbach
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68d2c964fd3c81ee20ed-O11Nla-O11Nla&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/yQyRr42/IMG-20211217-045309.png",21h30 18/12: RB Leipzig - Arminia Bielefeld
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba68d41136b73c4f25b7a6-owPmti-owPmti&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/n1htpP8/IMG-20211217-045322.png",22h15 18/12: Real Sociedad - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba6895c106263c8c4fc8ab-sJeTdw-sJeTdw&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/YPW58cJ/IMG-20211217-045254.png",00h00 19/12: Bologna - Juventus
