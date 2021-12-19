@@ -184,6 +184,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Freiburg - Leverkusen
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Athletic Club - Real Betis
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Athletic Club - Real Betis
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/DYjMXr6/IMG-20211217-045336.png",21h00 19/12: Wolves - Chelsea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ba69b1c106263c8c4fc8b4-DqbVvf-DqbVvf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
