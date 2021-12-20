@@ -97,8 +97,6 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.t
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Al-Ittihad Al-Sakandary - Ceramica Cleopatra
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Levante - Valencia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xDZrMVr/IMG-20211217-050246.png",HD 2 Levante - Valencia
@@ -110,8 +108,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gSPmYwX/IMG-20211217-050219.png",SD 1 Levante - Valencia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/DYjMXr6/IMG-20211217-045336.png",01h00 21/12: Al-Ittihad Al-Sakandary - Ceramica Cleopatra
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c08bf44074aa733cc5a4ce-JqVFm0-JqVFm0&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/n1htpP8/IMG-20211217-045322.png",03h00 21/12: Levante - Valencia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be435a76d21873428778d8-Ynjp5d-Ynjp5d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/YPW58cJ/IMG-20211217-045254.png",00h30 22/12: Udinese - Salernitana
