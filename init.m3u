@@ -65,10 +65,12 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/S00988x/IMG-20211213-193811.png",beIN SPORTS 3
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/Ny51GTM/IMG-20211213-193756.png",premier leaggue
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/zNZXKCk/IMG-20211222-171347.png",premier leaggue
 http://tienmedia.duckdns.org:8080/LE_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/bBsshYL/IMG-20211222-130329.png",NOW SPORTS premier 
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/Lgm4HMM/IMG-20211222-170648.png",NOW SPORTS premier 
 https://family4you.fun/vn360sport/Sports/ipro360.php?id=200230
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/3sjSbyr/IMG-20211222-170758.png",SKY SPORTS premier
+https://family4you.fun/vn360sport/Sports/ipro360.php?id=3068
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/RcG15dg/IMG-20211126-114256.png",BLV : SAO MAI 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
