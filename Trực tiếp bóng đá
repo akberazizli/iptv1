@@ -67,7 +67,7 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/Ny51GTM/IMG-20211213-193756.png",premier leaggue
 http://tienmedia.duckdns.org:8080/LE_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/GdGsZqP/IMG-20211018-152957.png",NOW SPORTS premier 
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/bBsshYL/IMG-20211222-130329.png",NOW SPORTS premier 
 https://family4you.fun/vn360sport/Sports/ipro360.php?id=200230
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/RcG15dg/IMG-20211126-114256.png",BLV : SAO MAI 
@@ -183,6 +183,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c1af4e76d2187342877aa0
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c1af55a6f60b737f5758a3-aLf9SY-aLf9SY&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",21h00 22/12: Leca - Paredes
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f09547ff9f2916c451ac-OsrrRg-OsrrRg&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",21h00 22/12: Persis Solo - Persiba Balikpapan
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f39a621eae296080d17a-Hlrwrb-Hlrwrb&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",21h00 22/12: Sriwijaya - Rans Cilegon FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f3bbc4d2c602b39551a9-GNaJ73-GNaJ73&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",21h30 22/12: Campobasso - Avellino
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c1aea94074aa733cc5a587-n45G4d-n45G4d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",22h00 22/12: Panetolikos - Niki Volou
