@@ -126,10 +126,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/dbVj6Cp/IMG-20211218-202204.png",03h30 23/12: Athletic Club - Real Madrid
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Hangzhou - Wuhan Three Towns
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GCVDZWf/IMG-20211217-050147.png",Nhà đài Meizhou Hakka - Kunshan FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 22/12: Singapore - Indonesia
@@ -163,12 +159,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c0874228d9a539bbd2ab48&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h45 23/12: Napoli - Spezia
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c0882f3679ef42e3971405&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",14h00 22/12: Hangzhou - Wuhan Three Towns
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c24c254074aa733cc5a602-wYwwzq-wYwwzq&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",14h00 22/12: Meizhou Hakka - Kunshan FC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c24c4b4074aa733cc5a605-qYM8ZQ-qYM8ZQ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",15h45 22/12: Melbourne City FC - Western Sydney Wanderers FC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c0ca246896ed7375ccaad2-MWReLQ-MWReLQ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",16h30 22/12: Gold Coast Knights - Melbourne Victory
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c0c9696896ed7375ccaac7-wuhID8-wuhID8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",17h00 22/12: Beijing Guoan - Shenzhen FC
@@ -177,8 +167,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c0c96aa6f60b737f575852
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c0c96b6896ed7375ccaaca-TZkqZw-TZkqZw&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",17h30 22/12: Tuzlaspor - Erzurum BB
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c0c96c76d2187342877a4a-BHXTpD-BHXTpD&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",18h15 22/12: Persita - Persela Lamongan
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c0c96d4074aa733cc5a53b-50UVh0-50UVh0&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",19h00 22/12: Shandong Taishan - Changchun Yatai
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c0c96f76d2187342877a4b-UQJY0i-UQJY0i&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",19h00 22/12: Guangzhou FC - Shanghai Port
@@ -251,8 +239,12 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be4423a6f60b737f5756bf
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be43d84074aa733cc5a3ac-GrYEiB-GrYEiB&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",15h45 23/12: Adelaide United - Perth Glory
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2c7a3621eae296080d14f-wbpBXD-wbpBXD&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",16h00 23/12: Khánh Hòa - Saigon FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2e8d6621eae296080d15f-Ic8Nyc-Ic8Nyc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",18h00 23/12: Mafra - Moreirense
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2c7a6a0f2ea290fa4bced-L2MGeq-L2MGeq&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",18h00 23/12: Nam Dinh - Binh Duong
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2e90d47ff9f2916c451a0-CJNrGI-CJNrGI&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/94ZfRxH/IMG-20211217-045348.png",19h30 23/12: Vietnam - Thailand
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c1c0fe76d2187342877aaf-6lkLf2-6lkLf2&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/94ZfRxH/IMG-20211217-045348.png",19h30 25/12: Indonesia - Singapore
