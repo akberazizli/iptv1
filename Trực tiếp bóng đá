@@ -131,38 +131,8 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h30 23/12: Athletic Club - Real Madrid
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4FMdyM8/IMG-20211222-204532.png",HD 2 Liverpool - Leicester
-https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4j63BGM/IMG-20211222-204438.png",SD 2 Liverpool - Leicester
-https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n3b1W27/IMG-20211222-204517.png",HD 1 Liverpool - Leicester
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bgJSFfn/IMG-20211222-204454.png",SD 1 Liverpool - Leicester
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4FMdyM8/IMG-20211222-204532.png",HD 2 Lorient - PSG
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4j63BGM/IMG-20211222-204438.png",SD 2 Lorient - PSG
-https://na46hw9rf0liv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n3b1W27/IMG-20211222-204517.png",HD 1 Lorient - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bgJSFfn/IMG-20211222-204454.png",SD 1 Lorient - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Bordeaux - Lille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Lyon - Metz
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Marseille - Reims
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Monaco - Rennes
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Montpellier - Angers
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Nice - Lens
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Saint-Etienne - Nantes
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Troyes - Brest
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Athletic Club - Real Madrid
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
@@ -174,10 +144,6 @@ https://p90020921.vnroute.com/may3SD/playlist.m3u8|Referer=https://xoilac.90phut
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Fwtm80D/IMG-20211107-103220.png",FullHD Liverpool - Leicester (Người Thỏ)
 https://livestream.socialstreaming.tv/live/61c370f28e0773001cf93cf4/61c370f28e0773001cf93cf4.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dQB6pQB/IMG-20211222-194745.png",Nhà đài Monaco - Rennes
-https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dQB6pQB/IMG-20211222-194745.png",Nhà đài Bordeaux - Lille
-https://p90020921.vnroute.com/may10/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dQB6pQB/IMG-20211222-194745.png",Nhà đài Marseille - Reims
 https://ksc96zydg6liv.vcdn.cloud/may2/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
@@ -218,26 +184,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c0885192893b39d1704a76&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 23/12: Lyon - Metz
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c0891a92893b39d1704a77&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/m0P74tT/IMG-20211219-055411.png",02h45 23/12: Liverpool - Leicester
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c39dcca0f2ea290fa4bdb4-EZp8CA-EZp8CA&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Lorient - PSG
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be441aa6f60b737f5756b6-BRwmtG-BRwmtG&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Bordeaux - Lille
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be44186896ed7375cca940-G1WGlF-G1WGlF&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Lyon - Metz
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be441ba6f60b737f5756b7-MUeuUE-MUeuUE&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Marseille - Reims
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be441c6896ed7375cca943-Fszhpk-Fszhpk&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Monaco - Rennes
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be441ea6f60b737f5756b8-cMvl6k-cMvl6k&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Montpellier - Angers
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be441f6896ed7375cca944-YvFrao-YvFrao&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Nice - Lens
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be44204074aa733cc5a3b2-rTjFNq-rTjFNq&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Saint-Etienne - Nantes
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be44216896ed7375cca947-QvzT3V-QvzT3V&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Troyes - Brest
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be4423a6f60b737f5756bf-OmHUWt-OmHUWt&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/n1htpP8/IMG-20211217-045322.png",03h30 23/12: Athletic Club - Real Madrid
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be43d84074aa733cc5a3ac-GrYEiB-GrYEiB&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",13h00 23/12: Canberra UTD - Brisbane Roar FC
