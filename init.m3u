@@ -21,9 +21,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/Zmh2ycY/IMG-20210818-071456.png",VTV6 HD
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/tbNjKjp/Screenshot-20211222-180451.jpg",19h30 22/12: Singapore - Indonesia
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:0 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130437&path-prefix=vi", K+Sports 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -101,32 +98,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/Sd56y5X/IMG-20211126-094411.png",BLV: Giàng A TÁO HD1
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",02h45 23/12: Liverpool - Leicester City
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/liverpool-vs-leicester-city-0245-23-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",02h45 23/12: Brentford - Chelsea
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/brentford-vs-chelsea-0245-23-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",02h45 23/12: Tottenham - West Ham
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/tottenham-vs-west-ham-utd-0245-23-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",19h30 22/12: Singapore - Indonesia
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/singapore-vs-indonesia-1930-22-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",sassuolo-vs-bologna-22h30-22-12
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/sassuolo-vs-bologna-2230-22-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",venezia-vs-lazio-22h30-22-12
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/venezia-vs-lazio-2230-22-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",roma-vs-sampdoria-00h30-23-12
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/roma-vs-sampdoria-0030-23-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",inter-vs-torino-00h30-23-12
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=&.m3u8|Referer=https://mitom1.tv/truc-tiep/inter-vs-torino-0030-23-12/https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",19h30 23/12: Vietnam - Thailand
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/viet-nam-vs-thai-lan-1930-23-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",19h30 22/12: Singapore - Indonesia
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",19h30 23/12: Vietnam - Thailand
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",",22h30 22/12: Venezia - Lazio
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 23/12: Empoli - Milan
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",01h00 23/12: Granada - Atlético Madrid
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",,03h00 23/12: Lorient - PSG
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h30 23/12: Athletic Club - Real Madrid
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
+
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/B47M1vx/Screenshot-20211223-060657.jpg",19h30 23/12: Vietnam - Thailand
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
