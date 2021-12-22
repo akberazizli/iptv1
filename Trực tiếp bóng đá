@@ -139,28 +139,10 @@ https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bgJSFfn/IMG-20211222-204454.png",SD 1 Liverpool - Leicester
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4FMdyM8/IMG-20211222-204532.png",HD 2 Brentford - Chelsea
-https://na46hw9rf0liv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4j63BGM/IMG-20211222-204438.png",SD 2 Brentford - Chelsea
-https://na46hw9rf0liv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n3b1W27/IMG-20211222-204517.png",HD 1 Brentford - Chelsea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bgJSFfn/IMG-20211222-204454.png",SD 1 Brentford - Chelsea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4FMdyM8/IMG-20211222-204532.png",HD 2 Tottenham - West Ham
-https://na46hw9rf0liv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4j63BGM/IMG-20211222-204438.png",SD 2 Tottenham - West Ham
-https://na46hw9rf0liv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/n3b1W27/IMG-20211222-204517.png",HD 1 Tottenham - West Ham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bgJSFfn/IMG-20211222-204454.png",SD 1 Tottenham - West Ham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Empoli - Milan
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Napoli - Spezia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Bordeaux - Lille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4FMdyM8/IMG-20211222-204532.png",HD 2 Lorient - PSG
 https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4j63BGM/IMG-20211222-204438.png",SD 2 Lorient - PSG
@@ -169,6 +151,8 @@ https://na46hw9rf0liv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/bgJSFfn/IMG-20211222-204454.png",SD 1 Lorient - PSG
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Bordeaux - Lille
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Lyon - Metz
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/F09WBzZ/IMG-20211222-204543.png",Nhà đài Marseille - Reims
@@ -194,26 +178,10 @@ https://p90020921.vnroute.com/may3SD/playlist.m3u8|Referer=https://xoilac.90phut
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Fwtm80D/IMG-20211107-103220.png",FullHD Liverpool - Leicester (Người Thỏ)
 https://livestream.socialstreaming.tv/live/61c370f28e0773001cf93cf4/61c370f28e0773001cf93cf4.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/tHzn7cC/IMG-20211222-194823.png",SD1 Brentford - Chelsea (Lê Văn Cáp)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1vyMggV/IMG-20211222-194809.png",SD2 Brentford - Chelsea (Lê Văn Cáp)
-https://p90020921.vnroute.com/may1SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/fGwKx5T/IMG-20211018-153051.png",HD Brentford - Chelsea (Lê Văn Cáp)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Fwtm80D/IMG-20211107-103220.png",FullHD Brentford - Chelsea (Lê Văn Cáp)
-https://livestream-2.socialstreaming.tv/live/61c36de026c7c3001c81eee5/61c36de026c7c3001c81eee5.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dQB6pQB/IMG-20211222-194745.png",Nhà đài Empoli - Milan
 https://p90020921.vnroute.com/may61/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dQB6pQB/IMG-20211222-194745.png",Nhà đài Napoli - Spezia
 https://ksc96zydg6liv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/0mBjdRG/IMG-20211018-153108.png",SD Tottenham - West Ham (Âu men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/mCk3Vsh/IMG-20211222-194854.png",HD1 Tottenham - West Ham (Âu men)
-https://livestream.socialstreaming.tv/live/61c350e1b471f7001c6a1b4c/61c350e1b471f7001c6a1b4c.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/VQnbf6v/IMG-20211222-194839.png",HD2 Tottenham - West Ham (Âu men)
-https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",HD3 Tottenham - West Ham (Âu men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@old_man/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dQB6pQB/IMG-20211222-194745.png",Nhà đài Lorient - PSG
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/dQB6pQB/IMG-20211222-194745.png",Nhà đài Troyes - Brest
@@ -272,18 +240,14 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c0891a92893b39d1704a77&.m
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/m0P74tT/IMG-20211219-055411.png",02h45 23/12: Liverpool - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be43c1a6f60b737f5756ad-2qc6Zz-2qc6Zz&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/m0P74tT/IMG-20211219-055411.png",02h45 23/12: Brentford - Chelsea
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be43c04074aa733cc5a3a9-yZAKcL-yZAKcL&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.ibb.co/m0P74tT/IMG-20211219-055411.png",02h45 23/12: Tottenham - West Ham
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be43c36896ed7375cca93a-23fcvC-23fcvC&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/YPW58cJ/IMG-20211217-045254.png",02h45 23/12: Empoli - Milan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be43f4a6f60b737f5756b3-adzWBb-adzWBb&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/YPW58cJ/IMG-20211217-045254.png",02h45 23/12: Napoli - Spezia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be43f576d21873428778e4-GNd4UF-GNd4UF&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Bordeaux - Lille
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be44186896ed7375cca940-G1WGlF-G1WGlF&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Lorient - PSG
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be441aa6f60b737f5756b6-BRwmtG-BRwmtG&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Bordeaux - Lille
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be44186896ed7375cca940-G1WGlF-G1WGlF&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Lyon - Metz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61be441ba6f60b737f5756b7-MUeuUE-MUeuUE&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/ScMnTbY/IMG-20211222-124614.png",03h00 23/12: Marseille - Reims
