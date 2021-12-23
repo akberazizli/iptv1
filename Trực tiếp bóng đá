@@ -100,6 +100,25 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.t
 
 #EXTINF:-1 group-title="TRỰC TIẾP mitomtv - TRỰC TIẾP mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",19h30 23/12: Vietnam - Thailand
 https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/viet-nam-vs-thai-lan-1930-23-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",19h30 26/12: Liverpool - Leeds United
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/liverpool-vs-leeds-united-1930-26-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",19h30 26/12: Wolverhampton - Watford
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/wolverhampton-vs-watford-1930-26-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",22h00 26/12: Burnley - Everton
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/burnley-vs-everton-2200-26-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",22h00 26/12: Norwich City - Arsenal
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/norwich-city-vs-arsenal-2200-26-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",22h00 26/12: West Ham - Southampton
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/west-ham-utd-vs-southampton-2200-26-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",22h00 26/12: Manchester City - Leicester City
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/manchester-city-vs-leicester-city-2200-26-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",22h00 26/12: Tottenham - Crystal Palace
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/tottenham-vs-crystal-palace-2200-26-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",00h30-27-12: Chelsea - Aston Villa
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/aston-villa-vs-chelsea-0030-27-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",newcastle-utd-vs-man-utd-03h00-28-12
+https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/newcastle-utd-vs-man-utd-0300-28-12//&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+
 
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",19h30 23/12: Vietnam - Thailand
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
@@ -138,8 +157,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6588bb98639dd59c7c7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 26/12: Luton Town - Bristol City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6718bb98639dd59c7c8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",13h00 23/12: Canberra UTD - Brisbane Roar FC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c32d8447ff9f2916c451f1-LT8J3W-LT8J3W&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",16h00 23/12: Khánh Hòa - Saigon FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2e8d6621eae296080d15f-Ic8Nyc-Ic8Nyc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",18h00 23/12: Mafra - Moreirense
