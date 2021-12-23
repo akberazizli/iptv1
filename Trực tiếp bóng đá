@@ -126,12 +126,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/B47M1vx/Screenshot-20211223-060657.jpg",19h30 23/12: Vietnam - Thailand
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Rio Ave - Belenenses
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wRV6ffV/IMG-20211223-102109.png",HD Rio Ave - Belenenses
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/br5Hsc6/IMG-20211223-102048.png",SD Rio Ave - Belenenses
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài PSV - Go Ahead Eagles
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -165,8 +159,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6588bb98639dd59c7c7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 26/12: Luton Town - Bristol City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6718bb98639dd59c7c8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",00h00 24/12: Rio Ave - Belenenses
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c4522625ce916ff7042700-n7L66l-n7L66l&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",08h00 24/12: Real Espana - CD Olimpia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c3e7d3621eae296080d23d-x6gx2E-x6gx2E&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",14h30 24/12: PVF Vietnam U21 - Da Nang
