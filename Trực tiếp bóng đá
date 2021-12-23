@@ -107,6 +107,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/B47M1vx/Screenshot-20211223-060657.jpg",19h30 23/12: Vietnam - Thailand
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/QbsTy93/IMG-20211223-052404.png",Nhà đài Tolima - Deportivo Cali
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 23/12: Việt Nam - Thái Lan (Thỏ + Liu)
@@ -138,6 +140,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6588bb98639dd59c7c7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 26/12: Luton Town - Bristol City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6718bb98639dd59c7c8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",07h20 23/12: Tolima - Deportivo Cali
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c3c470621eae296080d23a-oti7tA-oti7tA&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",13h00 23/12: Canberra UTD - Brisbane Roar FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c32d8447ff9f2916c451f1-LT8J3W-LT8J3W&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",16h00 23/12: Khánh Hòa - Saigon FC
