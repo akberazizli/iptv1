@@ -126,18 +126,22 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/B47M1vx/Screenshot-20211223-060657.jpg",19h30 23/12: Vietnam - Thailand
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài NFC Volos - Panathinaikos
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wRV6ffV/IMG-20211223-102109.png",HD NFC Volos - Panathinaikos
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/br5Hsc6/IMG-20211223-102048.png",SD NFC Volos - Panathinaikos
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Ionikos - Lamia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m305nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Kedus Giorgis - Jimma Aba Jifar
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Mamelodi Sundowns - Marumo Gallants
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Rio Ave - Belenenses
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wRV6ffV/IMG-20211223-102109.png",HD Rio Ave - Belenenses
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/br5Hsc6/IMG-20211223-102048.png",SD Rio Ave - Belenenses
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Beşiktaş - Goztepe
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Kifisia - AEK Athens
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",00h45 24/12: PSV - Go Ahead Eagles
@@ -167,24 +171,16 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6588bb98639dd59c7c7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 26/12: Luton Town - Bristol City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6718bb98639dd59c7c8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",22h00 23/12: NFC Volos - Panathinaikos
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f0e9621eae296080d164-SaeNpP-SaeNpP&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",22h00 23/12: Ionikos - Lamia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f0eb47ff9f2916c451af-xlorgD-xlorgD&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",22h00 23/12: Kedus Giorgis - Jimma Aba Jifar
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c3288d47ff9f2916c451ea-uaMFNL-uaMFNL&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",22h30 23/12: Mamelodi Sundowns - Marumo Gallants
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c327a6621eae296080d197-DmNbzN-DmNbzN&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",22h45 23/12: Vllaznia - Kukesi
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f11447ff9f2916c451b2-WW0rtW-WW0rtW&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",22h45 23/12: Teuta Durres - Egnatia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f115a0f2ea290fa4bd02-v4oBR1-v4oBR1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",23h00 23/12: Azam FC - Ruvu Shooting
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f11c621eae296080d16e-Jv1eRh-Jv1eRh&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",00h00 24/12: Beşiktaş - Goztepe
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c4514763bf4d6fa0eb2518-tyQ7pZ-tyQ7pZ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",00h00 24/12: Rio Ave - Belenenses
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c4522625ce916ff7042700-n7L66l-n7L66l&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",00h00 24/12: Beşiktaş - Goztepe
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c4514763bf4d6fa0eb2518-tyQ7pZ-tyQ7pZ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",00h00 24/12: Kifisia - AEK Athens
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c4530f25ce916ff7042706-1lA85g-1lA85g&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",00h30 24/12: Orlando Pirates - AmaZulu FC
