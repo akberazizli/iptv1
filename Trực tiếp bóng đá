@@ -126,10 +126,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/B47M1vx/Screenshot-20211223-060657.jpg",19h30 23/12: Vietnam - Thailand
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Nam Dinh - Binh Duong
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Mafra - Moreirense
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Fasil Kenema - Wolkite Ketema
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFF Cup" tvg-logo="https://i.ibb.co/3mG93v1/IMG-20211223-180600.png",19h30 23/12: Việt Nam - Thái Lan (Thỏ + Liu)
@@ -161,8 +161,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6588bb98639dd59c7c7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 26/12: Luton Town - Bristol City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6718bb98639dd59c7c8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",17h00 23/12: Nam Dinh - Binh Duong
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2e90d47ff9f2916c451a0-CJNrGI-CJNrGI&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",18h00 23/12: Mafra - Moreirense
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2c7a6a0f2ea290fa4bced-L2MGeq-L2MGeq&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",19h00 23/12: Fasil Kenema - Wolkite Ketema
