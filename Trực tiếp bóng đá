@@ -128,6 +128,8 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Cb6thZP/IMG-20211223-102212.png",Nhà đài Nam Dinh - Binh Duong
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Cb6thZP/IMG-20211223-102212.png",Nhà đài Mafra - Moreirense
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 23/12: Việt Nam - Thái Lan (Thỏ + Liu)
@@ -205,6 +207,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c4530f25ce916ff7042706
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c45274d61c8b6ff8dd82e8-YrxcLE-YrxcLE&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",00h45 24/12: PSV Eindhoven - Go Ahead Eagles
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c452a263bf4d6fa0eb251c-PP657c-PP657c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",00h45 24/12: Anderlecht - Kortrijk
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c45437bd910f5e3d1dbfad-R9vfAP-R9vfAP&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",01h45 24/12: Vizela - Braga
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c4524925ce916ff7042703-t7Cosn-t7Cosn&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/kh7ZdMj/IMG-20211222-074035.png",01h45 24/12: Partizani - KF Tirana
