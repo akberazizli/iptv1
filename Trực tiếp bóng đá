@@ -126,8 +126,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/B47M1vx/Screenshot-20211223-060657.jpg",19h30 23/12: Vietnam - Thailand
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Mafra - Moreirense
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Fasil Kenema - Wolkite Ketema
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Vietnam - Thailand
@@ -140,6 +138,8 @@ https://na46hw9rf0liv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Vietnam - Thailand
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài OFI Crete - Aris Thessaloniki FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/2hkw18S/IMG-20211223-100801.png",SD1 Việt Nam - Thái Lan (Thỏ + Liu)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -183,16 +183,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6588bb98639dd59c7c7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 26/12: Luton Town - Bristol City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6718bb98639dd59c7c8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",18h00 23/12: Mafra - Moreirense
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2c7a6a0f2ea290fa4bced-L2MGeq-L2MGeq&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",19h00 23/12: Fasil Kenema - Wolkite Ketema
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c3281247ff9f2916c451e7-DWbQBi-DWbQBi&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFF Cup 2020" tvg-logo="https://i.ibb.co/CvXWhP7/IMG-20211223-174613.png",19h30 23/12: Vietnam - Thailand
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c1c0fe76d2187342877aaf-6lkLf2-6lkLf2&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",20h00 23/12: OFI Crete - Aris Thessaloniki FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f0f2a0f2ea290fa4bcfe-LDzJdP-LDzJdP&.m3u8|Referer=
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",20h00 23/12: Addis Ababa Ketema - Wolayta Dicha
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c3285c621eae296080d19a-CZP76q-CZP76q&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",21h00 23/12: Yeni Malatyaspor - Kayserispor
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c2f0ed621eae296080d167-Btcqj4-Btcqj4&.m3u8|Referer=
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",21h00 23/12: Hyderabad FC - SC East Bengal
