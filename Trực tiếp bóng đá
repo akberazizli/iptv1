@@ -137,8 +137,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 27/12: Brighton - Brentford
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài HVBĐ Nutifood - PVF Vietnam U21
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFF Cup" tvg-logo="https://i.ibb.co/3mG93v1/IMG-20211223-180600.png",19h30 26/12: Thái Lan - Việt Nam
@@ -156,8 +154,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6588bb98639dd59c7c7&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",22h00 26/12: Luton Town - Bristol City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c3a6718bb98639dd59c7c8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - U21 Quốc gia" tvg-logo="https://i.ibb.co/txz66Jm/IMG-20211224-060757.png",16h15 26/12: HVBĐ Nutifood - PVF Vietnam U21
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c8177932503373f8497491-PoJ3ub-PoJ3ub&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",22h00 26/12: Norwich - Arsenal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c236c8a6f60b737f57596a-BB7zGW-BB7zGW&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",22h00 26/12: West Ham - Southampton
