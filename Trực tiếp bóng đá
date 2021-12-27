@@ -109,6 +109,8 @@ https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/t
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 28/12: Newcastle - Man United
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Al-Raed - Al Ahli
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",22h00 27/12: Derby County - West Brom
@@ -144,8 +146,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b185c6aff63667deb23c&.m
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",19h20 27/12: Al-Raed - Al Ahli
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c8819432503373f84974d0-OTl8tF-OTl8tF&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",20h00 27/12: Polisi Tanzania FC - Mbeya City
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c8819801513473ec63931a-wVWZvL-wVWZvL&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",21h50 27/12: Al Shabab - Al-Taawoun
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c8819b01513473ec63931c-qxk90b-qxk90b&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",22h00 27/12: Accra Lions - Real Tamale
