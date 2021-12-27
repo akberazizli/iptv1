@@ -105,8 +105,6 @@ https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/t
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 28/12: Newcastle - Man United
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Al Shabab - Al-Taawoun
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",Nhà đài Derby County - West Brom
 https://ksc96zydg6liv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -150,8 +148,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b185c6aff63667deb23c&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",03h15 30/12: Brentford - Manchester City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b134c6aff63667deb23b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",21h50 27/12: Al Shabab - Al-Taawoun
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c8819b01513473ec63931c-qxk90b-qxk90b&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",03h00 28/12: Newcastle - Man United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c563b101513473ec6391ca-JNjWE7-JNjWE7&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U21 Quốc gia" tvg-logo="https://i.ibb.co/txz66Jm/IMG-20211224-060757.png",16h00 28/12: HVBĐ Nutifood - Ha Noi FC
