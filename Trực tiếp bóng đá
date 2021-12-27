@@ -111,8 +111,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",03h00 27/12: Brighton - Brentford (Nhà đài)
-https://tuongbongda.000webhostapp.com/play90p.php?id=61c860e928d9a539bbd2ab4e&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",22h00 27/12: Derby County - West Brom
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c88c1674dd7b31c399b2bb&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",00h30 28/12: QPR - AFC Bournemouth
@@ -141,6 +139,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b1478bb98639dd59c7cb&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b15c3679ef42e397140c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",02h30 30/12: Chelsea - Brighton
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b1263679ef42e397140b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",03h00 30/12: Reading - Fulham
+https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b185c6aff63667deb23c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",18h00 27/12: Geita Gold FC - Mbeya Kwanza FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c8818d435b4b73e513363b-71aW70-71aW70&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
@@ -156,6 +156,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c8819c435b4b73e5133648
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c8819e86487f7409b49997-PLRLqb-PLRLqb&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",03h00 28/12: Newcastle - Man United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c563b101513473ec6391ca-JNjWE7-JNjWE7&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - U21 Quốc gia" tvg-logo="https://i.ibb.co/txz66Jm/IMG-20211224-060757.png",16h00 28/12: HVBĐ Nutifood - Ha Noi FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c910c632503373f8497503-n3HQF0-n3HQF0&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",19h30 28/12: Arsenal - Wolves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c563b232503373f849741a-LBkCKO-LBkCKO&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",22h00 28/12: Watford - West Ham
