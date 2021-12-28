@@ -125,23 +125,23 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Tianjin Jinmen Tiger - Henan
-https://jq9sucdqmfliv.vcdn.cloud/may81/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Dalian Pro - Chongqing
 https://jq9sucdqmfliv.vcdn.cloud/may8/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Tianjin Jinmen Tiger - Henan
+https://jq9sucdqmfliv.vcdn.cloud/may81/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 28/12: Tianjin Jinmen Tiger - Henan
-https://tuongbongda.000webhostapp.com/play90p.php?id=61ca952be0d4672fc68e6e2f&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 28/12: Dalian Pro - Chongqing
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ca9487e0d4672fc68e6e2e&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h30 28/12: Shanghai Shenhua - Cangzhou
-https://tuongbongda.000webhostapp.com/play90p.php?id=61ca96793679ef42e397140d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 28/12: Tianjin Jinmen Tiger - Henan
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ca952be0d4672fc68e6e2f&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h30 28/12: Wuhan - Qingdao
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ca95618bb98639dd59c7cd&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 28/12: Crystal Palace - Norwich City
-https://tuongbongda.000webhostapp.com/play90p.php?id=61c891fce0d4672fc68e6e2d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h30 28/12: Shanghai Shenhua - Cangzhou
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ca96793679ef42e397140d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 28/12: Watford - West Ham
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c891ea3679ef42e3971409&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 28/12: Crystal Palace - Norwich City
+https://tuongbongda.000webhostapp.com/play90p.php?id=61c891fce0d4672fc68e6e2d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 28/12: Southampton - Tottenham
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c8920d92893b39d1704a7b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",00h00 29/12: Tondela - Gil Vicente
@@ -160,6 +160,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b15c3679ef42e397140c&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b1263679ef42e397140b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",03h00 30/12: Reading - Fulham
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b185c6aff63667deb23c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",03h15 30/12: Brentford - Manchester City
+https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b134c6aff63667deb23b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",22h00 28/12: Watford - West Ham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c563b486487f7409b498d0-8u11p7-8u11p7&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
