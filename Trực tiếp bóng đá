@@ -117,6 +117,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 29/12: Marítimo - Vizela
+https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b0293679ef42e397140a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",03h00 29/12: Leicester City - Liverpool (Thỏ + Mới)
+https://tuongbongda.000webhostapp.com/play90p.php?id=61c8aff9baf5f939c69df96a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFF Cup" tvg-logo="https://i.ibb.co/3mG93v1/IMG-20211223-180600.png",19h30 29/12: Indonesia - Thái Lan
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b03f8bb98639dd59c7ca&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",00h00 30/12: Famalicão - Belenenses
@@ -139,14 +143,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61cb65123679ef42e397140f&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb658d74dd7b31c399b2bf&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",22h15 31/12: Valencia - Espanyol
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb65da92893b39d1704a80&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",19h30 01/01: Arsenal - Man City
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cb6665baf5f939c69df96c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFF Cup" tvg-logo="https://i.ibb.co/3mG93v1/IMG-20211223-180600.png",19h30 01/01: Thailand - Indonesia
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb66cf3679ef42e3971411&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",19h30 01/01: Arsenal - Man City
+https://tuongbongda.000webhostapp.com/play90p.php?id=61cb6665baf5f939c69df96c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 01/01: Watford - Tottenham
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb668f28d9a539bbd2ab51&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 01/01: Leicester - Norwich
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cb66aa28d9a539bbd2ab52&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",20h30 29/12: NC Magra - US Biskra
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61caeaa082fffb21b696bd47-YhSK2p-YhSK2p&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
