@@ -61,11 +61,11 @@ http://193.33.88.172/football1_hd/index.m3u8
 http://193.33.88.172/football2_hd/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/4IDl0XZ.png",Math 3HD
 http://193.33.88.172/football3_hd/index.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/v113XBt/IMG-20211213-193838.png",beIN SPORTS 1
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/JEPmOU6.png",beIN SPORTS 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/x21D0V8/IMG-20211213-193826.png",beIN SPORTS 2
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/0HK5V7J.png",beIN SPORTS 2
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/S00988x/IMG-20211213-193811.png",beIN SPORTS 3
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/rTlLxtt.png",beIN SPORTS 3
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/zNZXKCk/IMG-20211222-171347.png",premier leaggue
 http://tienmedia.duckdns.org:8080/LE_1/tracks-v1a1/mono.m3u8
