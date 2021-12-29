@@ -116,14 +116,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",17h00 29/12: Hebei - Guangzhou
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cbc9f974dd7b31c399b2c1&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",17h00 29/12: Beijing Guoan - Shandong
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cbca5dbaf5f939c69df96d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h00 29/12: Shenzhen - Changchun
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cbcbd674dd7b31c399b2c2&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h00 29/12: Guangzhou City - Shanghai Port
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cbcb49e0d4672fc68e6e32&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h00 29/12: Shenzhen - Changchun
+https://tuongbongda.000webhostapp.com/play90p.php?id=61cbcbd674dd7b31c399b2c2&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFF Cup" tvg-logo="https://i.ibb.co/3mG93v1/IMG-20211223-180600.png",19h30 29/12: Indonesia - Thái Lan
 https://tuongbongda.000webhostapp.com/play90p.php?id=61c8b03f8bb98639dd59c7ca&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",00h00 30/12: Famalicão - Belenenses
@@ -150,6 +146,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61cb65da92893b39d1704a80&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb6665baf5f939c69df96c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFF Cup" tvg-logo="https://i.ibb.co/3mG93v1/IMG-20211223-180600.png",19h30 01/01: Thailand - Indonesia
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb66cf3679ef42e3971411&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 01/01: Watford - Tottenham
+https://tuongbongda.000webhostapp.com/play90p.php?id=61cb668f28d9a539bbd2ab51&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 01/01: Leicester - Norwich
+https://tuongbongda.000webhostapp.com/play90p.php?id=61cb66aa28d9a539bbd2ab52&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",02h30 30/12: Chelsea - Brighton
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61c823c2435b4b73e5133600-uDZ2fK-uDZ2fK&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
