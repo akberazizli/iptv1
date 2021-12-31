@@ -40,12 +40,14 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/rTlLxtt.png",beIN SPORTS 3
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/UXwbhHv.png",NƯỚC NGOÀI premier 1
-http://gg.gg/SportsTV-1
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/X67UVZC.png",NƯỚC NGOÀI premier 2
-http://gg.gg/SportsTV-2
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/3sjSbyr/IMG-20211222-170758.png",SKY SPORTS premier
 https://family4you.fun/vn360sport/SportS/ipro360.php?id=7813
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/gAYfApY.png",BÓNG ĐÁ NƯỚC NGOÀI 1
+http://gg.gg/SportsTV-1
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/TmMil28.png",BÓNG ĐÁ NƯỚC NGOÀI 2
+http://gg.gg/SportsTV-2
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/HkrSgmq.png",BÓNG ĐÁ NƯỚC NGOÀI 3
+https://tunelive.net:3412/stream/play.m3u8
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/RcG15dg/IMG-20211126-114256.png",BLV : SAO MAI 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
@@ -53,7 +55,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/Pw81RJv/IMG-20211126-115710.png",BLV : SAO KÊ 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://xem.saoke.live/
-
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/vqrhxYN/IMG-20211126-100629.png",BLV: Giàng A Phò  HD1
 https://na46hw9rf0liv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
