@@ -34,6 +34,8 @@ http://193.33.88.172/football1_hd/index.m3u8
 http://193.33.88.172/football2_hd/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/4IDl0XZ.png",Math 3HD
 http://193.33.88.172/football3_hd/index.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/HuW0JJn.png",beIN 4K
+http://54.169.182.201:80/Bein4k/mpegts
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/JEPmOU6.png",beIN SPORTS 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/0HK5V7J.png",beIN SPORTS 2
@@ -42,14 +44,12 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/3sjSbyr/IMG-20211222-170758.png",SKY SPORTS premier
 https://family4you.fun/vn360sport/SportS/ipro360.php?id=7813
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/qZ0muYz.png",BÓNG ĐÁ NƯỚC NGOÀI 1
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/iCO6hI2.png",SPORTS 1
 http://gg.gg/SportsTV-1
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/7B73mDJ.png",BÓNG ĐÁ NƯỚC NGOÀI 2
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/zqYSGRB.png",SPORTS 2
 http://gg.gg/SportsTV-2
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/5kUYXeb.png",BÓNG ĐÁ NƯỚC NGOÀI 3
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/fZ0kAV2.png",SKY SPORTS LALIGA
 https://tunelive.net:3412/stream/play.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/rMs5vv8.png",BÓNG ĐÁ NƯỚC NGOÀI 4
-http://54.169.182.201:80/Bein4k/mpegts
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/RcG15dg/IMG-20211126-114256.png",BLV : SAO MAI 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
@@ -107,26 +107,28 @@ https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer=https://xoilac.90phutt
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cd85813679ef42e3971415&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",22h15 31/12: Valencia - Espanyol
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb65da92893b39d1704a80&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - AFF Cup" tvg-logo="https://i.ibb.co/3mG93v1/IMG-20211223-180600.png",19h30 01/01: Thailand - Indonesia
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cb66cf3679ef42e3971411&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",19h30 01/01: Arsenal - Man City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb6665baf5f939c69df96c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 01/01: Leicester - Norwich
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cb66aa28d9a539bbd2ab52&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",19h30 01/01: Sheffield United - Middlesbrough
+https://tuongbongda.000webhostapp.com/play90p.php?id=61cef3b48bb98639dd59c7d3&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - AFF Cup" tvg-logo="https://i.ibb.co/3mG93v1/IMG-20211223-180600.png",19h30 01/01: Thái Lan - Indonesia
+https://tuongbongda.000webhostapp.com/play90p.php?id=61cb66cf3679ef42e3971411&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 01/01: Watford - Tottenham
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cb668f28d9a539bbd2ab51&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",22h00 01/01: Blackpool - Hull City
+https://tuongbongda.000webhostapp.com/play90p.php?id=61cef3d08bb98639dd59c7d4&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",00h30 02/01: Crystal Palace - West Ham
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd72e92893b39d1704a81&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h45 02/01: Brest - Bordeaux
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd7dbe0d4672fc68e6e33&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",20h00 02/01: Getafe - Real Madrid
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd79cc6aff63667deb242&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",21h00 02/01: Brentford - Aston Villa
-https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd752c6aff63667deb241&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",21h00 02/01: Southampton - Newcastle United
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd7653679ef42e3971412&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",21h00 02/01: Everton - Brighton
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd7763679ef42e3971413&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",21h00 02/01: Brentford - Aston Villa
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd752c6aff63667deb241&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",21h00 02/01: Leeds United - Burnley
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd7428bb98639dd59c7d1&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 02/01: Montpellier - Strasbourg
