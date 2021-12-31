@@ -40,9 +40,10 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/rTlLxtt.png",beIN SPORTS 3
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/zNZXKCk/IMG-20211222-171347.png",premier leaggue
-http://tienmedia.duckdns.org:8080/LE_1/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/UXwbhHv.png",NƯỚC NGOÀI premier 1
+http://gg.gg/SportsTV-1
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/X67UVZC.png",NƯỚC NGOÀI premier 2
+http://gg.gg/SportsTV-2
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.ibb.co/3sjSbyr/IMG-20211222-170758.png",SKY SPORTS premier
 https://family4you.fun/vn360sport/SportS/ipro360.php?id=7813
 
