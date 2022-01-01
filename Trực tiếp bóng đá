@@ -86,10 +86,6 @@ https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/t
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 01/01: Guangzhou FC - Changchun
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cfd49b3679ef42e3971416&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 01/01: Shandong Taishan - Port
-https://tuongbongda.000webhostapp.com/play90p.php?id=61cfd4c0c6aff63667deb244&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h30 01/01: Hebei FC - Shenzhen FC
 https://tuongbongda.000webhostapp.com/play90p.php?id=61cfd517c6aff63667deb246&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h30 01/01: Beijing Guoan - Guangzhou City
@@ -116,6 +112,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd7763679ef42e3971413&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd7428bb98639dd59c7d1&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",21h00 02/01: Brentford - Aston Villa
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd752c6aff63667deb241&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",21h00 02/01: Southampton - Newcastle United
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd7653679ef42e3971412&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 02/01: Montpellier - Strasbourg
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ccd7f4c6aff63667deb243&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",19h30 01/01: Arsenal - Man City
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ca15b286487f7409b49a4a-6q38AL-6q38AL&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
