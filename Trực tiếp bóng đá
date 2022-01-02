@@ -92,16 +92,6 @@ https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/t
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.ibb.co/qRhpq0K/IMG-20211222-202320.png",03:00 03/01/ Barcelona - Mallorca
 https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/mallorca-vs-barcelona-0300-03-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Chelsea - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Chelsea - Liverpool
-https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vB9kf6f/IMG-20211223-185625.png",SD 2 Chelsea - Liverpool
-https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zm6t45n/IMG-20211223-185535.png",HD 1 Chelsea - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Chelsea - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Deportivo Alaves - Real Sociedad
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Deportivo Alaves - Real Sociedad
@@ -153,8 +143,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d1b8a174dd7b31c399b2c9&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 05/01: Lens - Lille
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d1b95d74dd7b31c399b2ca&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",23h30 02/01: Chelsea - Liverpool
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61cbf6a482fffb21b696bdc2-JUbHNQ-JUbHNQ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",00h30 03/01: Deportivo Alaves - Real Sociedad
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d0f9ec96865e21b7032127-6ha6PI-6ha6PI&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",00h30 03/01: Real Betis - Celta Vigo
