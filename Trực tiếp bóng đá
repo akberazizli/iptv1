@@ -78,7 +78,21 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/man-utd-vs-wolverhampton-0030-04-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Wuhan - Chongqing
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Dalian Pro - Qingdao
+https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Tianjin Jinmen Tiger - Cangzhou
+https://jq9sucdqmfliv.vcdn.cloud/may101/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 03/01: Wuhan - Chongqing
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d28587baf5f939c69df971&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 03/01: Dalian Pro - Qingdao
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d2859dc6aff63667deb248&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 03/01: Tianjin Jinmen Tiger - Cangzhou
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d285b892893b39d1704a84&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h30 03/01: Shanghai Shenhua - Henan Songshan Longmen
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d28552baf5f939c69df970&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",00h30 04/01: Man United - Wolves
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d1b7ff28d9a539bbd2ab57&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",01h00 04/01: Villarreal - Levante
