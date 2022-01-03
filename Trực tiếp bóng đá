@@ -81,12 +81,6 @@ https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/t
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Shanghai Shenhua - Henan Songshan Longmen
 https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 03/01: Wuhan - Chongqing
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d28587baf5f939c69df971&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 03/01: Dalian Pro - Qingdao
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d2859dc6aff63667deb248&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 03/01: Tianjin Jinmen Tiger - Cangzhou
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d285b892893b39d1704a84&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h30 03/01: Shanghai Shenhua - Henan Songshan Longmen
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d28552baf5f939c69df970&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",00h30 04/01: Man United - Wolves
@@ -108,6 +102,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d1b95d74dd7b31c399b2ca&.m
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61cff03496865e21b70320f0-EH6to9-EH6to9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",22h00 03/01: Stoke - Preston
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61cff03882fffb21b696bebe-ld86aC-ld86aC&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",22h00 03/01: Nottm Forest - Barnsley
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d2e6c996865e21b70321cf-uq16ep-uq16ep&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",00h30 04/01: Man United - Wolves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d10ae0a2dd9b2183f08dd2-lTbdyV-lTbdyV&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",01h00 04/01: Villarreal - Levante
