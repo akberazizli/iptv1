@@ -73,10 +73,18 @@ http://103.125.191.32:8080/tvpub/mpegts
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 05/01: Lens - Lille
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d1b95d74dd7b31c399b2ca&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 04/01: Guangzhou City - Hebei
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d389eb92893b39d1704a86&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 04/01: Shenzhen - Beijing
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d38a0a8bb98639dd59c7d8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 04/01: Changchun Yatai - Shandong
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d38a23c6aff63667deb24b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",14h30 04/01: Shanghai Port - Guangzhou
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d38a4b3679ef42e397141e&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 05/01: Ponferradina - Espanyol
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d3515dbaf5f939c69df972&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 05/01: Lens - Lille
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d1b95d74dd7b31c399b2ca&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 05/01: Leganes - Real Sociedad
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d350fa3679ef42e397141b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 05/01: Cartagena - Valencia
@@ -95,14 +103,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d3535574dd7b31c399b2cc&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d351fce0d4672fc68e6e35&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",18h30 06/01: Sampdoria - Cagliari
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d351c4c6aff63667deb249&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",20h30 06/01: Lazio - Empoli
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d35229c6aff63667deb24a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",20h30 06/01: Spezia - Hellas Verona
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d3525ebaf5f939c69df973&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 06/01: Girona - Osasuna
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d353c73679ef42e397141d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 06/01: Fuenlabrada - Cadiz
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d3538c74dd7b31c399b2cd&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",18h30 06/01: Bologna - Inter
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d10b6282fffb21b696befb-AYM7mc-AYM7mc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
