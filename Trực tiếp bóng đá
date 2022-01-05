@@ -80,8 +80,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Linares Deportivo - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Atletico Baleares - Celta Vigo
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài CD Mirandes - Rayo Vallecano
@@ -157,8 +155,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d352a428d9a539bbd2ab59&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Cúp nhà vua TBN" tvg-logo="https://i.imgur.com/uCVwSYM.png",00h00 07/01: Sporting Gijón - Villarreal
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d5baf1c6aff63667deb254&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",01h30 06/01: Linares Deportivo - Barcelona
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d10ba1883de2217d7d2fa6-4QiNUH-4QiNUH&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",02h00 06/01: Atletico Baleares - Celta Vigo
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d10ba396865e21b703213b-nTf7IO-nTf7IO&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",02h00 06/01: CD Mirandes - Rayo Vallecano
