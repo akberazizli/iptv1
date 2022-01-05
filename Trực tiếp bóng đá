@@ -80,7 +80,23 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Cartagena - Valencia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wRV6ffV/IMG-20211223-102109.png",HD Cartagena - Valencia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/br5Hsc6/IMG-20211223-102048.png",SD Cartagena - Valencia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Eibar - Mallorca
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Leganes - Real Sociedad
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uCVwSYM.png",Nhà đài Eibar - Mallorca
+https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uCVwSYM.png",Nhà đài Cartagena - Valencia
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uCVwSYM.png",Nhà đài Leganes - Real Sociedad
+https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Cúp nhà vua TBN" tvg-logo="https://i.imgur.com/uCVwSYM.png",22h00 05/01: Eibar - Mallorca
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d350d23679ef42e397141a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
