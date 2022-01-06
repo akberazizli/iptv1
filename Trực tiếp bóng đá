@@ -99,10 +99,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke6.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Real Zaragoza - Sevilla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Sporting Gijon - Villarreal
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Milan - Roma
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Milan - Roma
@@ -113,11 +109,11 @@ https://na46hw9rf0liv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Milan - Roma
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Almeria - Elche
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Atletico Mancha Real - Athletic Club
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uCVwSYM.png",Nhà đài Real Zaragoza - Sevilla
-https://jq9sucdqmfliv.vcdn.cloud/may71/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uCVwSYM.png",Nhà đài Sporting Gijón - Villarreal
-https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Milan - Roma (Liu men)
 https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/R0QDJN8/IMG-20211223-100743.png",SD2 Milan - Roma (Liu men)
@@ -170,10 +166,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d70359e0d4672fc68e6e3d&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",20h00 08/01: Levante - Mallorca
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d7020ee0d4672fc68e6e3a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",00h00 07/01: Real Zaragoza - Sevilla
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d6c017a2dd9b2183f0901f-Erl0Pe-Erl0Pe&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",00h00 07/01: Sporting Gijon - Villarreal
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d6c018883de2217d7d339f-uL6ttK-uL6ttK&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",00h30 07/01: Milan - Roma
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d4665682fffb21b696c090-MXgtLd-MXgtLd&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",02h00 07/01: Almeria - Elche
