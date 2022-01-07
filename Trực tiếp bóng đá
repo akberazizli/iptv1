@@ -100,13 +100,15 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Celaya - Tepatitlán
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",06h00 07/01: Celaya - Tepatitlán
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d764b58bb98639dd59c7eb&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",08h00 07/01: Pumas Tabasco - Raya2
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d76590c6aff63667deb260&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Cúp nhà vua TBN" tvg-logo="https://i.imgur.com/uCVwSYM.png",02h00 07/01: Almería - Elche
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d5bb0692893b39d1704a8c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Cúp nhà vua TBN" tvg-logo="https://i.imgur.com/uCVwSYM.png",02h00 07/01: Mancha Real - Athletic Club
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d5bb1de0d4672fc68e6e38&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",02h45 07/01: Juventus - Napoli (Cáp + Thỏ)
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d5ba1574dd7b31c399b2d0&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Cúp nhà vua TBN" tvg-logo="https://i.imgur.com/uCVwSYM.png",03h30 07/01: Rayo Majadahonda - Atlético Madrid
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d5bb6274dd7b31c399b2d1&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",01h30 08/01: Santa Clara - Sporting CP
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d702b73679ef42e3971422&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",02h30 08/01: Bayern München - M'gladbach
@@ -119,20 +121,22 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d702e4c6aff63667deb255&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d7030828d9a539bbd2ab62&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 08/01: Millwall - Crystal Palace
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d7041474dd7b31c399b2d4&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 08/01: Bristol City - Fulham
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d70359e0d4672fc68e6e3d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 08/01: Hartlepool United - Blackpool
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d703b38bb98639dd59c7e3&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 08/01: Burnley - Huddersfield Town
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d7037cbaf5f939c69df976&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 08/01: Coventry City - Derby County
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d703953679ef42e3971423&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 08/01: Burnley - Huddersfield Town
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d7037cbaf5f939c69df976&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h30 08/01: Bristol City - Fulham
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d70359e0d4672fc68e6e3d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",20h00 08/01: Levante - Mallorca
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d7020ee0d4672fc68e6e3a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",21h30 08/01: Hoffenheim - Augsburg
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d7024bbaf5f939c69df975&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",21h30 08/01: Freiburg - Arminia Bielefeld
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d7028228d9a539bbd2ab61&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",21h30 08/01: Bayer Leverkusen - Union Berlin
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d702a13679ef42e3971421&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",21h30 08/01: Hoffenheim - Augsburg
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d7024bbaf5f939c69df975&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",19h20 07/01: Al Batin - Al-Ettifaq
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d6e9b396865e21b70323a3-t7UpGV-t7UpGV&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
