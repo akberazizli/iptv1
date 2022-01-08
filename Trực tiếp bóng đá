@@ -91,20 +91,12 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 09/01: Real Madrid - Valencia
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke6.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Real Madrid - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Real Madrid - Valencia
-https://na46hw9rf0liv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vB9kf6f/IMG-20211223-185625.png",SD 2 Real Madrid - Valencia
-https://na46hw9rf0liv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zm6t45n/IMG-20211223-185535.png",HD 1 Real Madrid - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Real Madrid - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Lens - Rennes
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",03h00 09/01: Real Madrid - Valencia (Liu men)
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d75912c6aff63667deb259&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",03h00 09/01: Lens - Rennes
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d75a62baf5f939c69df978&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",18h30 09/01: Empoli - Sassuolo
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d7597dc6aff63667deb25a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",18h30 09/01: Venezia - Milan
@@ -136,10 +128,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d75aad28d9a539bbd2ab67&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",21h30 09/01: Hertha BSC - Köln
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d75a0c3679ef42e397142c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",03h00 09/01: Real Madrid - Valencia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69b7da2dd9b2183f08fdd-NM0uaL-NM0uaL&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",03h00 09/01: Lens - Rennes
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c1e96865e21b7032356-NIGXhA-NIGXhA&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",18h30 09/01: Empoli - Sassuolo
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69ba2a2dd9b2183f08fe0-JSN2Ad-JSN2Ad&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",18h30 09/01: Venezia - Milan
