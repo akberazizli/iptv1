@@ -93,10 +93,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Barnsley - Barrow
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Kidderminster Harriers - Reading
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài QPR - Rotherham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m405nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài West Brom - Brighton
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Real Sociedad - Celta Vigo
@@ -168,10 +164,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d759ae3679ef42e397142a&.m
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",22h00 08/01: Barnsley - Barrow
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d4674182fffb21b696c0a3-sYMim4-sYMim4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",22h00 08/01: Kidderminster Harriers - Reading
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d46744883de2217d7d322a-kT8kBe-kT8kBe&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",22h00 08/01: QPR - Rotherham
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d4675096865e21b70322ae-6dwubc-6dwubc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",22h00 08/01: West Brom - Brighton
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d4675282fffb21b696c0ae-rIP5wt-rIP5wt&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",22h15 08/01: Real Sociedad - Celta Vigo
