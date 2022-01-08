@@ -91,8 +91,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 09/01: Real Madrid - Valencia
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke6.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Barnsley - Barrow
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài QPR - Rotherham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m405nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Chelsea - Chesterfield
@@ -134,8 +132,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Yeovil - Bournemouth
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/l2sgEWD.png",Nhà đài Barnsley - Barrow
-https://ksc96zydg6liv.vcdn.cloud/may21/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/l2sgEWD.png",Nhà đài QPR - Rotherham United
 https://jq9sucdqmfliv.vcdn.cloud/may51/index.m3u8	|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/l2sgEWD.png",Nhà đài Swansea City - Southampton
@@ -230,8 +226,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d7592f28d9a539bbd2ab64&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",20h30 09/01: Cagliari - Bologna
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d759ae3679ef42e397142a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",22h00 08/01: Barnsley - Barrow
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d4674182fffb21b696c0a3-sYMim4-sYMim4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",22h00 08/01: QPR - Rotherham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d9c58b96865e21b7032524-E3IooA-E3IooA&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",00h30 09/01: Chelsea - Chesterfield
