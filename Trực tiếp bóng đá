@@ -108,18 +108,6 @@ http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/nottingha
 #EXTINF:-1 group-title="XEM BONG DA - XEM BONG DA" tvg-logo= "https://i.imgur.com/ZuntYqY.png",21h00 09/01: Tottenham - Morecambe
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/tottenham-vs-morecambe&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Venezia - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Venezia - Milan
-https://xem.rakhoi.tv/truc-tiep/61d69ba396865e21b703234a-Ti9Hgn-Ti9Hgn.html?link=2|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Venezia - Milan
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vB9kf6f/IMG-20211223-185625.png",SD 2 Venezia - Milan
-https://na46hw9rf0liv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zm6t45n/IMG-20211223-185535.png",HD 1 Venezia - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Venezia - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Brest - Nice
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Brest - Nice
@@ -133,14 +121,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Rayo Vallecano - Real Betis
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Venezia - Milan (Âu men)
-https://jq9sucdqmfliv.vcdn.cloud/123SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GnqTBsy/IMG-20211223-100923.png",HD1 Venezia - Milan (Âu men)
-https://livestream.socialstreaming.tv/live/61dacaad362c87001cc8094a/61dacaad362c87001cc8094a.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BZjXkQZ/IMG-20211223-100901.png",HD2 Venezia - Milan (Âu men)
-https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",Nhà đài Venezia - Milan (Âu men)
-https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",Nhà đài Brest - Nice
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/l2sgEWD.png",Nhà đài Luton Town - Harrogate Town
@@ -183,8 +163,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d75a0c3679ef42e397142c&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",22h15 09/01: Sevilla - Getafe
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d759403679ef42e3971429&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",18h30 09/01: Venezia - Milan
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69ba396865e21b703234a-Ti9Hgn-Ti9Hgn&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",19h00 09/01: Brest - Nice
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c1f82fffb21b696c13a-BD9LI5-BD9LI5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",19h30 09/01: Luton - Harrogate Town
@@ -193,6 +171,8 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c60a2dd9b2183f08ff3
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69b7f96865e21b7032344-XgDcHg-XgDcHg&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",20h30 09/01: Empoli - Sassuolo
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69ba2a2dd9b2183f08fe0-JSN2Ad-JSN2Ad&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",21h00 09/01: Liverpool - Shrewsbury
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c6596865e21b7032360-9xFXJY-9xFXJY&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",21h00 09/01: Clermont Foot - Reims
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c20883de2217d7d3365-Aqliot-Aqliot&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",21h00 09/01: Metz - Strasbourg
@@ -201,8 +181,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c22a2dd9b2183f08fec
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c62883de2217d7d336d-HG8IVZ-HG8IVZ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",21h00 09/01: Charlton - Norwich
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c6382fffb21b696c143-C214cZ-C214cZ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",21h00 09/01: Liverpool - Shrewsbury
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c6596865e21b7032360-9xFXJY-9xFXJY&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",21h00 09/01: Stoke - Leyton Orient
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c6682fffb21b696c144-35Br7l-35Br7l&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",21h00 09/01: Tottenham - Morecambe
