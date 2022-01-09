@@ -109,14 +109,6 @@ http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/nottingha
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/tottenham-vs-morecambe&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Cardiff - Preston
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Cardiff - Preston
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Hertha BSC - Köln
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Hertha BSC - Köln
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Sevilla - Getafe
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Sevilla - Getafe
@@ -214,10 +206,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61d760aa92893b39d1704a97&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 10/01: Ethiopia - Cape Verde
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d76104c6aff63667deb25f&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/vzrlHIu.png",21h00 09/01: Cardiff - Preston
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69c62883de2217d7d336d-HG8IVZ-HG8IVZ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/WlDC1TL.png",21h30 09/01: Hertha BSC - Köln
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69bc6a2dd9b2183f08fe6-LhmTJ5-LhmTJ5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",22h15 09/01: Sevilla - Getafe
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d69b8096865e21b7032345-lFWn6Y-lFWn6Y&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",22h30 09/01: Napoli - Sampdoria
