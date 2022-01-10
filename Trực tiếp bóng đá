@@ -95,8 +95,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/br5Hsc6/IMG-20211223-102048.png",SD Torino - Fiorentina
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Guinea - Malawi
-https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Morocco - Ghana
 https://ksc96zydg6liv.vcdn.cloud/123SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GnqTBsy/IMG-20211223-100923.png",HD1 Morocco - Ghana
@@ -107,13 +105,17 @@ https://livestream-2.socialstreaming.tv/live/61dc4deb3190d0001ceae5ae/61dc4deb31
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@old_man/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",Nhà đài Torino - Fiorentina
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Guinea - Malawi
+https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 10/01: Guinea - Malawi
-https://tuongbongda.000webhostapp.com/play90p.php?id=61d76133e0d4672fc68e6e45&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",20h00 10/01: Senegal - Zimbabwe (Cáp)
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d7611974dd7b31c399b2dd&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 10/01: Morocco - Ghana
 https://tuongbongda.000webhostapp.com/play90p.php?id=61d7614ae0d4672fc68e6e46&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",23h00 10/01: Torino - Fiorentina
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc287cc6aff63667deb263&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 10/01: Guinea - Malawi
+https://tuongbongda.000webhostapp.com/play90p.php?id=61d76133e0d4672fc68e6e45&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 11/01: Comoros - Gabon
 https://tuongbongda.000webhostapp.com/play90p.php?id=61db42aee0d4672fc68e6e48&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/l2sgEWD.png",02h55 11/01: Manchester United - Aston Villa
