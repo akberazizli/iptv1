@@ -83,9 +83,23 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 12/01: Cagliari - Bologna
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Southampton - Brentford
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Southampton - Brentford
+https://xem.rakhoi.tv/truc-tiep/61d93cc5a2dd9b2183f09148-ZWSEZ8.html?link=4|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Southampton - Brentford
+https://na46hw9rf0liv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vB9kf6f/IMG-20211223-185625.png",SD 2 Southampton - Brentford
+https://na46hw9rf0liv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zm6t45n/IMG-20211223-185535.png",HD 1 Southampton - Brentford
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Southampton - Brentford
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Sudan - Guinea-Bissau
 https://jq9sucdqmfliv.vcdn.cloud/may4/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",Nhà đài Cagliari - Bologna
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Southampton - Brentford
 https://ksc96zydg6liv.vcdn.cloud/may1SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/R0QDJN8/IMG-20211223-100743.png",SD2 Southampton - Brentford
@@ -96,15 +110,15 @@ https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc
 https://livestream.socialstreaming.tv/live/61ddccbea6d818001cfd76de/61ddccbea6d818001cfd76de.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jGM2XGd/IMG-20211223-100959.png",Nhà Đài Southampton - Brentford
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",Nhà đài Cagliari - Bologna
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 11/01: Nigeria - Egypt	(Cáp)
+https://tuongbongda.000webhostapp.com/play90p.php?id=61db432574dd7b31c399b2e0&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 12/01: Sudan - Guinea-Bissau
 https://tuongbongda.000webhostapp.com/play90p.php?id=61db446174dd7b31c399b2e1&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",02h45 12/01: Southampton - Brentford
-https://tuongbongda.000webhostapp.com/play90p.php?id=61db4429e0d4672fc68e6e4b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",02h45 12/01: Cagliari - Bologna
 https://tuongbongda.000webhostapp.com/play90p.php?id=61db4449baf5f939c69df97c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",02h45 12/01: Southampton - Brentford
+https://tuongbongda.000webhostapp.com/play90p.php?id=61db4429e0d4672fc68e6e4b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",20h00 12/01: Tunisia - Mali
 https://tuongbongda.000webhostapp.com/play90p.php?id=61db447792893b39d1704a9a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 12/01: Mauritania - Gambia
@@ -113,22 +127,20 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61db449428d9a539bbd2ab6e&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc86c3c6aff63667deb266&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 13/01: Equatorial Guinea - Ivory Coast
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc872bc6aff63667deb267&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",02h45 13/01: West Ham - Norwich
-https://tuongbongda.000webhostapp.com/play90p.php?id=61dc85948bb98639dd59c7f5&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Carabao Cup" tvg-logo="https://i.imgur.com/kLkh9lu.png",02h45 13/01: Tottenham - Chelsea
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc8607c6aff63667deb264&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",02h45 13/01: West Ham - Norwich
+https://tuongbongda.000webhostapp.com/play90p.php?id=61dc85948bb98639dd59c7f5&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 13/01: Inter - Juventus
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc862ac6aff63667deb265&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 13/01: Cameroon - Ethiopia
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc87598bb98639dd59c7f6&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",01h00 14/01: Famalicao - Belenenses SAD
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc880274dd7b31c399b2e3&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 14/01: Atletico Madrid - Athletic Club
-https://tuongbongda.000webhostapp.com/play90p.php?id=61dc883874dd7b31c399b2e4&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 14/01: Cape Verde - Burkina Faso
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc888c74dd7b31c399b2e5&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Carabao Cup" tvg-logo="https://i.imgur.com/kLkh9lu.png",02h45 14/01: Liverpool - Arsenal
-https://tuongbongda.000webhostapp.com/play90p.php?id=61dc87d974dd7b31c399b2e2&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 14/01: Atletico Madrid - Athletic Club
+https://tuongbongda.000webhostapp.com/play90p.php?id=61dc883874dd7b31c399b2e4&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",02h45 12/01: Southampton - Brentford
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d93cc5a2dd9b2183f09148-ZWSEZ8-ZWSEZ8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
