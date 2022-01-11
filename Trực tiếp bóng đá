@@ -83,10 +83,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 12/01: Cagliari - Bologna
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Reading - Fulham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Reading - Fulham
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 12/01: Sudan - Guinea-Bissau
@@ -120,8 +116,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61dc888c74dd7b31c399b2e5&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Carabao Cup" tvg-logo="https://i.imgur.com/kLkh9lu.png",02h45 14/01: Liverpool - Arsenal
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc87d974dd7b31c399b2e2&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",03h00 12/01: Reading - Fulham
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ddeb4796865e21b703275f-9zp62s-9zp62s&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",02h45 13/01: West Ham - Norwich
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61da53ed883de2217d7d3679-AbhSpV-AbhSpV&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.imgur.com/x4mSqba.png",02h45 13/01: Tottenham - Chelsea
