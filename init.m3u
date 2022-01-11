@@ -78,7 +78,9 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 #EXTINF:-1 group-title="TRƯC TIẾP - TRƯC TIẾP" tvg-logo= "https://i.imgur.com/6WNQJIs.png",K+ MỞ KHI CÓ TRẬN
 http://103.125.191.32:8080/tvpub/mpegts
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 12/01: Southampton - Brentford
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 12/01: Cagliari - Bologna
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h00 13/01: Barcelona - Real Madrid
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 13/01: Tottenham - Chelsea
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 13/01: Inter - Juventus
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
