@@ -99,6 +99,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Cagliari - Bologna
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Reading - Fulham
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Reading - Fulham
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Sudan - Guinea-Bissau
 https://jq9sucdqmfliv.vcdn.cloud/may4/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -150,6 +154,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61dc87d974dd7b31c399b2e2&.m
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61d93cc5a2dd9b2183f09148-ZWSEZ8-ZWSEZ8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",02h45 12/01: Cagliari - Bologna
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61dc86c0a2dd9b2183f09380-rTYVEn-rTYVEn&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",03h00 12/01: Reading - Fulham
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ddeb4796865e21b703275f-9zp62s-9zp62s&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",02h45 13/01: West Ham - Norwich
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61da53ed883de2217d7d3679-AbhSpV-AbhSpV&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.imgur.com/x4mSqba.png",02h45 13/01: Tottenham - Chelsea
