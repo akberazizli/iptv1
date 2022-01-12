@@ -86,10 +86,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 13/01: Inter - Juventus
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Inter - Juventus
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Inter - Juventus
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Inter - Juventus (Người Thỏ)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may10SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -129,8 +125,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61dc88b6e0d4672fc68e6e4c&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",01h00 18/01: Trao giải The Best 2021
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ded89dc6aff63667deb268&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Super Cup" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",03h00 13/01: Inter - Juventus
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61da53f0883de2217d7d367a-Tl6gU3-Tl6gU3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Coppa Italia" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",00h00 14/01: Napoli - Fiorentina
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61de157e82fffb21b696c53a-H46ynK-H46ynK&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Super Cup" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",02h00 14/01: Atletico Madrid - Athletic Club
