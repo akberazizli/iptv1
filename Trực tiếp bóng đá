@@ -76,11 +76,11 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 #EXTINF:-1 group-title="TRƯC TIẾP - TRƯC TIẾP" tvg-logo= "https://i.imgur.com/6WNQJIs.png",K+ MỞ KHI CÓ TRẬN
 http://103.125.191.32:8080/tvpub/mpegts
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/zR7BPcY.png", 20h00 12/01: Tunisia - Mali
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/ZtYI3KH.png", 20h00 12/01: Tunisia - Mali
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/tunisia-vs-mali&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/zR7BPcY.png",02h00 13/01: Barcelona - Real Madrid
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/ZtYI3KH.png",02h00 13/01: Barcelona - Real Madrid
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/barcelona-vs-real-madrid&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/zR7BPcY.png",02h45 13/01: Tottenham - Chelsea
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/ZtYI3KH.png",02h45 13/01: Tottenham - Chelsea
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/tottenham-vs-chelsea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
