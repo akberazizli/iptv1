@@ -71,30 +71,17 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 #EXTINF:-1 group-title="TRƯC TIẾP - TRƯC TIẾP" tvg-logo= "https://i.imgur.com/6WNQJIs.png",K+ MỞ KHI CÓ TRẬN
 http://103.125.191.32:8080/tvpub/mpegts
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/ZtYI3KH.png", 20h00 12/01: Tunisia - Mali
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/tunisia-vs-mali&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/ZtYI3KH.png",02h00 13/01: Barcelona - Real Madrid
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/barcelona-vs-real-madrid&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/ZtYI3KH.png",02h45 13/01: Tottenham - Chelsea
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/tottenham-vs-chelsea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",02h45 14/01: Liverpool - Arsenal
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/liverpool-vs-arsenal-2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",03h00 14/01: Milan - Genoa
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/ac-milan-vs-genoa&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h00 13/01: Barcelona - Real Madrid
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 13/01: Tottenham - Chelsea
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 13/01: Inter - Juventus
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 14/01: Liverpool - Arsenal
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h00 14/01: Atletico Madrid - Athletic Club
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Inter - Juventus (Người Thỏ)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may10SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/R0QDJN8/IMG-20211223-100743.png",SD2 Inter - Juventus (Người Thỏ)
-https://jq9sucdqmfliv.vcdn.cloud/may10SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Inter - Juventus (Người Thỏ)
-https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Ky2vjcr/IMG-20211223-100726.png",FullHD Inter - Juventus (Người Thỏ)
-https://livestream.socialstreaming.tv/live/61df28654db274001c9973de/61df28654db274001c9973de.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 13/01: Barcelona - Real Madrid (Liu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=61dc86c3c6aff63667deb266&.m3u8|Referer=https://xoilac.90phutttt.xyz/
