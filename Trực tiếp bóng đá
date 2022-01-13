@@ -29,6 +29,15 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png", Xem lại Liverpool - Shrewsbury Town
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220110/220109-2015-liverpool-shrewsbury-town-fa-fm-fn-1641748690/dbc9e54624f7dfb1335ba852fb03ae54-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png", Xem lại Nottingham Forest - Arsenal
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220110/220110-0110-nottinghamforest-arsenal-fa-hls-logo/d320f8c9c12ce61961879e2a91307e2e-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png", Xem lại Tottenham Hotspur - Morecambe
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220110/220109-2100-tottenham-hotspur-morecambe-fa-fm-fn-1641748937/4aed18f47df55633d7a70540a88934c3.smil/chunklist_b2428000.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png", Xem lại Chelsea - Chesterfield
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220109/220108-2345-chelsea-chesterfield-fa-clean-48-fm-1641676554/0db3caac9029d9b6cd24f1b9113aa0db.smil/chunklist_b2428000.m3u8
+
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/ujHTdKx.png",KÊNH LALIGA
 http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/DGspQ9S.png", Math 1HD
