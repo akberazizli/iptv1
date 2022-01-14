@@ -99,22 +99,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 15/01: Brighton - Crystal Palace
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Brighton - Crystal Palace
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Brighton - Crystal Palace
-https://xem.rakhoi.tv/truc-tiep/61de19be82fffb21b696c556-BXMmbW.html?link=2|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Brighton - Crystal Palace
-https://na46hw9rf0liv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vB9kf6f/IMG-20211223-185625.png",SD 2 Brighton - Crystal Palace
-https://na46hw9rf0liv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zm6t45n/IMG-20211223-185535.png",HD 1 Brighton - Crystal Palace
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Brighton - Crystal Palace
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Nice - Nantes
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Nice - Nantes
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",03h00 15/01: Brighton - Crystal Palace (Cáp)
@@ -152,10 +136,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61e07def3679ef42e3971439&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h30 15/01: Boavista - Gil Vicente
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e07ce9e0d4672fc68e6e4f&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",03h00 15/01: Brighton - Crystal Palace
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61de19be82fffb21b696c556-BXMmbW-BXMmbW&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",03h00 15/01: Nice - Nantes
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61de19c096865e21b703278a-G5vCFP-G5vCFP&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",19h30 15/01: Man City - Chelsea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e08990883de2217d7d3bf6-2jKe63-2jKe63&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",19h30 15/01: Luton - Bournemouth
