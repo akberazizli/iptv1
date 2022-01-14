@@ -99,43 +99,35 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 15/01: Brighton - Crystal Palace
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Dortmund - Freiburg
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Dortmund - Freiburg
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Gabon - Ghana
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Gabon - Ghana (Old)
 https://ksc96zydg6liv.vcdn.cloud/123SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GnqTBsy/IMG-20211223-100923.png",HD1 Gabon - Ghana
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GnqTBsy/IMG-20211223-100923.png",HD1 Gabon - Ghana (Old)
 https://livestream-2.socialstreaming.tv/live/61e1951a0b47b2001cd4a2ba/61e1951a0b47b2001cd4a2ba.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BZjXkQZ/IMG-20211223-100901.png",HD2 Gabon - Ghana
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BZjXkQZ/IMG-20211223-100901.png",HD2 Gabon - Ghana (Old)
 https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Cv1ysQy/IMG-20211225-201246.png",HD3 Gabon - Ghana
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Cv1ysQy/IMG-20211225-201246.png",HD3 Gabon - Ghana (Old)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@old_man/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài PEC Zwolle - Willem II
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Dortmund - Freiburg
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Dortmund - Freiburg (Thỏ)
 https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/R0QDJN8/IMG-20211223-100743.png",SD2 Dortmund - Freiburg
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/R0QDJN8/IMG-20211223-100743.png",SD2 Dortmund - Freiburg (Thỏ)
 https://jq9sucdqmfliv.vcdn.cloud/may3SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GnqTBsy/IMG-20211223-100923.png",HD1 Dortmund - Freiburg
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GnqTBsy/IMG-20211223-100923.png",HD1 Dortmund - Freiburg (Thỏ)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BZjXkQZ/IMG-20211223-100901.png",HD2 Dortmund - Freiburg
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BZjXkQZ/IMG-20211223-100901.png",HD2 Dortmund - Freiburg (Thỏ)
 https://livestream-2.socialstreaming.tv/live/61e1bfbb68c88f001c13beb1/61e1bfbb68c88f001c13beb1.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jGM2XGd/IMG-20211223-100959.png",Nhà Đài Dortmund - Freiburg
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jGM2XGd/IMG-20211223-100959.png",Nhà Đài Dortmund - Freiburg (Thỏ)
 https://ksc96zydg6liv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 14/01: Malawi - Zimbabwe
-https://tuongbongda.000webhostapp.com/play90p.php?id=61e07a3928d9a539bbd2ab70&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 14/01: Morocco - Comoros
-https://tuongbongda.000webhostapp.com/play90p.php?id=61e07a698bb98639dd59c7f7&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 15/01: Gabon - Ghana
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 15/01: Gabon - Ghana (Old)
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e07d713679ef42e3971437&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 15/01: PEC Zwolle - Willem II
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e07e213679ef42e397143a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",02h30 15/01: Dortmund - Freiburg
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",02h30 15/01: Dortmund - Freiburg (Thỏ)
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e07be03679ef42e3971436&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",03h00 15/01: Brighton - Crystal Palace
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",03h00 15/01: Brighton - Crystal Palace (Cáp)
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e07ab1e0d4672fc68e6e4d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",03h00 15/01: Nice - Nantes
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e07d1428d9a539bbd2ab74&.m3u8|Referer=https://xoilac.90phutttt.xyz/
