@@ -78,8 +78,6 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/6WNQJIs.png",K+ MỞ KHI CÓ TRẬN 1
 http://103.125.191.32:8080/tvpub/mpegts
-#EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/hGrtOfh.png",K+ MỞ KHI CÓ TRẬN 2
-http://54.169.182.201:80/kpm/mpegts
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",19h30 15/01: Man City - Chelsea
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/manchester-city-vs-chelsea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
