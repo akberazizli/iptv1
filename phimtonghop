@@ -23,5 +23,5 @@ https://bitvtom100.xyz/hls/v2/45c581f18225ab28f6a934503df47144/playlist.m3u8|Ref
 https://bitvtom100.xyz/hls/v2/01aebe1b59962ead1f69d946a7bca474/playlist.m3u8|Referer=http://hdvip.net/
 #EXTINF:-1 group-title="phim LẺ-phim LẺ" tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwAwxcWj8RyPAP-xc1ZQUQo-NfXo99RGqekA&usqp=CAU",Hải Tặc
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201117/the-pirates-fptplay-1080p-sub-logofptplay/492bd680026a11705887a2853f9572ad.smil/playlist.m3u8
-
-
+#EXTINF:-1 group-title="phim LẺ-phim LẺ" tvg-logo= "https://vn.tv36.com/asset/film/poster/360/20201004155620YxpUgs_360.webp",Kung Fu Thám Tử
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20170706/kung-fu-joe-logo/53c05eae9ed5bb31aeffa15e70690b91-720p.mp4/playlist.m3u8
