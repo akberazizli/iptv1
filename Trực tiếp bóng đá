@@ -81,6 +81,8 @@ http://103.125.191.32:8080/tvpub/mpegts
 
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",18h30 16/01: Sassuolo - Hellas Verona
 http://tbientv.xyz/mitom/mitom_getlink.php?url=https://mitom1.tv/truc-tiep/sassuolo-vs-hellas-verona-1830-16-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h00 16/01: Liverpool - Brentford
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/liverpool-vs-brentford-2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h00 16/01: West Ham - Leeds
 http://tbientv.xyz/mitom/mitom_getlink.php?url=https://mitom1.tv/truc-tiep/west-ham-utd-vs-leeds-united-2100-16-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.pngg",00h00 17/01: Roma - Cagliari
@@ -118,10 +120,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Elche - Villarreal
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Atlético Baleares - Valencia
-https://ksc96zydg6liv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Utrecht - Ajax
-https://jq9sucdqmfliv.vcdn.cloud/may5/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",Nhà đài Hull City - Stoke City
 https://ksc96zydg6liv.vcdn.cloud/may71/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",Nhà đài Rennes - Bordeaux
@@ -142,6 +140,32 @@ https://jq9sucdqmfliv.vcdn.cloud/may51/index.m3u8|Referer=https://xoilac.90phutt
 https://ksc96zydg6liv.vcdn.cloud/may2/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Cambuur - Sparta Rotterdam
 https://ksc96zydg6liv.vcdn.cloud/may21/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 West Ham - Leeds United
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may10SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/R0QDJN8/IMG-20211223-100743.png",SD2 West Ham - Leeds United
+https://jq9sucdqmfliv.vcdn.cloud/may10SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD West Ham - Leeds United
+https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Ky2vjcr/IMG-20211223-100726.png",FullHD West Ham - Leeds United
+https://livestream.socialstreaming.tv/live/61e41bfe243c18001d10a91f/61e41bfe243c18001d10a91f.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",Nhà đài West Ham - Leeds United
+https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Liverpool - Brentford
+https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/R0QDJN8/IMG-20211223-100743.png",SD2 Liverpool - Brentford
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Liverpool - Brentford
+https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Ky2vjcr/IMG-20211223-100726.png",FullHD Liverpool - Brentford
+https://livestream.socialstreaming.tv/live/61e4198a5a77c3001c717f85/61e4198a5a77c3001c717f85.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",Nhà đài Liverpool - Brentford
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may91/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",Nhà đài Venezia - Empoli
+https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",Nhà đài Reims - Metz
+https://jq9sucdqmfliv.vcdn.cloud/may5/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",Nhà đài Monaco - Clermont
+https://ksc96zydg6liv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h00 16/01: Atlético Baleares - Valencia
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e1d5a38bb98639dd59c7fe&.m3u8|Referer=https://xoilac.90phutttt.xyz/
