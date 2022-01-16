@@ -105,9 +105,15 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 17/01: Atalanta - Inter
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Atletico Baleares - Valencia
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Atletico Baleares - Valencia
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Atlético Baleares - Valencia
 https://ksc96zydg6liv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Utrecht - Ajax
+https://jq9sucdqmfliv.vcdn.cloud/may5/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h00 16/01: Atlético Baleares - Valencia
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e1d5a38bb98639dd59c7fe&.m3u8|Referer=https://xoilac.90phutttt.xyz/
