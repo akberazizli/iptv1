@@ -93,10 +93,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 20/01: Brentford - Man United
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Cadiz - Espanyol
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Cadiz - Espanyol
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h45 19/01: Bochum - Mainz 05
@@ -140,8 +136,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61e72ca3baf5f939c69df98a&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",02h45 20/01: Hull City - Blackburn Rovers
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e72d908bb98639dd59c807&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",03h30 19/01: Cadiz - Espanyol
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e5173396865e21b7032af2-DJva4x-DJva4x&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Coppa Italia" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",23h30 19/01: Sassuolo - Cagliari
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e517d0883de2217d7d3ff8-aiKwWz-aiKwWz&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",01h00 20/01: Celta Vigo - Osasuna
