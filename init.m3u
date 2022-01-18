@@ -79,26 +79,16 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/6WNQJIs.png",K+ MỞ KHI CÓ TRẬN 1
 rtmp://59.124.75.138/sat/vn011
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png", 23:00 18/01: malawi-vs-senegal
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/malawi-vs-senegal&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",2h45 19/01:FC St. Pauli vs Borussia Dortmund
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/fc-st-pauli-vs-borussia-dortmund&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",02:30/19/01:newcastle-vs-watford
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/burnley-vs-watford-2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png", 03:00 19/01: brighton-vs-chelsea
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/brighton-vs-chelsea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",03h30 19/01: cadiz-vs-espanyol
-http://tbientv.xyz/mitom/mitom_getlink.php?url=https://mitom1.tv/truc-tiep/cadiz-vs-espanyol-0330-19-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",,00h30 19/01: juventus-vs-sampdoria
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/juventus-vs-sampdoria&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",23h30 19/01: Sassuolo - Cagliari
+http://tbientv.xyz/mitom/mitom_getlink.php?url=https://mitom1.tv/truc-tiep/sassuolo-vs-cagliari-2330-19-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",02h30 20/01: Leicester - Tottenham
+http://tbientv.xyz/mitom/mitom_getlink.php?url=https://mitom1.tv/truc-tiep/leicester-city-vs-tottenham-0230-17-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",03h00 20/01: Brentford - Man United
+http://tbientv.xyz/mitom/mitom_getlink.php?url=https://mitom1.tv/truc-tiep/brentford-vs-man-utd-0230-15-12/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",21:00 18/01:Uganda - Moldova
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",23h30 19/01: Sassuolo - Cagliari
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h30 20/01: Leicester - Tottenham
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",23:00 18/01:malawi-vs-senegal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",23:30 18/01: lazio-vs-udinese
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02:00 19/01: gabon-vs-morocco
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03:00 19/01: brighton-vs-chelsea
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 20/01: Brentford - Man United
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
