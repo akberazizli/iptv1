@@ -74,15 +74,18 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/Sd56y5X/IMG-20211126-094411.png",BLV: Giàng A TÁO HD1
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep
+
+#EXTINF:-1 group-title="90phut VoPhu - 90phut" tvg-logo= "https://i.imgur.com/FEd353D.png",TENNIS ÚC MỞ RỘNG
+https://family4you.fun/vn360sport/90phut/vebo_play.php?id=61e75e2ce5fdc400cb72c6c8&.m3u8|Referer=https://mitom.90phuttttt.xyz/
 
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/6WNQJIs.png",K+ MỞ KHI CÓ TRẬN 1
 rtmp://59.124.75.138/sat/vn011
 
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/Z6qSx2K.jpg", 02h30 20/01: Leicester - Tottenham
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/WvDghXn.png", 02h30 20/01: Leicester - Tottenham
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/leicester-vs-tottenham-2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/h80yZiC.jpg",03h00 20/01: Brentford - Man United
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/WvDghXn.png",03h00 20/01: Brentford - Man United
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/brentford-vs-manchester-united-2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",23h30 19/01: Sassuolo - Cagliari
 http://tbientv.xyz/mitom/mitom_getlink.php?url=https://mitom1.tv/truc-tiep/sassuolo-vs-cagliari-2330-19-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
@@ -98,8 +101,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 20/01: Brentford - Man United
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="90phut VoPhu - 90phut" tvg-logo= "https://i.imgur.com/FEd353D.png",TENNIS ÚC MỞ RỘNG
-https://family4you.fun/vn360sport/90phut/vebo_play.php?id=61e75e2ce5fdc400cb72c6c8&.m3u8|Referer=https://mitom.90phuttttt.xyz/
 
 
 
