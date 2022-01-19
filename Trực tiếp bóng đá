@@ -72,9 +72,9 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 #EXTINF:-1 group-title="90phut VoPhu - 90phut" tvg-logo= "https://i.imgur.com/FEd353D.png",TENNIS ÚC MỞ RỘNG
 https://family4you.fun/vn360sport/90phut/vebo_play.php?id=61e75e2ce5fdc400cb72c6c8&.m3u8|Referer=https://mitom.90phuttttt.xyz/
 
-#EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/6WNQJIs.png",K+ MỞ KHI CÓ TRẬN 1
+#EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/fh5DiF7.png",K+ MỞ KHI CÓ TRẬN 1
 http://54.169.182.201:80/kpm/mpegts
-#EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/6WNQJIs.png",K+ MỞ KHI CÓ TRẬN 2
+#EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/Y4rjMP7.png",K+ MỞ KHI CÓ TRẬN 2
 http://54.169.182.201:80/kpc/mpegts
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/WvDghXn.png", 02h30 20/01: Leicester - Tottenham
@@ -130,8 +130,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Real Sociedad - Atletico Madrid
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Groningen - NEC
-https://ksc96zydg6liv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",Nhà đài Celta Vigo - Osasuna
 https://jq9sucdqmfliv.vcdn.cloud/may8/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",Nhà đài Lille - Lorient
@@ -170,6 +168,8 @@ https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc
 https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",Nhà đài Brentford - Man United (Bát + Thỏ)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may91/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Inter - Empoli
+https://jq9sucdqmfliv.vcdn.cloud/may4/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",00h30 20/01: RB Leipzig - Hansa Rostock
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e72c4a74dd7b31c399b2f6&.m3u8|Referer=https://xoilac.90phutttt.xyz/
