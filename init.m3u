@@ -78,11 +78,11 @@ http://54.169.182.201:80/kpm/mpegts
 http://54.169.182.201:80/kpc/mpegts
 
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",TRUNG QUỐC VS ĐÀI BẮC TRUNG HOA
-https://livecdn.fptplay.net/tvc/afc01_2000.stream/playlist.m3u8
+https://vips-livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",ẨN ĐỘ VS IRAN
-https://livecdn.fptplay.net/tvc/afc02_2000.stream/playlist.m3u8
+https://vips-livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",HÀN QUỐC VS VIỆT NAM
-https://livecdn.fptplay.net/tvc/afc04_2000.stream/playlist.m3u8
+https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png", 02h45 21/01: Arsenal - Liverpool
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/arsenal-vs-liverpool&.m3u8|Referer=https://playmt.fastlycdn.xyz/
