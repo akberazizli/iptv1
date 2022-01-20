@@ -100,6 +100,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài India - Iran
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",17h00 20/01: China - Chinese Taipei
+https://tuongbongda.000webhostapp.com/play90p.php?id=61e88a10c6aff63667deb279&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",21h00 20/01: India - Iran
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e88a3c3679ef42e3971449&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 20/01: Sierra Leone - Equatorial Guinea
@@ -128,8 +130,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61e8887992893b39d1704aa7&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e888e692893b39d1704aa8&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",15h00 21/01: Nhật Bản - Myanmar
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e8913c92893b39d1704aab&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",17h00 21/01: Australia - Indonesia
-https://tuongbongda.000webhostapp.com/play90p.php?id=61e89164baf5f939c69df98e&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",01h00 21/01: Getafe - Granada
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e51a86883de2217d7d4007-xpD4Vg-xpD4Vg&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
