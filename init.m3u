@@ -71,21 +71,28 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 
 #EXTINF:-1 group-title="90phut VoPhu - 90phut" tvg-logo= "https://i.imgur.com/HM6sXZ3.png",TENNIS ÚC MỞ RỘNG
 #http://103.125.191.32:8080/live1/mpegts
-#https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x5/playlist.m3u8|Referer=https://xem.saoke.live/
-https://family4you.fun/vn360sport/90phut/vebo_play.php?id=61e9fc15e5fdc400b87a0f3e&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x5/playlist.m3u8|Referer=https://xem.saoke.live/
 
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/fh5DiF7.png",K+ MỞ KHI CÓ TRẬN 1
 http://54.169.182.201:80/kpm/mpegts
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/Y4rjMP7.png",K+ MỞ KHI CÓ TRẬN 2
 http://54.169.182.201:80/kpc/mpegts
 
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",19h30 22/01: Everton - Aston Villa
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/everton-vs-aston-villa&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",22h00 22/01: Man United - West Ham
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/manchester-united-vs-west-ham&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",22h00 22/01: Brentford - Wolves
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/brentford-vs-wolverhampton-2200-22-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",22h00 22/01: Leeds - Newcastle
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/leeds-vs-newcastle&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",00h30 23/01: Southampton - Man City
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/southampton-vs-manchester-city&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png", ,03h00 22/01: Watford - Norwich
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/watford-vs-norwich&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",03h00 22/01: Espanyol - Real Betis
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/espanyol-vs-real-betis-0300-22-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-
-
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 22/01: Watford - Norwich
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",19h30 22/01: Everton - Aston Villa
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",22h00 22/01: Man United - West Ham
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",00h30 23/01: Southampton - Man City
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
