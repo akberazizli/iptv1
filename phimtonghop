@@ -2,7 +2,18 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://i.imgur.com/I7hOMqF.jpg",Giấc Mộng Tây Du 2: Thiết Phiến Công Chúa
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220118/dreamjourney2princessironfan_2017_cn_1080p_sub_logofptplay/2000771c1628f41396f4d30e14e881fc_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Địch Nhân Kiệt: Bức Tranh Luân Hồi
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220118/dreamjourney2princessironfan_2017_cn_1080p_sub_logofptplay/2000771c1628f41396f4d30e14e881fc_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Quái Vật
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220118/dreamjourney2princessironfan_2017_cn_1080p_sub_logofptplay/2000771c1628f41396f4d30e14e881fc_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Cuộc Chiến Luân Hồi
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211105/edgeoftomorrow_2014_us_1080p_sub_logofptplay/0dcfee904b4e454f7b5b7c7e1e41e4a2_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Tử Thần Vùng Texas: Khởi Đầu Sự Chết Chóc
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211129/thetexaschainsawmassacrethebeginning_2006_us_1080p_logofptplay/e2726d35b7b589ed760e7ec79bba6274.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Cô Dâu Ma
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210927/theghostbride_2017_ph_1080p_sub_logofptplay_v2/3972189c49c7008349f65e6aa9499a04_1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Đường Cùng
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20171216/hushmoney-logo/7b4db67051d2e0740f41d8683dee29d1.smil/chunklist_b1998000.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Quái Vật Khổng Lồ
