@@ -90,10 +90,6 @@ http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/espanyo
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Hellas Verona - Bologna
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Hellas Verona - Bologna
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Watford - Norwich
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Watford - Norwich
@@ -115,8 +111,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m405nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Lyon - Saint-Etienne
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",Nhà đài Hellas Verona - Bologna
-https://jq9sucdqmfliv.vcdn.cloud/may31/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Watford - Norwich
 https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Watford - Norwich
@@ -165,8 +159,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61e9923992893b39d1704aae&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",23h00 22/01: Brest - Lille
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e99282baf5f939c69df992&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",02h45 22/01: Hellas Verona - Bologna
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e7036dea45ae233ba2ba66-EVjd2C-EVjd2C&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",03h00 22/01: Watford - Norwich
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e70340ea45ae233ba2ba4e-wAdE3d-wAdE3d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",03h00 22/01: Espanyol - Real Betis
