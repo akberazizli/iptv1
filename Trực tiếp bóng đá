@@ -91,7 +91,7 @@ https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png", ,03h00 22/01: Watford - Norwich
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/watford-vs-norwich&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",03h00 22/01: Espanyol - Real Betis
-http://tbientv.xyz/mitom/mitom_getlink.php?url=https://mitom1.tv/truc-tiep/espanyol-vs-real-betis-0300-22-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/espanyol-vs-real-betis-0300-22-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h00 22/01: Watford - Norwich
@@ -127,8 +127,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m405nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Lyon - Saint-Etienne
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/4ttKxsQ/IMG-20211223-180658.png",Nhà đài Frankfurt - Arminia Bielefeld
-https://jq9sucdqmfliv.vcdn.cloud/may41/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",Nhà đài Hellas Verona - Bologna
 https://jq9sucdqmfliv.vcdn.cloud/may31/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Watford - Norwich
