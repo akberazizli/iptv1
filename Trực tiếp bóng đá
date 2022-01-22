@@ -106,13 +106,17 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Everton - Aston Villa
 https://xem.rakhoi.tv/truc-tiep/61e70341ea45ae233ba2ba4f-ird1Hg.html?link=4|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Everton - Aston Villa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vB9kf6f/IMG-20211223-185625.png",SD 2 Everton - Aston Villa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zm6t45n/IMG-20211223-185535.png",HD 1 Everton - Aston Villa
 https://ihkvgekdmaliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Everton - Aston Villa
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vB9kf6f/IMG-20211223-185625.png",SD 2 Everton - Aston Villa
 https://ihkvgekdmaliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zm6t45n/IMG-20211223-185535.png",HD 1 Everton - Aston Villa
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Everton - Aston Villa
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Levante - Cadiz
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Levante - Cadiz
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Everton - Aston Villa
 https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -127,8 +131,6 @@ https://jq9sucdqmfliv.vcdn.cloud/maynam/index.m3u8|Referer=https://xoilac.90phut
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",Nhà đài Levante - Cadiz
 https://ksc96zydg6liv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",13h05 22/01: Sydney FC (W) - Melbourne City FC (W)
-https://tuongbongda.000webhostapp.com/play90p.php?id=61eb7637e0d4672fc68e6e60&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",15h45 22/01: Sydney FC - Perth Glory
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eb761792893b39d1704aaf&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",19h30 22/01: Everton - Aston Villa
@@ -157,6 +159,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61e98fe274dd7b31c399b2fd&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e990773679ef42e397144c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h30 22/01: Moreirense - Santa Clara
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e9923992893b39d1704aae&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",23h00 22/01: Brest - Lille
+https://tuongbongda.000webhostapp.com/play90p.php?id=61e99282baf5f939c69df992&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",19h30 22/01: Everton - Aston Villa
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e70341ea45ae233ba2ba4f-ird1Hg-ird1Hg&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
