@@ -2,6 +2,32 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
+
+
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Đặc Vụ Áo Đen
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210930/meninblack_1997_us_1080p_sub_logofptplay/6a8d130894ea80ba8ea30c86f25597d5.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Những Gã Trai Hư Trọn Đời
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210920/badboysforlifeavod_2020_us_1080p_sub_logofptplay/806d288fc4f864885de461fbbc8d8d89_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Giáng Ma Đại Sư
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210920/badboysforlifeavod_2020_us_1080p_sub_logofptplay/806d288fc4f864885de461fbbc8d8d89_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Tay Súng Bắn Tỉa: Nạp Đạn
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220104/theconqueror_2019_cn_1080p_sub_logofptplay/6d6c594bf75744bb40be162786ac1fab_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Hoàng Phi Hồng: Vương Giả Vô Địch
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210920/badboysforlifeavod_2020_us_1080p_sub_logofptplay/806d288fc4f864885de461fbbc8d8d89_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Tân Bao Thanh Thiên: Huyết Thù Cổ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220106/justicebao_2019_cn_1080p_sub_logofptplay/5570187c58bbbb37b830ff8548d3add3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Quái Xế Baby
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210927/babydriver_2017_us_1080p_sub_logofptplay/40cd096da9d47bee6599096340d1d6fa_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Kẻ Ám Sát
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211020/accidentman_2018_gb_1080p_sub_logofptplay/8b427ede557649352d0ec83721ef3f60_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Kiếm Ký
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201117/memories-of-the-sword-fptplay-1080p-logofptplay/d751d0555630f64140ca142a8919b160-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Diều Hâu Gãy Cánh
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211106/blackhawkdown_2001_us_1080p_sub_logofptplay/c87b0c4b21a0692d915414b7bd0bc114_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Sát Thủ Văn Phòng
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201116/a_company_man_fptplay_1080p_logofptplay/89e2f8cbec8f370972d30ec946748a69_1080p.mp4/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://i.imgur.com/I7hOMqF.jpg",Giấc Mộng Tây Du 2: Thiết Phiến Công Chúa
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220118/dreamjourney2princessironfan_2017_cn_1080p_sub_logofptplay/2000771c1628f41396f4d30e14e881fc_1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Địch Nhân Kiệt: Bức Tranh Luân Hồi
