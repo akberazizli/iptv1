@@ -101,27 +101,7 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Atletico Madrid - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Atletico Madrid - Valencia
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/FYNc9s0/IMG-20211223-185552.png",HD 2 Atletico Madrid - Valencia
-https://ihkvgekdmaliv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/vB9kf6f/IMG-20211223-185625.png",SD 2 Atletico Madrid - Valencia
-https://ihkvgekdmaliv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zm6t45n/IMG-20211223-185535.png",HD 1 Atletico Madrid - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Atletico Madrid - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Atletico Madrid - Valencia (Âu men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GnqTBsy/IMG-20211223-100923.png",HD1 Atletico Madrid - Valencia (Âu men)
-https://livestream-2.socialstreaming.tv/live/61ec5b8757d91a001c2e4030/61ec5b8757d91a001c2e4030.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/BZjXkQZ/IMG-20211223-100901.png",HD2 Atletico Madrid - Valencia (Âu men)
-https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",Nhà đài Atletico Madrid - Valencia (Âu men)
-https://ksc96zydg6liv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 23/01: AZ - Cambuur
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ec246374dd7b31c399b304&.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -168,8 +148,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61ec2dfb28d9a539bbd2ab82&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",21h00 23/01: Leicester City - Brighton
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ec2cc63679ef42e3971451&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",03h00 23/01: Atletico Madrid - Valencia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d1a8a6ec0579b7889ee7-CSe56A-CSe56A&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",15h00 23/01: Iran - China
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d2f7a6ec0579b7889f38-CnAUi3-CnAUi3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",18h30 23/01: Cagliari - Fiorentina
