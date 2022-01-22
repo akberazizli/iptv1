@@ -98,7 +98,15 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Mazatlan FC - Toluca
+https://jq9sucdqmfliv.vcdn.cloud/may4/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",10h00 22/01: Mazatlan FC - Toluca
+https://tuongbongda.000webhostapp.com/play90p.php?id=61eb7195baf5f939c69df993&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",13h05 22/01: Sydney FC (W) - Melbourne City FC (W)
+https://tuongbongda.000webhostapp.com/play90p.php?id=61eb7637e0d4672fc68e6e60&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",15h45 22/01: Sydney FC - Perth Glory
+https://tuongbongda.000webhostapp.com/play90p.php?id=61eb761792893b39d1704aaf&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",19h30 22/01: Everton - Aston Villa
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e98f9474dd7b31c399b2fc&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",20h00 22/01: Levante - Cadiz
@@ -117,16 +125,14 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61e991b274dd7b31c399b2ff&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e991dd92893b39d1704aad&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 22/01: Leeds - Newcastle
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e98fbc8bb98639dd59c80b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 22/01: Brentford - Wolves
-https://tuongbongda.000webhostapp.com/play90p.php?id=61e98fe274dd7b31c399b2fd&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 22/01: Man United - West Ham
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e9900474dd7b31c399b2fe&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/nbrZsRt/IMG-20211223-180630.png",22h00 22/01: Brentford - Wolves
+https://tuongbongda.000webhostapp.com/play90p.php?id=61e98fe274dd7b31c399b2fd&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",22h15 22/01: Villarreal - Mallorca
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e990773679ef42e397144c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h30 22/01: Moreirense - Santa Clara
 https://tuongbongda.000webhostapp.com/play90p.php?id=61e9923992893b39d1704aae&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",23h00 22/01: Brest - Lille
-https://tuongbongda.000webhostapp.com/play90p.php?id=61e99282baf5f939c69df992&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",19h30 22/01: Everton - Aston Villa
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e70341ea45ae233ba2ba4f-ird1Hg-ird1Hg&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
