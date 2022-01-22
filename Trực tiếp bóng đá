@@ -113,10 +113,6 @@ https://ihkvgekdmaliv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Atletico Madrid - Valencia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Lens - Marseille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Lens - Marseille
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Atletico Madrid - Valencia (Âu men)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -126,8 +122,6 @@ https://livestream-2.socialstreaming.tv/live/61ec5b8757d91a001c2e4030/61ec5b8757
 https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",Nhà đài Atletico Madrid - Valencia (Âu men)
 https://ksc96zydg6liv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",Nhà đài Lens - Marseille
-https://ksc96zydg6liv.vcdn.cloud/may61/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Willem II - Twente
 https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
@@ -178,8 +172,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61ec2cc63679ef42e3971451&.m
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/gWB6mfQ/IMG-20211223-180901.png",03h00 23/01: Atletico Madrid - Valencia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d1a8a6ec0579b7889ee7-CSe56A-CSe56A&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",03h00 23/01: Lens - Marseille
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d265a6ec0579b7889f19-rnQik5-rnQik5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",15h00 23/01: Iran - China
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d2f7a6ec0579b7889f38-CnAUi3-CnAUi3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",18h30 23/01: Cagliari - Fiorentina
