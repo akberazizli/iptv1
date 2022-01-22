@@ -73,6 +73,7 @@ https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 #http://103.125.191.32:8080/live1/mpegts
 https://family4you.fun/vn360sport/90phut/vebo_play.php?id=61eaa269e5fdc400c206cdc0&.m3u8|Referer=https://mitom.90phuttttt.xyz/
 
+
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/fh5DiF7.png",K+ MỞ KHI CÓ TRẬN 1
 #http://3.95.214.208:80/K1hd/mpegts
 http://103.125.191.32:8000/live1
@@ -115,6 +116,20 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 23/01: AZ - Cambuur
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ec246374dd7b31c399b304&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 23/01: Heerenveen - PEC Zwolle
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ec247774dd7b31c399b305&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h30 23/01: Erzgebirge Aue - Schalke 04
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ec41263679ef42e3971456&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/zZqN0Pj/IMG-20211223-180616.png",02h45 23/01: Lazio - Atalanta
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ec23e83679ef42e397144e&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",03h00 23/01: Atletico Madrid - Valencia (Âu men)
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ec23ab74dd7b31c399b303&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",03h00 23/01: Lens - Marseille
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ec2427e0d4672fc68e6e62&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 23/01: Willem II - Twente
+https://tuongbongda.000webhostapp.com/play90p.php?id=61ec248a8bb98639dd59c814&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",15h00 23/01: Iran - China
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ec2e7dbaf5f939c69df997&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",18h15 23/01: NEC - Feyenoord
