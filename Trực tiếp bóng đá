@@ -124,6 +124,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Perth Glory - Western Sydney Wanderers FC
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Brisbane Roar - Adelaide United
+https://jq9sucdqmfliv.vcdn.cloud/may2/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",12h05 23/01: Central Coast Mariners - Melbourne City
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ec922992893b39d1704ab7&.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -158,7 +162,7 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61ec2d5928d9a539bbd2ab81&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",21h00 23/01: Nantes - Lorient
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ec2de8baf5f939c69df996&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",15h00 23/01: Iran - China
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",16h50 23/01: Iran - China
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d2f7a6ec0579b7889f38-CnAUi3-CnAUi3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rcr1FQR/IMG-20211223-174643.png",18h30 23/01: Cagliari - Fiorentina
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d1cea6ec0579b7889ef4-Nj6U1T-Nj6U1T&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
