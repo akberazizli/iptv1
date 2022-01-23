@@ -83,8 +83,6 @@ http://cdn.mysocola.live:80/KPMHD/index.m3u8
 #http://3.95.214.208:80/K2hd/mpegts
 http://tbientv.xyz/k+sport2
 
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",17h00 23/01: Iran - China
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/iran-w-vs-china-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",18h30 23/01: Cagliari - Fiorentina
@@ -122,10 +120,9 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 24/01: PSG - Reims
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",18h30 23/01: Cagliari - Fiorentina
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+
 #EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",21h00 23/01: Arsenal - Burnley
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",21h00 23/01: Crystal Palace - Liverpool
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",21h00 23/01: Leicester City - Brighton
