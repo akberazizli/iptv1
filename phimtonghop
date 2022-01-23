@@ -3,7 +3,14 @@
 #EXTINF:vo phu 
 
 
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Trốn Chạy
+https://hlss.xyz/cdn/hls/bd488c236d940bdf7aa8902ba84c5705/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19706/poster.jpg",Lật Mặt 5
+https://hlss.xyz/cdn/hls/2efe9e34ba546c5765409db5a33bd6ea/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19388/poster.jpg",Thiên Thần Hộ Mệnh
+https://hlss.xyz/cdn/hls/ba7b15411ade1c6d386a1001181298d6/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19379/poster.jpg",Tiệc Trăng Máu
+https://hlss.xyz/cdn/hls/7e5249d1d330ad0344ecee9e52db65dd/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Chủng Tộc Bất Tử 
 https://hlss.xyz/cdn/hls/7847bdc7c1e3c4aa71e3197863736f4c/master.m3u8
 
