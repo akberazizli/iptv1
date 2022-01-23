@@ -2,28 +2,15 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6694/poster.jpg",Thiên Sư Bắt Ma Phần 4
-https://hlss.xyz/cdn/hls/493f87133f4828e7d2d432f0ffff7c39/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6693/poster.jpg",Thiên Sư Bắt Ma Phần 3
-https://hlss.xyz/cdn/hls/db48a9eb0eefe9375a9c7a2e4a59fc8b/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6692/poster.jpg",Thiên Sư Bắt Ma Phần 2
-https://hlss.xyz/cdn/hls/92e7885d03eab8f0853c3a817df6544e/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6695/poster.jpg",Thiên Sư Bắt Ma Phần 5
-https://hlss.xyz/cdn/hls/eb2b1e1f3c75d194abf06953a205abce/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6691/poster.jpg",Thiên Sư Bắt Ma Phần 1
-https://hlss.xyz/cdn/hls/4704e69cdf571855550e1e78095cb5e7/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/13339/poster.jpg",Rồng Quyết Đấu
-https://hlss.xyz/cdn/hls/0d044a0315ae0f31e25b32abb33c3551/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Trốn Chạy
-https://hlss.xyz/cdn/hls/bd488c236d940bdf7aa8902ba84c5705/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19706/poster.jpg",Lật Mặt 5
-https://hlss.xyz/cdn/hls/2efe9e34ba546c5765409db5a33bd6ea/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19388/poster.jpg",Thiên Thần Hộ Mệnh
-https://hlss.xyz/cdn/hls/ba7b15411ade1c6d386a1001181298d6/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19379/poster.jpg",Tiệc Trăng Máu
-https://hlss.xyz/cdn/hls/7e5249d1d330ad0344ecee9e52db65dd/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Chủng Tộc Bất Tử 
-https://hlss.xyz/cdn/hls/7847bdc7c1e3c4aa71e3197863736f4c/master.m3u8
+
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19706/poster.jpg",Võ Sĩ Đạo Cuối Cùng
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211029/thelastsamurai_2003_us_1080p_sub_logofptplay/3db241a605ca68433741ec31d1458f4d_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19388/poster.jpg", Người Máy Nổi Loạn
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210927/terminator3riseofthemachines_2003_us_1080p_sub_logofptplay/4754a7d545ae312f52d91cb244f992a7_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19379/poster.jpg",Giải Cứu Nhà Trắng
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210926/whitehousedown_2013_us_1080p_sub_logofptplay/635f7603da46cf32318f06c8501c8774_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Điệp Vụ Tam Giác Vàng 
+https://vod03-cdn.fptplay.net/encoded/20200619/operation-mekong-1080p-sub-logofptplay-v3/index_1080p.m3u8
 
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Đặc Vụ Áo Đen
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210930/meninblack_1997_us_1080p_sub_logofptplay/6a8d130894ea80ba8ea30c86f25597d5.smil/playlist.m3u8
