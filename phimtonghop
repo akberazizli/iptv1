@@ -3,15 +3,26 @@
 #EXTINF:vo phu 
 
 
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Võ Sĩ Đạo Cuối Cùng
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Võ Sĩ Đạo Cuối Cùng
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211029/thelastsamurai_2003_us_1080p_sub_logofptplay/3db241a605ca68433741ec31d1458f4d_1080p.mp4/playlist.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png", Người Máy Nổi Loạn
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png", Người Máy Nổi Loạn
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210927/terminator3riseofthemachines_2003_us_1080p_sub_logofptplay/4754a7d545ae312f52d91cb244f992a7_1080p.mp4/playlist.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Giải Cứu Nhà Trắng
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Giải Cứu Nhà Trắng
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210926/whitehousedown_2013_us_1080p_sub_logofptplay/635f7603da46cf32318f06c8501c8774_1080p.mp4/playlist.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Điệp Vụ Tam Giác Vàng 
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Điệp Vụ Tam Giác Vàng 
 https://vod03-cdn.fptplay.net/encoded/20200619/operation-mekong-1080p-sub-logofptplay-v3/index_1080p.m3u8
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/cKJINBh.jpg",Tây Du Ký - A
+http://vod-zlr2.tv360.vn/video1/2021/06/24/16/91cf44d8/91cf44d8-f2f8-445c-9f90-50dcab8824fc_5_.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/YeT2sA2.jpg",Thất Kiếm
+http://vod-zlr2.tv360.vn/video1/2021/10/06/17/ae348b26/ae348b26-9ad1-4089-90da-02f169c56ddb_5_.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Thập Nguyệt Vi Thành
+http://vod-zlr2.tv360.vn/video1/2019/12/28/17/2fd41aae/2fd41aae-75d6-4549-86a7-df8c3a33d2c1_2_.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Tẩu Thoát Ngoạn Mục
+http://vod-zlr2.tv360.vn/video1/2018/10/02/18/2870a3d1/2870a3d1-7b96-4249-847e-b7d995a56530_4_.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/7w9Lmma.jpg",Ngòi Nổ
+http://vod-zlr2.tv360.vn/video1/2021/09/14/23/8c7c779c/8c7c779c-1ee2-4b15-a89f-6e0b10daeccf_5_.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/74ygJvF.jpg",Cao Thủ Ẩn Danh
+http://vod-zlr2.tv360.vn/video1/2021/08/17/11/91d914d1/91d914d1-090e-4b93-8652-58969d34d573_5_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Đặc Vụ Áo Đen
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210930/meninblack_1997_us_1080p_sub_logofptplay/6a8d130894ea80ba8ea30c86f25597d5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/1FPZcyC.png",Những Gã Trai Hư Trọn Đời
