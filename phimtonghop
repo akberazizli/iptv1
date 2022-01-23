@@ -2,7 +2,18 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6694/poster.jpg",Thiên Sư Bắt Ma Phần 4
+https://hlss.xyz/cdn/hls/493f87133f4828e7d2d432f0ffff7c39/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6693/poster.jpg",Thiên Sư Bắt Ma Phần 3
+https://hlss.xyz/cdn/hls/db48a9eb0eefe9375a9c7a2e4a59fc8b/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6692/poster.jpg",Thiên Sư Bắt Ma Phần 2
+https://hlss.xyz/cdn/hls/92e7885d03eab8f0853c3a817df6544e/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6695/poster.jpg",Thiên Sư Bắt Ma Phần 5
+https://hlss.xyz/cdn/hls/eb2b1e1f3c75d194abf06953a205abce/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/6691/poster.jpg",Thiên Sư Bắt Ma Phần 1
+https://hlss.xyz/cdn/hls/4704e69cdf571855550e1e78095cb5e7/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://bilutv.link/film/13339/poster.jpg",Rồng Quyết Đấu
+https://hlss.xyz/cdn/hls/0d044a0315ae0f31e25b32abb33c3551/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Trốn Chạy
 https://hlss.xyz/cdn/hls/bd488c236d940bdf7aa8902ba84c5705/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ chiếu rạp võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/19706/poster.jpg",Lật Mặt 5
