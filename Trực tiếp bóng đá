@@ -138,10 +138,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Montpellier - Monaco
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Montpellier - Monaco
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Chelsea - Tottenham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Chelsea - Tottenham
@@ -261,8 +257,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61ed79ab28d9a539bbd2ab89&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",02h45 25/01: Blackburn - Middlesbrough
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ed7a0e92893b39d1704ab9&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",23h05 23/01: Montpellier - Monaco
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d26da6ec0579b7889f25-FsO7kH-FsO7kH&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/GtDzh9h/IMG-20211223-180926.png",23h30 23/01: Chelsea - Tottenham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d18aa6ec0579b7889edd-pZMqgz-pZMqgz&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/WlDC1TL.png",23h30 23/01: Hertha BSC - Bayern München
