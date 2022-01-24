@@ -2,7 +2,12 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/9dPHt0Y.jpg",Địch Nhân Kiệt: Rồng Biến Trỗi Dậy 
+http://vod-zlr2.tv360.vn/video1/2020/02/16/23/216d389d/216d389d-c5c8-4e5d-8d02-1cc68840814a_5_.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/Ab1dH41.jpg",Nhất Đẳng Karate 4
+http://vod-zlr2.tv360.vn/video1/2021/08/13/13/f524ec82/f524ec82-a571-4e57-a463-a58c547418d3_5_.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/ulCu37J.jpg",Huyền Thoại Kungfu 
+http://vod-zlr2.tv360.vn/video1/2019/12/28/17/3af85fe8/3af85fe8-8c83-4eba-b40d-d44ae34cc268_5_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/lwojx0S.jpg",Thị Trấn Cuồng Sát 
 http://vod-zlr2.tv360.vn/video1/2020/09/16/09/5858ab63/5858ab63-268f-47ed-b4b4-84838cec3238_5_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Võ Sĩ Đạo Cuối Cùng
