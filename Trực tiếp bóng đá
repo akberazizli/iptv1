@@ -138,10 +138,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",Nhà Đài Colo Colo - Universidad Catolica
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Colo Colo - Universidad Catolica
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/0Jzc7Zb/IMG-20211223-180711.png",03h00 24/01: Alaves - Barcelona (Người Thỏ)
@@ -173,8 +169,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61edc90be0d4672fc68e6e6b&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 26/01: Côte d'Ivoire - Egypt
 https://tuongbongda.000webhostapp.com/play90p.php?id=61edc8e88bb98639dd59c819&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Super Cup" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",05h00 24/01: Colo Colo - Universidad Catolica
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ecc3c7a6ec0579b788a86f-q8qFKo-q8qFKo&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",15h00 24/01: Myanmar - South Korea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ed3017a6ec0579b788a94b-4Uy18l-4Uy18l&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",17h00 24/01: Philippines - Australia
