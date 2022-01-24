@@ -81,59 +81,38 @@ http://cdn.mysocola.live:80/KPMHD/index.m3u8
 
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/Y4rjMP7.png",K+ MỞ KHI CÓ TRẬN 2
 #http://3.95.214.208:80/K2hd/mpegts
+#http://103.125.191.32:8000/live2
 http://tbientv.xyz/k+sport2
 
 
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 24/01: Myanmar - Korea Republic
+https://vips-livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",17h00 24/01: Philippines - Australia
+https://vips-livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",19h00 24/01: Indonesia - Thailand
+https://vips-livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",21h00 24/01: Vietnam - Japan
+https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",18h30 23/01: Cagliari - Fiorentina
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/cagliari-vs-fiorentina-1830-23-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h00 23/01: Arsenal - Burnley
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/arsenal-vs-burnley&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h00 23/01: Crystal Palace - Liverpool
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/crystal-palace-vs-liverpool&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h00 23/01: Leicester City - Brighton
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/leicester-vs-brighton&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",23h30 23/01: Chelsea - Tottenham
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/chelsea-vs-tottenham&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",23h30 23/01: Hertha BSC - Bayern München
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/hertha-berlin-vs-bayern-munich&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",22h15 23/01: Real Madrid - Elche
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/real-madrid-vs-elche-2215-23-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",02h45 24/01: Milan - Juventus
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/milan-vs-juventus-0245-24-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",03h00 24/01: Deportivo Alaves - Barcelona
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/alaves-vs-barcelona-0300-24-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",15h00 24/01: Myanmar - Korea Republic
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/myanmar-w-vs-south-korea-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",17h00 24/01: Philippines - Australia
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/philippines-w-vs-australia-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",19h00 24/01: Indonesia - Thailand
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/indonesia-w-vs-thailand-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h00 24/01: Vietnam - Japan
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/vietnam-w-vs-japan-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",18h30 23/01: Cagliari - Fiorentina
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",21h00 23/01: Arsenal - Burnley
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",15h00 24/01: Myanmar - Korea Republic
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",21h00 23/01: Crystal Palace - Liverpool
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",17h00 24/01: Philippines - Australia
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",21h00 23/01: Leicester City - Brighton
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",19h00 24/01: Indonesia - Thailand
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",23h30 23/01: Chelsea - Tottenham
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 24/01: Milan - Juventus
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h45 24/01: PSG - Reims
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",21h00 24/01: Vietnam - Japan
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",23h00 24/01: Guinea - Gambia
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-
-
-#EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",21h00 23/01: Arsenal - Burnley
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",21h00 23/01: Crystal Palace - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",21h00 23/01: Leicester City - Brighton
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",03h30 06/01: Alcoyano - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",23h30 23/01: Chelsea - Tottenham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",02h45 24/01: Milan - Juventus
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CAKHIA VoPhu - CAKHIA VoPhu" tvg-logo= "https://i.imgur.com/u1sceyc.png",03h00 24/01: Deportivo Alaves - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h00 25/01: Cameroon - Comoros
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 
