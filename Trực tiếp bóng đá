@@ -123,10 +123,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 25/01: Cameroon - Comoros
-https://tuongbongda.000webhostapp.com/play90p.php?id=61ed79ab28d9a539bbd2ab89&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",02h45 25/01: Blackburn - Middlesbrough
-https://tuongbongda.000webhostapp.com/play90p.php?id=61ed7a0e92893b39d1704ab9&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 25/01: Senegal - Cape Verde
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ed79dae0d4672fc68e6e69&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 26/01: Morocco - Malawi
@@ -137,10 +133,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61eef943baf5f939c69df99e&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61edc90be0d4672fc68e6e6b&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",21h00 26/01: Chinese Taipei - Iran
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eef8b8baf5f939c69df99d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 26/01: Côte d'Ivoire - Egypt
-https://tuongbongda.000webhostapp.com/play90p.php?id=61edc8e88bb98639dd59c819&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 26/01: Ivory Coast - Egypt
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eef80c3679ef42e3971458&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 26/01: Côte d'Ivoire - Egypt
+https://tuongbongda.000webhostapp.com/play90p.php?id=61edc8e88bb98639dd59c819&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",01h00 27/01: Angers - Saint-Etienne
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefa1d74dd7b31c399b30d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 27/01: Mali - Equatorial Guinea
@@ -155,6 +151,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61eefd0592893b39d1704abd&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefb6be0d4672fc68e6e6c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",17h00 27/01: Japan - China
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc0192893b39d1704aba&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h00 27/01: Lebanon - South Korea
+https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc2292893b39d1704abb&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",02h45 25/01: Blackburn - Middlesbrough
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d54ca6ec0579b7889f98-Edfdlr-Edfdlr&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
