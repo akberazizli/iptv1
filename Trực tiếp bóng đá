@@ -117,10 +117,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Blackburn - Middlesbrough
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Blackburn - Middlesbrough
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 25/01: Senegal - Cape Verde
@@ -154,8 +150,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc0192893b39d1704aba&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",19h00 27/01: Lebanon - South Korea
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc2292893b39d1704abb&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",02h45 25/01: Blackburn - Middlesbrough
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61e9d54ca6ec0579b7889f98-Edfdlr-Edfdlr&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",20h00 25/01: JS Kabylie - MC Alger
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ee990c3a75e06ff171e51c-AJCmna-AJCmna&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/4fccBTD.png",20h30 25/01: ASO Chlef - WA Tlemcen
