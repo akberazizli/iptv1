@@ -2,6 +2,10 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/fTF4kuC.jpg",Giấc Mộng Tây Du 2
+https://iamplayer.xyz/vod/v1/static/b2html/58039/9ff5e1385f6d322f78c30b1e/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/VTykl2V.jpg",Tay Súng Bắn Tỉa
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210928/sniperreloaded_2011_us_1080p_sub_logofptplay/7b5b9c2d54f74bc11f341662e90574b0_1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/9dPHt0Y.jpg",Địch Nhân Kiệt: Rồng Biến Trỗi Dậy 
 http://vod-zlr2.tv360.vn/video1/2020/02/16/23/216d389d/216d389d-c5c8-4e5d-8d02-1cc68840814a_5_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/Ab1dH41.jpg",Nhất Đẳng Karate 4
