@@ -100,21 +100,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/DL9sD1m/IMG-20211225-201225.png",SD1 Senegal - Cape Verde (Thần Cồn)
-https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/R0QDJN8/IMG-20211223-100743.png",SD2 Senegal - Cape Verde (Thần Cồn)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Senegal - Cape Verde (Thần Cồn)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/Ky2vjcr/IMG-20211223-100726.png",FullHD Senegal - Cape Verde (Thần Cồn)
-https://livestream.socialstreaming.tv/live/61f01284048327001c5ac572/61f01284048327001c5ac572.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Croatia - Russia
-https://jq9sucdqmfliv.vcdn.cloud/may4/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 25/01: Senegal - Cape Verde (Thần Cồn)
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 25/01: Senegal - Cape Verde
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ed79dae0d4672fc68e6e69&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h30 25/01: Croatia - Russia
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f01e1be0d4672fc68e6e6e&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 26/01: Morocco - Malawi
 https://tuongbongda.000webhostapp.com/play90p.php?id=61ed7a4828d9a539bbd2ab8a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h45 26/01: QPR - Swansea
@@ -133,10 +121,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61eefa1d74dd7b31c399b30d&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc993679ef42e3971459&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",10h00 27/01: UAE - Syria
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc8592893b39d1704abc&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",15h00 27/01: Việt Nam - Myanmar
-https://tuongbongda.000webhostapp.com/play90p.php?id=61eefd0592893b39d1704abd&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",15h00 27/01: Japan - Korea Republic
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefd82e0d4672fc68e6e6d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",15h00 27/01: Việt Nam - Myanmar
+https://tuongbongda.000webhostapp.com/play90p.php?id=61eefd0592893b39d1704abd&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",16h10 27/01: Australia - Việt Nam
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefb6be0d4672fc68e6e6c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",17h00 27/01: Japan - China
