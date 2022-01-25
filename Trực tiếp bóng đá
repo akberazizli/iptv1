@@ -76,13 +76,13 @@ http://tbientv.xyz/90p/90phut_get.php?id=61ef4039e5fdc400c512cc31&.m3u8|Referer=
 
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/fh5DiF7.png",K+ MỞ KHI CÓ TRẬN 1
 #http://3.95.214.208:80/K1hd/mpegts
-#http://103.125.191.32:8000/live1
-http://cdn.mysocola.live:80/KPMHD/index.m3u8
+http://103.125.191.32:8000/live1
+#http://cdn.mysocola.live:80/KPMHD/index.m3u8
 
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/Y4rjMP7.png",K+ MỞ KHI CÓ TRẬN 2
 #http://3.95.214.208:80/K2hd/mpegts
-#http://103.125.191.32:8000/live2
-http://tbientv.xyz/k+sport2
+http://103.125.191.32:8000/live2
+#http://tbientv.xyz/k+sport2
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/ZWue1Q9.jpg", 16h10 27/01: Australia - Việt Nam
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
