@@ -87,11 +87,24 @@ http://103.125.191.32:8000/live1
 http://103.125.191.32:8000/live2
 #http://tbientv.xyz/k+sport2
 
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 27/01: Japan - South Korea
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/australia-w-vs-thailand-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 27/01: Vietnam - Myanmar
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/nu-viet-nam-vs-nu-myanmar-1500-27-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 27/01: Japan - South Korea
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/nu-nhat-ban-vs-nu-han-quoc-1500-27-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",21h00 27/01: Australia - Thailand
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/nu-australia-vs-nu-thai-lan-2100-27-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png,21h00 27/01: Thailand - Indonesia
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/nu-philippines-vs-nu-indonesia-2100-27-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/ZWue1Q9.jpg", 16h10 27/01: Australia - Việt Nam
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",16h10 27/01: Australia - Việt Nam
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/australia-vs-vietnam&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",17h00 27/01: Japan - China
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/nhat-ban-vs-trung-quoc-1700-27-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",19h00 27/01: Lebanon - South Korea
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/lebanon-vs-south-korea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h30 27/01: Iran - Iraq
@@ -102,6 +115,8 @@ http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/saudi-ara
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/ecuador-vs-brazil&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",06h00 28/01: Paraguay - Uruguay
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/paraguay-vs-uruguay&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",07h00 28/01: USA - El Salvador
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/united-states-vs-el-salvador-0700-28-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",07h15 28/01: Chile - Argentina
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/chile-vs-argentina&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",08h05 28/01: Honduras - Canada
