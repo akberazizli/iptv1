@@ -90,18 +90,40 @@ http://103.125.191.32:8000/live2
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/ZWue1Q9.jpg", 16h10 27/01: Australia - Việt Nam
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h00 26/01: Chinese Taipei - Iran
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/chinese-taipei-w-vs-iran-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h00 26/01: India - China
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/india-w-vs-china-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",16h10 27/01: Australia - Việt Nam
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/australia-vs-vietnam&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",19h00 27/01: Lebanon - South Korea
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/lebanon-vs-south-korea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h30 27/01: Iran - Iraq
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/iran-vs-iraq&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",00h15 28/01: Saudi Arabia - Oman
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/saudi-arabia-vs-oman&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",04h00 28/01: Ecuador - Brazil
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/ecuador-vs-brazil&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",06h00 28/01: Paraguay - Uruguay
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/paraguay-vs-uruguay&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",07h15 28/01: Chile - Argentina
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/chile-vs-argentina&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",08h05 28/01: Honduras - Canada
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/honduras-vs-canada&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",21h00 26/01: Chinese Taipei - Iran
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",16h10 27/01: Australia - Việt Nam
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",23h00 26/01: Ivory Coast - Egypt
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",01h00 27/01: Angers - Saint-Etienne
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",21h30 27/01: Iran - Iraq
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",00h15 28/01: Saudi Arabia - Oman
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",04h00 28/01: Ecuador - Brazil
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",06h00 28/01: Paraguay - Uruguay
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",07h15 28/01: Chile - Argentina
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",08h05 28/01: Honduras - Canada
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",09h05 28/01: Costa Rica - Panama
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
+
 
 
 
