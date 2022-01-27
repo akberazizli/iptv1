@@ -153,20 +153,22 @@ https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 https://jq9sucdqmfliv.vcdn.cloud/may4/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/nn7zvSN.png",Nhà đài Japan - Korea Republic
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Australia - Việt Nam (Nhà Đài)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7xD7zsx/IMG-20211225-201301.png",SD Australia - Việt Nam
 https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Australia - Việt Nam (Nhà Đài)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Australia - Việt Nam
 https://ksc96zydg6liv.vcdn.cloud/may1HD/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/el2I6dl.jpg",Full HD Australia - Việt Nam (Nhà Đài)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/el2I6dl.jpg",Full HD Australia - Việt Nam
 https://livestream-2.socialstreaming.tv/live/61f2596710c2ac001d097026/61f2596710c2ac001d097026.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jGM2XGd/IMG-20211223-100959.png",Nhà Đài Australia - Việt Nam (Nhà Đài)
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jGM2XGd/IMG-20211223-100959.png",Nhà Đài Australia - Việt Nam
 https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 27/01: Mali - Equatorial Guinea
+https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc993679ef42e3971459&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",15h00 27/01: Việt Nam - Myanmar
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefd0592893b39d1704abd&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",15h00 27/01: Japan - Korea Republic
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefd82e0d4672fc68e6e6d&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",16h10 27/01: Australia - Việt Nam (Nhà Đài)
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",16h10 27/01: Australia - Việt Nam
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefb6be0d4672fc68e6e6c&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",17h00 27/01: Japan - China
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc0192893b39d1704aba&.m3u8|Referer=https://xoilac.90phutttt.xyz/
@@ -192,10 +194,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f1833c8bb98639dd59c81c&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f1835abaf5f939c69df99f&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",07h15 28/01: Chile - Argentina
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f18381c6aff63667deb287&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",08h05 28/01: Honduras - Canada
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f183a492893b39d1704abf&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",09h05 28/01: Costa Rica - Panama
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f183c6c6aff63667deb288&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",15h00 27/01: Vietnam - Myanmar
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ef0b163a75e06ff171e77d-1PwGLm-1PwGLm&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
