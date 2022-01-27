@@ -93,15 +93,16 @@ http://103.125.191.32:8000/live2
 
 
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",21h00 27/01: Australia - Thailand
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/nu-australia-vs-nu-thai-lan-2100-27-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png,21h00 27/01: Thailand - Indonesia
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/nu-philippines-vs-nu-indonesia-2100-27-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-
+https://vips-livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",21h00 27/01: Philippines - Indonesia
+https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",19h00 27/01: Lebanon - South Korea
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/lebanon-vs-south-korea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h30 27/01: Iran - Iraq
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/iran-vs-iraq&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",22h00 27/01: UAE - Syria
+https://vips-livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",00h15 28/01: Saudi Arabia - Oman
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/saudi-arabia-vs-oman&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",04h00 28/01: Ecuador - Brazil
