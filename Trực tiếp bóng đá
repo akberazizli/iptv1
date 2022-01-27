@@ -140,19 +140,21 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD UAE - Syria
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/el2I6dl.jpg",Nhà đài Saudi Arabia - Oman
+https://jq9sucdqmfliv.vcdn.cloud/may4/index.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",19h00 27/01: Lebanon - South Korea
-https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc2292893b39d1704abb&.m3u8|Referer=https://xoilac.90phutttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",21h00 27/01: Philippines - Indonesia
-https://tuongbongda.000webhostapp.com/play90p.php?id=61eefe928bb98639dd59c81a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",21h00 27/01: Australia - Thailand
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefe1e92893b39d1704abe&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",21h00 27/01: Philippines - Indonesia
+https://tuongbongda.000webhostapp.com/play90p.php?id=61eefe928bb98639dd59c81a&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",21h30 27/01: Iran - Iraq
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc4574dd7b31c399b30e&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",22h00 27/01: UAE - Syria
 https://tuongbongda.000webhostapp.com/play90p.php?id=61eefc8592893b39d1704abc&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",00h15 28/01: Saudi Arabia - Oman
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f182d1e0d4672fc68e6e6f&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h15 28/01: Estoril - Arouca
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f2b32fbaf5f939c69df9a2&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",04h00 28/01: Ecuador - Brazil
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f182ffe0d4672fc68e6e70&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",06h00 28/01: Paraguay - Uruguay
@@ -173,6 +175,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f1845e3679ef42e397145a&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f1840ebaf5f939c69df9a0&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",05h00 29/01: Venezuela - Bolivia
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f18427baf5f939c69df9a1&.m3u8|Referer=https://xoilac.90phutttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 29/01: Gambia - Cameroon
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f1849ac6aff63667deb289&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",22h00 27/01: UAE - Syria
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61ef0ad33a75e06ff171e775-Or1lzG-Or1lzG&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
