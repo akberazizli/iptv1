@@ -32,8 +32,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/lj2qG8b.jpg",premier
 https://family4you.fun/LaoHac/playlist.php?id=feedepl
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/vtWwzrT.jpg",NOW SPORTS 1
-#https://family4you.fun/LaoHac/boxblock.php?id=101921
-https://tv.dqav.net/ultrabox.php?id=200230&m=4b:b9:99
+https://family4you.fun/LaoHac/playlist.php?id=diema1
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/DGspQ9S.png", Math 1HD
 http://193.33.88.172/football1_hd/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/dHSWVfK.png",Math 2HD
@@ -92,19 +91,7 @@ http://103.125.191.32:8000/live2
 #http://tbientv.xyz/k+sport2
 
 
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",21h00 27/01: Australia - Thailand
-https://vips-livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",21h00 27/01: Philippines - Indonesia
-https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",19h00 27/01: Lebanon - South Korea
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/lebanon-vs-south-korea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",21h30 27/01: Iran - Iraq
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/iran-vs-iraq&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",22h00 27/01: UAE - Syria
-https://vips-livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",00h15 28/01: Saudi Arabia - Oman
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/saudi-arabia-vs-oman&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",04h00 28/01: Ecuador - Brazil
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/ecuador-vs-brazil&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",06h00 28/01: Paraguay - Uruguay
@@ -117,12 +104,7 @@ http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/chile-vs-
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/honduras-vs-canada&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",19h00 27/01: Lebanon - South Korea
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",21h30 27/01: Iran - Iraq
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",00h15 28/01: Saudi Arabia - Oman
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
+
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",04h00 28/01: Ecuador - Brazil
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",06h00 28/01: Paraguay - Uruguay
