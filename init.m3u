@@ -88,7 +88,7 @@ http://103.125.191.32:8000/live2
 #http://tbientv.xyz/k+sport2
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 27/01: Japan - South Korea
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/australia-w-vs-thailand-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/japan-w-vs-south-korea-w&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 27/01: Vietnam - Myanmar
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 27/01: Japan - South Korea
