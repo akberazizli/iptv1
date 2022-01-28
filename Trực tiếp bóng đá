@@ -51,7 +51,7 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.ibb.co/sRnp30g/IMG-20211126-115723.png",BLV: Thần Chổi 
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://xem.saoke.live/
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.imgur.com/VghK6cs.png",BLV : SAO KÊ 
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x5/playlist.m3u8|Referer=https://saoke8.tv/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.imgur.com/zrvh4iQ.png",BLV KEN
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saoke8.tv/
 
@@ -90,16 +90,6 @@ http://103.125.191.32:8000/live1
 http://103.125.191.32:8000/live2
 #http://tbientv.xyz/k+sport2
 
-
-
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",04h00 28/01: Ecuador - Brazil
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/ecuador-vs-brazil&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",06h00 28/01: Paraguay - Uruguay
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/paraguay-vs-uruguay&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",07h00 28/01: USA - El Salvador
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/united-states-vs-el-salvador-0700-28-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",07h00 28/01: Jamaica - Mexico
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/jamaica-vs-mexico-0700-28-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",07h15 28/01: Chile - Argentina
 http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/chile-vs-argentina-0715-28-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",08h05 28/01: Honduras - Canada
@@ -107,17 +97,6 @@ http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/honduras-
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",09h05 28/01: Costa Rica - Panama
 https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/sampdoria-vs-cagliari-1830-06-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",04h00 28/01: Ecuador - Brazil
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",06h00 28/01: Paraguay - Uruguay
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",07h15 28/01: Chile - Argentina
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x5/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",08h05 28/01: Honduras - Canada
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",09h05 28/01: Costa Rica - Panama
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Chile - Argentina
@@ -149,10 +128,6 @@ https://ihkvgekdmaliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.t
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/qM9KD8j/IMG-20211223-185614.png",SD 1 Costa Rica - Panama
 https://ihkvgekdmaliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/el2I6dl.jpg",Nhà đài Jamaica - Mexico
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/el2I6dl.jpg",Nhà đài USA - El Salvador
-https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/el2I6dl.jpg",Nhà đài Chile - Argentina
 https://jq9sucdqmfliv.vcdn.cloud/may1/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/el2I6dl.jpg",Nhà đài Honduras - Canada
