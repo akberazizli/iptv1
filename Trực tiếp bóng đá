@@ -91,12 +91,6 @@ http://103.125.191.32:8000/live2
 #http://tbientv.xyz/k+sport2
 
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",08h05 28/01: Honduras - Canada
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/honduras-vs-canada&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",09h05 28/01: Costa Rica - Panama
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/sampdoria-vs-cagliari-1830-06-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-
-
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/gww8czd/IMG-20211223-185520.png",Nhà đài Honduras - Canada
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
