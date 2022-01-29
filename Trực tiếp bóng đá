@@ -110,12 +110,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 30/01: Burkina Faso - Tunisia
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f62474dd7b31c399b30f&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h45 30/01: Benfica - Sporting CP
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f7a7c6aff63667deb28d&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 30/01: Marseille - Montpellier
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f5c23679ef42e397145b&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",15h00 30/01: Nhật Bản - Thái Lan
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f670baf5f939c69df9a4&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/nn7zvSN.png",15h00 30/01: Úc - Hàn Quốc
@@ -144,6 +138,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f59b013679ef42e3971460&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f59ae7baf5f939c69df9a6&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",03h05 31/01: Canada - USA
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f59a09baf5f939c69df9a5&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h30 31/01: Porto - Marítimo
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f599ee92893b39d1704ac1&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",15h00 30/01: Japan - Thailand
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f544d03a75e06ff171f674-gELQzG-gELQzG&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
