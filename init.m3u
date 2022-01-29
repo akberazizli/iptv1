@@ -77,7 +77,7 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 
 #EXTINF:-1 group-title="90phut VoPhu - 90phut" tvg-logo= "https://i.imgur.com/HM6sXZ3.png",TENNIS ÚC MỞ RỘNG
 #http://103.125.191.32:8080/live1/mpegts
-http://tbientv.xyz/90p/90phut_get.php?id=61f28b54e5fdc400ad2dcdb2&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+http://tbientv.xyz/90p/90phut_get.php?id=61f3f3cce5fdc400dc0e7793&.m3u8|Referer=https://mitom.90phuttttt.xyz/
 
 
 #EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/fh5DiF7.png",K+ MỞ KHI CÓ TRẬN 1
@@ -90,15 +90,8 @@ http://103.125.191.32:8000/live1
 http://103.125.191.32:8000/live2
 #http://tbientv.xyz/k+sport2
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",04h00 29/01: Colombia - Peru
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",05h00 29/01: Venezuela - Bolivia
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",02h45 29/01: Huddersfield - Stoke
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/huddersfield-town-vs-stoke-city-0245-29-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/sDpT9KD.png",04h00 29/01: Colombia - Peru
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/colombia-vs-peru&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/sDpT9KD.png",07h00 28/01: Jamaica - Mexico
 https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/jamaica-vs-mexico-0700-28-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
