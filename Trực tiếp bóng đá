@@ -116,14 +116,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may41/index.m3u8|Referer=https://xoilac.90phutt
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Marseille - Montpellier
 https://jq9sucdqmfliv.vcdn.cloud/may4/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",22h00 29/01: Fulham - Blackpool
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f542a928d9a539bbd2ab8c&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",23h00 29/01: Gambia - Cameroon
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f1849ac6aff63667deb289&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",00h30 30/01: Peterborough United - Sheffield United
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f8f63679ef42e397145c&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",00h30 30/01: Reims - Bastia
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f59ec6aff63667deb28a&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 30/01: Burkina Faso - Tunisia
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f62474dd7b31c399b30f&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h45 30/01: Benfica - Sporting CP
@@ -142,12 +134,22 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f910c6aff63667deb28e&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f6e2e0d4672fc68e6e71&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 30/01: Egypt - Morocco
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f6458bb98639dd59c81e&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h30 30/01: Portimonense - Tondela
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f56a92893b39d1704ac0&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h30 30/01: Vizela - Vitória Guimarães
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f5838bb98639dd59c81d&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h30 30/01: Portimonense - Tondela
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f56a92893b39d1704ac0&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",23h00 30/01: Cardiff City - Nottingham Forest
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f92fe0d4672fc68e6e72&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",00h30 31/01: Bergerac - Saint-Étienne
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f59aaa92893b39d1704ac3&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",01h00 31/01: Braga - Moreirense
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f599d4c6aff63667deb28f&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 31/01: Senegal - Equatorial Guinea
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f59b013679ef42e3971460&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",03h00 31/01: Lens - Monaco
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f59ae7baf5f939c69df9a6&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",03h05 31/01: Canada - USA
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f59a09baf5f939c69df9a5&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC Women's Asian Cup" tvg-logo="https://i.imgur.com/uPJjXsq.png",15h00 30/01: Japan - Thailand
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f544d03a75e06ff171f674-gELQzG-gELQzG&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
