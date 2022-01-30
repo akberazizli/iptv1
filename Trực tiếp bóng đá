@@ -92,18 +92,14 @@ http://103.125.191.32:8000/live2
 #http://tbientv.xyz/k+sport2
 
 
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 30/01: Úc - Hàn Quốc
-https://vips-livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 30/01: Nhật Bản - Thái Lan
-https://vips-livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",19h00 30/01: Trung Quốc - Việt Nam
 https://vips-livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",21h00 30/01: Đài Loan - Philippines
 https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",15h00 30/01: Australia - South Korea
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/australia-w-vs-south-korea-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",19h00 30/01: China - Vietnam
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/china-w-vs-vietnam-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",21h00 30/01: Đài Loan - Philippines
@@ -118,10 +114,7 @@ http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/panama-
 http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/honduras-vs-el-salvador-0705-31-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",15h00 30/01: Japan - Thailand
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",15h00 30/01: Australia - South Korea
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
+
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",19h00 30/01: China - Vietnam
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",22h00 30/01: Egypt - Morocco
