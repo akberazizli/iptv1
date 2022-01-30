@@ -90,19 +90,6 @@ http://103.125.191.32:8000/live2
 #http://tbientv.xyz/k+sport2
 
 
-
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",19h00 30/01: Trung Quốc - Việt Nam
-https://vips-livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",21h00 30/01: Đài Loan - Philippines
-https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",19h00 30/01: China - Vietnam
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/china-w-vs-vietnam-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",21h00 30/01: Đài Loan - Philippines
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/chinese-taipei-w-vs-philippines-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h05 31/01: Canada - USA
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/canada-vs-usa&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",06h00 31/01: Mexico - Costa Rica
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/mexico-vs-costa-rica&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",06h05 31/01: Panama - Jamaica
@@ -111,15 +98,6 @@ http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/panama-
 http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/honduras-vs-el-salvador-0705-31-01/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",19h00 30/01: China - Vietnam
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",22h00 30/01: Egypt - Morocco
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",02h00 31/01: Senegal - Equatorial Guinea
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",03h05 31/01: Canada - USA
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",06h00 31/01: Mexico - Costa Rica
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saoke8.tv/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.ibb.co/10QWNRC/IMG-20211222-210304.png",07h05 31/01: Honduras - El Salvador
@@ -127,6 +105,10 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Panama - Jamaica
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Panama - Jamaica
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Lens - Monaco
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
@@ -170,10 +152,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b2b028d9a539bbd2ab90&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",03h00 02/02: Lyon - Marseille
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b2733679ef42e3971461&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",05h05 31/01: Panama - Jamaica
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3d9dd3a75e06ff171f39c-gzsQ9r-gzsQ9r&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",06h00 31/01: Mexico - Costa Rica
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3d9d83a75e06ff171f397-UuNsUB-UuNsUB&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",06h05 31/01: Panama - Jamaica
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3d9dd3a75e06ff171f39c-gzsQ9r-gzsQ9r&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",07h05 31/01: Honduras - El Salvador
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3d9e93a75e06ff171f39f-oXTakO-oXTakO&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",17h14 01/02: Japan - Saudi Arabia
