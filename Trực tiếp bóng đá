@@ -127,10 +127,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/6YTmpaT.png",Nhà đài Cardiff - Nottm Forest
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Cardiff - Nottm Forest
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Bergerac - Saint-Étienne
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
@@ -176,8 +172,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b0d2c6aff63667deb290&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",21h30 01/02: Iran - UAE
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b12274dd7b31c399b312&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",23h00 30/01: Cardiff - Nottm Forest
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3d8d53a75e06ff171f35e-phOz9E-phOz9E&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",03h05 31/01: Canada - USA
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3d9d43a75e06ff171f396-Hhj0B6-Hhj0B6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",06h00 31/01: Mexico - Costa Rica
