@@ -127,6 +127,10 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/6YTmpaT.png",Nhà đài Canada - USA
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Canada - USA
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",Nhà đài Braga - Moreirense
 https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
@@ -137,16 +141,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phuttt
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/el2I6dl.jpg",Nhà đài Canada - USA
 https://jq9sucdqmfliv.vcdn.cloud/may41/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h00 30/01: Egypt - Morocco
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f6458bb98639dd59c81e&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h30 30/01: Portimonense - Tondela
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f56a92893b39d1704ac0&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",22h30 30/01: Vizela - Vitória Guimarães
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f5838bb98639dd59c81d&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://i.ibb.co/V2RFK1t/IMG-20211224-054344.png",23h00 30/01: Cardiff City - Nottingham Forest
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f3f92fe0d4672fc68e6e72&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",00h30 31/01: Bergerac - Saint-Étienne
-https://tuongbongda.000webhostapp.com/play90p.php?id=61f59aaa92893b39d1704ac3&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",01h00 31/01: Braga - Moreirense
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f599d4c6aff63667deb28f&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/jHyqyMM/IMG-20211218-202142.png",02h00 31/01: Senegal - Equatorial Guinea
@@ -175,6 +169,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b0648bb98639dd59c820&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b0d2c6aff63667deb290&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",21h30 01/02: Iran - UAE
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b12274dd7b31c399b312&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",21h30 01/02: Oman - Australia
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b1578bb98639dd59c821&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/el2I6dl.jpg",03h00 02/02: Bolivia - Chile
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b2b028d9a539bbd2ab90&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/wB82GTP/IMG-20211223-180644.png",03h00 02/02: Lyon - Marseille
+https://tuongbongda.000webhostapp.com/play90p.php?id=61f6b2733679ef42e3971461&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/c3SsMJX.png",03h05 31/01: Canada - USA
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3d9d43a75e06ff171f396-Hhj0B6-Hhj0B6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
