@@ -29,9 +29,8 @@ https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV💟" tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/07/16/628143-665121-HTV9HD.png" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/5e4a158bc7c235331899907c85a2dc811640685314/htv9.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8",HTV9 HD🎦
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/g4kkNr0/IMG-20210818-173119.png",catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/5e4a158bc7c235331899907c85a2dc811640685314/vinhlong1.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8",vinhlong1🎦
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="TH Vĩnh Long📛" tvg-logo="http://fboximages.fptplay.net.vn/Channel/iconChannel/vinhlong1_vdsl.png", Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-
 
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/wTmGnK5.jpg",BOXING 1
