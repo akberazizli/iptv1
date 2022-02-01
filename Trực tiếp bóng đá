@@ -21,6 +21,21 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/qs8nfynd_k-cine_296_168.webp", K+CINE HD
+http://iptvdtpro.vinaddns.com:8000/Kcine/mpegts
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.webp", K+LIFE HD
+http://iptvdtpro.vinaddns.com:8000/Klife/mpegts
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fxxda3tb_k-sport1b118c9aa73fa0dff5b4b412563b03e7f_296_168.webp",K+ Sport 1 HD
+http://iptvdtpro.vinaddns.com:8000/Ksport1/mpegts
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp",K+ Sport 2 HD
+http://iptvdtpro.vinaddns.com:8000/Ksport2/mpegts
+
+
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV🇻🇳" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822379155/501f4c886dd7_180_180.png" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV6 FHD 🎦
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -32,9 +47,8 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/lj2qG8b.jpg",premier
-https://family4you.fun/LaoHac/playlist.php?id=feedepl
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/vtWwzrT.jpg",NOW SPORTS 1
-https://family4you.fun/LaoHac/playlist.php?id=diema1
+https://family4you.fun/LaoHac2022/playlist.php?id=feedepl
+
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/DGspQ9S.png", Math 1HD
 http://193.33.88.172/football1_hd/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/dHSWVfK.png",Math 2HD
