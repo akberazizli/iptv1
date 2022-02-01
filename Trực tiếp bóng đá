@@ -152,10 +152,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Iran - UAE
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Iran - UAE
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Oman - Australia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Oman - Australia
@@ -207,8 +203,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f90855c6aff63667deb293&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/Ha2U6R2.png",07h30 03/02: USA - Honduras
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f9089abaf5f939c69df9a8&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",21h30 01/02: Iran - UAE
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3dbeb3a75e06ff171f3d8-Pt94Dd-Pt94Dd&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",23h00 01/02: Oman - Australia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f3dbee3a75e06ff171f3db-vrBvTo-vrBvTo&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",03h00 02/02: Bolivia - Chile
