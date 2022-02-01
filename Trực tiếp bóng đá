@@ -110,7 +110,6 @@ https://vips-livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",15h00 02/02: Thái Lan - Việt Nam
 http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/thailand-w-vs-vietnam-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/oman-vs-australia-2300-01-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 02/02: Bolivia - Chile
 http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/bolivia-vs-chile-0300-02-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",06h00 02/02: Uruguay - Venezuela
@@ -131,14 +130,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",09h00 02/02: Peru - Ecuador
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Bolivia - Chile
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Bolivia - Chile
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Lyon - Marseille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Lyon - Marseille
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Uruguay - Venezuela
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Uruguay - Venezuela
@@ -180,10 +171,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f9089abaf5f939c69df9a8&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/Ha2U6R2.png",09h00 03/02: El Salvador - Canada
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f908f7baf5f939c69df9a9&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",03h00 02/02: Bolivia - Chile
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f5463e3a75e06ff171f683-HgsCfV-HgsCfV&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Q7yfD43.png",03h00 02/02: Lyon - Marseille
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f838d53a75e06ff171fdcf-tYHGhU-tYHGhU&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",06h00 02/02: Uruguay - Venezuela
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f5465c3a75e06ff171f686-8ttJKf-8ttJKf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",06h30 02/02: Argentina - Colombia
