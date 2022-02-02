@@ -130,10 +130,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",09h00 02/02: Peru - Ecuador
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Peru - Ecuador
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Peru - Ecuador
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ha2U6R2.png",Nhà đài Peru - Ecuador
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may11/playlist.m3u8|Referer=https://xoilac.90phuttttt.xyz/
@@ -169,8 +165,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=61f90da828d9a539bbd2ab93&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Cúp nhà vua TBN" tvg-logo="https://i.imgur.com/uCVwSYM.png",15h30 04/02: Athletic Club - Real Madrid
 https://tuongbongda.000webhostapp.com/play90p.php?id=61f90d46baf5f939c69df9ac&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",09h00 02/02: Peru - Ecuador
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f546ad3a75e06ff171f68f-Dqmlzh-Dqmlzh&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",02h00 03/02: Rayo Vallecano - Mallorca
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f83b043a75e06ff171fdec-XY7JUy-XY7JUy&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",03h00 03/02: Valencia - Cadiz
