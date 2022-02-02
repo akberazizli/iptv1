@@ -104,31 +104,27 @@ http://3.95.214.208:80/K2hd/mpegts
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/EDkBpCQ.png",PHÁT LẠI Vietnam - China
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/220201-1900-vietnam-china-pr-aqwc-hls-vod-sabeco-1643725003/0665fb3614816bb86ebd935f5fa2f2ff-1080p.mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",15h00 02/02: Thái Lan - Việt Nam
-https://vips-livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",15h00 02/02: Thái Lan - Việt Nam
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/thailand-w-vs-vietnam-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 02/02: Bolivia - Chile
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/bolivia-vs-chile-0300-02-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",06h00 02/02: Uruguay - Venezuela
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/uruguay-vs-venezuela-0600-02-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",06h30 02/02: Argentina - Colombia
-http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/argentina-vs-colombia&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",07h30 02/02: Brazil - Paraguay
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/brazil-vs-paraguay-0730-02-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",09h00 02/02: Peru - Ecuador
-http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/peru-vs-ecuador-0900-02-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",02h00 03/02: Burkina Faso - Senegal
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/burkina-faso-vs-senegal-0200-03-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",07h00 03/02: Jamaica - Costa Rica
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/jamaica-vs-costa-rica-0700-03-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",07h30 03/02: USA - Honduras
+http://tbientv.xyz/xembd/xembd_get.php?url=https://xembd.live/tran-dau/usa-vs-honduras&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",09h00 03/02: El Salvador - Canada
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/el-salvador-vs-canada-0900-03-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",10h00 03/02: Mexico - Panama
+http://tbientv.xyz/mitom/mitom_gethd.php?url=https://mitom1.tv/truc-tiep/mexico-vs-panama-1000-03-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",15h00 02/02: Thái Lan - Việt Nam
+
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h00 03/02: Burkina Faso - Senegal
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",06h30 02/02: Argentina - Colombia
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",07h30 02/02: Brazil - Paraguay
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",07h30 03/02: USA - Honduras
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",09h00 02/02: Peru - Ecuador
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
+
+
+
 
 
 
