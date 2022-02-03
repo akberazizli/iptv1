@@ -32,8 +32,14 @@ http://cdnspt.vthanh.xyz/ksport1/mpegts
 #https: //cdnspt.vthanh.xyz/AOLive/mpegts
 http://cdnspt.vthanh.xyz/ksport2/mpegts
 
-#EXTINF:0 tvg-id="vtv6hd"group-title="VTV🇻🇳" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822379155/501f4c886dd7_180_180.png" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV6 FHD 🎦
+#EXTINF:0 tvg-id="tv xem lại "group-title="VTV🇻🇳" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822379155/501f4c886dd7_180_180.png" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV6 FHD 🎦
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="📺|XEM LẠI" tvg-logo="https://i.imgur.com/mDQssNg.jpg" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-2400.m3u8",Vĩnh Long 1 🔄
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|XEM LẠI" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" tvg-chno="32" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/playlist_dvr_range-${start}-900.m3u8",Vĩnh Long 2 🔄
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8
+
+
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
