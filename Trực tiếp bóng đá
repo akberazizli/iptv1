@@ -135,9 +135,9 @@ http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/mexico-vs-pana
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/south-korea-w-vs-philippines-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",21h00 03/02: China - Japan
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/china-w-vs-japan-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",02h00 04/02: Cameroon - Egypt
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ - TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h00 04/02: Cameroon - Egypt
 http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/cameroon-vs-ai-cap-0200-04-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",02h00 04/02: Real Sociedad - Real Betis
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h00 04/02: Real Sociedad - Real Betis
 http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/real-sociedad-vs-real-betis-0200-04-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h30 04/02: Athletic Club - Real Madrid
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/athletic-club-vs-real-madrid-2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
@@ -155,6 +155,18 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài South Korea - Philippines
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD South Korea - Philippines
+https://xem.rakhoi.tv/truc-tiep/61f83b823a75e06ff171fdf5-pFaY89.html?link=2|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 South Korea - Philippines
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 South Korea - Philippines
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 South Korea - Philippines
+https://ihkvgekdmaliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 South Korea - Philippines
+https://ihkvgekdmaliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
