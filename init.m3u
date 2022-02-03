@@ -105,11 +105,10 @@ http://3.95.214.208:80/K2hd/mpegts
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/220201-1900-vietnam-china-pr-aqwc-hls-vod-sabeco-1643725003/0665fb3614816bb86ebd935f5fa2f2ff-1080p.mp4/playlist.m3u8
 
 
-http://tbientv.xyz/mitom/link_hd.php?url=https://xembd.live/tran-dau/usa-vs-honduras&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",09h00 03/02: El Salvador - Canada
 http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/el-salvador-vs-canada-0900-03-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="mitomtv - mitomtv" tvg-logo= "https://i.imgur.com/erbktg6.png",10h00 03/02: Mexico - Panama
-http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/mexico-vs-panama-1000-03-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/mexico-vs-panama&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
