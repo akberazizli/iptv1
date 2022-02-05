@@ -211,6 +211,50 @@ https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD VfB Stuttgart - Frankfurt
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Man City - Fulham
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Man City - Fulham
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Man City - Fulham
+https://ihkvgekdmaliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Man City - Fulham
+https://ihkvgekdmaliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Man City - Fulham
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Man City - Fulham
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Everton - Brentford
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Everton - Brentford
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Everton - Brentford
+https://ihkvgekdmaliv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Everton - Brentford
+https://ihkvgekdmaliv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Everton - Brentford
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Everton - Brentford
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Southampton - Coventry
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Southampton - Coventry
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Stoke - Wigan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Stoke - Wigan
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Wolves - Norwich
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Wolves - Norwich
+https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Wolves - Norwich
+https://ihkvgekdmaliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Wolves - Norwich
+https://ihkvgekdmaliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Wolves - Norwich
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Wolves - Norwich
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Peterborough - QPR
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Peterborough - QPR
@@ -240,10 +284,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90cc33a75e06ff171fea2
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90cc43a75e06ff171fea5-0Kif7E-0Kif7E&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 05/02: VfB Stuttgart - Frankfurt
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90cc53a75e06ff171fea8-xqdIaS-xqdIaS&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/PFrIR1T.png",22h00 05/02: Everton - Brentford
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90d5d3a75e06ff171fec2-V0rOrf-V0rOrf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/PFrIR1T.png",22h00 05/02: Man City - Fulham
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90d5e3a75e06ff171fec3-ckJoVJ-ckJoVJ&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/PFrIR1T.png",22h00 05/02: Everton - Brentford
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90d5d3a75e06ff171fec2-V0rOrf-V0rOrf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/PFrIR1T.png",22h00 05/02: Southampton - Coventry
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90d5f3a75e06ff171fec6-XqmqKu-XqmqKu&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/PFrIR1T.png",22h00 05/02: Stoke - Wigan
