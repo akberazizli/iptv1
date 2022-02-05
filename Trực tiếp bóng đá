@@ -159,10 +159,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 06/02: Tottenham - Brighton
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Roma - Genoa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Roma - Genoa
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Arminia Bielefeld - M'gladbach
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Arminia Bielefeld - M'gladbach
@@ -188,9 +184,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Man City - Fulham
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Man City - Fulham
-https://ihkvgekdmaliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Man City - Fulham
-https://ihkvgekdmaliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Man City - Fulham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Man City - Fulham
@@ -200,9 +196,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Everton - Brentford
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Everton - Brentford
-https://ihkvgekdmaliv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Everton - Brentford
-https://ihkvgekdmaliv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Everton - Brentford
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Everton - Brentford
@@ -228,9 +224,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Wolves - Norwich
 https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Wolves - Norwich
-https://ihkvgekdmaliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Wolves - Norwich
-https://ihkvgekdmaliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Wolves - Norwich
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Wolves - Norwich
@@ -254,8 +250,6 @@ https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/cjUJbwy.png",21h00 05/02: Roma - Genoa
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90c9f3a75e06ff171fe9c-tOpkZq-tOpkZq&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 05/02: Arminia Bielefeld - M'gladbach
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61f90cc03a75e06ff171fea0-yhsyBK-yhsyBK&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 05/02: Augsburg - Union Berlin
