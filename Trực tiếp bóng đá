@@ -101,47 +101,17 @@ https://family4you.fun/LaoHac2022/playlist.php?id=euro1ad34
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/EDkBpCQ.png",PHÁT LẠI Vietnam - China
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/220201-1900-vietnam-china-pr-aqwc-hls-vod-sabeco-1643725003/0665fb3614816bb86ebd935f5fa2f2ff-1080p.mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/PWKXYv8.png",14h30 06/02: Vietnam - Chinese Taipei
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/xHzCSB1.png",19h00 06/02: Liverpool - Cardiff
-https://livecdn.fptplay.net/hdevent/fa01_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/xHzCSB1.png",23h00 06/02: Nottm Forest - Leicester
-https://livecdn.fptplay.net/hdevent/fa02_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/xHzCSB1.png",01h30 07/02: Bournemouth - Boreham Wood
-https://livecdn.fptplay.net/hdevent/fa03_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",athletic-club-vs-espanyol-03h00-08-02
+http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/athletic-club-vs-espanyol-0300-08-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",west-ham-utd-vs-watford-02h45-09-02
+http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/west-ham-utd-vs-watford-0245-09-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",newcastle-utd-vs-everton-02h45-09-02
+http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/newcastle-utd-vs-everton-0245-09-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03:00 09/02/: burnley-vs-manchester
+http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/burnley-vs-manchester-united&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-
-
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",14h30 06/02: Vietnam - Chinese Taipei
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/vietnam-w-vs-chinese-taipei-w&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",19h00 06/02: Liverpool - Cardiff
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/liverpool-vs-cardiff&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",21h30 06/02: Dortmund - Leverkusen
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/borussia-dortmund-vs-bayer-leverkusen&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",22h15 06/02: Barcelona - Atletico Madrid
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/barcelona-vs-atletico-madrid&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h00 7/02:Senegal vs Egypt
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/senegal-vs-egypt&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h45 07/02: Lille - PSG
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/lille-vs-paris-saint-germain&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 07/02: Real Madrid - Granada
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/real-madrid-vs-granada-cf&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-
-
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",14h30 06/02: Vietnam - Chinese Taipei
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",18h00 06/02: China - South Korea
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",19h00 06/02: Liverpool - Cardiff
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",22h15 06/02: Barcelona - Atletico Madrid
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",23h00 06/02: Nottm Forest - Leicester
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h07/02: Senegal - Egypt
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 07/02: Lille - PSG
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 08/02: Athletic Club - Espanyol
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
