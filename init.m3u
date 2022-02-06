@@ -24,15 +24,7 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF: -1 tvg-id = "kcinehd" group-title = "K +" tvg-logo = "https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K + CINE HD
-http://cdnspt.vthanh.xyz/kcine/mpegts
-#EXTINF: -1 tvg-id = "klifehd" group-title = "K +" tvg-logo = "https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K + LIFE HD
-http://cdnspt.vthanh.xyz/klife/mpegts
-#EXTINF: -1 tvg-id = "ksport1hd" group-title = "K +" tvg-logo = "https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K + SPORT1 HD
-http://cdnspt.vthanh.xyz/ksport1/mpegts
-#EXTINF: -1 tvg-id = "ksport2hd" group-title = "K +" tvg-logo = "https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K + SPORT2 HD
-#https: //cdnspt.vthanh.xyz/AOLive/mpegts
-http://cdnspt.vthanh.xyz/ksport2/mpegts
-
+https://livecdn.fptplay.net/hdevent%20/27082021k1_4000.stream/chunklist.m3u8
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
