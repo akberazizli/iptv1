@@ -35,7 +35,12 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/lj2qG8b.jpg",premier
 https://family4you.fun/LaoHac2022/playlist.php?id=feedepl
-
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/CanMc5A.png",arena sport 1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/Ui2fkao.png",arena sport 2
+http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/B7rV1SQ.png",arena sport 3
+http://93.157.62.180/ArenaSport3/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/DGspQ9S.png", Math 1HD
 http://185.129.1.242:80/matchfutbol1hd/mpegts
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/dHSWVfK.png",Math 2HD
