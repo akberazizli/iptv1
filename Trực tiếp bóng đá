@@ -42,11 +42,11 @@ http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/B7rV1SQ.png",arena sport 3
 http://93.157.62.180/ArenaSport3/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/DGspQ9S.png", Math 1HD
-http://185.129.1.242:80/matchfutbol1hd/mpegts
+http://95.183.43.237:8080/258/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/dHSWVfK.png",Math 2HD
-http://185.129.1.242:80/matchfutbol2hd/mpegts
+http://95.183.43.237:8080/259/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/4IDl0XZ.png",Math 3HD
-http://185.129.1.242:80/matchfutbol3hd/mpegts
+http://95.183.43.237:8080/260/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/JEPmOU6.png",beIN SPORTS 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/0HK5V7J.png",beIN SPORTS 2
