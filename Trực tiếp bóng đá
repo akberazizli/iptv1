@@ -81,12 +81,12 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/fh5DiF7.png",K+ MỞ KHI CÓ TRẬN 1
+#EXTINF:-1 group-title="TRỰC TIẾP MỞ KHI CÓ TRẬN - TRỰC TIẾP MỞ KHI CÓ TRẬN" tvg-logo= "https://i.imgur.com/IvUClT9.png",TRỰC TIẾP MỞ KHI CÓ TRẬN 1
 #http://3.95.214.208:80/K1hd/mpegts
 http://103.125.191.32:8000/live1
 #http://cdn.mysocola.live:80/KPMHD/index.m3u8
 
-#EXTINF:-1 group-title="TRƯC TIẾP k+ - TRƯC TIẾP k+" tvg-logo= "https://i.imgur.com/Y4rjMP7.png",K+ MỞ KHI CÓ TRẬN 2
+#EXTINF:-1 group-title="TRỰC TIẾP MỞ KHI CÓ TRẬN - TRỰC TIẾP MỞ KHI CÓ TRẬN" tvg-logo= "https://i.imgur.com/y81ojhr.png",TRỰC TIẾP  MỞ KHI CÓ TRẬN 2
 #http://3.95.214.208:80/K2hd/mpegts
 http://103.125.191.32:8000/live2
 #http://3.95.214.208:80/K2hd/mpegts
