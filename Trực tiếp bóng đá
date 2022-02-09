@@ -45,11 +45,11 @@ http://95.183.43.237:8080/259/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/4IDl0XZ.png",Math 3HD
 http://95.183.43.237:8080/260/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/JEPmOU6.png",beIN SPORTS 1
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+http://bestsave.ltd:2052/live/11112222/22221111/74853.ts
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/0HK5V7J.png",beIN SPORTS 2
 http://bestsave.ltd:2052/live/11112222/22221111/74853.ts
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/rTlLxtt.png",beIN SPORTS 3
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+http://bestsave.ltd:2052/live/11112222/22221111/90293.ts
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.imgur.com/Uz1hyi6.png",BLV : SAO MAI 
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
@@ -102,9 +102,9 @@ https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/220201-1900-vi
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",23:30 09/02/: Al-Hilal Saudi FC vs Chelsea
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/al-hilal-saudi-fc-vs-chelsea&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h45 10/02: Man City - Brentford
+http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/manchester-city-vs-brentford&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h45 10/02: Norwich - Crystal Palace
 http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/norwich-city-vs-crystal-palace-0245-10-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/manchester-city-vs-brentford&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h45 10/02: Tottenham - Southampton
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/tottenham-vs-southampton&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",22h15 06/02: 03h00 10/02: Aston Villa - Leeds
