@@ -119,23 +119,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Monterrey - Al-Jazira
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Monterrey - Al-Jazira
-https://xem.rakhoi.tv/truc-tiep/61fda3153a75e06ff1720799-KY7BST.html|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Monterrey - Al-Jazira
-https://ihkvgekdmaliv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Monterrey - Al-Jazira
-https://ihkvgekdmaliv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Monterrey - Al-Jazira
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Monterrey - Al-Jazira
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Club World Cup" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",20h30 09/02: Monterrey - Al-Jazira
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=61fda3153a75e06ff1720799-KY7BST-KY7BST&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FIFA Club World Cup" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",23h30 09/02: Al Hilal - Chelsea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=61fda3163a75e06ff172079a-cJ90Be-cJ90Be&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",02h45 10/02: Man City - Brentford
