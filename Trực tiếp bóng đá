@@ -121,15 +121,9 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 12/02: PSG - Rennes
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Athletic Club - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Athletic Club - Valencia
-https://rakhoi.tv/|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/4yr3KtM.png",03h30 11/02: Athletic Club - Valencia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6200c71f3a75e06ff1721192-tgc8zE-tgc8zE&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",02h30 12/02: RB Leipzig - Köln
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6203bdd13a75e06ff1721833-rWjGxN-rWjGxN&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/JK9GmG1.png",03h00 12/02: Sevilla - Elche
