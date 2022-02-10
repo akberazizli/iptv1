@@ -96,9 +96,9 @@ http://103.125.191.32:8000/live2
 #EXTINF:-1 group-title="TRỰC TIẾP MỞ KHI CÓ TRẬN - TRỰC TIẾP MỞ KHI CÓ TRẬN" tvg-logo= "https://i.imgur.com/y7Y2wHg.png",TRỰC TIẾP  MỞ KHI CÓ TRẬN 3
 http://103.125.191.32:8080/tvpub/mpegts
 
-#EXTINF: -1 group-title = "trực tiếp Olympic 2022" tvg-logo = "https://i.imgur.com/Fw6liLk.png",trực tiếp Olympic 1
+#EXTINF: -1 group-title = "trực tiếp Olympic 2022" tvg-logo = "https://i.imgur.com/7SAZ1ss.png",trực tiếp Olympic 1
 https://family4you.fun/LaoHac2022/playlist.php?id=euro1ad34
-#EXTINF: -1 group-title = "trực tiếp Olympic 2022" tvg-logo = "https://i.imgur.com/Fw6liLk.png",trực tiếp Olympic 2
+#EXTINF: -1 group-title = "trực tiếp Olympic 2022" tvg-logo = "https://i.imgur.com/Mdx4Fts.png",trực tiếp Olympic 2
 https://family4you.fun/LaoHac2022/playlist.php?id=olc
 
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/EDkBpCQ.png",PHÁT LẠI Vietnam - China
