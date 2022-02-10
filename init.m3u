@@ -105,22 +105,18 @@ https://family4you.fun/LaoHac2022/playlist.php?id=olc
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/220201-1900-vietnam-china-pr-aqwc-hls-vod-sabeco-1643725003/0665fb3614816bb86ebd935f5fa2f2ff-1080p.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",00h00 11/02: Atalanta - Fiorentina
-http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/atalanta-vs-fiorentina-0000-11-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h45 11/02: Wolves - Arsenal
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/wolves-vs-arsenal&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h45 11/02: Liverpool - Leicester
-http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/liverpool-vs-leicester-2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 11/02: Juventus - Sassuolo
-http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/juventus-vs-sassuolo-0300-11-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",02h30 12/02: RB Leipzig - Köln
+http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/rb-leipzig-vs-fc-koln-0230-12-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 12/02: Sevilla - Elche
+http://tbientv.xyz/mitom/link_hd.php?url=https://mitom1.tv/truc-tiep/sevilla-vs-elche-0300-12-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",newcastle-utd-vs-everton-02h45-09-02
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 12/02: PSG - Rennes
+http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/paris-saint-germain-vs-rennes&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",00h00 11/02: Atalanta - Fiorentina
-https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 11/02: Wolves - Arsenal
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h30 12/02: RB Leipzig - Köln
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 11/02: Liverpool - Leicester
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 12/02: Sevilla - Elche
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 12/02: PSG - Rennes
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 11/02: Juventus - Sassuolo
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
-
