@@ -37,6 +37,9 @@ http://gg.gg/xrfv7
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/OutOfTheDark_1995_HongKong.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.postimg.cc/TYpJcN0S/mad-monk-poster.jpg",Tế Công
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/madmonk/The_Mad_Monk_1993.mp4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/9B11A7v.jpg",Có Căn Nhà Nằm Nghe Nắng Mưa
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211129/likeanoldhouse_2017_vn_1080p_logofptplay/15b2b58432cc9615dd88da83162f4b2e
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú"https://i.imgur.com/7GpxcXd.jpg",TRẠNG QUỲNH
 http://gg.gg/xrx88
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/P8ebiml.jpg", vi cá
