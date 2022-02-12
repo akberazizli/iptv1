@@ -142,19 +142,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saoke8.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",Nhà Đài Kawasaki Frontale - Urawa Red Diamonds
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Kawasaki Frontale - Urawa Red Diamonds
-https://xem.rakhoi.tv/truc-tiep/620626463a75e06ff1721ef8-HIHbBo.html|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/0dy7wYl.png",HD Kawasaki Frontale - Urawa Red Diamonds
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/GqevjGu.png",SD Kawasaki Frontale - Urawa Red Diamonds
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Super Cup" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",11h35 12/02: Kawasaki Frontale - Urawa Red Diamonds
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620626463a75e06ff1721ef8-HIHbBo-HIHbBo&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",19h30 12/02: Man United - Southampton
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6203bda63a75e06ff1721827-e7HLTR-e7HLTR&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",19h30 12/02: Huddersfield - Sheff Utd
