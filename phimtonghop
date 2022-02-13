@@ -21,11 +21,14 @@ https://redirect.playpdc.xyz/hls/34PqJJr_2slBPkvixn0NRHq9tT8Mu67dSuol23mCblJqIkk
 http://vod-zlr2.tv360.vn/video1/2021/10/27/16/1d5a4d63/1d5a4d63-5fc2-4c7f-a8ec-9509d39a1d20_2_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/EwxwVLp.jpg",Hồi Sinh 
 http://vod-zlr2.tv360.vn/video1/2020/07/23/15/07c50baf/07c50baf-79d8-4bb9-874e-cea443a7abb7_2_.m3u8
-
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/6694/poster.jpg",Thiên Sư Bắt Ma Phần 4
-https://hlss.xyz/cdn/hls/493f87133f4828e7d2d432f0ffff7c39/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://images.weserv.nl/?url=https://bilutv.link/film/6692/poster.jpg",Thiên Sư Bắt Ma Phần 2
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/6691/poster.jpg",Thiên Sư Bắt Ma Phần 1
+https://hlss.xyz/cdn/hls/4704e69cdf571855550e1e78095cb5e7/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/6692/poster.jpg",Thiên Sư Bắt Ma Phần 2
 https://hlss.xyz/cdn/hls/92e7885d03eab8f0853c3a817df6544e/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/6693/poster.jpg",Thiên Sư Bắt Ma Phần 3
+https://hlss.xyz/cdn/hls/db48a9eb0eefe9375a9c7a2e4a59fc8b/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/6694/poster.jpg",Thiên Sư Bắt Ma Phần 4
+https://hlss.xyz/cdn/hls/493f87133f4828e7d2d432f0ffff7c39/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5698.jpg",THẦN BÀI
 https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_ThanBai1/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5700.jpg",THẦN BÀI 3
