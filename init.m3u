@@ -48,26 +48,26 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ VIP" tvg-logo="https://i.imgur.com/cSho1qa.png", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ VIP" tvg-logo="https://i.imgur.com/cSho1qa.png", K+CINE KHÔNG ĐẢM BẢO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NjRlYzU1MzMtYWQyMy0zY2E2LTk5NmMtNDE1MGMxYmRjOTkx
 http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+ VIP" tvg-logo="https://i.imgur.com/tAVTLHw.png", K+LIFE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ VIP" tvg-logo="https://i.imgur.com/tAVTLHw.png", K+LIFE KHÔNG ĐẢM BẢO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NjRlYzU1MzMtYWQyMy0zY2E2LTk5NmMtNDE1MGMxYmRjOTkx
 http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ VIP" tvg-logo="https://i.imgur.com/Q3uWiju.jpg", K+SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ VIP" tvg-logo="https://i.imgur.com/Q3uWiju.jpg", K+SPORT1 KHÔNG ĐẢM BẢO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NjRlYzU1MzMtYWQyMy0zY2E2LTk5NmMtNDE1MGMxYmRjOTkx
 https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ VIP" tvg-logo="https://i.imgur.com/AcJPeLK.png", K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ VIP" tvg-logo="https://i.imgur.com/AcJPeLK.png", K+SPORT2 KHÔNG ĐẢM BẢO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NjRlYzU1MzMtYWQyMy0zY2E2LTk5NmMtNDE1MGMxYmRjOTkx
