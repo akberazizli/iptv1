@@ -5,7 +5,14 @@
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
 
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/17079.jpg", KẺ HỦY DIỆT
+https://wusb5dorxfvod.vcdn.cloud/vod/dn/cryhavoc_huydiet/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/17138.jpg",ANH HÙNG PHẢN DIỆN
+https://wusb5dorxfvod.vcdn.cloud/vod/dn/thepunished_anhhungphandien/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/17140.jpg",24 GIỜ HỒI SINH
+https://wusb5dorxfvod.vcdn.cloud/vod/dn/24hours_24giohoisinh/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/17149.jpg",TRÓN THOÁT KHỎI 
+https://wusb5dorxfvod.vcdn.cloud/vod/dn/escapefromensenada_tronthoatkhoiensenada/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-nguoi-nhen-khong-con-nha-spider-man-no-way-home-id_8048_1914369231QLC5.jpg", NGƯỜI NHỆN: KHÔNG CÒN NHÀ
 https://redirect.playpdc.xyz/hls/ECer9E6bPair-OkMpu_9m5Y8A0_VmOJmdlnDZISXkNtn_ZDpOH8VJuEYcKwVx5nyTCyRzp4eBkca8reZ73xtQg==/segment.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-chung-toc-bat-tu-eternals-id_7963_759043381CZnX8.jpg",CHỦNG TỘC BẤT TỬ
