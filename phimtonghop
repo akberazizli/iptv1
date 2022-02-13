@@ -15,6 +15,25 @@ http://vod-zlr2.tv360.vn/video1/2021/10/27/16/1d5a4d63/1d5a4d63-5fc2-4c7f-a8ec-9
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/EwxwVLp.jpg",Hồi Sinh 
 http://vod-zlr2.tv360.vn/video1/2020/07/23/15/07c50baf/07c50baf-79d8-4bb9-874e-cea443a7abb7_2_.m3u8
 
+
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5698.jpg",THẦN BÀI
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_ThanBai1/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5700.jpg",THẦN BÀI 3
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_ThanBai3-NguocThoiGianVeThuongHai/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5671.jpg",CHUYÊN GIA SẢO QUYỆT
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_ChuyenGiaXaoQuyet/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5452.jpg",TRƯỜNG HỌC UY LONG 1
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_TruongHocUyLong1/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5453.jpg",TRƯỜNG HỌC UY LONG 2
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_TruongHocUyLong2/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5454.jpg",TRƯỜNG HỌC UY LONG 3
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_TruongHocUyLong3/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5487.jpg",HOÀNG PHI HỒNG
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_HoangPhiHongThietKeDauNgoCong/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5725.jpg",HÙNG BÁ THIÊN HẠ
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_PhongVanHungBaThienHa/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/5647.jpg",ĐIỆP VIÊN BẤT ĐẮC DĨ
+https://aa97i7dlxrvod.vcdn.cloud/vod2/bhd/Danet_DiepVienBatDacDi/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-cuong-thi-hoang-de-jiang-shi-huang-di-id_4009_21181229222zZNa.jpg",Thanh Tra Ma cà Rồng
 https://redirect.playpdc.xyz/hls/aYkZ-40yQMUYEckye7gnt2__Qe2hrOMdKzokZETPYDpL-Rc3WEHE2u5A5QRg9U6fftxkqQgOznlSWVIaRyQtKQ==/segment.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-cuong-thi-vuong-gia-hopping-vampire-vs-zombie-id_5080_9693218479Y7xw.jpg",CƯƠNG THI VƯƠNG GIA
