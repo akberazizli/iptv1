@@ -145,9 +145,13 @@ https://family4you.fun/LaoHac2022/playlist.php?id=olc
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/EDkBpCQ.png",PHÁT LẠI Vietnam - China
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/220201-1900-vietnam-china-pr-aqwc-hls-vod-sabeco-1643725003/0665fb3614816bb86ebd935f5fa2f2ff-1080p.mp4/playlist.m3u8
 
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",03h00 16/02: PSG - Real Madrid
+https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",03h00 16/02: Sporting CP - Man City
+https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 
-
-
+#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",16h00 15/02: Malaysia - Myanmar
+https://vips-livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 16/02: Sporting CP - Man City
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/sporting-cp-vs-manchester-city&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 16/02: PSG - Real Madrid
