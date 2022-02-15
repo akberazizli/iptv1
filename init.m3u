@@ -74,7 +74,7 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/DFys64H.png",Now Sports PPIME
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/nPfA4wg.png",KÊNH NƯỚC NGOÀI Now Sports
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/haAo8Jb.png",KÊNH NƯỚC NGOÀI NGOẠI HẠNG ANH 1
 https://family4you.fun/LaoHac2022/playlist.php?id=feedepl
@@ -86,6 +86,8 @@ https://family4you.fun/LaoHac2022/iproblock.php?id=145090
 http://95.183.43.237:8080/258/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/sxeQMkl.png",KÊNH NƯỚC NGOÀI SERIE A 2
 http://95.183.43.237:8080/259/index.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/vi9sr4o.png",KÊNH NƯỚC NGOÀI RMC 1
+http://gg.gg/Live5hd
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/5kqFvT6.png",KÊNH NƯỚC NGOÀI SERIE A 3
 http://95.183.43.237:8080/260/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/QhDKOqR.png",KÊNH NƯỚC NGOÀI beIN 1
