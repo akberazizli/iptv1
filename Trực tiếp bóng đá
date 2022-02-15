@@ -88,11 +88,11 @@ http://95.183.43.237:8080/258/index.m3u8
 http://95.183.43.237:8080/259/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/5kqFvT6.png",KÊNH NƯỚC NGOÀI SERIE A 3
 http://95.183.43.237:8080/260/index.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/JEPmOU6.png",beIN SPORTS 1
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/QhDKOqR.png",KÊNH NƯỚC NGOÀI beIN 1
 http://bestsave.ltd:2052/live/11112222/22221111/74852.ts
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/0HK5V7J.png",beIN SPORTS 2
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/z5AAQiR.png",KÊNH NƯỚC NGOÀI beIN 2
 http://bestsave.ltd:2052/live/11112222/22221111/74853.ts
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/rTlLxtt.png",beIN SPORTS 3
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/7gZpTuu.png",KÊNH NƯỚC NGOÀI beIN 3
 http://bestsave.ltd:2052/live/11112222/22221111/90293.ts
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.imgur.com/Uz1hyi6.png",BLV : SAO MAI 
