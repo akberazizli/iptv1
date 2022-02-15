@@ -86,10 +86,10 @@ https://family4you.fun/LaoHac2022/iproblock.php?id=145090
 http://95.183.43.237:8080/258/index.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/sxeQMkl.png",KÊNH NƯỚC NGOÀI SERIE A 2
 http://95.183.43.237:8080/259/index.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/vi9sr4o.png",KÊNH NƯỚC NGOÀI RMC 1
-http://gg.gg/Live5hd
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/5kqFvT6.png",KÊNH NƯỚC NGOÀI SERIE A 3
 http://95.183.43.237:8080/260/index.m3u8
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/vi9sr4o.png",KÊNH NƯỚC NGOÀI RMC 1
+http://gg.gg/Live5hd
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/QhDKOqR.png",KÊNH NƯỚC NGOÀI beIN 1
 http://bestsave.ltd:2052/live/11112222/22221111/74852.ts
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/z5AAQiR.png",KÊNH NƯỚC NGOÀI beIN 2
@@ -151,9 +151,6 @@ https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 
 
-
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/erbktg6.png",19h00 15/02: Indonesia - Laos
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 16/02: Sporting CP - Man City
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/sporting-cp-vs-manchester-city&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",03h00 16/02: PSG - Real Madrid
@@ -162,8 +159,6 @@ http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/paris-saint-ge
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/manchester-united-vs-brighton&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",16h00 15/02: Malaysia - Myanmar
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 16/02: PSG - Real Madrid
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 16/02: Sporting CP - Man City
