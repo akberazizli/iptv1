@@ -140,14 +140,6 @@ http://103.125.191.32:8080/tvpub/mpegts
 
 #EXTINF: -1 group-title = "trực tiếp Olympic 2022" tvg-logo = "https://i.imgur.com/7SAZ1ss.png",trực tiếp Olympic 1
 https://family4you.fun/LaoHac2022/playlist.php?id=euro1ad34
-#EXTINF: -1 group-title = "trực tiếp Olympic 2022" tvg-logo = "https://i.imgur.com/Mdx4Fts.png",trực tiếp Olympic 2
-https://family4you.fun/LaoHac2022/playlist.php?id=olc
-
-
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",03h00 17/02: Inter - Liverpool
-https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/ysm1ffC/IMG-20211207-040237.png",03h00 17/02: Salzburg - Bayern München
-https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",00h45 18/02: Barcelona - Napoli
