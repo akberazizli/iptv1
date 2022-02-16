@@ -105,7 +105,8 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saoke8.tv/
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.imgur.com/JqJwQPw.png",BLV KEN
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saoke8.tv/
-
+#EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.imgur.com/ungJtc3.png",BLV SAO BĂNG
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saoke8.tv/
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.imgur.com/z3nxUoN.png",BLV: Giàng A Phò 1
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
@@ -160,6 +161,8 @@ http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/red-bull-salzb
 http://tbientv.xyz/xembd/link.php?url=https://xembd.live/tran-dau/inter-vs-liverpool&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",Brisbane Roar FC VS Wellington Phoenix 13:25 16/02
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saoke8.tv/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",19h00 16/02: Thailand - Singapore
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://xem.saoke.live/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",01h00 17/02: Atletico Madrid - Levante
