@@ -4,6 +4,13 @@
 #EXTINF:-1 group-title="kênh Ⓕⓘⓜ hồng kong" tvg-logo="https://i.imgur.com/tWDfpDc.png",TV PHIM HỒNG KONG
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Sporting CP - Manchester City CÚP C1 Xem lại
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220216/0e7e3c0caadb525a5d22082276086ab4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Paris Saint-Germain - Real Madrid | Xem lại CÚP C1
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220216/220216-0300-paris-saint-germain-real-madrid-ucl-clean-48-fm-fn-1644964615/6d4ea382f63ff055c610b78992ad87a6.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/resize/vod/poster/480x320/17079.jpg", KẺ HỦY DIỆT
 https://wusb5dorxfvod.vcdn.cloud/vod/dn/cryhavoc_huydiet/playlist.m3u8
