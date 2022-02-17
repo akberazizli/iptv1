@@ -4,12 +4,15 @@
 #EXTINF:-1 group-title="kênh Ⓕⓘⓜ hồng kong" tvg-logo="https://i.imgur.com/tWDfpDc.png",TV PHIM HỒNG KONG
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
-
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Inter Milan - Liverpool FC | Xem lại trận đấuCÚP C1
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Barcelona - Napoli | Xem lại  CÚP C2
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220218/220218-0045-barcelona-napoli-uel-clean-48-fm-fn-1645130803/59085ec8f080082128c68e378ba43a21-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Zenit St Petersburg - Real Betis | Xem lại  CÚP C2
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220218/3e69e9a7e6c3567fd70b33522f368a67.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Inter Milan - Liverpool FC | Xem lại CÚP C1
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220217/93554d1305138115e73256c6750ff45c.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",FC Salzburg - Bayern Munich | Xem lại trận đấu CÚP C1
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",FC Salzburg - Bayern Munich | Xem lại  CÚP C1
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220217/e568d0f4a6a64fb45d597e1605a9d59d.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Sporting CP - Manchester City CÚP C1 Xem lại
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Sporting CP - Manchester City  Xem lại CÚP C1
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220216/0e7e3c0caadb525a5d22082276086ab4.mp4/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Paris Saint-Germain - Real Madrid | Xem lại CÚP C1
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220216/220216-0300-paris-saint-germain-real-madrid-ucl-clean-48-fm-fn-1644964615/6d4ea382f63ff055c610b78992ad87a6.smil/playlist.m3u8
