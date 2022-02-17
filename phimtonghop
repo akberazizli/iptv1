@@ -17,10 +17,7 @@ https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220216/220216-03
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/220201-1900-vietnam-china-pr-aqwc-hls-vod-sabeco-1643725003/0665fb3614816bb86ebd935f5fa2f2ff-1080p.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/19072/poster.jpg",Tây Du Ký: Hồng Hài Nhi
-https://hlss.xyz/cdn/hls/748f2e01daacb1cb262f6fba056b9468/master.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/3893/poster.jpg",Tây Du Ký 2: Ba Lần Đánh Bạch Cốt Tinh
-https://hlss.xyz/cdn/hls/d5f797069070f01615db70c09b44d0c4/master.m3u8
+
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/19058/big.jpg", Người Nhện: Không Còn Nhà
 https://hlss.xyz/cdn/hls/f27612cc313be274004224419d8600a2/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/3693/big.jpg",Người Nhện Siêu Đẳng 2
@@ -51,6 +48,10 @@ http://vod-zlr2.tv360.vn/video1/2021/10/27/16/1d5a4d63/1d5a4d63-5fc2-4c7f-a8ec-9
 http://vod-zlr2.tv360.vn/video1/2020/07/23/15/07c50baf/07c50baf-79d8-4bb9-874e-cea443a7abb7_2_.m3u8
 
 
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/19072/poster.jpg",Tây Du Ký: Hồng Hài Nhi
+https://hlss.xyz/cdn/hls/748f2e01daacb1cb262f6fba056b9468/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/3893/poster.jpg",Tây Du Ký 2: Ba Lần Đánh Bạch Cốt Tinh
+https://hlss.xyz/cdn/hls/d5f797069070f01615db70c09b44d0c4/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/20051/poster.jpg",Tân Ca Truyền Kỳ 2
 https://hlss.xyz/cdn/hls/aaac0932c16a6a17f4923b928cd65a82/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/19860/poster.jpg",Sóng Dữ 2
