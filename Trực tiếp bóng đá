@@ -156,7 +156,7 @@ https://livecdn.fptplay.net/hdevent/uefa11_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hdevent/uefa14_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",16h00 17/02: Brunei - Timor Leste
-https://vips-livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/afcchampion/afc01_4000.stream/playlist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",19h00 17/02: Philippines - Cambodia
 https://vips-livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",00h45 18/02: Barcelona - Napoli
