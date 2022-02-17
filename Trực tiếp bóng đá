@@ -142,17 +142,17 @@ http://103.125.191.32:8080/tvpub/mpegts
 https://family4you.fun/LaoHac2022/playlist.php?id=euro1ad34
 
 
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",00h45 18/02: Dortmund - Rangers
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/Wi8DZRS.png",00h45 18/02: Dortmund - Rangers
 https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",00h45 18/02: Barcelona - Napoli
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/Wi8DZRS.png",00h45 18/02: Barcelona - Napoli
 https://livecdn.fptplay.net/hdevent/uefa04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",03h00 18/02: FC Porto - Lazio
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/Wi8DZRS.png",03h00 18/02: FC Porto - Lazio
 https://livecdn.fptplay.net/hdevent/uefa08_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",03h00 18/02: Atalanta - Olympiacos
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/Wi8DZRS.png",03h00 18/02: Atalanta - Olympiacos
 https://livecdn.fptplay.net/hdevent/uefa10_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",03h00 18/02: Sevilla - Dinamo Zagreb
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/Wi8DZRS.png",03h00 18/02: Sevilla - Dinamo Zagreb
 https://livecdn.fptplay.net/hdevent/uefa11_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.ibb.co/mzQvm3Z/IMG-20211209-201753.png",03h00 18/02 Leicester - Randers FC
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/Wi8DZRS.png",03h00 18/02 Leicester - Randers FC
 https://livecdn.fptplay.net/hdevent/uefa14_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",16h00 17/02: Brunei - Timor Leste
