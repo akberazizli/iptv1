@@ -4,6 +4,11 @@
 #EXTINF:-1 group-title="kênh Ⓕⓘⓜ hồng kong" tvg-logo="https://i.imgur.com/tWDfpDc.png",TV PHIM HỒNG KONG
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
+
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Leicester City - Randers FC | Xem lại CÚP C2
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220218/dbc8f3deded882ec8f00405332df0d26.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",FC Porto - Lazio | Xem lại CÚP C2
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220218/82be82471dc8a99dd8be867671e82a48.mp4/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Barcelona - Napoli | Xem lại  CÚP C2
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220218/220218-0045-barcelona-napoli-uel-clean-48-fm-fn-1645130803/59085ec8f080082128c68e378ba43a21-1080p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/EDkBpCQ.png",Zenit St Petersburg - Real Betis | Xem lại  CÚP C2
