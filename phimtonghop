@@ -222,13 +222,13 @@ http://vod-zlr2.tv360.vn/video1/2021/08/13/13/f524ec82/f524ec82-a571-4e57-a463-a
 http://vod-zlr2.tv360.vn/video1/2019/12/28/17/3af85fe8/3af85fe8-8c83-4eba-b40d-d44ae34cc268_5_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/lwojx0S.jpg",Thị Trấn Cuồng Sát 
 http://vod-zlr2.tv360.vn/video1/2020/09/16/09/5858ab63/5858ab63-268f-47ed-b4b4-84838cec3238_5_.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Võ Sĩ Đạo Cuối Cùng
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Võ Sĩ Đạo Cuối Cùng
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20211029/thelastsamurai_2003_us_1080p_sub_logofptplay/3db241a605ca68433741ec31d1458f4d_1080p.mp4/playlist.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png", Người Máy Nổi Loạn
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png", Người Máy Nổi Loạn
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210927/terminator3riseofthemachines_2003_us_1080p_sub_logofptplay/4754a7d545ae312f52d91cb244f992a7_1080p.mp4/playlist.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Giải Cứu Nhà Trắng
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Giải Cứu Nhà Trắng
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210926/whitehousedown_2013_us_1080p_sub_logofptplay/635f7603da46cf32318f06c8501c8774_1080p.mp4/playlist.m3u8
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ  võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Điệp Vụ Tam Giác Vàng 
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/l1zpQWb.png",Điệp Vụ Tam Giác Vàng 
 https://vod03-cdn.fptplay.net/encoded/20200619/operation-mekong-1080p-sub-logofptplay-v3/index_1080p.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ võ phú" tvg-logo="https://i.imgur.com/cKJINBh.jpg",Tây Du Ký - A
 http://vod-zlr2.tv360.vn/video1/2021/06/24/16/91cf44d8/91cf44d8-f2f8-445c-9f90-50dcab8824fc_5_.m3u8
@@ -412,7 +412,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191128/a_violent_pros
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/the_man_from_nowhere_fptplay_1080p_sub_logofptplay/dca121e1023f189d84742aee00d0cf0d_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://i.ytimg.com/vi/S02sHaTMiPA/hqdefault.jpg",Đội Bóng Thiếu Lâm
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
-
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Cho Em Gần Anh Thêm Chút Nữa
 http://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191213/cho_em_gan_anh_them_chut_nua_1080p_logofptplay_v2/58878dd904e64f39b91cf359905fa9a5_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Chim Ruồi
@@ -483,7 +482,6 @@ https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200727/white_sna
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200729/nezha-2019-china-1080p-tm/69139b65b2b805582e13fbf160ffed07.smil/chunklist_b4628000.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Phi Vụ Tiền Giả
 https://vod01-cdn.fptplay.net/encoded/20200728/project_gutenberg_2018_china_1080p_sub/1080p/index.m3u8
-
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Chú Heo Màu Đỏ 
 http://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200821/porco-rosso-1992-japan-1080p-sub/51371c5e6fb5511fc0b06cacb52514d6-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (FPT)" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",Tây Du Ký Lạ Truyện 
@@ -664,8 +662,6 @@ http://vod-zlr2.tv360.vn/video1/2020/02/18/03/845b2a93/845b2a93-3c7c-441b-b6b9-d
 http://vod-zlr2.tv360.vn/video1/2020/10/14/15/26ceb126/26ceb126-3421-4916-a011-2fa7aa22256b_5_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (360)" tvg-logo="https://dangkyinternetviettel.com.vn/wp-content/uploads/2021/07/tv360-logo.png",Bí Ẩn Pho Tượng Ma - Mr Jones
 http://vod-zlr2.tv360.vn/video1/2020/10/03/16/de83059d/de83059d-6aa5-4619-a855-59e3798aad34_5_.m3u8
-
-
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (360)" tvg-logo="https://dangkyinternetviettel.com.vn/wp-content/uploads/2021/07/tv360-logo.png",Nữ Điệp Viên Bất Diệt - Bond Girls Are Forever (2012)
 http://vod-zlr2.tv360.vn/video1/2021/12/24/16/14c618e7/14c618e7-7cd6-4837-8069-e174272b604a_5_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (360)" tvg-logo="https://dangkyinternetviettel.com.vn/wp-content/uploads/2021/07/tv360-logo.png",Điệp Viên 007: Những Điều Chưa Kể
@@ -840,157 +836,5 @@ http://s1zen.myclip.vn/s2-video3/2019/06/18/14/2db7d635/2db7d635-9f71-4541-b41d-
 http://s1zen.myclip.vn/video1/2018/12/10/18/4e57f4b3/4e57f4b3-5279-4c14-8bc0-56d29633f4e7_5_.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (MyClip)" tvg-logo="http://static3.myclip.vn/image1/2020/08/24/1598253637704/24fe10a355d7_384_570.jpg",Huyền thoại Hercules 2
 http://s1zen.myclip.vn/video1/2018/12/10/18/a0ec89a4/a0ec89a4-a8b7-42a0-8f64-c4060d3ce5a2_5_.m3u8
-
-
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/nhan3.jpg",Chúa tể những chiếc nhẫn 3: Sự trở lại của nhà vua
-https://www.googleapis.com/drive/v3/files/1O89cqAZyvnBhIasnXPnEE2XLpNzkJap0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/chuate2.jpg",Chúa tể những chiếc nhẫn 2: Hai tòa tháp
-https://www.googleapis.com/drive/v3/files/1pAQWKbSMtBQA1Rw2_rjTr98v1NP2gW41?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/chua1.jpg",Chúa tể những chiếc nhẫn 1: Hiệp hội nhẫn thần
-https://www.googleapis.com/drive/v3/files/1wZpLHTKLXFU0AqgtPtxgXY-L4GE0Aswj?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-
-
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vuabocap1.jpg",Vua bọ cạp (2002)
-https://www.googleapis.com/drive/v3/files/150GPWt5QpwYUs-16dcdZXF5SLagUYZBU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vuabocap2.jpg",Vua bọ cạp 2 (2008)
-https://www.googleapis.com/drive/v3/files/1RKPD8iyd8AYywe5ruTIEVyZdh7oVrAfG?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vuabocap.jpg",Vua bọ cạp 3: Trả nợ trận chiến (2011)
-https://www.googleapis.com/drive/v3/files/1xhHb_124UPcYLJOGfGASe1sBNrqSOFY0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="http://www.google.com.vn/logos/2010/vietnam10-hp.jpg",Tử thần vùng Texas (1974)
-https://www.googleapis.com/drive/v3/files/1J-_zHkVM52kAMEGjV6UDA27gOlUFimX9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/texas2003.jpg",Tử Thần Vùng Texas (2003)
-https://www.googleapis.com/drive/v3/files/1nuocWzrAjkNUpHoY9H28SPfeS6whkhir?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/texas2006.jpg",Tử Thần Vùng Texas (2006): Khởi Đầu Sự Chết Chóc
-https://www.googleapis.com/drive/v3/files/1RsLBcUhGKYt7DKiW6B_MOcTzxZNiKG0Y?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/texas2013.jpg",Tử Thần Vùng Texas (2013)
-https://www.googleapis.com/drive/v3/files/1nIEkqstPD8proQo-pLZ7msWh339iSLzQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/mynhan1.jpg",Đặc Nhiệm Mỹ Nhân 1 (2016)
-https://www.googleapis.com/drive/v3/files/1oDJxxvCfjNm3FmO_c36v8GDVTEtj0d7e?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/mynhan2.jpg",Đặc Nhiệm Mỹ Nhân 2 (2020)
-https://www.googleapis.com/drive/v3/files/1KaH8H-kW8K9GaVmEcg9YP6vldOMOzdhB?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/acmong.jpg",Ác Mộng Kinh Hoàng (2019)
-https://www.googleapis.com/drive/v3/files/1UJuDk4VF-_qq9m12a85VlNneC8fKGir1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/haucung.jpg",Hậu cung (18+ Hàn Quốc)
-https://www.googleapis.com/drive/v3/files/1-mY7Q-kmrMTJly4aYsPP0IeCF_2TnyEt?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/anhsang.jpg",Ánh Sáng Của Ngọn Lửa (1982) Phim 18+ Mỹ
-https://www.googleapis.com/drive/v3/files/1sacZ1DXERhYHuNA0PLddUMxqolvL7JMr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/a1/toithich.jpg",TÔI THÍCH NHỮNG CÔ NÀNG NÓNG BỎNG - Phim Hàn Quốc 18+
-https://www.googleapis.com/drive/v3/files/1gdozwjAoyLgLAH7oj7mp4MnFHO4kLsHc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/a1/doinuquy.jpg",Đội Nữ Quỷ SS Full HD Việt Sub
-https://www.googleapis.com/drive/v3/files/1-FgSFPa4GrjZwOBQS2zuZfmZJWRR6XWO?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://i.imgur.com/WQAw3Ft.jpg",Cái Chạm Vô Hình
-https://www.googleapis.com/drive/v3/files/1Fq2MaHuemDVTelW8jm5jDB7K8VcjDfqz?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://i.imgur.com/AVopPut.jpg",Ông Vua Bất Lực 
-https://www.googleapis.com/drive/v3/files/16sYj4qX1rrsGcwbVkThzKtEvmX_GfhZh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://i.imgur.com/xeCTflH.jpg",Bò Cái Cô Đơn - Phim 18+ Nhật Bản
-https://www.googleapis.com/drive/v3/files/1fdpjhP0jcwzoLs-IbL3l_qL83wqrFKsk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/tauthoat.jpg",Tẩu Thoát
-https://www.googleapis.com/drive/v3/files/1ZkmgQTmH4bbZ4bjNCi7MLmi4zjFLC9vd?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/nguoihung.jpg",Người Hùng Bất Đắc Dĩ
-https://www.googleapis.com/drive/v3/files/146vHnX6Zgl1jvguXprsNNF_W2MLECNiM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/postermedium.jpg",Đảo Kinh Hoàng (2020)
-https://www.googleapis.com/drive/v3/files/16d1aPHMQQc6FlZo2SqCtGHSOSsF6rQBl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/giacmo.jpg",Kẻ Đào Tẩu Giấc Mơ (2020)
-https://www.googleapis.com/drive/v3/files/1HlBvsE69WaAG6tq_SAUXnZB7n-Ef3GFf?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/Chung_Tu_Don/15135007945ac23040d9fbjpgbe996fc8d63cfb2dc2246b3806cfbbef.jpg",Người Băng I: Băng Phong Hiệp (2014)
-https://www.googleapis.com/drive/v3/files/19rQe1_S_nQKBZRQ-5wtycqWZP-zrdxtK?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/Chung_Tu_Don/iceman2poster4383_84212.jpg",Người Băng II: Du Hành Thời Gian (2018)
-https://www.googleapis.com/drive/v3/files/1sx5WOGrcR683GPdO_fDDFeMRlQuog2gk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/tihen.jpg",Tân Thiện Nữ U Hồn: Tình Nhân Gian (2020)
-https://www.googleapis.com/drive/v3/files/1ow08noNtPZFE0DuRi3_FT3neCRp6LyHu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/satthu.jpg",Sát Thủ Nhân Tạo (2018)
-https://www.googleapis.com/drive/v3/files/18tM1a15Uwn5kWkQDMibDIzA2u8N40vCa?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/phivu.jpg",Phi Vụ Nữ Quyền (2019)
-https://www.googleapis.com/drive/v3/files/12fGIPTKccHN0sv2bo9mb0Pwul6RakD_B?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/phivudaotau.jpg",Phi Vụ Đào Tẩu (2020)
-https://www.googleapis.com/drive/v3/files/181sSTMo3tJy5Tuku9Jmx51O4aYcwmRvM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vukhi.jpg",Vũ Khí Bí Mật (2020)
-https://www.googleapis.com/drive/v3/files/1OoiIXKdIhdHsss-0g30k0H-t8-JUNjkV?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vungdat.jpg",Vùng Đất Sannikov (1973)
-https://www.googleapis.com/drive/v3/files/1LPeQa3pS_-nHsUceMVG6Wx8dBhA-rmyl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/hosau.jpg",Hố Sâu Đói Khát (2019)
-https://www.googleapis.com/drive/v3/files/1QUqMIJmfLokkQ8TZU1i5oCoQar57nmUe?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/bongma.jpg",Bóng Ma: Nhiệm Vụ Đặc Biệt (2016)
-https://www.googleapis.com/drive/v3/files/1B8hd20cWI8YxgCj6n6A5HDoXVIFMMkMt?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/ailakecotoi.jpg",Ai Là Kẻ Có Tội (2020)
-https://www.googleapis.com/drive/v3/files/14uiICElwhjaFK6tEhFfv9FpH_PDrS5v-?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/001.jpg",Những Cô Nàng Lạc Lối (2020)
-https://www.googleapis.com/drive/v3/files/1lq6y_Z_anGEBBsS_jUtV7RFeFp1TO7_J?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/chienbinh.jpg",Chiến Binh Gợi Cảm (2011)
-https://www.googleapis.com/drive/v3/files/1Pk1vPSc3w08F0p73xx4kShc-K76VVvUl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/bebuoi.jpg",Bé Bự Ơi (2020)
-https://www.googleapis.com/drive/v3/files/1SpZothQ42Yg4TikxVkFvVzO3CakKb2Wu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/ncbt.jpg",Người Cá Báo Thù - Mermaid Down (2019)
-https://www.googleapis.com/drive/v3/files/1dFwjundBZw2-wnJ5VyLkQWR1Jt3PUDkp?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/ngtl.jpg",Người Thủ Lĩnh - Alpha (2018)
-https://www.googleapis.com/drive/v3/files/1xek18A7wKMyjHrktGeplF5-tJ1zlqvn5?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/ntvv.jpg",Năm tháng vội vã - Fleet of Time (2014)
-https://www.googleapis.com/drive/v3/files/1FoGK7so6m74eztfnkKyadtMfQxkqOGGE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/lolita.jpg",Nàng Lotita Nước Nga - Lolita (1998)
-https://www.googleapis.com/drive/v3/files/10s7A65dPhp2s9wLXwGe6Wv2eRvT37HoJ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/nandoi.jpg",Nạn Đói Năm 47 - Black '47 (2018)
-https://www.googleapis.com/drive/v3/files/1aWWmEfOFgV5CbdL71f8GZGAa5ehTU0KJ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/muahe.jpg",Mùa hè năm ấy em đi đâu - Cherry Returns (2016)
-https://www.googleapis.com/drive/v3/files/1Xl_BCP4jiTWoIiaHzC9-blq4VFaRnEwV?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/a_hidden_life_2019.jpg",Một Đời Ẩn Dấu - A Hidden Life (2019)
-https://www.googleapis.com/drive/v3/files/107S4wq2wodHBsTkWh8WKHx5YjnS7SunA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/marc.jpg",Marc Maron: Cuộc Vui Tận Thế - Marc Maron: End Times Fun (2020)
-https://www.googleapis.com/drive/v3/files/1-MXPe25LLQSmQrRC51hlL4z1Xys9Nseh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/mandem.jpg",Màn Đêm Buông Xuống - Hard Night Falling (2019)
-https://www.googleapis.com/drive/v3/files/1IJiRySenvIqgucHzGzuNx4Q0JUIZyEZ9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/masoi2.jpg",Ma sói: Quái vật quanh ta (Tiêu diệt ma sói)
-https://www.googleapis.com/drive/v3/files/1rWJ377tVICMJNYyOQlCQqN4gKCd-C3Zx?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/masoi.jpg",Ma Sói - The Wolfman (2010)
-https://www.googleapis.com/drive/v3/files/1XMrtGY3QroJUX4X2tKeeyr4ARwZwaadl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/trgmam2.jpg",Trường Học Ma Ám 2: Ma Nữ Tìm Chồng
-https://www.googleapis.com/drive/v3/files/1YXlQBKK-TitvfvVOOHersF7_OJFebCro?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/sophie.jpg",Lựa Chọn Của Sophie - Sophie's Choice (1982)
-https://www.googleapis.com/drive/v3/files/1GmFdOKBkZDpIuYzGct1jkoe0UGAES0uQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/loinguyen.jpg",Lời Nguyền Chết Chóc - The Grudge (2020)
-https://www.googleapis.com/drive/v3/files/1ixg0NTorgAc81MMQZeSbmB_m_cbxYBhs?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/lh.jpg",Linh Hồn Đổi Xác: Hoạt Hình - Altered Carbon: Resleeved (2020)
-https://www.googleapis.com/drive/v3/files/1s7UrtcTMTVOIe_OXL7xFtlcuYi8Db4-2?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/kong.jpg",Kong: Đảo Đầu Lâu - Kong: Skull Island (2017)
-https://www.googleapis.com/drive/v3/files/1sBMIOnfvutEPEhTCVokCrtBHNfuMUjSD?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/khongad.jpg",Không Đầu Hàng - Never Back Down: No Surrender (2016)
-https://www.googleapis.com/drive/v3/files/1vEvAzVUwqIVuyuVCenG-si1CSSxssfrR?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/khongchungbuoc.jpg",Không chùn bước - Never Back Down (2008)
-https://www.googleapis.com/drive/v3/files/1KjVi7lyLtV-5eLXdAY8pVgnmYnuoDYuT?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/khachsan.jpg",Khách Sạn Cát Tường - Big Fortune Hotel (2015) | Phim Ma Cương Thi
-https://www.googleapis.com/drive/v3/files/1LFlhCcOvxAM5av2V1nfRAuJ2aOVy0Qgj?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://lh6.googleusercontent.com/ik_cqZ-kBsbo8ktBuDNBHB4F59yRsO9Hv8OM3rdxToGl-LiwJNCWbocUoA6qth8=w1200-h630-p",That_Son_Tam_Linh
-https://www.googleapis.com/drive/v3/files/19TuTCXOJ_FozcARWkvmLZXamBXCrpza9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/yeum.jpg",Yêu Em Bất Chấp - My Sassy Girl (2018)
-https://www.googleapis.com/drive/v3/files/186AyTK-lYlp4Ozj0zXncW9Kt5Nsn4xJJ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/vica.jpg",Vi Cá Tiền Truyện (2018) - Quách Ngọc Tiên
-https://www.googleapis.com/drive/v3/files/1ILbNa0XJ9VbGplCMWhDIP4-o2mb7r9eS?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/vaidienoidoi.jpg",Vai Diễn Đổi Đời: Vai Diễn Định Mệnh (2018)
-https://www.googleapis.com/drive/v3/files/1FVNPGg01FXfHekz6G7UB-MiVX810N71h?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/uochenmuathu.jpg",Ước Hẹn Mùa Thu: Chuyện Tình Ngọt Ngào Tuổi Học Trò (2019)
-https://www.googleapis.com/drive/v3/files/102E3TLmHiZ0USlNx35TrLDSxzREHgiYh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8OxhocDKwnG8FSEbs3IJmMQJoOL.jpg",Găng Tay Đỏ (2016)
-https://www.googleapis.com/drive/v3/files/1WNQHX9A2VkjlK_YA0TZcF-xwMJnPNsVl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTeneoTRhKx9cKz9b8zJGpzR98o.jpg",30 Chưa Phải Là Tết
-https://www.googleapis.com/drive/v3/files/16HLyRQOgq3Z3p4UYOkGwL5_dN1H8oDvD?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bMUrGpGzsXIe8hiuJ9Ty3oOczT5.jpg",Sắc Đẹp Dối Trá (2020)
-https://www.googleapis.com/drive/v3/files/1_Ek8uoVj-2VidryMTVmebR8CvXOg5Th-?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/untitled1.png",Đôi Mắt Âm Dương (2020)
-https://www.googleapis.com/drive/v3/files/17MKKdJeSTWteCcMO1_SKKK8qkXiXNDXa?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/thanhtan/082020/13/12/in_article/3753_3Anh_NgYc_vai_ThuYn_HYYng_2.jpg",Gái Ngàn Đô (2020)
-https://www.googleapis.com/drive/v3/files/1ASTimMdbSG0QtCxKWzmOAmOJsgRXgs99?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/rucro.jpg",Tháng Năm Rực Rỡ - Go Go Sisters ( C16) (2018)
-https://www.googleapis.com/drive/v3/files/1dON4QGT-8YsvIhxno7urCedIUMPGKcbf?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/tinhdau.jpg",Tình Đầu Thơ Ngây - First Love (2019)
-https://www.googleapis.com/drive/v3/files/1SFy97R2BKo_7rbZwKlD1mVsWbK4A0nMq?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/003/nhungcogai.jpg",Những cô gái & găng-tơ (Girls 2) - Girls vs Gangsters (2018) | Phim Hồng Kông - Việt Nam
-https://www.googleapis.com/drive/v3/files/1qOR7bRVC306doftFO8ZHsDbzI97x8qC_?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/003/nhungcogai.jpg",LÀM MẸ
-https://www.googleapis.com/drive/v3/files/0B-rlgB4OXkejM2x2ODBLM1hCR3c?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ (Google)" tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/003/nhungcogai.jpg",Đắng cay nhưng ngọt ngào (720p)
-https://www.googleapis.com/drive/v3/files/0B03MQTH5UD3ENVI5UWo3R2tKRWc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
-
 
 
