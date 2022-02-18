@@ -159,6 +159,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.imgur.com/TI3OIR3.png",16h00 18/02: Laos - Malaysia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620f01ef831131126b037a5f-kADfs4-kADfs4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.imgur.com/TI3OIR3.png",19h00 18/02: Myanmar - Indonesia
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=620f31b5831131126b037a8c-ppiRpx-ppiRpx&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h30 18/02: Al-Faisaly - Al-Raed
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620e4b5b831131126b0376c8-KK8MJN-KK8MJN&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",02h30 19/02: Mainz - Leverkusen
