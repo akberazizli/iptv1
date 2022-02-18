@@ -25,6 +25,14 @@ https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220216/220216-03
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220201/220201-1900-vietnam-china-pr-aqwc-hls-vod-sabeco-1643725003/0665fb3614816bb86ebd935f5fa2f2ff-1080p.mp4/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/20071/poster.jpg", Bản Lĩnh Ông Trùm: Phần 1
+https://hlss.xyz/cdn/hls/f8a5febf8bab914df10627397d729d3a/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/20036/poster.jpg",Đại Ca Trượng Nghĩa 1
+https://hlss.xyz/cdn/hls/1c95993b995393cd6846a11ecf53b945/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/20037/poster.jpg",Đại Ca Trượng Nghĩa 2: Tái Xuất Giang Hồ
+https://hlss.xyz/cdn/hls/14ddaac5491c7146d5f6dba4f0ef86df/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/20072/poster.jpg",Tử Thần Vùng Texas
+https://hlss.xyz/cdn/hls/99787f8f59c349749e2929c756dd336a/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/clDf2yJ.jpg", Không Lối Thoát
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220216/nochance_2020_us_1080p_logofptplay/dddbfacea01f941a97ad7b76389e6e69.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/t1nBoJ0.jpg",Hành Trình Đến Thung Lũng Cấm
