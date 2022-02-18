@@ -155,23 +155,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 19/02: Juventus - Torino
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Laos - Malaysia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/3h5RnzP/IMG-20211120-211216.png",Full HD Laos - Malaysia
-https://xem.rakhoi2.tv/truc-tiep/620f01ef831131126b037a5f-kADfs4.html?link=2|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Laos - Malaysia
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Laos - Malaysia
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Laos - Malaysia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Laos - Malaysia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.imgur.com/TI3OIR3.png",16h00 18/02: Laos - Malaysia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620f01ef831131126b037a5f-kADfs4-kADfs4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/LfqEnaS.png",22h30 18/02: Al-Faisaly - Al-Raed
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620e4b5b831131126b0376c8-KK8MJN-KK8MJN&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/MARXozO.png",02h30 19/02: Mainz - Leverkusen
