@@ -173,11 +173,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",West Ham - Newcastle
+https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-newcastle&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/QVkysnk.png",Singapore - Vietnam
 https://tuongbongda.000webhostapp.com/playxembd.php?id=singapore-vs-vietnam&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 19:30 West Ham - Newcastle
-https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-newcastle&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Southampton - Everton
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-everton&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Liverpool - Norwich
@@ -190,10 +190,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brentford&.m3u
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-tottenham&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",20/02 - 02:45 Salernitana - AC Milan
 https://tuongbongda.000webhostapp.com/playxembd.php?id=salernitana-vs-ac-milan&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",20/02 - 03:00 Real Madrid - Alaves
-https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-alaves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/athVAHY.png",20/02 - 03:00 Nantes - Paris Saint Germain
 https://tuongbongda.000webhostapp.com/playxembd.php?id=nantes-vs-paris-saint-germain&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",20/02 - 03:00 Real Madrid - Alaves
+https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-alaves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",20/02 - 19:00 Cambodia - Timor-Leste
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cambodia-vs-timor-leste&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 21:00 Leeds - Manchester United
