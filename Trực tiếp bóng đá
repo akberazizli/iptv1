@@ -160,8 +160,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 20/02: Nantes - PSG
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Granada - Villarreal
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Sampdoria - Empoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Arminia Bielefeld - Union Berlin
@@ -216,6 +214,8 @@ https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Southampton - Everton
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Osasuna - Atletico Madrid
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -229,6 +229,8 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-chelsea
 https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-norwich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Brighton - Burnley
 https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-burnley&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Aston Villa - Watford
+https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-watford&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",VfL Wolfsburg - Hoffenheim
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vfl-wolfsburg-vs-hoffenheim&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",VfB Stuttgart - VfL BOCHUM
@@ -246,10 +248,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=granada-cf-vs-villarreal&
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-tottenham&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",20/02 - 02:45 Salernitana - AC Milan
 https://tuongbongda.000webhostapp.com/playxembd.php?id=salernitana-vs-ac-milan&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",20/02 - 03:00 Real Madrid - Alaves
-https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-alaves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/athVAHY.png",20/02 - 03:00 Nantes - Paris Saint Germain
 https://tuongbongda.000webhostapp.com/playxembd.php?id=nantes-vs-paris-saint-germain&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",20/02 - 03:00 Real Madrid - Alaves
+https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-alaves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 21:00 Leeds - Manchester United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-manchester-united&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 21:30 Bayern Munich - SpVgg Greuther Furth
@@ -277,8 +279,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-norwich&.m
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/JK9GmG1.png",20h00 19/02: Granada - Villarreal
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad65ddce68d51ddfbc4d8-8iEPP6-8iEPP6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/cjUJbwy.png",21h00 19/02: Sampdoria - Empoli
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad664dce68d51ddfbc4e1-cDuf1B-cDuf1B&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 19/02: Arminia Bielefeld - Union Berlin
