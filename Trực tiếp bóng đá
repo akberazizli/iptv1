@@ -160,14 +160,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 20/02: Nantes - PSG
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Arminia Bielefeld - Union Berlin
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Augsburg - Freiburg
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài VfB Stuttgart - Bochum
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Wolfsburg - Hoffenheim
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Crystal Palace - Chelsea
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Crystal Palace - Chelsea
@@ -271,14 +263,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manche
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 19/02: Arminia Bielefeld - Union Berlin
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad67fdce68d51ddfbc4e7-mTmwGb-mTmwGb&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 19/02: Augsburg - Freiburg
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad680dce68d51ddfbc4e8-P54Doa-P54Doa&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 19/02: VfB Stuttgart - Bochum
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad681dce68d51ddfbc4e9-deLkdv-deLkdv&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 19/02: Wolfsburg - Hoffenheim
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad683dce68d51ddfbc4ec-eYibOu-eYibOu&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Crystal Palace - Chelsea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad632dce68d51ddfbc4ca-2PiPmR-2PiPmR&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Arsenal - Brentford
