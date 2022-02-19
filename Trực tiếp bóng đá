@@ -144,16 +144,6 @@ https://family4you.fun/LaoHac2022/playlist.php?id=euro1ad34
 
 #EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/MOvjbzC.jpg",19h00 19/02: Singapore - Vietnam
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",19h30 19/02: West Ham - Newcastle
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/west-ham-utd-vs-newcastle-utd-1930-19-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",22h00 19/02: Arsenal - Brentford
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/arsenal-vs-brentford-2200-19-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",22h00 19/02: Liverpool - Norwich
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/liverpool-vs-norwich-city-2200-19-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",22h00 19/02: Crystal Palace - Chelsea
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/crystal-palace-vs-chelsea-2200-19-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="TRỰC TIẾP VÕ PHÚ- TRỰC TIẾP VÕ PHÚ" tvg-logo= "https://i.imgur.com/erbktg6.png",00h30 20/02: Man City - Tottenham
-https://family4you.fun/vn360sport/mitomtv/mitom1_get.php?url=https://mitom1.tv/truc-tiep/manchester-city-vs-tottenham-0030-20-02/&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",19h00 19/02: Singapore - Vietnam
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.tv/
@@ -176,14 +166,14 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 19:30 West Ham - Newcastle
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-newcastle&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Southampton - Everton
+https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-everton&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Liverpool - Norwich
 https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-norwich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Crystal Palace - Chelsea
 https://tuongbongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-chelsea&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Arsenal - Brentford
 https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brentford&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Southampton - Everton
-https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-everton&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 00:30 Manchester City - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-tottenham&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",20/02 - 02:45 Salernitana - AC Milan
