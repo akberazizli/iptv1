@@ -160,18 +160,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",03h00 20/02: Nantes - PSG
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài West Ham - Newcastle
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 West Ham - Newcastle
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 West Ham - Newcastle
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 West Ham - Newcastle
-https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 West Ham - Newcastle
-https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Fulham - Huddersfield
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Granada - Villarreal
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tbbYxUG.png",Nhà đài Sampdoria - Empoli
@@ -187,6 +175,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Southampton - Everton
+https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-everton&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Arsenal - Brentford
 https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brentford&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Crystal Palace - Chelsea
@@ -206,16 +196,14 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=sampdoria-vs-empoli&.m3u8
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Granada CF - Villarreal
 https://tuongbongda.000webhostapp.com/playxembd.php?id=granada-cf-vs-villarreal&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Southampton - Everton
-https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-everton&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 00:30 Manchester City - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-tottenham&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",20/02 - 02:45 Salernitana - AC Milan
 https://tuongbongda.000webhostapp.com/playxembd.php?id=salernitana-vs-ac-milan&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",20/02 - 03:00 Real Madrid - Alaves
-https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-alaves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/athVAHY.png",20/02 - 03:00 Nantes - Paris Saint Germain
 https://tuongbongda.000webhostapp.com/playxembd.php?id=nantes-vs-paris-saint-germain&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",20/02 - 03:00 Real Madrid - Alaves
+https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-alaves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",20/02 - 19:00 Cambodia - Timor-Leste
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cambodia-vs-timor-leste&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 21:00 Leeds - Manchester United
@@ -243,10 +231,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manche
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",19h30 19/02: West Ham - Newcastle
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad62ddce68d51ddfbc4c2-e5WByX-e5WByX&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/QE7xz3w.png",19h30 19/02: Fulham - Huddersfield
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad6dcdce68d51ddfbc502-6VFZ7e-6VFZ7e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/JK9GmG1.png",20h00 19/02: Granada - Villarreal
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad65ddce68d51ddfbc4d8-8iEPP6-8iEPP6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/cjUJbwy.png",21h00 19/02: Sampdoria - Empoli
@@ -259,14 +243,14 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad680dce68d51ddfbc4e8
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad681dce68d51ddfbc4e9-deLkdv-deLkdv&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 19/02: Wolfsburg - Hoffenheim
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad683dce68d51ddfbc4ec-eYibOu-eYibOu&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Crystal Palace - Chelsea
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad632dce68d51ddfbc4ca-2PiPmR-2PiPmR&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Arsenal - Brentford
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad62edce68d51ddfbc4c3-fGRRov-fGRRov&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Aston Villa - Watford
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad630dce68d51ddfbc4c4-EzbyxN-EzbyxN&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Brighton - Burnley
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad631dce68d51ddfbc4c7-C6d2bq-C6d2bq&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Crystal Palace - Chelsea
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad632dce68d51ddfbc4ca-2PiPmR-2PiPmR&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Liverpool - Norwich
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=620ad634dce68d51ddfbc4cd-FxOPG9-FxOPG9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",22h00 19/02: Southampton - Everton
