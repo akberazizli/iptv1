@@ -66,7 +66,10 @@ http://vod-zlr2.tv360.vn/video1/2021/10/27/16/1d5a4d63/1d5a4d63-5fc2-4c7f-a8ec-9
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/EwxwVLp.jpg",Hồi Sinh 
 http://vod-zlr2.tv360.vn/video1/2020/07/23/15/07c50baf/07c50baf-79d8-4bb9-874e-cea443a7abb7_2_.m3u8
 
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/gLjVpAp.jpg",ĐIỆP VẤN 1
+https://hlss.xyz/cdn/hls/3959ad8450c0f1742bd7d224c105bea2/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/3Ig3YMM.jpg",ĐIỆP VẤN 2
+https://hlss.xyz/cdn/hls/cd76c8576ce137eaa713c394b435c732/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/20054/poster.jpg",Thám Trưởng Lôi Lạc 1
 https://hlss.xyz/cdn/hls/ced4d1f9c4cd144b230b6d18af0fc8be/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/h1UKG4u.jpg",Chuyến Bay Sinh Tử
@@ -161,7 +164,8 @@ http://s1zen.myclip.vn/s2-video3/2019/09/03/12/822a57dd/822a57dd-fc93-4daf-9f53-
 http://s2zen.myclip.vn/video1/2019/10/07/14/64c95532/64c95532-2afb-4847-8351-51526b7622bd_4_.m3u8
 
 
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/eZLnt8r.jpg",Lật Mặt 4: Nhà Có Khách
+https://hlss.xyz/cdn/hls/e72b2141ab0357e233ab9a07c86274fa/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/WmIhqmg.jpg",Hương Ga
 https://wusb5dorxfvod.vcdn.cloud/vod/phimle/huongga/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/19706/poster.jpg",Lật Mặt 5: 48H
