@@ -189,8 +189,12 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Crystal Palace - Chelsea
 https://tuongbongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-chelsea&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Liverpool - Norwich
+https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-norwich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",VfL Wolfsburg - Hoffenheim
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vfl-wolfsburg-vs-hoffenheim&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",VfB Stuttgart - VfL BOCHUM
+https://tuongbongda.000webhostapp.com/playxembd.php?id=vfb-stuttgart-vs-vfl-bochum&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",FC Augsburg - SC Freiburg
 https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-augsburg-vs-sc-freiburg&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Sampdoria - Empoli
@@ -200,8 +204,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=granada-cf-vs-villarreal&
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Southampton - Everton
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-everton&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Liverpool - Norwich
-https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-norwich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Arsenal - Brentford
 https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-brentford&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 00:30 Manchester City - Tottenham
