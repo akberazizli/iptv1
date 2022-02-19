@@ -163,17 +163,15 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Nantes - Paris Saint Germain
-https://tuongbongda.000webhostapp.com/playxembd.php?id=nantes-vs-paris-saint-germain&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 21:00 Leeds - Manchester United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-manchester-united&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 21:30 Bayern Munich - SpVgg Greuther Furth
 https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-spvgg-greuther-furth&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 23:30 Wolves - Leicester
-https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leicester&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 23:30 Borussia Dortmund - Borussia Monchengladbach
 https://tuongbongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-vs-borussia-monchengladbach&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 23:30 Wolves - Leicester
+https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leicester&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",21/02 - 00:00 Inter - Sassuolo
 https://tuongbongda.000webhostapp.com/playxembd.php?id=inter-vs-sassuolo&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",21/02 - 19:00 Malaysia - Laos
