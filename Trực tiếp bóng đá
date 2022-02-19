@@ -164,6 +164,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
+#EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",19/02 - 19:00 Singapore - Vietnam
+https://tuongbongda.000webhostapp.com/playxembd.php?id=singapore-vs-vietnam&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 19:30 West Ham - Newcastle
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-newcastle&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",19/02 - 22:00 Southampton - Everton
@@ -182,10 +184,14 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=salernitana-vs-ac-milan&.
 https://tuongbongda.000webhostapp.com/playxembd.php?id=nantes-vs-paris-saint-germain&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",20/02 - 03:00 Real Madrid - Alaves
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-alaves&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",20/02 - 19:00 Cambodia - Timor-Leste
+https://tuongbongda.000webhostapp.com/playxembd.php?id=cambodia-vs-timor-leste&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 21:00 Leeds - Manchester United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-manchester-united&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 23:30 Wolves - Leicester
 https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leicester&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",22/02 - 19:00 Vietnam - Thailand
+https://tuongbongda.000webhostapp.com/playxembd.php?id=vietnam-vs-thailand-2&.m3u8|Referer=https://xembd.live/
 
 
 
