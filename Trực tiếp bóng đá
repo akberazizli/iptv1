@@ -175,6 +175,16 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Q7yfD43.png",Nhà đài Lorient - Montpellier
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/SVhcrWZ.png",Nhà đài Bayern München - Greuther Fürth
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Bayern München - Greuther Fürth
+https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Bayern München - Greuther Fürth
+https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Bayern München - Greuther Fürth
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Bayern München - Greuther Fürth
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
