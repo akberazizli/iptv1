@@ -153,10 +153,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JK9GmG1.png",Nhà đài Real Betis - Mallorca
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/SVhcrWZ.png",Nhà đài Hertha BSC - RB Leipzig
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/cjUJbwy.png",Nhà đài Udinese - Lazio
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -187,10 +187,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manche
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-norwich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 19:30 Leeds - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-tottenham&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Brighton - Aston Villa
-https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watford&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Brighton - Aston Villa
+https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 00:30 Eintracht Frankfurt - Bayern Munich
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-bayern-munich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 00:30 Everton - Manchester City
@@ -198,8 +198,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-cit
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/JK9GmG1.png",00h30 21/02: Real Betis - Mallorca
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b0fb831131126b037e3e-VlKjik-VlKjik&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",01h30 21/02: Hertha BSC - RB Leipzig
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b131831131126b037e4d-SCFOfS-SCFOfS&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/cjUJbwy.png",02h45 21/02: Udinese - Lazio
