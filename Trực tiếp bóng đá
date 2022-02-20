@@ -195,6 +195,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/QVkysnk.png",Cambodia - Timor-Leste
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cambodia-vs-timor-leste&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Espanyol - Sevilla
+https://tuongbongda.000webhostapp.com/playxembd.php?id=espanyol-vs-sevilla&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/QVkysnk.png",Philippines - Brunei
 https://tuongbongda.000webhostapp.com/playxembd.php?id=philippines-vs-brunei&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Nice - Angers
