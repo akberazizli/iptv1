@@ -166,8 +166,6 @@ https://vips-livecdn.fptplay.net/afcchampion/afc01_4000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/cjUJbwy.png",Nhà đài Fiorentina - Atalanta
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Q7yfD43.png",Nhà đài Nice - Angers
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TI3OIR3.png",Nhà đài Cambodia - Timor-Leste
@@ -200,10 +198,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=nice-vs-angers&.m3u8|Refe
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 21:30 Bayern Munich - SpVgg Greuther Furth
 https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-spvgg-greuther-furth&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 23:30 Borussia Dortmund - Borussia Monchengladbach
-https://tuongbongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-vs-borussia-monchengladbach&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 23:30 Wolves - Leicester
 https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leicester&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 23:30 Borussia Dortmund - Borussia Monchengladbach
+https://tuongbongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-vs-borussia-monchengladbach&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",21/02 - 00:00 Inter - Sassuolo
 https://tuongbongda.000webhostapp.com/playxembd.php?id=inter-vs-sassuolo&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",21/02 - 19:00 Malaysia - Laos
@@ -233,8 +231,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-cit
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/cjUJbwy.png",18h30 20/02: Fiorentina - Atalanta
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210af6f831131126b037de3-T7mp69-T7mp69&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Q7yfD43.png",19h00 20/02: Nice - Angers
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210afd8831131126b037dfb-4RjoBD-4RjoBD&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.imgur.com/TI3OIR3.png",19h00 20/02: Cambodia - Timor-Leste
