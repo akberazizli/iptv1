@@ -197,6 +197,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/QVkysnk.png",Cambodia - Timor-Leste
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cambodia-vs-timor-leste&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Leeds - Manchester United
+https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-manchester-united&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Espanyol - Sevilla
 https://tuongbongda.000webhostapp.com/playxembd.php?id=espanyol-vs-sevilla&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/QVkysnk.png",Philippines - Brunei
@@ -206,8 +208,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=nice-vs-angers&.m3u8|Refe
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Fiorentina - Atalanta
 https://tuongbongda.000webhostapp.com/playxembd.php?id=fiorentina-vs-atalanta&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 21:00 Leeds - Manchester United
-https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-manchester-united&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 21:30 Bayern Munich - SpVgg Greuther Furth
 https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-spvgg-greuther-furth&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 23:30 Wolves - Leicester
@@ -238,6 +238,8 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watford&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 00:30 Eintracht Frankfurt - Bayern Munich
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-bayern-munich&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 00:30 Everton - Manchester City
+https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-city&.m3u8|Referer=https://xembd.live/
 
 
 
