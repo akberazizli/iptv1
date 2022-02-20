@@ -153,16 +153,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/vKnjL4w.png",Nhà đài Leeds - Man United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Leeds - Man United
-https://bb5iqwas4fliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/LdQJj6J.png",SD 2 Leeds - Man United
-https://bb5iqwas4fliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ECZ1TZI.png",HD 1 Leeds - Man United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dOVWe4o.png",SD 1 Leeds - Man United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/SVhcrWZ.png",Nhà đài Bayern München - Greuther Fürth
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Bayern München - Greuther Fürth
@@ -192,6 +182,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist
 https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-spvgg-greuther-furth&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Valencia - Barcelona
 https://tuongbongda.000webhostapp.com/playxembd.php?id=valencia-vs-barcelona&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Bordeaux - Monaco
+https://tuongbongda.000webhostapp.com/playxembd.php?id=bordeaux-vs-monaco&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 23:30 Borussia Dortmund - Borussia Monchengladbach
 https://tuongbongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-vs-borussia-monchengladbach&.m3u8|Referer=https://xembd.live/
@@ -228,8 +220,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-real-ma
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",21h00 20/02: Leeds - Man United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210af25831131126b037dd1-IZi7NU-IZi7NU&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/SVhcrWZ.png",21h30 20/02: Bayern München - Greuther Fürth
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210af86831131126b037dea-Y4BCtf-Y4BCtf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/JK9GmG1.png",22h15 20/02: Valencia - Barcelona
