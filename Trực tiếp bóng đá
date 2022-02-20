@@ -153,8 +153,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JK9GmG1.png",Nhà đài Espanyol - Sevilla
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/vKnjL4w.png",Nhà đài Leeds - Man United
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/1RZ91yE.png",HD 2 Leeds - Man United
@@ -215,10 +213,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=saint-etienne-vs-strasbou
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Venezia - Genoa
 https://tuongbongda.000webhostapp.com/playxembd.php?id=venezia-vs-genoa&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 23:30 Wolves - Leicester
-https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leicester&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",20/02 - 23:30 Borussia Dortmund - Borussia Monchengladbach
 https://tuongbongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-vs-borussia-monchengladbach&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",20/02 - 23:30 Wolves - Leicester
+https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leicester&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",21/02 - 00:00 Inter - Sassuolo
 https://tuongbongda.000webhostapp.com/playxembd.php?id=inter-vs-sassuolo&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",21/02 - 19:00 Malaysia - Laos
@@ -250,8 +248,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-real-ma
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/JK9GmG1.png",20h00 20/02: Espanyol - Sevilla
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210af43831131126b037dd8-KVLSJp-KVLSJp&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/vKnjL4w.png",21h00 20/02: Leeds - Man United
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210af25831131126b037dd1-IZi7NU-IZi7NU&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/cjUJbwy.png",21h00 20/02: Venezia - Genoa
