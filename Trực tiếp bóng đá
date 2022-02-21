@@ -155,8 +155,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/QVkysnk.png",Malaysia - Laos
-https://tuongbongda.000webhostapp.com/playxembd.php?id=malaysia-vs-laos-2&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",22/02 - 01:00 Cagliari - Napoli
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cagliari-vs-napoli&.m3u8|Referer=https://xembd.live/
