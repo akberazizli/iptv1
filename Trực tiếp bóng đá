@@ -152,23 +152,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/kPlPHgH.png",Nhà đài Celta Vigo - Levante
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uLzVKgb.png",HD 2 Celta Vigo - Levante
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/u3F76IT.png",SD 2 Celta Vigo - Levante
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/JSzs0Td.png",HD 1 Celta Vigo - Levante
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MpWk7Cm.png",SD 1 Celta Vigo - Levante
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/kPlPHgH.png",Nhà đài Bologna - Spezia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Bologna - Spezia
-https://tuongbongda.000webhostapp.com/playxembd.php?id=bologna-vs-spezia&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",22/02 - 19:00 Vietnam - Thailand
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vietnam-vs-thailand-2&.m3u8|Referer=https://xembd.live/
@@ -199,10 +185,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-wolves&.m3u8|
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 22/02: Celta Vigo - Levante
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b171831131126b037e5c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",03h00 22/02: Bologna - Spezia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b174831131126b037e5e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.imgur.com/J4moPzF.png",19h00 22/02: Việt Nam - Thailand
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b3d0831131126b037e8b&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/lvEa2uS.png",02h45 23/02: Middlesbrough - West Brom
