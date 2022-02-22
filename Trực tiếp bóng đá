@@ -156,28 +156,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Middlesbrough - West Brom
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Chelsea - Lille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Chelsea - Lille
-https://bb5iqwas4fliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Chelsea - Lille
-https://bb5iqwas4fliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Chelsea - Lille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Chelsea - Lille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Villarreal - Juventus
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Villarreal - Juventus
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Villarreal - Juventus
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Villarreal - Juventus
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Villarreal - Juventus
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -194,12 +172,12 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-tottenham&.m3u8|
 https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watford&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 00:30 Eintracht Frankfurt - Bayern Munich
-https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-bayern-munich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 00:30 Everton - Manchester City
 https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-city&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",27/02 - 00:30 Rayo Vallecano - Real Madrid
 https://tuongbongda.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-real-madrid&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 00:30 Eintracht Frankfurt - Bayern Munich
+https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-bayern-munich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/athVAHY.png",27/02 - 03:00 Paris Saint Germain - Saint Etienne
 https://tuongbongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-saint-etienne&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 21:00 West Ham - Wolves
@@ -207,12 +185,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-wolves&.m3u8|
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/lvEa2uS.png",02h45 23/02: Middlesbrough - West Brom
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b1ea831131126b037e79&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 23/02: Chelsea - Lille
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b1a5831131126b037e68&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 23/02: Villarreal - Juventus
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b1a9831131126b037e69&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",20h00 23/02: Eastern Company SC - Al Masry
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6214db8cc093870cdd8995b0&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h30 23/02: Ismaily SC - El Gounah
