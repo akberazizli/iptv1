@@ -172,10 +172,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playl
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/QVkysnk.png",Vietnam - Thailand
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vietnam-vs-thailand-2&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",23/02 - 03:00 Chelsea - Lille
-https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-lille&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",23/02 - 03:00 Villarreal - Juventus
 https://tuongbongda.000webhostapp.com/playxembd.php?id=villarreal-vs-juventus&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",23/02 - 03:00 Chelsea - Lille
+https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-lille&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",24/02 - 03:00 Atletico Madrid - Manchester United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-united&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 03:00 Southampton - Norwich
@@ -217,6 +217,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b1ea831131126b037e79
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b1a5831131126b037e68&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 23/02: Villarreal - Juventus
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b1a9831131126b037e69&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",20h00 23/02: Eastern Company SC - Al Masry
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6214db8cc093870cdd8995b0&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h30 23/02: Ismaily SC - El Gounah
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6214db96c093870cdd8995c5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",02h30 24/02: Watford - Crystal Palace
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62115e9ac8303135231bdbff&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",02h30 24/02: Burnley - Tottenham
