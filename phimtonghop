@@ -176,8 +176,10 @@ http://s1zen.myclip.vn/s2-video3/2019/09/03/12/822a57dd/822a57dd-fc93-4daf-9f53-
 http://s2zen.myclip.vn/video1/2019/10/07/14/64c95532/64c95532-2afb-4847-8351-51526b7622bd_4_.m3u8
 
 
-
-
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/20082/poster.jpg",Cha Ma
+https://hlss.xyz/cdn/hls/7266302e8f115f10ed7efe95c01bf99c/master.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/20076/poster.jpg",30 Chưa Phải Tết
+https://hlss.xyz/cdn/hls/3f92c5e3f95e1c1bafc1ce660b4c8c89/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/19949/poster.jpg",Hùng Long Phong Bá tập 1
 https://hlss.xyz/cdn/hls/6c06be00a28060829e6f3bd9d660f81c/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/19949/poster.jpg",Hùng Long Phong Bá tập 2
