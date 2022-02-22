@@ -125,19 +125,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
-#EXTINF:-1 group-title="TRỰC TIẾP MỞ KHI CÓ TRẬN - TRỰC TIẾP MỞ KHI CÓ TRẬN" tvg-logo= "https://i.imgur.com/g52jzZk.png",TRỰC TIẾP MỞ KHI CÓ TRẬN 1
-#http://3.95.214.208:80/K1hd/mpegts
-http://103.125.191.32:8000/live1
-#http://cdn.mysocola.live:80/KPMHD/index.m3u8
-
-#EXTINF:-1 group-title="TRỰC TIẾP MỞ KHI CÓ TRẬN - TRỰC TIẾP MỞ KHI CÓ TRẬN" tvg-logo= "https://i.imgur.com/ajwmv9k.png",TRỰC TIẾP  MỞ KHI CÓ TRẬN 2
-#http://3.95.214.208:80/K2hd/mpegts
-http://103.125.191.32:8000/live2
-#http://3.95.214.208:80/K2hd/mpegts
-
-#EXTINF:-1 group-title="TRỰC TIẾP MỞ KHI CÓ TRẬN - TRỰC TIẾP MỞ KHI CÓ TRẬN" tvg-logo= "https://i.imgur.com/y7Y2wHg.png",TRỰC TIẾP  MỞ KHI CÓ TRẬN 3
-http://103.125.191.32:8080/tvpub/mpegts
-
 
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 24/02: Liverpool - Leeds
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.tv/
