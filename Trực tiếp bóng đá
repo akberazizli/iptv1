@@ -185,8 +185,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 https://tuongbongda.000webhostapp.com/playxembd.php?id=villarreal-vs-juventus&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/rLKexfN.png",Chelsea - Lille
 https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-lille&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CnsoRtq.png",Middlesbrough - West Brom
-https://tuongbongda.000webhostapp.com/playxembd.php?id=middlesbrough-vs-west-brom&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - A-League" tvg-logo="https://i.imgur.com/oIQNztV.png",23/02 - 15:55 Newcastle Jets - Western Sydney Wanderers
 https://tuongbongda.000webhostapp.com/playxembd.php?id=newcastle-jets-vs-western-sydney-wanderers&.m3u8|Referer=https://xembd.live/
@@ -293,18 +291,32 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=621556a1c093870cdd8998e8
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555dac093870cdd8998db&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 27/02: Atletico Madrid - Celta Vigo
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555d3c093870cdd8998d3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",03h00 27/02: PSG - Saint-Etienne
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=62155717c093870cdd8998fa&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",18h30 27/02: Torino - Cagliari
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555dcc093870cdd8998de&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",19h00 27/02: Monaco - Reims
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=62155718c093870cdd8998fb&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 27/02: Villarreal - Espanyol
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555d4c093870cdd8998d4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",21h00 27/02: West Ham - Wolves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555a1c093870cdd8998c8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 27/02: Hellas Verona - Venezia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555dec093870cdd8998e3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 27/02: Angers - Lens
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215571ac093870cdd8998fc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 27/02: Brest - Lorient
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215571bc093870cdd8998ff&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 27/02: Clermont Foot - Bordeaux
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215571cc093870cdd899900&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 27/02: Metz - Nantes
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215571ec093870cdd899903&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 27/02: Bochum - RB Leipzig
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621556a2c093870cdd8998e9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",22h15 27/02: Sevilla - Real Betis
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555d7c093870cdd8998d5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",23h05 27/02: Troyes - Marseille
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215571fc093870cdd899908&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.imgur.com/x4mSqba.png",23h30 27/02: Chelsea - Liverpool
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555a3c093870cdd8998c9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 27/02: Augsburg - Dortmund
