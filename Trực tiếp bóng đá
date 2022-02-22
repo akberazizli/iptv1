@@ -166,8 +166,6 @@ https://bb5iqwas4fliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://xem.rakhoi
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Vietnam - Thailand
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Biashara Mara United - Azam FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Ceramica Cleopatra - Ghazl Al Mehalla
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
@@ -186,10 +184,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manche
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-norwich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 19:30 Leeds - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-tottenham&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
-https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watford&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Brighton - Aston Villa
 https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
+https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watford&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 00:30 Eintracht Frankfurt - Bayern Munich
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-bayern-munich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 00:30 Everton - Manchester City
@@ -207,8 +205,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-osasuna&
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.imgur.com/J4moPzF.png",19h00 22/02: Vietnam - Thailand
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6210b3d0831131126b037e8b&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",20h00 22/02: Biashara Mara United - Azam FC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=621482e0c093870cdd89953f&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",20h00 22/02: Ceramica Cleopatra - Ghazl Al Mehalla
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621482e1c093870cdd899540&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h15 22/02: Al Fateh FC - Al-Faisaly
