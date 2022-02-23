@@ -133,6 +133,8 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",24/02 - 02:30 Burnley - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=burnley-vs-tottenham&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",24/02 - 03:00 Benfica - Ajax
+https://tuongbongda.000webhostapp.com/playxembd.php?id=benfica-vs-ajax&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",24/02 - 03:00 Atletico Madrid - Manchester United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-united&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 03:00 Southampton - Norwich
@@ -155,8 +157,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-sa
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-wolves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",28/02 - 00:30 Real Sociedad - Osasuna
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-osasuna&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",28/02 - 03:00 Barcelona - Athletic Club
-https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-athletic-club&.m3u8|Referer=https://xembd.live/
 
 
 
