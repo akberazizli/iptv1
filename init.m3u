@@ -117,6 +117,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/jN4K99R.jpg",19h30 24/02: Timor-Leste - Việt Nam
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
+
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/cdZFZOA.png",16h00 24/02: Laos - Thailand
+https://vips-livecdn.fptplay.net/afcchampion/afc01_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/cdZFZOA.png",19h30 24/02: Timor-Leste - Việt Nam
+https://vips-livecdn.fptplay.net/afcchampion/afc02_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/XSPLm3d.png",00h45 25/02: Lazio - FC Porto
 https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/XSPLm3d.png",00h45 25/02: Real Sociedad - RB Leipzig
@@ -149,6 +154,8 @@ https://livecdn.fptplay.net/hdevent/uefa14_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hdevent/uefa15_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/XSPLm3d.png",03h00 25/02: Slavia Prague - Fenerbahçe
 https://livecdn.fptplay.net/hdevent/uefa16_vhls.smil/chunklist_b5000000.m3u8
+
+
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",16h00 24/02: Laos - Thailand
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.tv/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",19h30 24/02: Timor-Leste - Việt Nam
