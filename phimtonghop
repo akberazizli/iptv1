@@ -4,8 +4,8 @@
 
 
 
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/ifmNEth.png",U23 Việt Nam - U23 Thái Lan 22/02
-https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220223/fe3327c84596af1dd9695ecff97e95d3.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/ifmNEth.png",U23 Việt Nam - U23 Timor Leste | 25/02
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220224/220224-1930-u23-timor-leste-u23-vietnam-u23aff-clean-fm-final-1645719765/4ddd1097799241b8b64428218dd72fef.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/rcTQ6ct.png",Atletico Madrid - Manchester United 24/02 cúp c1
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220224/7b8f310775aadde3b6cc2049975b15ce.mp4/playlist.m3u8
@@ -15,13 +15,16 @@ https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220224/603f8498281d
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220223/3855ec3d86bc4a8f1a305d6ed0b5e97e.mp4/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/rcTQ6ct.png",Chelsea FC - LOSC Lille 23/02 cúp c1
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220223/26f43f7962f490070dfa4e1313649638.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Leicester City - Randers FC | Xem lại CÚP C2
-https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220218/dbc8f3deded882ec8f00405332df0d26.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",FC Porto - Lazio | Xem lại CÚP C2
-https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220218/82be82471dc8a99dd8be867671e82a48.mp4/playlist.m3u8
-#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Barcelona - Napoli | Xem lại  CÚP C2
-https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220218/220218-0045-barcelona-napoli-uel-clean-48-fm-fn-1645130803/59085ec8f080082128c68e378ba43a21-1080p.mp4/playlist.m3u8
-
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Rangers FC - Borussia Dortmund 25/02
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/7ebc4bb3e9c2dce49a032b3232d82b2f.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Napoli - Barcelona |25/02
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/ea4fb90da416c1b86f6bcdcf2711c845.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Real Sociedad - RB Leipzig |25/02
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/4292a0b842f1040d22c7ae7f1db5f07b.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Dinamo Zagreb - Sevilla FC |25/02
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/cc54c2727dcfcb7b8e3af78296f736e5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Lazio - FC Porto |25/02 
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/888118c16e9967d680e4290661355ba4.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/19946/poster.jpg", Băng Cướp Quái Đản
 https://hlss.xyz/cdn/hls/f0c3bba6147d01b1ff7e4a17935429fd/master.m3u8
