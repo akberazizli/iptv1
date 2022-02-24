@@ -172,6 +172,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Laos - Thailand
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Laos - Thailand
+https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Laos - Thailand
+https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Laos - Thailand
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Laos - Thailand
@@ -184,12 +188,12 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=laos-vs-thailand&.m3u8|Re
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",24/02 - 19:30 Timor-Leste - Vietnam
 https://tuongbongda.000webhostapp.com/playxembd.php?id=timor-leste-vs-vietnam&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Lazio - FC Porto
-https://tuongbongda.000webhostapp.com/playxembd.php?id=lazio-vs-fc-porto&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Real Sociedad - RB Leipzig
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-rb-leipzig&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Olympiakos Piraeus - Atalanta
 https://tuongbongda.000webhostapp.com/playxembd.php?id=olympiakos-piraeus-vs-atalanta&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Lazio - FC Porto
+https://tuongbongda.000webhostapp.com/playxembd.php?id=lazio-vs-fc-porto&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 03:00 Napoli - Barcelona
 https://tuongbongda.000webhostapp.com/playxembd.php?id=napoli-vs-barcelona&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 03:00 Real Betis - Zenit Saint Petersburg
