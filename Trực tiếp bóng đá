@@ -136,12 +136,12 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Lazio - FC Porto
-https://tuongbongda.000webhostapp.com/playxembd.php?id=lazio-vs-fc-porto&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Real Sociedad - RB Leipzig
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-rb-leipzig&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Olympiakos Piraeus - Atalanta
 https://tuongbongda.000webhostapp.com/playxembd.php?id=olympiakos-piraeus-vs-atalanta&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Lazio - FC Porto
+https://tuongbongda.000webhostapp.com/playxembd.php?id=lazio-vs-fc-porto&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 03:00 Napoli - Barcelona
 https://tuongbongda.000webhostapp.com/playxembd.php?id=napoli-vs-barcelona&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 03:00 Real Betis - Zenit Saint Petersburg
