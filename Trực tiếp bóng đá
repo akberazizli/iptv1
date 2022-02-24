@@ -170,16 +170,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Laos - Thailand
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Laos - Thailand
-https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Laos - Thailand
-https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Laos - Thailand
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Laos - Thailand
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -225,8 +215,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-osasuna&
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.imgur.com/J4moPzF.png",16h00 24/02: Laos - Thailand
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=621553dac093870cdd899833&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",19h00 24/02: Urartu FC - Noravank
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62169613b28a15799a6145ca&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - AFC U23 Championship" tvg-logo="https://i.imgur.com/J4moPzF.png",19h30 24/02: Timor-Leste - Việt Nam
