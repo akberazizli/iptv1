@@ -168,15 +168,11 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://livestreambd.xyz/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài National Bank - Pyramids FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Yzp51vR.png",Olympiakos Piraeus - Atalanta
 https://tuongbongda.000webhostapp.com/playxembd.php?id=olympiakos-piraeus-vs-atalanta&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Rayo Vallecano - Real Madrid
-https://tuongbongda.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-real-madrid&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Yzp51vR.png",Lazio - FC Porto
 https://tuongbongda.000webhostapp.com/playxembd.php?id=lazio-vs-fc-porto&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Yzp51vR.png",Dinamo Zagreb - Sevilla
@@ -204,6 +200,8 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watf
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-bayern-munich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 00:30 Everton - Manchester City
 https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-city&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",27/02 - 00:30 Rayo Vallecano - Real Madrid
+https://tuongbongda.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-real-madrid&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/athVAHY.png",27/02 - 03:00 Paris Saint Germain - Saint Etienne
 https://tuongbongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-saint-etienne&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 21:00 West Ham - Wolves
@@ -215,8 +213,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-athletic-clu
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h30 24/02: National Bank - Pyramids FC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62176503b28a15799a61474d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",02h45 25/02: Arsenal - Wolves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62155480c093870cdd899876&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",17h00 25/02: Binh Dinh - Viettel
