@@ -182,10 +182,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=dinamo-zagreb-vs-sevilla&
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-rb-leipzig&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 00:45 Olympiakos Piraeus - Atalanta
 https://tuongbongda.000webhostapp.com/playxembd.php?id=olympiakos-piraeus-vs-atalanta&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 03:00 Rangers - Borussia Dortmund
-https://tuongbongda.000webhostapp.com/playxembd.php?id=rangers-vs-borussia-dortmund&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 03:00 Napoli - Barcelona
 https://tuongbongda.000webhostapp.com/playxembd.php?id=napoli-vs-barcelona&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://i.imgur.com/Yzp51vR.png",25/02 - 03:00 Rangers - Borussia Dortmund
+https://tuongbongda.000webhostapp.com/playxembd.php?id=rangers-vs-borussia-dortmund&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",25/02 - 17:00 Binh Duong - Song Lam Nghe An
 https://tuongbongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",25/02 - 18:00 Binh Dinh - Viettel
@@ -217,16 +217,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-athletic-clu
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h30 24/02: National Bank - Pyramids FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62176503b28a15799a61474d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Europa League Final Stage" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 25/02: Dinamo Zagreb - Sevilla
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62155439c093870cdd899846&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Europa League Final Stage" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 25/02: Lazio - FC Porto
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215543ac093870cdd899847&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Europa League Final Stage" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 25/02: Olympiacos - Atalanta
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215543cc093870cdd899848&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Europa League Final Stage" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 25/02: Real Sociedad - RB Leipzig
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215543dc093870cdd89984b&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Europa Conference League Final Stage" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 25/02: Bodø/Glimt - Celtic
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62155465c093870cdd89985e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Europa Conference League Final Stage" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 25/02: Maccabi Tel Aviv - PSV Eindhoven
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62155466c093870cdd89985f&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Europa Conference League Final Stage" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 25/02: Partizan Beograd - Sparta Prague
