@@ -76,13 +76,12 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/nPfA4wg.png",KÊNH NƯỚC NGOÀI Now Sports
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/rxu8ErW.jpg",KÊNH TENNIS NƯỚC NGOÀI🎾
-https://family4you.fun/LaoHac2022/playlist.php?id=tennis81
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/haAo8Jb.png",KÊNH NƯỚC NGOÀI NGOẠI HẠNG ANH 1
-https://family4you.fun/LaoHac2022/playlist.php?id=feedepl
+https://family4you.fun/LaoHac2022/playlist.php?id=epl
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/iNRi0zD.png",KÊNH NƯỚC NGOÀI NGOẠI HẠNG ANH 2
 https://family4you.fun/LaoHac2022/iproblock.php?id=200230
-
+#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.pinimg.com/736x/2d/5b/42/2d5b42fa4aa47b204acdba11256f14c8.jpg",BEIN 4K
+https://family4you.fun/LaoHac2022/playlist.php?id=bein4k
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/DydyyFZ.png",KÊNH NƯỚC NGOÀI beIN 3
 http://bestsave.ltd:2052/live/11112222/22221111/90293.ts
 
@@ -139,10 +138,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=binh-dinh-vs-viettel&.m3u
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-norwich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 19:30 Leeds - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-tottenham&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
-https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watford&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Brighton - Aston Villa
 https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
+https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watford&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 00:30 Eintracht Frankfurt - Bayern Munich
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-bayern-munich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 00:30 Everton - Manchester City
