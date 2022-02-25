@@ -130,10 +130,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",26/02 - 00:45 AC Milan - Udinese
 https://tuongbongda.000webhostapp.com/playxembd.php?id=ac-milan-vs-udinese&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",26/02 - 03:00 Genoa - Inter
-https://tuongbongda.000webhostapp.com/playxembd.php?id=genoa-vs-inter&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 03:00 Southampton - Norwich
 https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-norwich&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",26/02 - 03:00 Genoa - Inter
+https://tuongbongda.000webhostapp.com/playxembd.php?id=genoa-vs-inter&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",26/02 - 19:15 Sai Gon - Da Nang
 https://tuongbongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 19:30 Leeds - Tottenham
