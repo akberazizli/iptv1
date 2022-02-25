@@ -146,10 +146,14 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=genoa-vs-inter&.m3u8|Refe
 https://tuongbongda.000webhostapp.com/playxembd.php?id=necaxa-vs-leon&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Liga MX" tvg-logo="https://i.imgur.com/dR4PzLo.png",26/02 - 10:00 FC Juarez - Tigres UANL
 https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-juarez-vs-tigres-uanl&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",26/02 - 16:00 Laos - Timor-Leste
+https://tuongbongda.000webhostapp.com/playxembd.php?id=laos-vs-timor-leste&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",26/02 - 19:15 Sai Gon - Da Nang
 https://tuongbongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 19:30 Leeds - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-tottenham&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",26/02 - 19:30 Thailand - Vietnam
+https://tuongbongda.000webhostapp.com/playxembd.php?id=thailand-vs-vietnam-2&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Brighton - Aston Villa
 https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
