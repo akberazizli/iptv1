@@ -26,6 +26,23 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/cc54c2727dcf
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/VtQJDrj.png",Lazio - FC Porto |25/02 
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/888118c16e9967d680e4290661355ba4.mp4/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://s198.imacdn.com/ff/2021/11/04/3acb2343cd81e77e_826498c198e68882_423011636001472616068.jpg", SHANG CHI VÀ HUYỀN THOẠI THẬP LUÂN
+https://s866.vdicdn.com/m6/m3u8/4149e4039da96d8467441516de1f741e/b93a4a1f2c7c16efd80b44585748db73/1080.m3u8|Referer=https://phim1080z.com/
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://s198.imacdn.com/ff/2021/08/31/b24fc495dafccd07_1554860ad9a3647a_450281630418738416068.jpg",QUÁI VẬT VENOM 2
+https://s866.vdicdn.com/m6/m3u8/1aecdccf83379a2446860388ce3f4f26/f611bc15a6c008d7bb2e3793559005cd/1080.m3u8|Referer=https://phim1080z.com/
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://s198.imacdn.com/ff/2021/11/09/3245df7f23a6f0a1_0bedbe164e920a6c_356601636447890116068.jpg",ĐIỆP VIÊN 007
+https://s865.vdicdn.com/m5/m3u8/a1f9f3bdc4d7fdbbea1aeb7fdfb697b8/9902d30bc5993b07ba1389da3556e570/1080.m3u8|Referer=https://phim1080z.com/
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://s198.imacdn.com/ff/2021/08/10/58d27a5ab4563f8a_9c08f280a8b471c2_288741628592736916068.jpg", HÀNH TINH CÁT
+https://s865.vdicdn.com/m6/m3u8/dd6f62b57bb9baf44885ee7f92f4d937/3e238c7a04c3f1b3a52b152a5c923ebc/1080.m3u8|Referer=https://phim1080z.com/
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://s198.imacdn.com/ff/2021/08/06/a2363af4839aba8d_ba977e71a47528ff_583061628264282816068.jpg",ĐIỆP VỤ CẢM TỬ
+https://s866.vdicdn.com/m7/home/hls2/6a4619689f36b46b6708d4b40628d96f/6a4619689f36b46b6708d4b40628d96f.m3u8|Referer=https://phim1080z.com/
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://s198.imacdn.com/ff/2021/08/02/c95cf92786f589a7_5daee521c221d51b_429811627907633216068.jpg",THÁM HIỂM RỪNG XANH
+https://s863.vdicdn.com/m7/hls1/6b07957873407b1bafb99b8e3121e2d3/6b07957873407b1bafb99b8e3121e2d3.m3u8|Referer=https://phim1080z.com/
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://s198.imacdn.com/ff/2021/05/26/dab8cc5485f3b7de_5df22565a36fcdfb_466761621969207716068.jpg",QUÁ NHANH QUÁ NGUY HIỂM 9
+https://s865.vdicdn.com/m7/hls/1d1db8eba4dc5277c85d584ae4d121b7/1d1db8eba4dc5277c85d584ae4d121b7.m3u8|Referer=https://phim1080z.com/
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://s198.imacdn.com/ff/2021/06/28/a170d27db4b34a98_0ac17db9002b8a74_344761624853949416068.jpg",HỐ ĐỊA NGỤC
+https://s864.vdicdn.com/m6/hls/fdc2b9af32c08ef58acab4102930f5e1/fdc2b9af32c08ef58acab4102930f5e1.m3u8|Referer=https://phim1080z.com/
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/19946/poster.jpg", Băng Cướp Quái Đản
 https://hlss.xyz/cdn/hls/f0c3bba6147d01b1ff7e4a17935429fd/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/5437/poster.jpg",Hung Thần Đại Dương
