@@ -123,11 +123,13 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",16h00 26/02: Laos - Timor Leste
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://bongdadem.xyz/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",18h00 26/02: Nam Dinh - Hoang Anh Gia Lai
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://bongdadem.xyz/
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://bongdadem.xyz/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",19h30 26/02: Vietnam - Thailand
 https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://bongdadem.xyz/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",22h00 26/02: Man United - Watford
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://bongdadem.xyz/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",00h30 27/02: Everton - Man City
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://bongdadem.xyz/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",00h30 27/02: Rayo Vallecano - Real Madrid
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://bongdadem.xyz/
 #EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",00h30 27/02: Frankfurt - Bayern München
@@ -138,9 +140,6 @@ https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3
 
 
 
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oIQNztV.png",Newcastle Jets - Macarthur
-https://tuongbongda.000webhostapp.com/playxembd.php?id=newcastle-jets-vs-macarthur&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - AFF U-23 Youth Championship" tvg-logo="https://i.imgur.com/QVkysnk.png",26/02 - 16:00 Laos - Timor-Leste
 https://tuongbongda.000webhostapp.com/playxembd.php?id=laos-vs-timor-leste&.m3u8|Referer=https://xembd.live/
@@ -154,12 +153,12 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=thailand-vs-vietnam-2&.m3
 https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-watford&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",27/02 - 00:30 Rayo Vallecano - Real Madrid
-https://tuongbongda.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-real-madrid&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 00:30 Eintracht Frankfurt - Bayern Munich
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-bayern-munich&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 00:30 Everton - Manchester City
 https://tuongbongda.000webhostapp.com/playxembd.php?id=everton-vs-manchester-city&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",27/02 - 00:30 Rayo Vallecano - Real Madrid
+https://tuongbongda.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-real-madrid&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/athVAHY.png",27/02 - 03:00 Paris Saint Germain - Saint Etienne
 https://tuongbongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-saint-etienne&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 21:00 West Ham - Wolves
