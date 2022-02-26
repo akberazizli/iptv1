@@ -147,20 +147,20 @@ https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Vietnam - Thailand
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Leeds - Tottenham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Leeds - Tottenham
-https://bb5iqwas4fliv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Leeds - Tottenham
-https://bb5iqwas4fliv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Leeds - Tottenham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Leeds - Tottenham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Mallorca - Valencia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Salernitana - Bologna
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Leverkusen - Arminia Bielefeld
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài M'gladbach - Wolfsburg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Freiburg - Hertha BSC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Greuther Fürth - Köln
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Union Berlin - Mainz
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -168,6 +168,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 https://tuongbongda.000webhostapp.com/playxembd.php?id=sai-gon-vs-da-nang&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/QVkysnk.png",Thailand - Vietnam
 https://tuongbongda.000webhostapp.com/playxembd.php?id=thailand-vs-vietnam-2&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Brighton - Aston Villa
+https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Leeds - Tottenham
 https://tuongbongda.000webhostapp.com/playxembd.php?id=leeds-vs-tottenham&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Salernitana - Bologna
@@ -177,8 +179,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=mallorca-vs-valencia&.m3u
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CnsoRtq.png",Blackburn - QPR
 https://tuongbongda.000webhostapp.com/playxembd.php?id=blackburn-vs-qpr&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Brighton - Aston Villa
-https://tuongbongda.000webhostapp.com/playxembd.php?id=brighton-vs-aston-villa&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Crystal Palace - Burnley
 https://tuongbongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-burnley&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",26/02 - 22:00 Manchester United - Watford
@@ -204,8 +204,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-athletic-clu
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Đông Nam Á" tvg-logo="https://i.imgur.com/J4moPzF.png",19h30 26/02: Vietnam - Thailand
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6218fad9b28a15799a614b95&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",19h30 26/02: Leeds - Tottenham
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62155510c093870cdd899886&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 26/02: Mallorca - Valencia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62155519c093870cdd899896&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 26/02: Salernitana - Bologna
