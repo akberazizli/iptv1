@@ -132,10 +132,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Perth Glory (W) - Sydney FC (W)
-https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8	|Referer=https://xoilac.90phuttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Kashiwa Reysol - Yokohama F.Marinos
-https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8	|Referer=https://xoilac.90phuttttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/X9phJtd.png",12h05 27/02: Perth Glory (W) - Sydney FC (W)
 https://tuongbongda.000webhostapp.com/play90p.php?id=621a33243679ef42e39714cb&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
@@ -175,7 +171,7 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6216a5173679ef42e39714bf&.m
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 21:00 West Ham - Wolves
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-wolves&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - League Cup" tvg-logo="https://i.imgur.com/irP360w.png",27/02 - 23:30 Chelsea - Liverpool
+#EXTINF:-1 group-title="XEMBD by VoPhu - League Cup" tvg-logo="https://i.imgur.com/UVkKIFH.png",27/02 - 23:30 Chelsea - Liverpool
 https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-liverpool-2&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",28/02 - 00:30 Real Sociedad - Osasuna
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-osasuna&.m3u8|Referer=https://xembd.live/
@@ -208,7 +204,7 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=621556a2c093870cdd8998e9
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555d7c093870cdd8998d5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",23h05 27/02: Troyes - Marseille
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215571fc093870cdd899908&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.imgur.com/BqkofOi.png",23h30 27/02: Chelsea - Liverpool
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.imgur.com/rFhB45i.png",23h30 27/02: Chelsea - Liverpool
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555a3c093870cdd8998c9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 27/02: Augsburg - Dortmund
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621556a3c093870cdd8998ea&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
@@ -236,7 +232,7 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6219194ab28a15799a614c29
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6217d98bb28a15799a6149a7&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 01/03: Granada - Cadiz
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6217d988b28a15799a6149a6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/lvEa2uS.png",03h00 01/03: West Brom - Swansea
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/fvA2wea.png",03h00 01/03: West Brom - Swansea
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6217d9b1b28a15799a6149af&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",17h00 01/03: FLC Thanh Hoa - Binh Duong
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6217d965b28a15799a61499d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
