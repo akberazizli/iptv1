@@ -125,8 +125,12 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
+#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",27/02 - 20:00 Villarreal - Espanyol
+https://tuongbongda.000webhostapp.com/playxembd.php?id=villarreal-vs-espanyol&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",27/02 - 21:00 West Ham - Wolves
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-wolves&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 23:30 FC Augsburg - Borussia Dortmund
+https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-augsburg-vs-borussia-dortmund&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - League Cup" tvg-logo="https://i.imgur.com/NulZSbE.png",27/02 - 23:30 Chelsea - Liverpool
 https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-liverpool-2&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",28/02 - 00:30 Real Sociedad - Osasuna
