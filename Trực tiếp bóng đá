@@ -121,16 +121,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Villarreal - Espanyol
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Villarreal - Espanyol
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Villarreal - Espanyol
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Villarreal - Espanyol
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Villarreal - Espanyol
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài West Ham - Wolves
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 West Ham - Wolves
@@ -160,6 +150,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-wolves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",VfL BOCHUM - RB Leipzig
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vfl-bochum-vs-rb-leipzig&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Sevilla - Real Betis
+https://tuongbongda.000webhostapp.com/playxembd.php?id=sevilla-vs-real-betis&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Verona - Venezia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=verona-vs-venezia&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Angers - Lens
@@ -192,8 +184,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=hoang-anh-gia-lai-vs-hong
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 27/02: Villarreal - Espanyol
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555d4c093870cdd8998d4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",21h00 27/02: West Ham - Wolves
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555a1c093870cdd8998c8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 27/02: Hellas Verona - Venezia
