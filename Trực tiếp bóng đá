@@ -121,8 +121,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Troyes - Marseille
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Chelsea - Liverpool
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Chelsea - Liverpool
@@ -172,8 +170,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=hoang-anh-gia-lai-vs-hong
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",23h05 27/02: Troyes - Marseille
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6215571fc093870cdd899908&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.imgur.com/OblcRny.png",23h30 27/02: Chelsea - Liverpool
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555a3c093870cdd8998c9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 27/02: Augsburg - Dortmund
