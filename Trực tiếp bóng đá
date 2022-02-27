@@ -121,18 +121,18 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Chelsea - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Chelsea - Liverpool
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lazio - Napoli
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Lazio - Napoli
 https://bb5iqwas4fliv.vcdn.cloud/taohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Chelsea - Liverpool
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Lazio - Napoli
 https://bb5iqwas4fliv.vcdn.cloud/taosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Chelsea - Liverpool
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Lazio - Napoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Chelsea - Liverpool
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Lazio - Napoli
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Real Sociedad - Osasuna
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lyon - Lille
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -156,10 +156,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=hoang-anh-gia-lai-vs-hong
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - EFL Cup" tvg-logo="https://i.imgur.com/OblcRny.png",23h30 27/02: Chelsea - Liverpool
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555a3c093870cdd8998c9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",00h30 28/02: Real Sociedad - Osasuna
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6217d909b28a15799a614985&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",02h45 28/02: Lazio - Napoli
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6217d91db28a15799a61498c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",02h45 28/02: Lyon - Lille
