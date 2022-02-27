@@ -131,17 +131,11 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà Đài Gimcheon Sangmu - Pohang Steelers
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Gimcheon Sangmu - Pohang Steelers
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Gimcheon Sangmu - Pohang Steelers
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Perth Glory (W) - Sydney FC (W)
 https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8	|Referer=https://xoilac.90phuttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Kashiwa Reysol - Yokohama F.Marinos
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer=https://xoilac.90phuttttt.xyz/
+https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8	|Referer=https://xoilac.90phuttttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/X9phJtd.png",07h30 27/02: Portland - New England
 https://tuongbongda.000webhostapp.com/play90p.php?id=621aa7d774dd7b31c399b361&.m3u8|Referer=https://xoilac.90phuttttt.xyz/
@@ -190,10 +184,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-athletic-clu
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - K-League 1" tvg-logo="https://i.imgur.com/WNnBfQD.png",12h00 27/02: Gimcheon Sangmu - Pohang Steelers
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6219f08122e6f4319e25dde2&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - K-League 1" tvg-logo="https://i.imgur.com/WNnBfQD.png",14h30 27/02: Daegu FC - Jeonbuk FC
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6219f08522e6f4319e25dde3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",18h30 27/02: Torino - Cagliari
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=621555dcc093870cdd8998de&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",19h00 27/02: Monaco - Reims
