@@ -131,6 +131,8 @@ https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Torino - Cagliari
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Monaco - Reims
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 
@@ -145,10 +147,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=villarreal-vs-espanyol&.m
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-wolves&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 21:30 VfL BOCHUM - RB Leipzig
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vfl-bochum-vs-rb-leipzig&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 23:30 FC Augsburg - Borussia Dortmund
-https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-augsburg-vs-borussia-dortmund&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - League Cup" tvg-logo="https://i.imgur.com/NulZSbE.png",27/02 - 23:30 Chelsea - Liverpool
 https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-liverpool-2&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 23:30 FC Augsburg - Borussia Dortmund
+https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-augsburg-vs-borussia-dortmund&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",28/02 - 00:30 Real Sociedad - Osasuna
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-sociedad-vs-osasuna&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",28/02 - 03:00 Barcelona - Athletic Club
