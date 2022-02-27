@@ -136,17 +136,19 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Barcelona - Athletic Club
+https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-athletic-club&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Lazio - Napoli
+https://tuongbongda.000webhostapp.com/playxembd.php?id=lazio-vs-napoli&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Lyon - Lille
 https://tuongbongda.000webhostapp.com/playxembd.php?id=lyon-vs-lille&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://i.imgur.com/tOEqN0w.png",28/02 - 03:00 Barcelona - Athletic Club
-https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-athletic-club&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",01/03 - 02:45 Atalanta - Sampdoria
 https://tuongbongda.000webhostapp.com/playxembd.php?id=atalanta-vs-sampdoria&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",01/03 - 17:00 Thanh Hóa - Binh Duong
 https://tuongbongda.000webhostapp.com/playxembd.php?id=thanh-hoa-vs-binh-duong&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",01/03 - 17:00 Song Lam Nghe An - Binh Dinh
-https://tuongbongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
+https://tuongbongda.000webhostapp.com/playxembd.php?id=song-lam-nghe-an-vs-binh-dinh&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",01/03 - 19:15 Viettel - Ha Noi
 https://tuongbongda.000webhostapp.com/playxembd.php?id=viettel-vs-ha-noi&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",02/03 - 17:00 Hoang Anh Gia Lai - Hồng Lĩnh Hà Tĩnh
