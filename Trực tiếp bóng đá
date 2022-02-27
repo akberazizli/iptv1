@@ -156,6 +156,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",West Ham - Wolves
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-wolves&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/q07nt0F.png",VfL BOCHUM - RB Leipzig
+https://tuongbongda.000webhostapp.com/playxembd.php?id=vfl-bochum-vs-rb-leipzig&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tOEqN0w.png",Villarreal - Espanyol
 https://tuongbongda.000webhostapp.com/playxembd.php?id=villarreal-vs-espanyol&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Verona - Venezia
@@ -169,8 +171,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=clermont-foot-vs-bordeaux
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/athVAHY.png",Metz - Nantes
 https://tuongbongda.000webhostapp.com/playxembd.php?id=metz-vs-nantes&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 21:30 VfL BOCHUM - RB Leipzig
-https://tuongbongda.000webhostapp.com/playxembd.php?id=vfl-bochum-vs-rb-leipzig&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://i.imgur.com/q07nt0F.png",27/02 - 23:30 FC Augsburg - Borussia Dortmund
 https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-augsburg-vs-borussia-dortmund&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - League Cup" tvg-logo="https://i.imgur.com/NulZSbE.png",27/02 - 23:30 Chelsea - Liverpool
@@ -186,7 +186,7 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=thanh-hoa-vs-binh-duong&.
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",01/03 - 17:00 Song Lam Nghe An - Binh Dinh
 https://tuongbongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",01/03 - 19:15 Viettel - Ha Noi
-https://tuongbongda.000webhostapp.com/playxembd.php?id=&.m3u8|Referer=https://xembd.live/
+https://tuongbongda.000webhostapp.com/playxembd.php?id=viettel-vs-ha-noi&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",02/03 - 17:00 Hoang Anh Gia Lai - Hồng Lĩnh Hà Tĩnh
 https://tuongbongda.000webhostapp.com/playxembd.php?id=hoang-anh-gia-lai-vs-hong-linh-ha-tinh&.m3u8|Referer=https://xembd.live/
 
