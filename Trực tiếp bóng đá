@@ -78,10 +78,6 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/haAo8Jb.png",KÊNH NƯỚC NGOÀI NGOẠI HẠNG ANH 1
 https://family4you.fun/LaoHac2022/playlist.php?id=epl
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/iNRi0zD.png",KÊNH NƯỚC NGOÀI NGOẠI HẠNG ANH 2
-https://family4you.fun/LaoHac2022/iproblock.php?id=200230
-#EXTINF:-1 group-title="thể thao nước ngoài VoPhu - thể thao nước ngoài" tvg-logo= "https://i.imgur.com/DydyyFZ.png",KÊNH NƯỚC NGOÀI beIN 3
-http://bestsave.ltd:2052/live/11112222/22221111/90293.ts
 
 
 #EXTINF:-1 group-title="TRỌN TỪ LINH ĐỂ XEM VoPhu - TRỌN TỪ LINH ĐỂ XEM" tvg-logo= "https://i.imgur.com/Uz1hyi6.png",BLV : SAO MAI 
