@@ -110,8 +110,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Atalanta - Sampdoria
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Granada - Cadiz
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài West Brom - Swansea
@@ -123,8 +121,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist
 https://vophubongda.000webhostapp.com/playxembd.php?id=granada-cf-vs-cadiz&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CnsoRtq.png",West Brom - Swansea
 https://vophubongda.000webhostapp.com/playxembd.php?id=west-brom-vs-swansea&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Atalanta - Sampdoria
-https://vophubongda.000webhostapp.com/playxembd.php?id=atalanta-vs-sampdoria&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",01/03 - 17:00 Thanh Hóa - Binh Duong
 https://vophubongda.000webhostapp.com/playxembd.php?id=thanh-hoa-vs-binh-duong&.m3u8|Referer=https://xembd.live/
@@ -137,8 +133,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=hoang-anh-gia-lai-vs-hong
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",02h45 01/03: Atalanta - Sampdoria
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6217d98bb28a15799a6149a7&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 01/03: Granada - Cadiz
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6217d988b28a15799a6149a6&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",03h00 01/03: West Brom - Swansea
