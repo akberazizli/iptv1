@@ -115,9 +115,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist
 
 
 
-
-#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",01/03 - 02:50 Atalanta - Sampdoria
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oK7BZhR.png",Atalanta - Sampdoria
 https://vophubongda.000webhostapp.com/playxembd.php?id=atalanta-vs-sampdoria&.m3u8|Referer=https://xembd.live/
+
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",01/03 - 17:00 Thanh Hóa - Binh Duong
 https://vophubongda.000webhostapp.com/playxembd.php?id=thanh-hoa-vs-binh-duong&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",01/03 - 17:00 Song Lam Nghe An - Binh Dinh
