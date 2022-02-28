@@ -110,10 +110,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Granada - Cadiz
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài West Brom - Swansea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
@@ -129,10 +125,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=hoang-anh-gia-lai-vs-hong
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 01/03: Granada - Cadiz
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6217d988b28a15799a6149a6&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",03h00 01/03: West Brom - Swansea
-https://vophubongda.000webhostapp.com/playcakhia.php?id=6217d9b1b28a15799a6149af&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",17h00 01/03: FLC Thanh Hoa - Binh Duong
 https://vophubongda.000webhostapp.com/playcakhia.php?id=6217d965b28a15799a61499d&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",17h00 01/03: Song Lam Nghe An - Binh Dinh
