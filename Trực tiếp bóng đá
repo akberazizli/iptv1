@@ -120,12 +120,24 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Peterborough - Man City
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Peterborough - Man City
+https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Peterborough - Man City
+https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Peterborough - Man City
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Peterborough - Man City
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
-
-#EXTINF:-1 group-title="XEMBD by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/ICDDsHD.png",02/03 - 02:15 Peterborough - Manchester City
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ICDDsHD.png",Peterborough - Manchester City
 https://vophubongda.000webhostapp.com/playxembd.php?id=peterborough-vs-manchester-city&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ICDDsHD.png",Crystal Palace - Stoke City
+https://vophubongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-stoke-city&.m3u8|Referer=https://xembd.live/
+
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",02/03 - 02:45 Burnley - Leicester
 https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-leicester&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/ICDDsHD.png",02/03 - 02:55 Middlesbrough - Tottenham
