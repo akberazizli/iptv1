@@ -135,11 +135,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ICDDsHD.png",Peterborough - Manchester City
 https://vophubongda.000webhostapp.com/playxembd.php?id=peterborough-vs-manchester-city&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CkqDXW0.png",Burnley - Leicester
+https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-leicester&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ICDDsHD.png",Crystal Palace - Stoke City
 https://vophubongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-stoke-city&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",02/03 - 02:45 Burnley - Leicester
-https://vophubongda.000webhostapp.com/playxembd.php?id=burnley-vs-leicester&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/ICDDsHD.png",02/03 - 02:55 Middlesbrough - Tottenham
 https://vophubongda.000webhostapp.com/playxembd.php?id=middlesbrough-vs-tottenham&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",02/03 - 17:00 Hoang Anh Gia Lai - Hồng Lĩnh Hà Tĩnh
