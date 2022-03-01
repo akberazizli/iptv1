@@ -112,10 +112,10 @@ https://livecdn.fptplay.net/hdevent/fa02_4000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hdevent/fa03_4000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://i.imgur.com/bADEAXr.png",02h15 02/03: Peterborough - Man City
-https://bb5iqwas4fliv.vcdn.cloud/caquahd2/index.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://i.imgur.com/bADEAXr.png",02h45 02/03: Burnley - Leicester
-https://bb5iqwas4fliv.vcdn.cloud/canochd2/index.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h15 02/03: Peterborough - Man City
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://champhatden.xyz/
+#EXTINF:-1 group-title="SAO KÊ VoPhu - SAO KÊ" tvg-logo= "https://i.imgur.com/LOK1QeG.png",02h45 02/03: Burnley - Leicester
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://champhatden.xyz/
 #EXTINF:-1 group-title="CÁ HEO TV VoPhu - CÁ HEO TV" tvg-logo= "https://i.imgur.com/bADEAXr.png",02h55 02/03: Middlesbrough - Tottenham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
@@ -189,3 +189,7 @@ https://vophubongda.000webhostapp.com/playcakhia.php?id=621d028c651e383938e65bed
 https://vophubongda.000webhostapp.com/playcakhia.php?id=621cf163651e383938e65bb6&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/scBa9dH.png",03h30 03/03: Valencia - Athletic Club
 https://vophubongda.000webhostapp.com/playcakhia.php?id=621cf170651e383938e65bb9&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Copa del Rey" tvg-logo="https://i.imgur.com/scBa9dH.png",03h00 04/03: Real Betis - Rayo Vallecano
+https://vophubongda.000webhostapp.com/playcakhia.php?id=621e1dccf4971120e2f97d47&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/k47mbG2.png",03h15 04/03: Everton - Boreham Wood
+https://vophubongda.000webhostapp.com/playcakhia.php?id=621e1ddef4971120e2f97d4a&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
