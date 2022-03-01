@@ -27,6 +27,11 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/cc54c2727dcf
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220225/888118c16e9967d680e4290661355ba4.mp4/playlist.m3u8
 
 
+
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/QvhSZgd.jpg", Sát Thủ John Wick 1
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/johnwick_2014_us_1080p_sub_logofptplay/cbeb166d248cc24fea9165b202c15e3e.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/QvhSZgd.jpg",Sát Thủ John Wick 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/johnwick2_2017_us_1080p_sub_logofptplay/f2deb070f27be0d9985f5c84adada8b0.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://i.imgur.com/mjJI26I.jpg", Cơn Thịnh Nộ Chết Người
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220223/wrathofman_2021_us_1080p_logofptplay_sub/9fb48812a17389304227e2b3afbcabdf.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ PHIM MỸ" tvg-logo="https://bilutv.link/film/19946/poster.jpg", Băng Cướp Quái Đản
@@ -79,6 +84,8 @@ http://vod-zlr2.tv360.vn/video1/2021/10/27/16/1d5a4d63/1d5a4d63-5fc2-4c7f-a8ec-9
 http://vod-zlr2.tv360.vn/video1/2020/07/23/15/07c50baf/07c50baf-79d8-4bb9-874e-cea443a7abb7_2_.m3u8
 
 
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/2IMh7Ki.jpg",Thiếu Lâm Hàng Ma
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220223/vanquishingthedemons_2020_cn_1080p_sub_logofptplay/ed1b4dbdd4270ad8702f6d0321c88601.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/20086/poster.jpg",Đại Thánh Trở Về
 https://hlss.xyz/cdn/hls/6c238720dce2b8a1e19e2828c6a2d0ba/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/Ty1Z0GO.jpg",Tuổi Trẻ Sục Sôi - Hot Young Bloods
