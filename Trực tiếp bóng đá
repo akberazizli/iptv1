@@ -113,6 +113,26 @@ https://livecdn.fptplay.net/hdevent/fa03_4000.stream/chunklist.m3u8
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Song Lam Nghe An - Binh Dinh
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Song Lam Nghe An - Binh Dinh
+https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Song Lam Nghe An - Binh Dinh
+https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Song Lam Nghe An - Binh Dinh
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Song Lam Nghe An - Binh Dinh
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài FLC Thanh Hoa - Binh Duong
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 FLC Thanh Hoa - Binh Duong
+https://bb5iqwas4fliv.vcdn.cloud/taohd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 FLC Thanh Hoa - Binh Duong
+https://bb5iqwas4fliv.vcdn.cloud/taosd2/index.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 FLC Thanh Hoa - Binh Duong
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 FLC Thanh Hoa - Binh Duong
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
