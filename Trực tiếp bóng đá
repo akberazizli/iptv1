@@ -122,6 +122,10 @@ https://livecdn.fptplay.net/hdevent/fa06_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dR4PzLo.png",Toluca - Club Tijuana
 https://vophubongda.000webhostapp.com/playxembd.php?id=toluca-vs-club-tijuana&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dR4PzLo.png",Club America - Club Queretaro
+https://vophubongda.000webhostapp.com/playxembd.php?id=club-america-vs-club-queretaro&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dR4PzLo.png",Leon - Monterrey
+https://vophubongda.000webhostapp.com/playxembd.php?id=leon-vs-monterrey&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dR4PzLo.png",Puebla - FC Juarez
 https://vophubongda.000webhostapp.com/playxembd.php?id=puebla-vs-fc-juarez&.m3u8|Referer=https://xembd.live/
 
