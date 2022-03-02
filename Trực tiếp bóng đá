@@ -122,9 +122,9 @@ https://livecdn.fptplay.net/hdevent/fa06_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/oIQNztV.png",Melbourne City - Perth Glory
 https://vophubongda.000webhostapp.com/playxembd.php?id=melbourne-city-vs-perth-glory&.m3u8|Referer=https://xembd.live/
-
-#EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",02/03 - 17:00 Hoang Anh Gia Lai - Hồng Lĩnh Hà Tĩnh
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Hoang Anh Gia Lai - Hồng Lĩnh Hà Tĩnh
 https://vophubongda.000webhostapp.com/playxembd.php?id=hoang-anh-gia-lai-vs-hong-linh-ha-tinh&.m3u8|Referer=https://xembd.live/
+
 #EXTINF:-1 group-title="XEMBD by VoPhu - V.League 1" tvg-logo="https://i.imgur.com/YtmLrXy.png",02/03 - 18:00 Hai Phong - Nam Dinh
 https://vophubongda.000webhostapp.com/playxembd.php?id=hai-phong-vs-nam-dinh&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/ICDDsHD.png",03/03 - 02:15 Luton - Chelsea
