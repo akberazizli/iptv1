@@ -85,6 +85,10 @@ http://vod-zlr2.tv360.vn/video1/2021/10/27/16/1d5a4d63/1d5a4d63-5fc2-4c7f-a8ec-9
 http://vod-zlr2.tv360.vn/video1/2020/07/23/15/07c50baf/07c50baf-79d8-4bb9-874e-cea443a7abb7_2_.m3u8
 
 
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/4yCcCe1.jpg",Phanh Nhiên Tinh Động
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220223/fallinlovelikeastar_2015_cn_1080p_sub_logofptplay/19799ffcde625105ec2e667b0d12a63b.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/Gu8z6xF.jpg",Nhà Có Chuyện Hỉ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220228/allswellendswell1997_1997_hk_1080p_logofptplay_tm/460f6204fa94d51cee4169b99c5ab5ec.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://i.imgur.com/2IMh7Ki.jpg",Thiếu Lâm Hàng Ma
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220223/vanquishingthedemons_2020_cn_1080p_sub_logofptplay/ed1b4dbdd4270ad8702f6d0321c88601.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ HONGKONG võ phú" tvg-logo="https://bilutv.link/film/20086/poster.jpg",Đại Thánh Trở Về
@@ -193,6 +197,8 @@ http://s1zen.myclip.vn/s2-video3/2019/09/03/12/822a57dd/822a57dd-fc93-4daf-9f53-
 http://s2zen.myclip.vn/video1/2019/10/07/14/64c95532/64c95532-2afb-4847-8351-51526b7622bd_4_.m3u8
 
 
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/flOBhtC.jpg",Trái Tim Quái Vật
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220221/theinstrumentofmurder_2020_vn_1080p_logofptplay/c5087e7cb15b190e1f55e0fcfa28f8f2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/20082/poster.jpg",Cha Ma
 https://hlss.xyz/cdn/hls/7266302e8f115f10ed7efe95c01bf99c/master.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/20076/poster.jpg",30 Chưa Phải Tết
