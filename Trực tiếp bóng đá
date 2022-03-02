@@ -124,13 +124,9 @@ https://livecdn.fptplay.net/hdevent/fa05_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="fpt VoPhu - fpt" tvg-logo= "https://i.imgur.com/eJPkyMT.png",03h15 03/03: Liverpool - Norwich
 https://livecdn.fptplay.net/hdevent/fa06_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Hai Phong - Nam Dinh
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/YtmLrXy.png",Hai Phong - Nam Dinh
-https://vophubongda.000webhostapp.com/playxembd.php?id=hai-phong-vs-nam-dinh&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/ICDDsHD.png",03/03 - 02:15 Luton - Chelsea
 https://vophubongda.000webhostapp.com/playxembd.php?id=luton-vs-chelsea&.m3u8|Referer=https://xembd.live/
@@ -163,8 +159,6 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter&.m3u8|
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",18h00 02/03: Hai Phong - Nam Dinh
-https://vophubongda.000webhostapp.com/playcakhia.php?id=621e5127f4971120e2f97ebe&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Super Cup" tvg-logo="https://i.ibb.co/rsJBkDB/IMG-20211223-184758.png",20h30 02/03: Tobol Kostanay - Kairat Almaty
 https://vophubongda.000webhostapp.com/playcakhia.php?id=621e512ff4971120e2f97ecc&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/k47mbG2.png",02h15 03/03: Luton - Chelsea
