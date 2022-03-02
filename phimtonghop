@@ -197,6 +197,13 @@ http://s1zen.myclip.vn/s2-video3/2019/09/03/12/822a57dd/822a57dd-fc93-4daf-9f53-
 http://s2zen.myclip.vn/video1/2019/10/07/14/64c95532/64c95532-2afb-4847-8351-51526b7622bd_4_.m3u8
 
 
+
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/9QcVkir.jpg",Phim Trường Ma
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200731/phim-truong-ma-logofptplay/37ce266fec94e24c501e9728bcfca290.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/muZuJmo.jpg",Một Ngày Làm Sếp
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200118/mcv-motngaylamsep-2020-1080p-logofptplay/d97fb2262608f492690f5fd96bb5fb5d-1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/aVmlot4.jpg",Yêu Anh! Em Dám Không?
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211231/yeuanhemdamkhong_2013_vn_1080p_logofptplay/a97f1fff83a6429967a93794a84940b4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://i.imgur.com/flOBhtC.jpg",Trái Tim Quái Vật
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220221/theinstrumentofmurder_2020_vn_1080p_logofptplay/c5087e7cb15b190e1f55e0fcfa28f8f2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ⓕⓘⓜ ℓẻ VIỆT NAM võ phú" tvg-logo="https://bilutv.link/film/20082/poster.jpg",Cha Ma
