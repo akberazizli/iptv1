@@ -2,6 +2,13 @@
 #EXTM3U luôn cập nhật ổn định trên mọi mặt trận
 #EXTINF:vo phu 
 
+
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Southampton - West Ham United/3/3 CÚP FA
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220303/82835b881aaf06faee1f7d3388dfc6ef.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Liverpool FC - Norwich City 3/3 CÚP FA
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220303/20c736a7f75f3667de27d6e4a91b881e.mp4/playlist.m3u8
+#EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Luton Town - Chelsea FC3/3 CÚP FA
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220303/280da18d27f77ad1a17ea14d010c59ce.mp4/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Middlesbrough - Tottenham Hotspur/2/3 CÚP FA
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220302/5ecacf5a39c5778725338dc6c246255c.mp4/playlist.m3u8
 #EXTINF:-1 group-title="bóng đá xem lại- bóng đá xem lại" tvg-logo= "https://i.imgur.com/JGckZHp.png",Peterborough United - Manchester City/2/3 CÚP FA
