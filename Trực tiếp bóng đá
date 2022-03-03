@@ -112,13 +112,11 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/play
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dR4PzLo.png",Tigres UANL - Cruz Azul
-https://vophubongda.000webhostapp.com/playxembd.php?id=tigres-uanl-vs-cruz-azul&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dR4PzLo.png",Atletico San Luis - Guadalajara Chivas
+https://vophubongda.000webhostapp.com/playxembd.php?id=atletico-san-luis-vs-guadalajara-chivas&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dR4PzLo.png",Atlas - Pachuca
 https://vophubongda.000webhostapp.com/playxembd.php?id=atlas-vs-pachuca&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Liga MX" tvg-logo="https://i.imgur.com/dR4PzLo.png",03/03 - 10:00 Atletico San Luis - Guadalajara Chivas
-https://vophubongda.000webhostapp.com/playxembd.php?id=atletico-san-luis-vs-guadalajara-chivas&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - FA Cup" tvg-logo="https://i.imgur.com/ICDDsHD.png",04/03 - 03:15 Everton - Boreham Wood
 https://vophubongda.000webhostapp.com/playxembd.php?id=everton-vs-boreham-wood&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://i.imgur.com/oK7BZhR.png",05/03 - 02:45 Inter - Salernitana
@@ -143,10 +141,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-manche
 https://vophubongda.000webhostapp.com/playxembd.php?id=tottenham-vs-everton&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Liverpool - Inter
 https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
-https://vophubongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-paris-saint-germain&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
+https://vophubongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-paris-saint-germain&.m3u8|Referer=https://xembd.live/
 
 
 
