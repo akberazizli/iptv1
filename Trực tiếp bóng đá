@@ -158,10 +158,10 @@ https://vophubongda.000webhostapp.com/playxembd.php?id=watford-vs-arsenal-luc-21
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-manchester-united-luc-23h30-ngay-06-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://i.imgur.com/CkqDXW0.png",08/03 - 03:00 Tottenham - Everton
 https://vophubongda.000webhostapp.com/playxembd.php?id=tottenham-vs-everton-luc-03h00-ngay-08-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Liverpool - Inter
-https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Bayern Munich - Red Bull Salzburg
 https://vophubongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-red-bull-salzburg-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",09/03 - 03:00 Liverpool - Inter
+https://vophubongda.000webhostapp.com/playxembd.php?id=liverpool-vs-inter-luc-03h00-ngay-09-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Manchester City - Sporting CP
 https://vophubongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-sporting-cp-luc-03h00-ngay-10-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/rLKexfN.png",10/03 - 03:00 Real Madrid - Paris Saint Germain
@@ -185,6 +185,8 @@ https://vophubongda.000webhostapp.com/playcakhia.php?id=621e1f0bf4971120e2f97d5c
 https://vophubongda.000webhostapp.com/playcakhia.php?id=621e1f4af4971120e2f97d5f&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",19h30 05/03: Leicester - Leeds
 https://vophubongda.000webhostapp.com/playcakhia.php?id=621e1f58f4971120e2f97d62&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",19h30 05/03: Fulham - Blackburn
+https://vophubongda.000webhostapp.com/playcakhia.php?id=62227dbd6ac0965da90d2db6&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 05/03: Osasuna - Villarreal
 https://vophubongda.000webhostapp.com/playcakhia.php?id=621e1f6af4971120e2f97d65&.m3u8|Referer=https://cakhia.cakhia20.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 05/03: RB Leipzig - Freiburg
